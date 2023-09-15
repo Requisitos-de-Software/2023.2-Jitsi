@@ -11,16 +11,16 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: light blue
       toggle:
-        icon: material/weather-sunny
+        icon: material/brightness-7
         name: Tema escuro
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: light blue
       toggle:
-        icon: material/weather-night
+        icon: material/brightness-4
         name: Tema claro
   features:
     - navigation.tabs
