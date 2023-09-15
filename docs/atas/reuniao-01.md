@@ -48,7 +48,7 @@
 | Criar o cronograma do projeto | 19/09 | Bruno e Catlen |Pedro
 | Listar as ferramentas do projeto| 19/09 | Júlia Vitória e Júlia Souza | Carol
 | Listar as metodologias do projeto | 20/09 | A ser definido | Catlen
-| Documentar cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo selecionado | A ser definido | - 
+| Documentar cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo selecionado | 20/09 | A ser definido | - 
 | Criar o artefato de Rich Pictures | 19/09 | Carol e Júlia Souza | Bruno
 | Escrever introdução sobre projeto e equipe no READ.ME | 19/09 | Pedro | Júlia Vitória
 | Criar modelos de documentação e organização interna dos arquivos | 19/09 | Pedro | Júlia Souza
