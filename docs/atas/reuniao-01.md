@@ -27,7 +27,7 @@
 
 | Horário de inicio | Horário de término | Plataforma |
 |--------------|-----------|---------|
-|20:25|21:05|Microsoft Teams|
+|20:25|20:48|Microsoft Teams|
 <h6> Tabela 2: Escopo da reunião.
 <br> Autor: Pedro Siqueira </h6>
 
@@ -48,6 +48,7 @@
 | Criar o cronograma do projeto | 19/09 | Bruno e Catlen |Pedro
 | Listar as ferramentas do projeto| 19/09 | Júlia Vitória e Júlia Souza | Carol
 | Listar as metodologias do projeto | 20/09 | A ser definido | Catlen
+| Documentar cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo selecionado | A ser definido | - 
 | Criar o artefato de Rich Pictures | 19/09 | Carol e Júlia Souza | Bruno
 | Escrever introdução sobre projeto e equipe no READ.ME | 19/09 | Pedro | Júlia Vitória
 | Criar modelos de documentação e organização interna dos arquivos | 19/09 | Pedro | Júlia Souza
@@ -57,7 +58,7 @@
 
 ## **Gravação da Reunião**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_G108F95iWg?si=7nXCCS64_pyQoP7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FJBgt7raPVE?si=19GeabHrxm5RMtU7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Histórico de Versão**
 <p align="justify">
