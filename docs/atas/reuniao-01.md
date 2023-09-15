@@ -18,7 +18,7 @@
 |Júlia Vitória| Sim |
 |Júlia Souza| Sim |
 |Pedro Siqueira| Sim |
-<h6 align = "center"> Tabela 1: Lista de presença.
+<h6> Tabela 1: Lista de presença.
 <br> Autor: Pedro Siqueira </h6>
 
 <p align="justify">
@@ -28,7 +28,7 @@
 | Horário de inicio | Horário de término | Plataforma |
 |--------------|-----------|---------|
 |20:25|21:05|Microsoft Teams|
-<h6 align = "center"> Tabela 2: Escopo da reunião.
+<h6> Tabela 2: Escopo da reunião.
 <br> Autor: Pedro Siqueira </h6>
 
 ## **Pautas**
@@ -67,5 +67,5 @@
 | Versão | Descrição | Autor(es) | 
 | ------ | --------- | --------- |
 | `1.0`  | Elaboração do documento | Pedro Siqueira |  
-<h6 align = "center"> Tabela 4: Histórico de Versão.
+<h6> Tabela 4: Histórico de Versão.
 <br> Autor: Pedro Siqueira </h6>
