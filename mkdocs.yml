@@ -32,3 +32,5 @@ nav:
   - Início: index.md
   - Atas de Reunião: 
     - Reunião 01: atas/reuniao-01.md
+  - Cronograma:
+    - Cronograma: Cronograma/cronograma.md 
