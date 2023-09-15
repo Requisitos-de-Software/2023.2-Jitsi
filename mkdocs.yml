@@ -5,20 +5,20 @@ repo_url: "https://github.com/Requisitos-de-Software/2023.2-Jitsi.git"
 
 theme:
   name: material
-  # logo: assets/agiel-white.png
-  # favicon: assets/agiel-white.png
+  logo: assets/logoJitsi.png
+  favicon: assets/favicon.png
   language: "pt"
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: white
+      primary: indigo
       toggle:
         icon: material/brightness-7
         name: Tema escuro
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
+      primary: indigo
       toggle:
         icon: material/brightness-4
         name: Tema claro
