@@ -67,8 +67,8 @@
 &emsp;&emsp;A tabela 4 representa o histórico de versão do documento.
 </p>
 
-| Versão | Descrição | Autor(es) | 
-| ------ | --------- | --------- |
-| `1.0`  | Elaboração do documento | Pedro Siqueira |  
+| Versão | Data | Descrição | Autor(es) | 
+| ------ | ---- | --------- | --------- |
+| `1.0`  | dd/mm/2023 |  |  |  
 <h6> Tabela 4: Histórico de Versão.
 <br> Autor: Pedro Siqueira </h6>
