@@ -29,8 +29,10 @@ theme:
     code: "sans-serif"
 
 nav:
-  - Início: index.md
+  - Início: index.mdS
   - Atas de Reunião: 
     - Reunião 01: atas/reuniao-01.md
-  - Cronograma:
+  - Planejamento:
     - Cronograma: Cronograma/cronograma.md 
+  - Pré-Rastreabilidade:
+    - Rich Picture: PreRastreabilidade/RichPicture.md
