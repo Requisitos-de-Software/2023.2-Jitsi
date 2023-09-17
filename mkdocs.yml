@@ -29,7 +29,7 @@ theme:
     code: "sans-serif"
 
 nav:
-  - Início: index.mdS
+  - Início: index.md
   - Atas de Reunião: 
     - Reunião 01: atas/reuniao-01.md
   - Planejamento:
