@@ -1,7 +1,9 @@
 # Aplicativos avaliados
 
 ## Introdução
-FAZER
+
+No começo do projeto, todos os estudantes compartilharam os aplicativos que cada um escolheu, depois analizaram qual aplicativo seria mais viavél para a realização do projeto durante o curso de Requisitos de Software.
+
 ## Rich picture dos apps avaliados
 
 |Membro|	Aplicativo|
@@ -15,11 +17,8 @@ Pedro Siqueira| [Firefox](../assets/RichPicture-Pedro.png)
 
 
 ## Escolha do app
-FAZER
 
-## Referências
-
-FAZER
+Foi realizado uma enquete logo após a entrega dos Rich Picture Individuais, e o aplicativo escolhido foi o JITSI por ser um aplicativo open source e com um grande alcance para realizar entrevista com usuários diferentes. É possivel acessar o rich picture do Jitsi na aba Rich Picture.
 
 ## Histórico de versão
 

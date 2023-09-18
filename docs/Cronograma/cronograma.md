@@ -11,7 +11,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 
  Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 | --------- | ----------- | ----------- | ----------- |
-| Heatmap de disponibilidade dos integrantes | Início: 03/09 <br>Fim: 04/09 | Todos |- |
+| Heatmap de disponibilidade dos integrantes | Início: 03/09 <br>Fim: 04/09 | Carol | Bruno |
 | Colocar todos os Rich Pictures no repositório do projeto | Início: 13/09 <br>Fim: 19/09 | Todos |  - |
 | Realizar votação do aplicativo para o projeto | Início: 13/09 <br>Fim: 15/09 | Todos | - |
 | Criar o cronograma de todo o projeto | 16/09 | Bruno e Catlen |Pedro |
