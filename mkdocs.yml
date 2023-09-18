@@ -33,9 +33,9 @@ nav:
   - Atas de Reunião: 
     - Reunião 01: atas/reuniao-01.md
   - Planejamento:
-    - Cronograma: Cronograma/cronograma.md 
-    - Heatmap: Cronograma/heatmap.md
-    - Ferramentas: Cronograma/ferramentas.md
+    - Cronograma: Planejamento/cronograma.md 
+    - Heatmap: Planejamento/heatmap.md
+    - Ferramentas: Planejamento/ferramentas.md
   - Pré-Rastreabilidade:
     - Rich Picture: PreRastreabilidade/RichPicture.md
     - Escolha do aplicativo: PreRastreabilidade/AppEscolhido.md 
