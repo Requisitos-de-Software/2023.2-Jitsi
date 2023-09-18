@@ -24,4 +24,4 @@ Foi realizado uma enquete logo após a entrega dos Rich Picture Individuais, e o
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
- `1.0` | 18/09/2023 | Criação do documento e Rich Picture | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Julia Sant'Anna](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00)
+ `1.0` | 18/09/2023 | Criação do documento da escolha do aplicativo | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Julia Sant'Anna](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00)
