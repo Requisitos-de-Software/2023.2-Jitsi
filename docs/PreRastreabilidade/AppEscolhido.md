@@ -11,7 +11,7 @@ Carolina Brito| [Jitsi Meet](../assets/RichPictureProj01Carolina.png)
 Catlen Oliveira| [Hemovida](../assets/RichPictureProj01_Catlen.png) 
 Julia Sant'Anna| [CNPq](../assets/RichPictureProj01-JuliaSantAnna.png)
 Julia Vitoria| [LibreOffice Math](../assets/RichPictureProj01-JuliaVitoria.png)
-Pedro Siqueira| [Firefox](../assets/RichPicture-Pedro.jpg)
+Pedro Siqueira| [Firefox](../assets/RichPicture-Pedro.png)
 
 
 ## Escolha do app
