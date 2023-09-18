@@ -21,7 +21,7 @@ Neste artefato, vamos discutir as ferramentas que nossa equipe optou por utiliza
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon-youtube.png" alt="YouTube" width=75px> | [Youtube](https://youtube.com) | Utilizado para hospedar as gravações do projeto. |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon_vscode.png" alt="VScode" width=75px> | [Visual Studio Code](https://code.visualstudio.com)  | IDE utilizada para criar a git page do projeto. |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon_teams.png" alt="Teams" width=75px> | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/) | Utilizado para realizar as reuniões e gravações das mesmas, além de realizar entrevistas. |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon_teams.png" alt="Teams" width=75px> |  [draw.io](https://www.drawio.com/) | Utilizado para elaboração de diagramas. |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/drawio.png" alt="Drawio" width=75px> |  [draw.io](https://www.drawio.com/) | Utilizado para elaboração de diagramas. |
 
 
 <div>
