@@ -36,4 +36,4 @@ Neste artefato, vamos discutir as ferramentas que nossa equipe optou por utiliza
 
 | Versão | Data    | Descrição                 | Autor(es)     |  Revisor(es)  |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 18/09/2023 | Criação do doc e adição das ferramentas | Júlia Vitória | Júlia Souza |
+| `1.0` | 18/09/2023 | Criação do doc e adição das ferramentas | [Julia Sant'Anna](https://github.com/JuliaSSouza) e [Julia Vitoria](https://github.com/Juhvitoria4)| [Carolina Barbosa](https://github.com/CarolinaBarb) |
