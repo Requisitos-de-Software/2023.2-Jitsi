@@ -1,4 +1,7 @@
 # Rich Picture
+
+## Introdução
+
 <justify> O Rich Picture é uma ferramenta que utiliza imagens e desenhos para expressar as principais características de um sistema. O Rich Picture facilita o entendimento dos problemas e ajuda na busca por soluções. Na engenharia de software utilizamos essa ferramenta com os seguintes elementos para ajudar na representação do sistema: atores, processos, armazenamento de dados, setas e limites do sistema. </justify>
 
 ## Metodologia e Ferramentas

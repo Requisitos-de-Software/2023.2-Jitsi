@@ -134,5 +134,5 @@ Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 
 Versão  |   Data    | Descrição | Autor(es) | Revisor(es)
 --------- | ------- | ------ | ---------- | ----------
- 1.0 | 15/09/2023 | Cronograma planejado e executado markdown | [Catlen](https://github.com/catlenc) e [Bruno](https://github.com/BrunoHenrique00) |Pedro|
- 1.1 | 18/09/2023 | Correções em Cronograma planejado e executado markdown | [Catlen](https://github.com/catlenc) e [Bruno](https://github.com/BrunoHenrique00) |Pedro|
+ 1.0 | 15/09/2023 | Cronograma planejado e executado markdown | [Catlen](https://github.com/catlenc) e [Bruno](https://github.com/BrunoHenrique00) |[Pedro](https://github.com/PedroSiq)|
+ 1.1 | 18/09/2023 | Correções em Cronograma planejado e executado markdown | [Catlen](https://github.com/catlenc) e [Bruno](https://github.com/BrunoHenrique00) |[Pedro](https://github.com/PedroSiq)|

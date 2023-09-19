@@ -67,6 +67,6 @@
 
 | Versão | Data | Descrição | Autor(es) | 
 | ------ | ---- | --------- | --------- |
-| `1.0`  | 15/09/2023 | Elaboração do documento | Pedro Siqueira |  
+| `1.0`  | 15/09/2023 | Elaboração do documento | [Pedro](https://github.com/PedroSiq) |  
 <h6> Tabela 4: Histórico de Versão.
 <br> Autor: Pedro Siqueira </h6>

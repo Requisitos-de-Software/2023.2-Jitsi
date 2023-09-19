@@ -28,7 +28,7 @@
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
-| `1.0` | 15/09/2023 | Criação do documento | Pedro Siqueira | Júlia Vitória |
+| `1.0` | 15/09/2023 | Criação do documento | [Pedro](https://github.com/PedroSiq) | [Julia Vitoria](https://github.com/Juhvitoria4) |
 
 <h6 align = "center"> Tabela 1: Histórico de Versão
 <br> Autor: Pedro Siqueira</h6>
