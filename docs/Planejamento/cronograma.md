@@ -16,9 +16,9 @@ Tem como objetivo mostrar em ordem como as terefas serão desenvolvidas ao longo
 | Colocar todos os Rich Pictures no repositório do projeto | Início: 13/09 <br>Fim: 19/09 | Carolina|Catlen|
 | Realizar votação do aplicativo para o projeto | Início: 13/09 <br>Fim: 15/09 | Todos | Todos |
 | Criar o cronograma de todo o projeto | 16/09 | Bruno e Catlen |Pedro |
-| Listar as ferramentas do projeto| Início: 13/09 <br>Fim: 19/09 | Júlia Vitória e Júlia Souza | Carol|
-| Listar as metodologias do projeto | Início: 13/09 <br>Fim: 19/09 | A ser definido | Catlen
-| Documentar cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo selecionado | Início: 13/09 <br>Fim: 19/09 | A ser definido | - 
+| Listar as ferramentas do projeto| Início: 13/09 <br>Fim: 19/09 | Júlia Vitória e Júlia Souza | Carolina|
+| Listar as metodologias do projeto | Início: 13/09 <br>Fim: 19/09 |Pedro| Catlen
+| Documentar cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo selecionado | Início: 13/09 <br>Fim: 19/09 |Catlen|Júlia Souza| 
 | Criar o artefato de Rich Pictures | Início: 13/09 <br>Fim: 19/09 | Carol e Júlia Souza | Bruno
 | Escrever introdução sobre projeto e equipe no READ.ME | Início: 13/09 <br>Fim: 19/09 | Pedro | Júlia Vitória
 | Criar modelos de documentação e organização interna dos arquivos | Início: 13/09 <br>Fim: 19/09 | Pedro | Júlia Souza
