@@ -16,11 +16,11 @@ Neste artefato, vamos discutir as ferramentas que nossa equipe optou por utiliza
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon-github.png" alt="Github" width=75px> | [Github](https://github.com)  | Utilizado para manter o repositório, além de hospedar a gitpage do projeto. |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon-whatsapp.png" alt="Whatsapp" width=75px> | [WhatsApp](https://www.whatsapp.com/) | Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo. |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon-youtube.png" alt="YouTube" width=75px> | [Youtube](https://youtube.com) | Utilizado para hospedar as gravações do projeto. |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon_vscode.png" alt="VScode" width=75px> | [Visual Studio Code](https://code.visualstudio.com)  | IDE utilizada para criar a git page do projeto. |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon_teams.png" alt="Teams" width=75px> | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/) | Utilizado para realizar as reuniões e gravações das mesmas, além de realizar entrevistas. |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/github.png" alt="Github" width=75px> | [Github](https://github.com)  | Utilizado para manter o repositório, além de hospedar a gitpage do projeto. |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/whatsapp.png" alt="Whatsapp" width=75px> | [WhatsApp](https://www.whatsapp.com/) | Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo. |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/youtube.png" alt="YouTube" width=75px> | [Youtube](https://youtube.com) | Utilizado para hospedar as gravações do projeto. |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/vscode.png" alt="VScode" width=75px> | [Visual Studio Code](https://code.visualstudio.com)  | IDE utilizada para criar a git page do projeto. |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/teams.png" alt="Teams" width=75px> | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/) | Utilizado para realizar as reuniões e gravações das mesmas, além de realizar entrevistas. |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/drawio.png" alt="Drawio" width=75px> |  [draw.io](https://www.drawio.com/) | Utilizado para elaboração de diagramas. |
 
 
