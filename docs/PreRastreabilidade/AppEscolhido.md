@@ -20,6 +20,13 @@ Pedro Siqueira| [Firefox](../assets/RichPicture-Pedro.png)
 
 Foi realizado uma enquete logo após a entrega dos Rich Picture Individuais, e o aplicativo escolhido foi o JITSI por ser um aplicativo open source e com um grande alcance para realizar entrevista com usuários diferentes. É possivel acessar o rich picture do Jitsi na aba Rich Picture.
 
+
+## Biblioografia
+Benyon, D. (2011). Interação Humano-Computador. São Paulo: Pearson Prentice Hall. (2ª edição).
+
+SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63-66
+
+
 ## Histórico de versão
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)

@@ -15,15 +15,15 @@ Para criar o rich picture, utilizamos a ferramenta draw.io. Inicialmente, realiz
 
 ### Legenda 
 
-| Icone | Descrição |
-| ------- | ----------- |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Atores.png" alt="Atores" width=75px> | Usuários do sistema. |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Operacoes.png" alt="Operações" width=75px> | Ações a serem realizadas no sistema. |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Setas.png" alt="Setas" width=75px> | Fluxo de informações. |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Dados.png" alt="Armazenamento de dados" width=75px> | Onde o sistema armazena dados. |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Fronteira.png" alt="Fronteira" width=75px> | Fronteira do sistema, tudo o que o sistema deve cuidar fica dentro da frontreira. |
+| Icone | Componente | Descrição |
+| ------- |---------- | ----------- |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Atores.png" alt="Atores" width=75px> | Atores | Usuários do sistema. |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Operacoes.png" alt="Operações" width=75px> | Operações | Ações a serem realizadas no sistema. |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Setas.png" alt="Setas" width=75px> | Setas | Fluxo de informações. |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Dados.png" alt="Armazenamento de dados" width=75px> | Armazenamento de dados | Onde o sistema armazena dados. |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Fronteira.png" alt="Fronteira" width=75px> | Fronteira | Fronteira do sistema, tudo o que o sistema deve cuidar fica dentro da frontreira. |
 
-## Referência
+## Bibliografia
 
 Benyon, D. (2011). Interação Humano-Computador. São Paulo: Pearson Prentice Hall. (2ª edição).
 

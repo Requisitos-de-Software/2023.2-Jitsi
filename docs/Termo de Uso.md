@@ -61,4 +61,4 @@ em: 18/09/2023
 
 Versão  |   Data    | Descrição | Autor(es) | Revisor(es)
 --------- | ------- | ------ | ---------- | ----------
- 1.0 | 18/09/2023 | Cópia do termo de uso em markdown | [Catlen](https://github.com/catlenc)|Julia Souza|
+ 1.0 | 18/09/2023 | Cópia do termo de uso em markdown | [Catlen](https://github.com/catlenc)|[Julia Sant'Anna](https://github.com/JuliaSSouza)|
