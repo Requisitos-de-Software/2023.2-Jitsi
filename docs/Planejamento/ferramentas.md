@@ -44,4 +44,4 @@
 </center>
 
 ## **Bibliografia**
-> [1] Repositório Requisitos - Cronograma - Ferramentas. Disponível em: https://github.com/Requisitos-de-Software/2023.2-Jitsi . Acesso em: 18 de setembro de 2023. <br/>
+> Repositório Requisitos - Cronograma - Ferramentas. Disponível em: https://github.com/Requisitos-de-Software/2023.2-Jitsi . Acesso em: 18 de setembro de 2023. <br/>

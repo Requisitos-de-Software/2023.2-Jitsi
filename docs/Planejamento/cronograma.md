@@ -142,4 +142,4 @@ Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 
  ## **Bibliografia**
 
-> [1] Cronograma Youtube. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>> . Acesso em 15 de Setembro de 2023.
+> Cronograma Youtube. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>> . Acesso em 15 de Setembro de 2023.
