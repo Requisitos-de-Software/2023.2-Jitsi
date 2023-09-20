@@ -13,14 +13,14 @@ theme:
       scheme: default
       primary: light blue
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-sunny
         name: Tema escuro
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: light blue
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-night
         name: Tema claro
   features:
     - navigation.tabs
@@ -34,8 +34,10 @@ nav:
     - Reunião 01: atas/reuniao-01.md
   - Planejamento:
     - Cronograma: Planejamento/cronograma.md 
-    - Heatmap: Planejamento/heatmap.md
     - Ferramentas: Planejamento/ferramentas.md
+    - Heatmap: Planejamento/heatmap.md
+    - Metodologias: Planejamento/metodologias.md
   - Pré-Rastreabilidade:
+    - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md
-    - Escolha do aplicativo: PreRastreabilidade/AppEscolhido.md 
+    
