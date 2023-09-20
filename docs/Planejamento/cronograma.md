@@ -1,5 +1,5 @@
 # Cronograma
-## Descrição 
+## Introdução 
 
 O cronograma da equipe foi elaborado com base nas datas de entrega e conteúdo descritos no cronograma do plano de Ensino da disciplina de Requisitos de Software ministrada pelo professor André Barros de Sales no semestre de 2023.2.
 
@@ -15,7 +15,7 @@ Tem como objetivo mostrar em ordem como as terefas serão desenvolvidas ao longo
 | Heatmap de disponibilidade dos integrantes | Início: 03/09 <br>Fim: 04/09 | Carol | Bruno |
 | Colocar todos os Rich Pictures no repositório do projeto | Início: 13/09 <br>Fim: 19/09 | Carolina|Catlen|
 | Realizar votação do aplicativo para o projeto | Início: 13/09 <br>Fim: 15/09 | Todos | Todos |
-| Criar o cronograma de todo o projeto | 16/09 | Bruno e Catlen |Pedro |
+| Criar o cronograma de todo o projeto | Início: 13/09 <br>Fim: 19/09 | Bruno e Catlen |Pedro |
 | Listar as ferramentas do projeto| Início: 13/09 <br>Fim: 19/09 | Júlia Vitória e Júlia Souza | Carolina|
 | Listar as metodologias do projeto | Início: 13/09 <br>Fim: 19/09 |Pedro| Catlen
 | Documentar cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo selecionado | Início: 13/09 <br>Fim: 19/09 |Catlen|Júlia Souza| 
