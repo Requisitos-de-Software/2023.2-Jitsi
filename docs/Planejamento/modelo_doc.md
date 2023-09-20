@@ -13,7 +13,7 @@
 ## **Legenda**
 <p align="justify">
 <h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
-<br> Autor(a): <a href="github.com/fulanodetal">Fulano de Tal</a> </h6>
+<br> Autor(a): <a href="https://github.com/fulanodetal">Fulano de Tal</a> </h6>
 </p>
 
 ## **Links**

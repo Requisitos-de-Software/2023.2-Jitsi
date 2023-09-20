@@ -27,11 +27,11 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 19/09/2023 | Criação do documento | [Pedro Siqueira](github.com/PedroSiq) | [Carolina Barbosa](github.com/CarolinaBarb) |
+| `1.0`  | 19/09/2023 | Criação do documento | [Pedro Siqueira](https://github.com/PedroSiq) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 
 <center>
 <h6> Tabela 1: Histórico de Versão.
-<br> Autor(a): <a href="github.com/PedroSiq">Pedro Siqueira</a> </h6>
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a> </h6>
 </center>
 
 ## **Bibliografia**

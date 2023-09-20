@@ -1,10 +1,19 @@
-# Heatmap de Disponibilidade 
+# ***Heatmap***
 
-## Introdução
+## **Introdução**
+<p align="justify">
+&emsp;&emsp;Foi feito um <b><i>heatmap</i></b> de disponibilidade dos integrantes, que possa facilitar o agendamento de reuniões e garantir que todos os membros do grupo possam participar das atividades.
+</p>
 
-Foi feito um Heatmap de disponibilidade dos integrantes, para facilitar o de agendamento de reuniões e garantir que todos os membros do grupo possam participar, com o objetivo mapear os dias e horários mais viáveis para os membros da equipe,onde os valores na tabela representam o numero de participantes disponível por dia e hora, podendo variar de 0 a 6, onde 0 significa que nenhum membro está disponível no respectivo dia e horário, e 6 significa que todos os membros estão disponíveis no respectivo dia e horário.
+## **Objetivo** 
+<p align="justify">
+&emsp;&emsp;Tem como objetivo <b>mapear os dias e horários mais viáveis para os membros da equipe</b>, onde os valores na tabela representam o numero de participantes disponível por dia e hora, podendo variar de 0 a 6, onde 0 significa que <b>nenhum membro</b> está disponível no respectivo dia e horário, e 6 significa que <b>todos os membros</b> estão disponíveis no respectivo dia e horário.
+</p>
 
-## Heatmap
+## **Heatmap**
+<p align="justify">
+&emsp;&emsp;A tabela 1 representa o mapa de calor referente à disponibilidade da equipe.
+</p>
 
 |   Horários    | Domingo | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 |---------------|---------|---------|-------|--------|--------|-------|--------|
@@ -23,9 +32,15 @@ Foi feito um Heatmap de disponibilidade dos integrantes, para facilitar o de age
 | 20:00 - 21:00 |    4    |    5    |   6   |    4   |   3    |   3   |   2    |
 | 21:00 - 22:00 |    4    |    4    |   5   |    4   |   2    |   2   |   2    |
 
-**Tabela 1:** Heatmap de disponibilidade dos integrantes
-## Resultados
-Com base no resultado obtido no Heatmap do grupo 05, as reuniões semanais ficaram marcadas para **terça-feira às 20h**.
+<center>
+<h6> Tabela 1: Heatmap de Disponibilidade dos Integrantes.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</center>
+
+## **Resultados**
+<p align="justify">
+&emsp;&emsp;Com base no resultado obtido no Heatmap do grupo 05, as reuniões semanais foram definidas para </<b>terça-feira às 20h</b>.
+</p>
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -34,7 +49,8 @@ Com base no resultado obtido no Heatmap do grupo 05, as reuniões semanais ficar
 
 |Versão|    Data    | Descrição | Autor(es) | Revisor(es)
 | ------ | ---------- | --------- | --------- | ----------
-| `1.0` | 18/09/2023 | Criação do documento Heatmap | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Bruno Henrique](https://github.com/BrunoHenrique00)
+| `1.0` | 18/09/2023 | Criação do documento Heatmap | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| `1.1` | 20/09/2023 | Padronização do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | |
 
 <center>
 <h6> Tabela 2: Histórico de Versão.
