@@ -25,6 +25,9 @@
 <p align="justify">
 &emsp;&emsp;Também há a possibilidade, em caso de necessidade, de expandir o escopo de membros autores para dois, configurando <b>três membros</b> envolvidos na atividade, dois autores e um revisor.
 </p>
+<p align="justify">
+&emsp;&emsp;Atividades nas quais pelo menos <b>três membros</b>, por qualquer motivo, estejam designados para o seu desenvolvimento não dependem de um revisor.
+</p>
 
 ## **Políticas**
 <p align="justify">
@@ -56,8 +59,8 @@ git push origin [tipo]/nome_da_branch
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 19/09/2023 | Criação do documento | [Pedro Siqueira](https://github.com/PedroSiq) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
-| `1.1`  | 20/09/2023 | Acréscimo de políticas e atividades em pares | [Pedro Siqueira](https://github.com/PedroSiq) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+| `1.0`  | 19/09/2023 | Criação do documento | [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc) |
+| `1.1`  | 20/09/2023 | Acréscimo de políticas e atividades em pares | [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc)|
 
 <center>
 <h6> Tabela 1: Histórico de Versão.
@@ -66,4 +69,5 @@ git push origin [tipo]/nome_da_branch
 
 ## **Bibliografia**
 > [1] Trello. Disponível em: https://trello.com . Acesso em: 19 de setembro de 2023.
+
 > [2] Kanban: o que é, o Método Kanban, principais conceitos e como funciona no dia a dia. Disponível em: https://www.alura.com.br/artigos/metodo-kanban. Acesso em: 19 de setembro de 2023.
