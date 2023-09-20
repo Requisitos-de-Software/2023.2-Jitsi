@@ -4,6 +4,9 @@
 <p align="justify">
 &emsp;&emsp;Metodologia é o <b>estudo dos caminhos para se chegar a um determinado fim</b>. No presente artefato estão listadas as <b>metodologias</b>, <b>métodos</b>, <b><i>frameworks</i></b> e <b>políticas</b> que serão utilizadas pela equipe no projeto, a fim de atingir os objetivos do mesmo e agilizar todo o processo de desenvolvimento. 
 </p>
+<p align="justify">
+&emsp;&emsp;Todas as <b>metodologias</b>, <b>métodos</b>, <b><i>frameworks</i></b> ou <b>políticas</b> citadas abaixo estão sujeitas à alteração e acréscimo durante o projeto, de acordo com a <b>necessidade</b> do grupo e a <b>demanda</b> de atividades.
+</p>
 
 ## **Kanban**
 <p align="justify">

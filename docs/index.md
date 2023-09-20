@@ -16,6 +16,9 @@
 </p>
 
 ## **Equipe**
+<p align="justify">
+&emsp;&emsp; A Tabela 1 apresenta os membros da equipe.
+</p>
 
 |                                              Foto                                               |       Nome       |                          Github                           |
 | :---------------------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------: |
@@ -26,14 +29,17 @@
 |<img src="https://github.com/Juhvitoria4.png" alt="Júlia Vitória" style="width: 10vw"> | Júlia Vitória Freire Silva | [Juhvitoria4](https://github.com/Juhvitoria4) |
 |   <img src="https://github.com/PedroSiq.png" alt="Pedro Augusto" style="width: 10vw">       | Pedro Augusto Santos Siqueira | [PedroSiq](https://github.com/PedroSiq) |
 
+<h6 align = "center"> Tabela 1: Membros da Equipe.
+<br> Autor(a): Pedro Siqueira</h6>
+
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp; A Tabela 1 registra o histórico de versão deste documento.
+&emsp;&emsp; A Tabela 2 registra o histórico de versão deste documento.
 </p>
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
 | `1.0` | 15/09/2023 | Criação do documento | [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Vitória](https://github.com/Juhvitoria4) |
 
-<h6 align = "center"> Tabela 1: Histórico de Versão
+<h6 align = "center"> Tabela 2: Histórico de Versão.
 <br> Autor(a): Pedro Siqueira</h6>

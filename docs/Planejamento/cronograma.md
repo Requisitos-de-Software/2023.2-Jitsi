@@ -16,15 +16,15 @@
 |-------------------------------------------------------------------------------------------------------|------------------------------|-----------------------------|---------------|
 | Heatmap de disponibilidade dos integrantes | Início: 03/09 <br>Fim: 04/09 | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Bruno Henrique](https://github.com/BrunoHenrique00)|
 | Colocar todos os Rich Pictures no repositório do projeto | Início: 13/09 <br>Fim: 19/09 | [Carolina Barbosa](https://github.com/CarolinaBarb)| [Catlen Cleane](https://github.com/catlenc)|
-| Realizar votação do aplicativo para o projeto                                                         | Início: 13/09 <br>Fim: 15/09 | Todos                       | Todos         |
-| Criar o cronograma de todo o projeto                                                                  | Início: 13/09 <br>Fim: 19/09 | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc)     | [Pedro Siqueira](https://github.com/PedroSiq)         |
-| Listar as ferramentas do projeto                                                                      | Início: 13/09 <br>Fim: 19/09 | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)  | [Carolina Barbosa](https://github.com/CarolinaBarb)      |
-| Listar as metodologias do projeto                                                                     | Início: 13/09 <br>Fim: 19/09 | [Pedro Siqueira](https://github.com/PedroSiq)                       | [Catlen Cleane](https://github.com/catlenc)        |
-| Documentar cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo selecionado | Início: 13/09 <br>Fim: 19/09 | [Catlen Cleane](https://github.com/catlenc)                      | [Júlia Souza](https://github.com/JuliaSSouza)   |
-| Criar o artefato de Rich Pictures                                                                     | Início: 13/09 <br>Fim: 19/09 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza)      | [Bruno Henrique](https://github.com/BrunoHenrique00) |
-| Escrever introdução sobre projeto e equipe no READ.ME                                                 | Início: 13/09 <br>Fim: 19/09 | [Pedro Siqueira](https://github.com/PedroSiq)                       | [Júlia Vitória](https://github.com/Juhvitoria4) |
-| Criar modelos de documentação e organização interna dos arquivos                                      | Início: 13/09 <br>Fim: 19/09 | [Pedro Siqueira](https://github.com/PedroSiq)                       | [Júlia Souza](https://github.com/JuliaSSouza)|
-| Gravação do vídeo de apresentação                                                                     | Início: 19/09 <br>Fim: 20/09 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Realizar votação do aplicativo para o projeto                                                         | Início: 13/09 <br>Fim: 15/09 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Criar o cronograma de todo o projeto                                                                  | Início: 13/09 <br>Fim: 19/09 | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc)| [Pedro Siqueira](https://github.com/PedroSiq)|
+| Listar as ferramentas do projeto | Início: 13/09 <br>Fim: 19/09 | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)  | [Carolina Barbosa](https://github.com/CarolinaBarb)|
+| Listar as metodologias do projeto | Início: 13/09 <br>Fim: 19/09 | [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc)        |
+| Documentar cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo selecionado | Início: 13/09 <br>Fim: 19/09 | [Catlen Cleane](https://github.com/catlenc)| [Júlia Souza](https://github.com/JuliaSSouza)|
+| Criar o artefato de Rich Pictures                                                                     | Início: 13/09 <br>Fim: 19/09 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| Escrever introdução sobre projeto e equipe no READ.ME | Início: 13/09 <br>Fim: 19/09 | [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
+| Criar modelos de documentação e organização interna dos arquivos | Início: 13/09 <br>Fim: 19/09 | [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Souza](https://github.com/JuliaSSouza)|
+| Gravação do vídeo de apresentação | Início: 19/09 <br>Fim: 20/09 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 1: Apresentação do Projeto.
@@ -37,12 +37,12 @@
 &emsp;&emsp;A tabela 2 apresenta as entregas da segunda etapa.
 </p>
 
-| Atividade                                                                                  | Período de Desenvolvimento   | Responsáveis          | Revisor       |
+| Atividade | Período de Desenvolvimento | Responsáveis | Revisor|
 |--------------------------------------------------------------------------------------------|------------------------------|-----------------------|---------------|
-| Criação de perfis de usuários                                                              | Início: 22/09 <br>Fim: 25/09 | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Catlen Cleane](https://github.com/catlenc) |
-| Entendimento das técnicas de elicitação de requisitos usadas e que serão usadas no projeto | Início: 25/09 <br>Fim: 27/09 | [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza) | [Júlia Vitória](https://github.com/Juhvitoria4) |
-| Entendimento das técnicas de priorização de requisitos e quais serão usadas no projeto     | Início: 27/09 <br>Fim: 29/09 | [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)|
-| Gravação do vídeo de apresentação                                                          | Início: 30/09 <br>Fim: 01/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Criação de perfis de usuários  | Início: 22/09 <br>Fim: 25/09 | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Catlen Cleane](https://github.com/catlenc) |
+| Entendimento das técnicas de elicitação de requisitos usadas e que serão usadas no projeto | Início: 25/09 <br>Fim: 27/09 | [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza) | [Júlia Vitória](https://github.com/Juhvitoria4)|
+| Entendimento das técnicas de priorização de requisitos e quais serão usadas no projeto| Início: 27/09 <br>Fim: 29/09 | [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)|
+| Gravação do vídeo de apresentação | Início: 30/09 <br>Fim: 01/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 2: Elicitação - Técnicas e Priorização.
@@ -55,13 +55,13 @@
 &emsp;&emsp;A tabela 3 apresenta as entregas da terceira etapa.
 </p>
 
-| Atividade                                          | Período de Desenvolvimento   | Responsáveis          | Revisor       |
+| Atividade  | Período de Desenvolvimento | Responsáveis | Revisor |
 |----------------------------------------------------|------------------------------|-----------------------|---------------|
-| Modelagem de Requisitos: Cenários                  | Início: 05/10 <br>Fim: 08/10 | [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
-| Modelagem de Requisitos: Léxico                    | Início: 08/10 <br>Fim: 12/10 | [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb)|
-| Modelagem de Requisitos: Use Case                  | Início: 12/10 <br>Fim: 15/10 | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Souza](https://github.com/JuliaSSouza)   |
+| Modelagem de Requisitos: Cenários | Início: 05/10 <br>Fim: 08/10 | [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| Modelagem de Requisitos: Léxico | Início: 08/10 <br>Fim: 12/10 | [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb)|
+| Modelagem de Requisitos: Use Case | Início: 12/10 <br>Fim: 15/10 | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Souza](https://github.com/JuliaSSouza) |
 | Modelagem de Requisitos: Especificação Suplementar | Início: 15/09 <br>Fim: 20/10 | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
-| Gravação do vídeo de apresentação                  | Início: 23/10 <br>Fim: 24/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Gravação do vídeo de apresentação | Início: 23/10 <br>Fim: 24/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 3: Modelagem de Requisitos.
@@ -73,12 +73,12 @@
 &emsp;&emsp;A tabela 4 apresenta as entregas da quarta etapa.
 </p>
 
-| Atividade                                            | Período de Desenvolvimento   | Responsáveis          | Revisor     |
+| Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 |------------------------------------------------------|------------------------------|-----------------------|-------------|
 | Modelagem de Requisitos - Ágil: Histórias de Usuário | Início: 26/10 <br>Fim: 29/10 | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq)|
-| Modelagem de Requisitos - Ágil: Backlogs             | Início: 28/10 <br>Fim: 31/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc)| [Júlia Souza](https://github.com/JuliaSSouza) |
-| Modelagem de Requisitos - Ágil: NFR Framework        | Início: 01/11 <br>Fim: 02/11 | [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
-| Gravação do vídeo de apresentação                    | Início: 04/11 <br>Fim: 05/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Modelagem de Requisitos - Ágil: Backlogs | Início: 28/10 <br>Fim: 31/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc)| [Júlia Souza](https://github.com/JuliaSSouza) |
+| Modelagem de Requisitos - Ágil: NFR Framework| Início: 01/11 <br>Fim: 02/11 | [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| Gravação do vídeo de apresentação | Início: 04/11 <br>Fim: 05/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 4: Modelagem de Requisitos Ágil.
@@ -90,10 +90,10 @@
 &emsp;&emsp;A tabela 5 apresenta as entregas da quinta etapa.
 </p>
 
-| Atividade                         | Período de Desenvolvimento   | Responsáveis                  | Revisor                |
+| Atividade | Período de Desenvolvimento  | Responsáveis | Revisor |
 |-----------------------------------|------------------------------|-------------------------------|------------------------|
-| Verificação dos Requisitos        | Início: 06/11 <br>Fim: 09/11 | [Bruno Henrique](https://github.com/BrunoHenrique00), [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq) |
-| Validação dos Requisitos          | Início: 06/11 <br>Fim: 09/11 | [Carolina Barbosa](https://github.com/CarolinaBarb), [Júlia Souza](https://github.com/JuliaSSouza) e [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) |
+| Verificação dos Requisitos| Início: 06/11 <br>Fim: 09/11 | [Bruno Henrique](https://github.com/BrunoHenrique00), [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq) |
+| Validação dos Requisitos | Início: 06/11 <br>Fim: 09/11 | [Carolina Barbosa](https://github.com/CarolinaBarb), [Júlia Souza](https://github.com/JuliaSSouza) e [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) |
 | Gravação do vídeo de apresentação | Início: 11/11 <br>Fim: 12/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
@@ -106,10 +106,10 @@
 &emsp;&emsp;A tabela 6 apresenta as entregas da sexta etapa.
 </p>
 
-| Atividade                         | Período de Desenvolvimento   | Responsáveis | Revisor |
+| Atividade | Período de Desenvolvimento   | Responsáveis | Revisor |
 |-----------------------------------|------------------------------|--------------|---------|
-| Pós Rastreabilidade - Gerência II | Início: 14/11 <br>Fim: 16/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)        | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)   |
-| Gravação do vídeo de apresentação | Início: 18/11 <br>Fim: 19/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)        | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)   |
+| Pós Rastreabilidade - Gerência II | Início: 14/11 <br>Fim: 16/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)   |
+| Gravação do vídeo de apresentação | Início: 18/11 <br>Fim: 19/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)   |
 
 <center>
 <h6> Tabela 6: Pós-Rastreabilidade.
@@ -137,10 +137,10 @@
 &emsp;&emsp;A tabela 8 apresenta as entregas da etapa final.
 </p>
 
-| Atividade                         | Período de Desenvolvimento   | Responsáveis | Revisor |
+| Atividade  | Período de Desenvolvimento   | Responsáveis | Revisor |
 |-----------------------------------|------------------------------|--------------|---------|
-| Desenvolvimento do Projeto Final  | Início: 29/11 <br>Fim: 02/12 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)        | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)   |
-| Gravação do vídeo de apresentação | Início: 04/11 <br>Fim: 05/12 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)        | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)   |
+| Desenvolvimento do Projeto Final  | Início: 29/11 <br>Fim: 02/12 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) |
+| Gravação do vídeo de apresentação | Início: 04/11 <br>Fim: 05/12 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) |
 
 <center>
 <h6> Tabela 8: Entrega Final.
