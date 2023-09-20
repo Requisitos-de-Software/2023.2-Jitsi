@@ -27,6 +27,14 @@
 &emsp;&emsp;Foi realizado uma enquete logo após a entrega dos Rich Pictures individuais, e o aplicativo escolhido foi o <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/#figura-1-rich-picture-versao-1"><b><i>JITSI</i></b></a> por ser um aplicativo open source e com um grande alcance para realizar entrevistas com usuários diferentes.
 </p>
 
+## **Critérios de Escolha**
+<p align="justify">
+<li>Possibilidade de contato com o público alvo</li>
+<li>Aplicativo não foi trabalhado antes na disciplina</li>
+<li>Complexidade do aplicativo</li>
+<li>Disponibilidade do aplicativo</li>
+</p>
+
 ## **Histórico de Versão**
 <p align="justify">
 &emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
