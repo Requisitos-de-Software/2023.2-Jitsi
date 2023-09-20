@@ -43,6 +43,6 @@
 </center>
 
 ## **Bibliografia**
-> Benyon, D. (2011). Interação Humano-Computador. São Paulo: Pearson Prentice Hall. (2ª edição).
+>[1] Benyon, D. (2011). Interação Humano-Computador. São Paulo: Pearson Prentice Hall. (2ª edição).
 
-> SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63-66
+>[2] SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63-66
