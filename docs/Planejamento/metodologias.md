@@ -28,5 +28,8 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 19/09/2023 | Criação do documento | [Pedro Siqueira](github.com/PedroSiq) | [Carolina Barbosa](github.com/CarolinaBarb) |
+
+<center>
 <h6> Tabela 1: Histórico de Versão.
 <br> Autor: <a href="github.com/PedroSiq">Pedro Siqueira</a> </h6>
+</center>
