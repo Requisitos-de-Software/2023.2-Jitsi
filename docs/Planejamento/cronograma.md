@@ -12,16 +12,16 @@ Tem como objetivo mostrar em ordem como as terefas serão desenvolvidas ao longo
 
  Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 | --------- | ----------- | ----------- | ----------- |
-| Heatmap de disponibilidade dos integrantes | Início: 03/09 <br>Fim: 04/09 | Carol | Bruno |
+| Heatmap de disponibilidade dos integrantes | Início: 03/09 <br>Fim: 04/09 | Carolina | Bruno |
 | Colocar todos os Rich Pictures no repositório do projeto | Início: 13/09 <br>Fim: 19/09 | Carolina|Catlen|
 | Realizar votação do aplicativo para o projeto | Início: 13/09 <br>Fim: 15/09 | Todos | Todos |
 | Criar o cronograma de todo o projeto | Início: 13/09 <br>Fim: 19/09 | Bruno e Catlen |Pedro |
-| Listar as ferramentas do projeto| Início: 13/09 <br>Fim: 19/09 | Júlia Vitória e Júlia Souza | Carolina|
+| Listar as ferramentas do projeto| Início: 13/09 <br>Fim: 19/09 | Julia Vitoria e Julia Souza | Carolina|
 | Listar as metodologias do projeto | Início: 13/09 <br>Fim: 19/09 |Pedro| Catlen
-| Documentar cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo selecionado | Início: 13/09 <br>Fim: 19/09 |Catlen|Júlia Souza| 
-| Criar o artefato de Rich Pictures | Início: 13/09 <br>Fim: 19/09 | Carol e Júlia Souza | Bruno
-| Escrever introdução sobre projeto e equipe no READ.ME | Início: 13/09 <br>Fim: 19/09 | Pedro | Júlia Vitória
-| Criar modelos de documentação e organização interna dos arquivos | Início: 13/09 <br>Fim: 19/09 | Pedro | Júlia Souza
+| Documentar cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo selecionado | Início: 13/09 <br>Fim: 19/09 |Catlen|Julia Souza| 
+| Criar o artefato de Rich Pictures | Início: 13/09 <br>Fim: 19/09 | Carolina e Julia Souza | Bruno |
+| Escrever introdução sobre projeto e equipe no READ.ME | Início: 13/09 <br>Fim: 19/09 | Pedro | Julia Vitoria |
+| Criar modelos de documentação e organização interna dos arquivos | Início: 13/09 <br>Fim: 19/09 | Pedro | Julia Souza |
 | Gravação do vídeo de apresentação | Início: 19/09 <br>Fim: 20/09 | Todos | 
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
@@ -36,8 +36,8 @@ Tem como objetivo mostrar em ordem como as terefas serão desenvolvidas ao longo
 Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 | --------- | ----------- | ----------- | ----------- |
 | Criação de perfis de usuários | Início: 22/09 <br>Fim: 25/09 | Bruno e Carolina |Catlen|
-| Entendimento das técnicas de elicitação de requisitos usadas e que serão usadas no projeto| Início: 25/09 <br>Fim: 27/09 | Catlen e Julia Souza|Julia Vitória|
-| Entendimento das técnicas de priorização de requisitos e quais serão usadas no projeto | Início: 27/09 <br>Fim: 29/09 |Julia Vitória e Pedro|Bruno|
+| Entendimento das técnicas de elicitação de requisitos usadas e que serão usadas no projeto| Início: 25/09 <br>Fim: 27/09 | Catlen e Julia Souza|Julia Vitoria|
+| Entendimento das técnicas de priorização de requisitos e quais serão usadas no projeto | Início: 27/09 <br>Fim: 29/09 |Julia Vitoria e Pedro | Bruno|
 | Gravação do vídeo de apresentação | Início: 30/09 <br>Fim: 01/10 | Todos |Todos|
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
@@ -50,10 +50,10 @@ Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 
 Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 | --------- | ----------- | ----------- | ----------- |
-| Modelagem de Requisitos: Cenários | Início: 05/10 <br>Fim: 08/10 | Pedro e Julia Vitória |Bruno|
-| Modelagem de Requisitos: Léxico| Início: 08/10 <br>Fim: 12/10 |Júlia Souza e Catlen|Carolina|
-| Modelagem de Requisitos: Use Case | Início: 12/10 <br>Fim: 15/10 |Bruno e Carolina|Júlia Souza|
-| Modelagem de Requisitos: Especificação Suplementar | Início: 15/09 <br>Fim: 20/10 |Catlen e Pedro|Júlia Vitória|
+| Modelagem de Requisitos: Cenários | Início: 05/10 <br>Fim: 08/10 | Pedro e Julia Vitoria |Bruno|
+| Modelagem de Requisitos: Léxico| Início: 08/10 <br>Fim: 12/10 |Julia Souza e Catlen|Carolina|
+| Modelagem de Requisitos: Use Case | Início: 12/10 <br>Fim: 15/10 |Bruno e Carolina|Julia Souza|
+| Modelagem de Requisitos: Especificação Suplementar | Início: 15/09 <br>Fim: 20/10 |Catlen e Pedro|Julia Vitoria|
 | Gravação do vídeo de apresentação | Início: 23/10 <br>Fim: 24/10 | Todos |Todos|
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
@@ -66,9 +66,9 @@ Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 
 Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 | --------- | ----------- | ----------- | ----------- |
-| Modelagem de Requisitos - Ágil: Histórias de Usuário | Início: 26/10 <br>Fim: 29/10 |Bruno e Júlia Souza |Pedro|
+| Modelagem de Requisitos - Ágil: Histórias de Usuário | Início: 26/10 <br>Fim: 29/10 |Bruno e Julia Souza |Pedro|
 | Modelagem de Requisitos - Ágil: Backlogs| Início: 28/10 <br>Fim: 31/11 |Carolina e Catlen|Julia Souza|
-| Modelagem de Requisitos - Ágil: NFR Framework | Início: 01/11 <br>Fim: 02/11 |Júlia Vitória e Pedro|Bruno|
+| Modelagem de Requisitos - Ágil: NFR Framework | Início: 01/11 <br>Fim: 02/11 |Julia Vitoria e Pedro|Bruno|
 | Gravação do vídeo de apresentação | Início: 04/11 <br>Fim: 05/11 | Todos |Todos|
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
@@ -81,8 +81,8 @@ Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 
 Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 | --------- | ----------- | ----------- | ----------- |
-| Verificação dos Requisitos | Início: 06/11 <br>Fim: 09/11 |Bruno, Catlen e Júlia Vitória|Pedro e Carolina|
-| Validação dos Requisitos | Início: 06/11 <br>Fim: 09/11 |Carolina, Júlia Souza e Pedro|Catlen e Júlia Vitória|
+| Verificação dos Requisitos | Início: 06/11 <br>Fim: 09/11 |Bruno, Catlen e Julia Vitoria|Pedro e Carolina|
+| Validação dos Requisitos | Início: 06/11 <br>Fim: 09/11 |Carolina, Julia Souza e Pedro|Catlen e Julia Vitoria|
 | Gravação do vídeo de apresentação | Início: 11/11 <br>Fim: 12/11 | Todos |Todos|
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
@@ -106,8 +106,8 @@ Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 
 Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 | --------- | ----------- | ----------- | ----------- |
-| Verificação dos Requisitos | Início: 21/11 <br>Fim: 25/11 |Carolina, Catlen e Pedro|Bruno e Júlia Souza|
-| Validação dos Requisitos | Início: 21/11 <br>Fim: 25/11 |Bruno, Julia Souza e Júlia Vitória|Catlen e Carolina|
+| Verificação dos Requisitos | Início: 21/11 <br>Fim: 25/11 |Carolina, Catlen e Pedro|Bruno e Julia Souza|
+| Validação dos Requisitos | Início: 21/11 <br>Fim: 25/11 |Bruno, Julia Souza e Julia Vitoria|Catlen e Carolina|
 | Gravação do vídeo de apresentação | Início: 27/11 <br>Fim: 28/11 | Todos |Todos|
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
