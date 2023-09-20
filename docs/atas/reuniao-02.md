@@ -12,12 +12,12 @@
 
 | Nome | Presente? |
 |---------------|----|
-|Bruno Henrique| sim |
-|Carolina Barbosa| sim |
-|Catlen Oliveira| sim | 
-|Júlia Vitória| sim |
-|Júlia Souza| sim |
-|Pedro Siqueira| não |
+|Bruno Henrique| Não |
+|Carolina Barbosa| Sim |
+|Catlen Oliveira| Sim | 
+|Júlia Vitória| Sim |
+|Júlia Souza| Sim |
+|Pedro Siqueira| Sim |
 <h6> Tabela 1: Lista de presença.
 <br> Autor: Julia Vitoria </h6>
 
@@ -51,7 +51,7 @@
 ## **Gravação da Reunião**
 
 <p align="justify">
-&emsp;&emsp;Anexar o vídeo não listado no YouTube.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_GozTSS6zxM?si=SvPaBFp3MC7pYe3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ## **Histórico de Versão**
@@ -61,6 +61,7 @@
 
 | Versão | Data | Descrição | Autor(es) | 
 | ------ | ---- | --------- | --------- |
-| `1.0`  | 19/09/2023 | teste apresentação | [Julia Vitoria](https://github.com/Juhvitoria4) |  
+| `1.0`  | 19/09/2023 | Teste apresentação | [Julia Vitoria](https://github.com/Juhvitoria4) |  
+| `1.1`  | 19/09/2023 | Acrescentando a gravação | [Pedro Siqueira](https://github.com/PedroSiq) |
 <h6> Tabela 4: Histórico de Versão.
 <br> Autor: Julia Vitoria </h6>
