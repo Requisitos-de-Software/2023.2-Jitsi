@@ -14,12 +14,12 @@
 |---------------|----|
 |Bruno Henrique| Sim |
 |Carolina Barbosa| Sim |
-|Catlen Oliveira| Sim | 
+|Catlen Cleane| Sim | 
 |Júlia Vitória| Sim |
 |Júlia Souza| Sim |
 |Pedro Siqueira| Sim |
 <h6> Tabela 1: Lista de presença.
-<br> Autor: Pedro Siqueira </h6>
+<br> Autor(a): Pedro Siqueira </h6>
 
 <p align="justify">
 &emsp;&emsp;A tabela 2 representa os horários de início e término da reunião, além da plataforma utilizada.
@@ -29,12 +29,12 @@
 |--------------|-----------|---------|
 |20:25|20:48|Microsoft Teams|
 <h6> Tabela 2: Escopo da reunião.
-<br> Autor: Pedro Siqueira </h6>
+<br> Autor(a): Pedro Siqueira </h6>
 
 ## **Pautas**
 <ul>
 <li> Atribuição do(a) responsável pelos artefatos que serão entregues;</li>
-<li> Escolha da aplicação para ser utilizada no projeto;</li>
+<li> Escolha da aplicação para ser utilizada no projeto.</li>
 </ul>
 
 ## **Atividades definidas**
@@ -54,7 +54,7 @@
 | Criar modelos de documentação e organização interna dos arquivos | 19/09 | Pedro | Júlia Souza
 | Gravação do vídeo de apresentação | 20/09 | Todos | -
 <h6 align = "center"> Tabela 3: Atividades definidas na reunião.
-<br> Autor: Pedro Siqueira </h6>
+<br> Autor(a): Pedro Siqueira </h6>
 
 ## **Gravação da Reunião**
 
@@ -69,4 +69,4 @@
 | ------ | ---- | --------- | --------- |
 | `1.0`  | 15/09/2023 | Elaboração do documento | [Pedro](https://github.com/PedroSiq) |  
 <h6> Tabela 4: Histórico de Versão.
-<br> Autor: Pedro Siqueira </h6>
+<br> Autor(a): Pedro Siqueira </h6>

@@ -27,8 +27,16 @@ Benyon, D. (2011). Interação Humano-Computador. São Paulo: Pearson Prentice H
 SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63-66
 
 
-## Histórico de versão
+## **Histórico de Versão**
+<p align="justify">
+&emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
+</p>
 
-Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ------ | ---------- | ----------
- `1.0` | 18/09/2023 | Criação do documento da escolha do aplicativo | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Julia Sant'Anna](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00)
+| Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
+| --------- | ------ | ------ | ---------- | ----------
+| `1.0` | 18/09/2023 | Criação do documento da escolha do aplicativo | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00)
+
+<center>
+<h6> Tabela 2: Histórico de Versão.
+<br> Autor: <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+</center>

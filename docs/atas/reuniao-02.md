@@ -14,12 +14,12 @@
 |---------------|----|
 |Bruno Henrique| Não |
 |Carolina Barbosa| Sim |
-|Catlen Oliveira| Sim | 
+|Catlen Cleane| Sim | 
 |Júlia Vitória| Sim |
 |Júlia Souza| Sim |
 |Pedro Siqueira| Sim |
 <h6> Tabela 1: Lista de presença.
-<br> Autor: Julia Vitoria </h6>
+<br> Autor(a): Júlia Vitória</h6>
 
 <p align="justify">
 &emsp;&emsp;A tabela 2 representa os horários de início e término da reunião, além da plataforma utilizada.
@@ -29,7 +29,7 @@
 |--------------|-----------|---------|
 |21:56|22:25|Microsoft Teams|
 <h6> Tabela 2: Escopo da reunião.
-<br> Autor: Julia Vitoria </h6>
+<br> Autor(a): Júlia Vitória</h6>
 
 ## **Pautas**
 <ul>
@@ -46,7 +46,7 @@
 | Atualizar a tabela de ferramentas com a nova ferramenta Trello | 20/09 | Julia Souza | Julia Vitoria
 | Adicionar os termos de uso | 20/09 | Catlen | Pedro
 <h6 align = "center"> Tabela 3: Atividades definidas na reunião.
-<br> Autor: Julia Vitoria </h6>
+<br> Autor(a): Júlia Vitória</h6>
 
 ## **Gravação da Reunião**
 
@@ -64,4 +64,4 @@
 | `1.0`  | 19/09/2023 | Teste apresentação | [Julia Vitoria](https://github.com/Juhvitoria4) |  
 | `1.1`  | 19/09/2023 | Acrescentando a gravação | [Pedro Siqueira](https://github.com/PedroSiq) |
 <h6> Tabela 4: Histórico de Versão.
-<br> Autor: Julia Vitoria </h6>
+<br> Autor(a): Júlia Vitória</h6>

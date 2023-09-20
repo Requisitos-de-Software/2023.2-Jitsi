@@ -27,8 +27,16 @@ Foi feito um Heatmap de disponibilidade dos integrantes, para facilitar o de age
 ## Resultados
 Com base no resultado obtido no Heatmap do grupo 05, as reuniões semanais ficaram marcadas para **terça-feira às 20h**.
 
-## Histórico de versões
+## **Histórico de Versão**
+<p align="justify">
+&emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
+</p>
 
 |Versão|    Data    | Descrição | Autor(es) | Revisor(es)
------- | ---------- | --------- | --------- | ----------
- `1.0` | 18/09/2023 | Criação do documento Heatmap | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Bruno Henrique](https://github.com/BrunoHenrique00)
+| ------ | ---------- | --------- | --------- | ----------
+| `1.0` | 18/09/2023 | Criação do documento Heatmap | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Bruno Henrique](https://github.com/BrunoHenrique00)
+
+<center>
+<h6> Tabela 2: Histórico de Versão.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</center>

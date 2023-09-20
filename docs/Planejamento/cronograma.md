@@ -10,7 +10,7 @@ Tem como objetivo mostrar em ordem como as terefas serão desenvolvidas ao longo
 
 <font size="3"><p style="text-align: center"><b>Tabela 01</b> - Apresentação do Projeto</p></font>
 
- Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
+| Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 | --------- | ----------- | ----------- | ----------- |
 | Heatmap de disponibilidade dos integrantes | Início: 03/09 <br>Fim: 04/09 | Carolina | Bruno |
 | Colocar todos os Rich Pictures no repositório do projeto | Início: 13/09 <br>Fim: 19/09 | Carolina|Catlen|
@@ -125,14 +125,21 @@ Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
-## Bibliografia
->Cronograma Youtube. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>> . Acesso em 15 de Setembro de 2023.
+## **Histórico de Versão**
+<p align="justify">
+&emsp;&emsp;A tabela 1 representa o histórico de versão do documento.
+</p>
 
->SALES, André Barros de. Ambientação - Aula 1, Plano de Ensino. **Aprender 3**. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf>>. Acesso em 15 de Setembro de 2023.
+| Versão  |   Data    | Descrição | Autor(es) | Revisor(es)
+| --------- | ------- | ------ | ---------- | ----------
+| `1.0` | 15/09/2023 | Cronograma planejado e executado markdown | [Catlen](https://github.com/catlenc) e [Bruno](https://github.com/BrunoHenrique00) |[Pedro](https://github.com/PedroSiq)|
+| `1.1` | 18/09/2023 | Correções em Cronograma planejado e executado markdown | [Catlen](https://github.com/catlenc) e [Bruno](https://github.com/BrunoHenrique00) |[Pedro](https://github.com/PedroSiq)|
 
-## Histórico de Versões
+<center>
+<h6> Tabela 1: Histórico de Versão.
+<br> Autor(a): <a href="https://github.com/catlenc">Catlen Ceane</a></h6>
+</center>
 
-Versão  |   Data    | Descrição | Autor(es) | Revisor(es)
---------- | ------- | ------ | ---------- | ----------
- 1.0 | 15/09/2023 | Cronograma planejado e executado markdown | [Catlen](https://github.com/catlenc) e [Bruno](https://github.com/BrunoHenrique00) |[Pedro](https://github.com/PedroSiq)|
- 1.1 | 18/09/2023 | Correções em Cronograma planejado e executado markdown | [Catlen](https://github.com/catlenc) e [Bruno](https://github.com/BrunoHenrique00) |[Pedro](https://github.com/PedroSiq)|
+ ## **Bibliografia**
+
+> [1] Cronograma Youtube. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>> . Acesso em 15 de Setembro de 2023.

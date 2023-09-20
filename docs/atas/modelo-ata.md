@@ -14,12 +14,12 @@
 |---------------|----|
 |Bruno Henrique| |
 |Carolina Barbosa| |
-|Catlen Oliveira| | 
+|Catlen Cleane| | 
 |Júlia Vitória| |
 |Júlia Souza| |
 |Pedro Siqueira| |
 <h6> Tabela 1: Lista de presença.
-<br> Autor: Autor da Tabela </h6>
+<br> Autor(a): Autor da Tabela </h6>
 
 <p align="justify">
 &emsp;&emsp;A tabela 2 representa os horários de início e término da reunião, além da plataforma utilizada.
@@ -29,7 +29,7 @@
 |--------------|-----------|---------|
 ||||
 <h6> Tabela 2: Escopo da reunião.
-<br> Autor: Autor da Tabela </h6>
+<br> Autor(a): Autor da Tabela </h6>
 
 ## **Pautas**
 <ul>
@@ -54,7 +54,7 @@
 | | | |
 | | | | 
 <h6 align = "center"> Tabela 3: Atividades definidas na reunião.
-<br> Autor: Autor da Tabela </h6>
+<br> Autor(a): Autor da Tabela </h6>
 
 ## **Gravação da Reunião**
 
@@ -71,4 +71,4 @@
 | ------ | ---- | --------- | --------- |
 | `1.0`  | dd/mm/2023 |  |  |  
 <h6> Tabela 4: Histórico de Versão.
-<br> Autor: Pedro Siqueira </h6>
+<br> Autor(a): Pedro Siqueira </h6>

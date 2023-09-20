@@ -23,15 +23,22 @@ Para criar o rich picture, utilizamos a ferramenta draw.io. Inicialmente, realiz
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Dados.png" alt="Armazenamento de dados" width=75px> | Armazenamento de dados | Onde o sistema armazena dados. |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Fronteira.png" alt="Fronteira" width=75px> | Fronteira | Fronteira do sistema, tudo o que o sistema deve cuidar fica dentro da frontreira. |
 
+## **Histórico de Versão**
+<p align="justify">
+&emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
+</p>
+
+| Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
+| --------- | ------ | ------ | ---------- | ----------
+| `1.0` | 18/09/2023 | Criação do documento e Rich Picture | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00)
+
+<center>
+<h6> Tabela 2: Histórico de Versão.
+<br> Autor: <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+</center>
+
 ## Bibliografia
 
 Benyon, D. (2011). Interação Humano-Computador. São Paulo: Pearson Prentice Hall. (2ª edição).
 
 SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63-66.
-
-
-## Histórico de Versões
-
-Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ------ | ---------- | ----------
- `1.0` | 18/09/2023 | Criação do documento e Rich Picture | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Julia Sant'Anna](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00)

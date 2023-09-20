@@ -17,7 +17,7 @@
 </center>
 <p align="justify">
 <h6 align = "center"> Figura 1: Quadro do Trello.
-<br> Autor: <a href="github.com/PedroSiq">Pedro Siqueira</a> </h6>
+<br> Autor(a): <a href="github.com/PedroSiq">Pedro Siqueira</a> </h6>
 </p>
 
 ## **Histórico de Versão**
@@ -31,5 +31,7 @@
 
 <center>
 <h6> Tabela 1: Histórico de Versão.
-<br> Autor: <a href="github.com/PedroSiq">Pedro Siqueira</a> </h6>
+<br> Autor(a): <a href="github.com/PedroSiq">Pedro Siqueira</a> </h6>
 </center>
+
+## **Bibliografia**
