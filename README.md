@@ -1,34 +1,23 @@
 # ***Jitsi***
-## **Sobre o Projeto**
+
+<p align="center"><img src="./docs/assets/jitsi.png"width = 50%></p>
+
+## **💻Sobre o Projeto**
 <p align="justify">
-&emsp;&emsp; Esta página é voltada para expor o <b>desenvolvimento do projeto de Requisitos de Software</b>, da Universidade de Brasília - Faculdade do Gama (UnB -FGA) e seus respectivos artefatos. Com base na aplicação mobile <a href='https://meet.jit.si/'>Jitsi</a>, serão aplicados os conceitos aprendidos na disciplina, tal qual o registro de todo o desenvolvimento do projeto.
+&emsp;&emsp;Este repositório é voltado para o <b>desenvolvimento do projeto de Requisitos de Software</b>, da Universidade de Brasília - Faculdade do Gama (UnB - FGA) e seus respectivos artefatos.
 </p>
-<center>
-<img src="./assets/jitsi.png" alt="logo" width="40%" style="float: none; margin: auto"/>
-<p>
-&emsp;&emsp;Figura 1: Logo do Jitsi (Fonte: <a href='https://meet.jit.si/'>meet.jit.si/</a>)
-</p>
-</center>
-
-## **Equipe**
-
-|                                              Foto                                               |       Nome       |                          Github                           |
-| :---------------------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------: |
-|   <img src="https://github.com/BrunoHenrique00.png" alt="Bruno Henrique" style="width: 10vw"> | Bruno Henrique Moreira Cardoso | [BrunoHenrique00](https://github.com/BrunoHenrique00) |
-|<img src="https://github.com/CarolinaBarb.png" alt="Carolina" style="width: 10vw"> | Carolina Barbosa Brito | [CarolinaBarb](https://github.com/CarolinaBarb) |
-|<img src="https://github.com/catlenc.png" alt="Catlen" style="width: 10vw"> | Catlen Cleane Ferreira de Oliveira | [Catlenc](https://github.com/catlenc) |
-|<img src="https://github.com/JuliaSSouza.png" alt="Júlia" style="width: 10vw"> | Julia Sant'Anna de Souza | [JuliaSSouza](https://github.com/JuliaSSouza) |
-|<img src="https://github.com/Juhvitoria4.png" alt="Júlia Vitória" style="width: 10vw"> | Julia Vitoria Freire Silva | [Juhvitoria4](https://github.com/Juhvitoria4) |
-|   <img src="https://github.com/PedroSiq.png" alt="Pedro Augusto" style="width: 10vw">       | Pedro Augusto Santos Siqueira | [PedroSiq](https://github.com/PedroSiq) |
-
-## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp; A Tabela 1 registra o histórico de versão deste documento.
+&emsp;&emsp;O <b>Jitsi</b> se trata de uma aplicação móvel <a href="https://tecnoblog.net/responde/o-que-e-open-source-software-de-codigo-aberto/">open source</a> de videoconferência que está disponível para download em sistemas <a href="https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=pt_BR&gl=US&pli=1">Android</a> e <a href="https://apps.apple.com/br/app/jitsi-meet/id1165103905">iOS</a>.
 </p>
 
-|   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
-| :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
-| `1.0` | 15/09/2023 | Criação do documento | Pedro Siqueira | Júlia Vitória |
-
-<h6 align = "center"> Tabela 1: Histórico de Versão
-<br> Autor: Pedro Siqueira</h6>
+## **👨‍💻Colaboradores**
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/BrunoHenrique00"><img style="border-radius: 50%;" src="https://github.com/BrunoHenrique00.png" width="100px;" alt=""/><br/><sub><b>Bruno Henrique Moreira Cardoso</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/CarolinaBarb"><img style="border-radius: 50%;" src="https://github.com/CarolinaBarb.png" width="100px;" alt=""/><br/><sub><b>Carolina Barbosa Brito</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/catlenc"><img style="border-radius: 50%;" src="https://github.com/catlenc.png" width="100px;" alt=""/><br/><sub><b>Catlen Cleane Ferreira de Oliveira</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/JuliaSSouza"><img style="border-radius: 50%;" src="https://github.com/JuliaSSouza.png" width="100px;" alt=""/><br/><sub><b>Júlia Sant'Anna de Souza</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/Juhvitoria4"><img style="border-radius: 50%;" src="https://github.com/Juhvitoria4.png" width="100px;" alt=""/><br/><sub><b>Júlia Vitória Freire Silva</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/PedroSiq"><img style="border-radius: 50%;" src="https://github.com/PedroSiq.png" width="100px;" alt=""/><br/><sub><b>Pedro Augusto Santos Siqueira</b></sub></a><br/>
+  </tr>
+</table>

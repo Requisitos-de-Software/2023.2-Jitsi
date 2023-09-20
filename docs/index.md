@@ -1,7 +1,7 @@
 # ***Jitsi***
 ## **Sobre o Projeto**
 <p align="justify">
-&emsp;&emsp;Esta página é voltada para expor o <b>desenvolvimento do projeto de Requisitos de Software</b>, da Universidade de Brasília - Faculdade do Gama (UnB -FGA) e seus respectivos artefatos. Com base na aplicação móvel <a href='https://meet.jit.si/'>Jitsi</a>, serão aplicados os conceitos aprendidos na disciplina, tal qual o registro de todo o desenvolvimento do projeto.
+&emsp;&emsp;Esta página é voltada para expor o <b>desenvolvimento do projeto de Requisitos de Software</b>, da Universidade de Brasília - Faculdade do Gama (UnB - FGA) e seus respectivos artefatos. Com base na aplicação móvel <a href='https://meet.jit.si/'>Jitsi</a>, serão aplicados os conceitos aprendidos na disciplina, tal qual o registro de todo o desenvolvimento do projeto.
 </p>
 <center>
 <img src="./assets/jitsi.png" alt="logo" width="40%" style="float: none; margin: auto"/>
@@ -12,7 +12,7 @@
 
 ## **Sobre a Aplicação**
 <p align="justify">
-&emsp;&emsp;O <b>Jitsi</b> se trata de uma aplicação móvel <a href="https://tecnoblog.net/responde/o-que-e-open-source-software-de-codigo-aberto/">open source</a> de videoconferência que está disponível para download em sistemas <b>Android</b> e <b>iOS</b>. Nele, um usuário é capaz de criar uma chamada a partir de um código e, posteriormente, compartilhá-lo com todos que o mesmo deseje que estejam presentes.
+&emsp;&emsp;O <b>Jitsi</b> se trata de uma aplicação móvel <a href="https://tecnoblog.net/responde/o-que-e-open-source-software-de-codigo-aberto/">open source</a> de videoconferência que está disponível para download em sistemas <a href="https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=pt_BR&gl=US&pli=1">Android</a> e <a href="https://apps.apple.com/br/app/jitsi-meet/id1165103905">iOS</a>. Nele, um usuário é capaz de criar uma chamada a partir de um código e, posteriormente, compartilhá-lo com todos que o mesmo deseje que estejam presentes.
 </p>
 
 ## **Equipe**
