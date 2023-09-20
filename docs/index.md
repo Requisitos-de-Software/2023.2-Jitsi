@@ -1,7 +1,7 @@
 # ***Jitsi***
 ## **Sobre o Projeto**
 <p align="justify">
-&emsp;&emsp;Esta página é voltada para expor o <b>desenvolvimento do projeto de Requisitos de Software</b>, da Universidade de Brasília - Faculdade do Gama (UnB -FGA) e seus respectivos artefatos. Com base na aplicação mobile <a href='https://meet.jit.si/'>Jitsi</a>, serão aplicados os conceitos aprendidos na disciplina, tal qual o registro de todo o desenvolvimento do projeto.
+&emsp;&emsp;Esta página é voltada para expor o <b>desenvolvimento do projeto de Requisitos de Software</b>, da Universidade de Brasília - Faculdade do Gama (UnB -FGA) e seus respectivos artefatos. Com base na aplicação móvel <a href='https://meet.jit.si/'>Jitsi</a>, serão aplicados os conceitos aprendidos na disciplina, tal qual o registro de todo o desenvolvimento do projeto.
 </p>
 <center>
 <img src="./assets/jitsi.png" alt="logo" width="40%" style="float: none; margin: auto"/>
