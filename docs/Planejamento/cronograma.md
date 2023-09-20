@@ -152,7 +152,7 @@
 &emsp;&emsp;A tabela 9 representa o histórico de versão do documento.
 </p>
 
-| Versão | Data       | Descrição                                              | Autor(es)                                                                          | Revisor(es)                          |
+| Versão | Data | Descrição | Autor(es)| Revisor(es)|
 |--------|------------|--------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------|
 | `1.0`  | 15/09/2023 | Cronograma planejado e executado markdown              | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.1`  | 18/09/2023 | Correções em Cronograma planejado e executado markdown | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq) |
