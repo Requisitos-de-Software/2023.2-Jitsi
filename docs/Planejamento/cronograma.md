@@ -166,4 +166,4 @@
 
 ## **Bibliografia**
 
-> [1] Cronograma Planejado. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>> . Acesso em 15 de Setembro de 2023.
+> <a href="https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md">[1]</a> Cronograma Bilheteria Digital. Acesso em 15 de Setembro de 2023.

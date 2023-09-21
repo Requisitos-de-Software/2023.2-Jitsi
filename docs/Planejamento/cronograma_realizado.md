@@ -42,3 +42,6 @@
 <h6> Tabela 2: Histórico de Versão.
 <br/> Autor(a): <a href="https://github.com/pedrosiq">Pedro Siqueira</a></h6>
 </center>
+
+## **Bibliografia**
+> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/">[1]</a> Cronograma Bilheteria Digital. Acesso em 20 de setembro de 2023.

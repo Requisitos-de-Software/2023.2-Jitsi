@@ -22,11 +22,6 @@
 <h6> Tabela 1: Rich Pictures Desenvolvidos.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
-## **Escolha do App**
-<p align="justify">
-&emsp;&emsp;Foi realizado uma enquete logo após a entrega dos Rich Pictures individuais, e o aplicativo escolhido foi o <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/#figura-1-rich-picture-versao-1"><b><i>JITSI</i></b></a> por ser um aplicativo <a href="https://github.com/Requisitos-de-Software/2023.2-Jitsi/blob/main/docs/assets/Opensource.png" ><b><i>open source</i></b></a> e com um grande alcance para realizar entrevistas com usuários diferentes.
-</p>
-
 ## **Critérios de Escolha**
 <p align="justify">
 <li>Possibilidade de contato com o público alvo</li>
@@ -35,7 +30,10 @@
 <li>Disponibilidade do aplicativo</li>
 </p>
 
-
+## **Escolha do App**
+<p align="justify">
+&emsp;&emsp;Foi realizado uma enquete logo após a entrega dos Rich Pictures individuais, e o aplicativo escolhido foi o <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/#figura-1-rich-picture-versao-1"><b><i>JITSI</i></b></a> por ser um aplicativo <a href="https://github.com/Requisitos-de-Software/2023.2-Jitsi/blob/main/docs/assets/Opensource.png" ><b><i>open source</i></b></a> e com um grande alcance para realizar entrevistas com usuários diferentes.
+</p>
 
 ## **Histórico de Versão**
 <p align="justify">

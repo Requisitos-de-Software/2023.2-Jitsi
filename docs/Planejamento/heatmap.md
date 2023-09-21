@@ -56,3 +56,7 @@
 <h6> Tabela 2: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </center>
+
+## **Bibliografia**
+
+> <a href="https://neilpatel.com/br/blog/heatmap-o-que-e/#:~:text=Heatmap%20(ou%20mapa%20de%20calor,em%20uma%20p%C3%A1gina%20de%20convers%C3%A3o.">[1]</a> Heatmap: Entenda o Que é, Quando Usar e Que Ferramentas Usar. Acesso em 18 de setembro de 2023.

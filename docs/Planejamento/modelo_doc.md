@@ -43,6 +43,6 @@
 <br> Autor(a): Fulano de tal </h6>
 
 ## **Bibliografia**
-> [1] Fonte 1
+> <a href="https://Link_da_fonte">[1]</a> Fonte 1
 
-> [2] Fonte 2
+> <a href="https://Link_da_fonte">[2]</a> Fonte 2

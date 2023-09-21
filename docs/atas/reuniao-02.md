@@ -59,9 +59,9 @@
 &emsp;&emsp;A tabela 4 representa o histórico de versão do documento.
 </p>
 
-| Versão | Data | Descrição | Autor(es) | 
-| ------ | ---- | --------- | --------- |
-| `1.0`  | 19/09/2023 | Teste apresentação | [Julia Vitoria](https://github.com/Juhvitoria4) |  
-| `1.1`  | 19/09/2023 | Acrescentando a gravação | [Pedro Siqueira](https://github.com/PedroSiq) |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ----------  |
+| `1.0`  | 19/09/2023 | Teste apresentação | [Julia Vitoria](https://github.com/Juhvitoria4) |  |
+| `1.1`  | 19/09/2023 | Acrescentando a gravação | [Pedro Siqueira](https://github.com/PedroSiq) | |
 <h6> Tabela 4: Histórico de Versão.
 <br> Autor(a): Júlia Vitória</h6>

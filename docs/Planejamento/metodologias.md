@@ -71,6 +71,6 @@ git push origin [tipo]/nome_da_branch
 </center>
 
 ## **Bibliografia**
-> [1] Trello. Disponível em: https://trello.com . Acesso em: 19 de setembro de 2023.
+> <a href="https://trello.com">[1]</a> Trello. Acesso em: 19 de setembro de 2023.
 
-> [2] Kanban: o que é, o Método Kanban, principais conceitos e como funciona no dia a dia. Disponível em: https://www.alura.com.br/artigos/metodo-kanban. Acesso em: 19 de setembro de 2023.
+> <a href="https://www.alura.com.br/artigos/metodo-kanban">[2]</a> Kanban: o que é, o Método Kanban, principais conceitos e como funciona no dia a dia. Acesso em: 19 de setembro de 2023.
