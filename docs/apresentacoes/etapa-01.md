@@ -8,12 +8,13 @@
 <p align="justify">
 &emsp;&emsp;Durante a primeira etapa, foram produzidos os seguintes artefatos: 
 <ul>
-<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/">Cronograma Planejado</a></li>
-<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma_realizado/">Cronograma Realizado</a></li>   
-<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/">Ferramentas</a></li>  
-<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/heatmap/">Heatmap</a></li>  
-<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/metodologias/">Metodologias</a></li>  
-<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/">Rich Picture</a></li>  
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/">Cronograma Planejado;</a></li>
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma_realizado/">Cronograma Realizado;</a></li>   
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/">Ferramentas;</a></li>  
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/heatmap/">Heatmap;</a></li>  
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/metodologias/">Metodologias;</a></li>  
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Escolha do Aplicativo;</a></li> 
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/">Rich Picture.</a></li>
 </ul>
 </p>
 
