@@ -24,10 +24,10 @@
 
 ## **Critérios de Escolha**
 <p align="justify">
-<li>Possibilidade de contato com o público alvo</li>
-<li>Aplicativo não foi trabalhado antes na disciplina</li>
-<li>Complexidade do aplicativo</li>
-<li>Disponibilidade do aplicativo</li>
+<li>Possibilidade de contato com o público alvo;</li>
+<li>Aplicativo não foi trabalhado antes na disciplina;</li>
+<li>Complexidade do aplicativo;</li>
+<li>Disponibilidade do aplicativo.</li>
 </p>
 
 ## **Escolha do App**
