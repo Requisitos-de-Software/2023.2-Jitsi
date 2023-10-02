@@ -29,6 +29,33 @@
 <br/> Autor(es): <a href="https://github.com/pedrosiq">Pedro Siqueira</a></h6>
 </center>
 
+# *Entrega 2 - Elicitação - Técnicas e Priorização*
+<p align="justify">
+&emsp;&emsp;A tabela 2 apresenta as entregas da segunda etapa.
+</p>
+
+| Atividade | Período de Desenvolvimento | Responsáveis | Revisor|
+|--------------------------------------------------------------------------------------------|------------------------------|-----------------------|---------------|
+| Criação de perfis de usuários  | Início: 22/09 <br>Fim: 25/09 | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Catlen Cleane](https://github.com/catlenc) |
+| Entendimento das técnicas de elicitação de requisitos usadas e que serão usadas no projeto | Início: 25/09 <br>Fim: 27/09 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Brainstorming | Início: 25/09 <br>Fim: 27/09 | [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
+| Entrevista | Início: 25/09 <br>Fim: 27/09 |[Pedro Siqueira](https://github.com/PedroSiq) e [Bruno Henrique](https://github.com/BrunoHenrique00)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
+| Questionário | Início: 25/09 <br>Fim: 27/09 |[Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Bruno Henrique](https://github.com/BrunoHenrique00)|
+| Introspecção | Início: 02/10 <br>Fim: 03/10 |[Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Souza](https://github.com/JuliaSSouza)|
+| Entendimento das técnicas de priorização de requisitos e quais serão usadas no projeto| Início: 27/09 <br>Fim: 29/09 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| 100 Dolares| Início: 27/09 <br>Fim: 29/09 |[Júlia Souza](https://github.com/JuliaSSouza), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Vitória](https://github.com/Juhvitoria4)|
+| MoSCoW| Início: 27/09 <br>Fim: 29/09 |[Catlen Cleane](https://github.com/catlenc), [Júlia Vitória](https://github.com/Juhvitoria4) e [Bruno Henrique](https://github.com/BrunoHenrique00)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
+| Gravação do vídeo de apresentação | Início: 30/09 <br>Fim: 01/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Correção pós gravação | Início: 01/10 <br>Fim: 03/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+
+
+<center>
+<h6> Tabela 2: Elicitação - Técnicas e Priorização.
+<br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+
+
+
 ## **Histórico de Versão**
 <p align="justify">
 &emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
@@ -37,6 +64,7 @@
 | Versão | Data | Descrição | Autor(es)| Revisor(es)|
 |--------|------------|--------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------|
 | `1.0`  | 20/09/2023 | Criação do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)|
+| `1.1`  | 02/10/2023 | Inclusão da entrega 2 | [Catlen Cleane](https://github.com/catlenc) |[Carolina Barbosa](https://github.com/CarolinaBarb)|
 
 <center>
 <h6> Tabela 2: Histórico de Versão.

@@ -25,7 +25,7 @@
 | Escrever introdução sobre projeto e equipe no READ.ME | Início: 13/09 <br>Fim: 19/09 | [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
 | Criar modelos de documentação e organização interna dos arquivos | Início: 13/09 <br>Fim: 19/09 | [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Souza](https://github.com/JuliaSSouza)|
 | Gravação do vídeo de apresentação | Início: 19/09 <br>Fim: 20/09 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
-| Correção pós correção | Início: 19/09 <br>Fim: 20/09 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Correção pós gravação | Início: 19/09 <br>Fim: 20/09 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 
 <center>
@@ -51,7 +51,7 @@
 | 100 Dolares| Início: 27/09 <br>Fim: 29/09 |[Júlia Souza](https://github.com/JuliaSSouza), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Vitória](https://github.com/Juhvitoria4)|
 | MoSCoW| Início: 27/09 <br>Fim: 29/09 |[Catlen Cleane](https://github.com/catlenc), [Júlia Vitória](https://github.com/Juhvitoria4) e [Bruno Henrique](https://github.com/BrunoHenrique00)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 | Gravação do vídeo de apresentação | Início: 30/09 <br>Fim: 01/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
-| Correção pós correção | Início: 01/10 <br>Fim: 03/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Correção pós gravação | Início: 01/10 <br>Fim: 03/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 
 <center>
@@ -72,7 +72,7 @@
 | Modelagem de Requisitos: Use Case | Início: 12/10 <br>Fim: 15/10 | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Souza](https://github.com/JuliaSSouza) |
 | Modelagem de Requisitos: Especificação Suplementar | Início: 15/09 <br>Fim: 20/10 | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
 | Gravação do vídeo de apresentação | Início: 23/10 <br>Fim: 24/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
-| Correção pós correção | Início: 24/10 <br>Fim: 25/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Correção pós gravação | Início: 24/10 <br>Fim: 25/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 3: Modelagem de Requisitos.
@@ -90,7 +90,7 @@
 | Modelagem de Requisitos - Ágil: Backlogs | Início: 28/10 <br>Fim: 31/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc)| [Júlia Souza](https://github.com/JuliaSSouza) |
 | Modelagem de Requisitos - Ágil: NFR Framework| Início: 01/11 <br>Fim: 02/11 | [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
 | Gravação do vídeo de apresentação | Início: 04/11 <br>Fim: 05/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
-| Correção pós correção | Início: 05/11 <br>Fim: 06/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Correção pós gravação| Início: 05/11 <br>Fim: 06/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 4: Modelagem de Requisitos Ágil.
@@ -107,7 +107,7 @@
 | Verificação dos Requisitos| Início: 06/11 <br>Fim: 09/11 | [Bruno Henrique](https://github.com/BrunoHenrique00), [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq) |
 | Validação dos Requisitos | Início: 06/11 <br>Fim: 09/11 | [Carolina Barbosa](https://github.com/CarolinaBarb), [Júlia Souza](https://github.com/JuliaSSouza) e [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) |
 | Gravação do vídeo de apresentação | Início: 11/11 <br>Fim: 12/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
-| Correção pós correção | Início: 12/11 <br>Fim: 13/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Correção pós gravação | Início: 12/11 <br>Fim: 13/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 5: Análise de Requisitos 1.
@@ -124,7 +124,7 @@
 | Pós Rastreabilidade - Backward-form | Início: 14/11 <br>Fim: 16/11 | [Catlen Cleane](https://github.com/catlenc), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Souza](https://github.com/JuliaSSouza)|
 | Pós Rastreabilidade -Forward-form | Início: 14/11 <br>Fim: 16/11 | [Júlia Vitória](https://github.com/Juhvitoria4), [Júlia Souza](https://github.com/JuliaSSouza) e [Bruno Henrique](https://github.com/BrunoHenrique00) | [Catlen Cleane](https://github.com/catlenc)|
 | Gravação do vídeo de apresentação | Início: 18/11 <br>Fim: 19/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)   |
-| Correção pós correção | Início: 19/11 <br>Fim: 20/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Correção pós gravação | Início: 19/11 <br>Fim: 20/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 6: Pós-Rastreabilidade.
@@ -141,7 +141,7 @@
 | Verificação dos Requisitos | Início: 21/11 <br>Fim: 25/11 | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Júlia Souza](https://github.com/JuliaSSouza) |
 | Validação dos Requisitos | Início: 21/11 <br>Fim: 25/11 | [Bruno Henrique](https://github.com/BrunoHenrique00), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc)|
 | Gravação do vídeo de apresentação | Início: 27/11 <br>Fim: 28/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) |
-| Correção pós correção | Início: 28/11 <br>Fim: 29/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Correção pós gravação | Início: 28/11 <br>Fim: 29/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 7: Análise de Requisitos 2.
@@ -157,7 +157,7 @@
 |-----------------------------------|------------------------------|--------------|---------|
 | Desenvolvimento do Projeto Final  | Início: 29/11 <br>Fim: 02/12 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) |
 | Gravação do vídeo de apresentação | Início: 04/11 <br>Fim: 05/12 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) |
-| Correção pós correção | Início: 05/12 <br>Fim: 06/12 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Correção pós gravação | Início: 05/12 <br>Fim: 06/12 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 8: Entrega Final.

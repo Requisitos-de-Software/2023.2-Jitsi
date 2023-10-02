@@ -39,6 +39,8 @@ nav:
     - Ferramentas: Planejamento/ferramentas.md
     - Heatmap: Planejamento/heatmap.md
     - Metodologias: Planejamento/metodologias.md
+  - Elicitação:
+    - Introspecção: Elicitação/Introspecção.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md
