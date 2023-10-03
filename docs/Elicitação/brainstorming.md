@@ -9,31 +9,50 @@
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;
+&emsp;&emsp; Para realizar o brainstorming, reunimos presencialmente dois membros da equipe para serem o moderador e o secretário e quatro usuários do aplicativo (ver tabela 1). Para realizar o brainstorming foi utilizada a ferramenta miro, nela foram feitos alguns quadros com perguntas(ver tabela 2)  para guiar a discussão e ajudar a elicitar os requisitos baseados nas necessidades dos usuários .
+</p>
+
+## **Participantes**
+<p align="justify">
+&emsp;&emsp; A tabela 1 representa os participantes da atividade de brainstorming
+</p>
+
+<center>
+
+| Nome                                                      | Função     |
+| --------------------------------------------------------- | ---------- |
+| [Júlia Souza](https://github.com/JuliaSSouza)             | Mediadora  |
+| [Carolina Barbosa](https://github.com/CarolinaBarb)       | Secretária |
+| <span style = "color: purple"> Caio Pacheco</span>        | Usuário    |
+| <span style = "color: purple"> Gabriel Santana</span>     | Usuário    |
+| <span style = "color: purple"> Guilherme Quirino </span>  | Usuário    |
+| <span style = "color: purple"> Henrique Pucci </span>     | Usuário    |
+
+</center>
+
+<p align="justify">
+<h6 align = "center"> Tabela 1: Participantes.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 </p>
 
 ## **Perguntas**
 <p align="justify">
-&emsp;&emsp;Perguntas utilizadas para guiar o desenvolvimento do brainstorming:
-
-<li>Quais são as principais funcionalidades que você espera de um aplicativo de chamadas como o Jitsi?</li>
-
-<li>Quais recursos ou funcionalidades você considera essenciais para uma experiência de chamada de vídeo satisfatória?</li>
-
-<li>Quais são as principais funcionalidades que você espera de um aplicativo de chamadas como o Jitsi?</li>
-
-<li>Que tipo de integrações você gostaria que o aplicativo de chamadas tivesse com outras ferramentas ou serviços, por exemplo, calendários e aplicativos de mensagens? </li>
-
-<li> Como o aplicativo do Jitsi poderia fornecer uma experiência de usuário mais agradável e intuitiva, de modo a facilitar a navegação?
-</li>
-
+&emsp;&emsp; A tabela 2 representas as perguntas utilizadas para guiar o desenvolvimento do brainstorming:
 </p>
 
-## **Legenda**
+| Perguntas                                                      
+| ------------------------------------------------------------------- |
+| Quais recursos ou funcionalidades você considera essenciais para uma experiência de chamada de vídeo satisfatória                 |
+| Que tipo de integrações você gostaria que o aplicativo de chamadas tivesse com outras ferramentas ou serviços, por exemplo, calendários e aplicativos de mensagens?              |
+| Como o aplicativo do Jitsi poderia fornecer uma experiência de usuário mais agradável e intuitiva, de modo a facilitar a navegação?           |
+
 <p align="justify">
-<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
-<br> Autor(a): <a href="https://github.com/fulanodetal">Fulano de Tal</a></h6>
+<h6 align = "center"> Tabela 2: Perguntas.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 </p>
+
+## **Brainstorm**
+
 
 ## **Links**
 <p align="justify">

@@ -12,7 +12,7 @@
 
 ## **Resultados**
 <p align="justify">
-&emsp;&emsp; Os dados que o grupo coletou foram por meio de um questionário online. O questionário obteve 20 respostas todas de acordo com o <a href="https://docs.google.com/document/d/1fmuMpkPT43gpluq_j9xrKqiJx61ifFlCeK5ZwiqAOsg/edit">termo de consentimento</a> no período em que ficou disponível (entre 29/09/23 e 02/10/23) e apresentava 10 perguntas, e o resultado das respostas são apresentados nas figuras de 1 a 9.
+&emsp;&emsp; Os dados que o grupo coletou foram por meio de um questionário online. O questionário obteve 20 respostas todas de acordo com o <a href="https://docs.google.com/document/d/1fmuMpkPT43gpluq_j9xrKqiJx61ifFlCeK5ZwiqAOsg/edit">termo de consentimento</a> no período em que ficou disponível (entre 29/09/23 e 02/10/23) e apresentava 9 perguntas, e o resultado das respostas são apresentados nas figuras de 1 a 9.
 </p>
 
 
