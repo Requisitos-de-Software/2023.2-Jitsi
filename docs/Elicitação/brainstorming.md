@@ -12,13 +12,21 @@
 &emsp;&emsp;
 </p>
 
-## **Perguntas / Respostas**
+## **Perguntas**
 <p align="justify">
+&emsp;&emsp;Perguntas utilizadas para guiar o desenvolvimento do brainstorming:
+
 <li>Quais são as principais funcionalidades que você espera de um aplicativo de chamadas como o Jitsi?</li>
 
 <li>Quais recursos ou funcionalidades você considera essenciais para uma experiência de chamada de vídeo satisfatória?</li>
 
 <li>Quais são as principais funcionalidades que você espera de um aplicativo de chamadas como o Jitsi?</li>
+
+<li>Que tipo de integrações você gostaria que o aplicativo de chamadas tivesse com outras ferramentas ou serviços, por exemplo, calendários e aplicativos de mensagens? </li>
+
+<li> Como o aplicativo do Jitsi poderia fornecer uma experiência de usuário mais agradável e intuitiva, de modo a facilitar a navegação?
+</li>
+
 </p>
 
 ## **Legenda**
