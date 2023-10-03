@@ -79,9 +79,10 @@ Perfil de usuário:
 &emsp;&emsp;A tabela n representa o histórico de versão do documento.
 </p>
 
-| Versão | Data       | Descrição            | Autor(es)                                                                                                 | Revisor(es)                                 |
-|--------|------------|----------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| `1.0`  | 03/10/2023 | Criação do Documento | [Bruno Henrique](https://github.com/BrunoHenrique00) e[Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
+| Versão | Data       | Descrição            | Autor(es)                                                                                                  | Revisor(es)                                 |
+|--------|------------|----------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| `1.0`  | 03/10/2023 | Criação do Documento | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
+| `1.1`  | 03/10/2023 | Adiciona Perguntas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 <h6> Tabela n: Histórico de Versão.
 
 ## **Bibliografia**
