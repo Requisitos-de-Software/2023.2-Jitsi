@@ -12,6 +12,42 @@ Para criar as personas utilizamos a técnica usada para coletar dados <a href="h
 As imagens utilizadas neste documento para reprensentar as personas foram obtidas do site <a href="https://this-person-does-not-exist.com/en">This Person Does Not Exist</a>, que a partir de inteligência artificial gera imagens que não possuem direitos autorais.
 </p>
 
+## **Resultado do Questionário**
+
+O resultado no questionário teve o total de 20 respostas todas de acordo com o [termo de consentimento](./termo-consentimento-questionario.pdf) e o resultado das respostas são apresentados nas figuras de 1 a 10.
+
+De acordo com a figura 1, o gênero dos participantes em sua maioria é masculino represetando 55% das respostas sendo que o gênero masculino representa os outros 45%.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 1 - Questão 1.</p></font>
+<img src="../../assets/questionario/1.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Catlen.</p></font>
+</figure>
+
+De acordo com o gráfico apresentado na figura 2 em relação a faixa etária dos participantes, a maioria representando 70% dos participantes estão na faixa etária de 18 a 24 anos.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 2 - Questão 2.</p></font>
+<img src="../../assets/questionario/2.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Catlen.</p></font>
+</figure>
+
+De acordo com o gráfico apresentado na figura 3 o grau de escolaridade dos participantes, com 65% o Ensino Superior Incompleto e 25% com o Ensino Superior Completo, ou seja, uma predominância de usuários no ensino superior.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 3 - Questão 3.</p></font>
+<img src="../../assets/questionario/3.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Catlen.</p></font>
+</figure>
+
+De acordo com o gráfico apresentado na figura 4 sobre a frequência que o participante utiliza o aplicativos de chamada, com 55% selecionado a opção diariamente e os outros 20% semanalmente e esporadicamente.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 4 - Questão 4.</p></font>
+<img src="../../assets/questionario/4.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Catlen.</p></font>
+</figure>
+
 ## **Perfil de Usuário**
 <p align="justify">
 &emsp;&emsp; Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021), com base nisso definimos o perfil de usuário primeiro para depois definir as personas.
@@ -43,9 +79,9 @@ Perfil de usuário:
 &emsp;&emsp;A tabela n representa o histórico de versão do documento.
 </p>
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 03/10/2023 | Criação do Documento | [Bruno Henrique](https://github.com/BrunoHenrique00) e[Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc)  |
+| Versão | Data       | Descrição            | Autor(es)                                                                                                 | Revisor(es)                                 |
+|--------|------------|----------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| `1.0`  | 03/10/2023 | Criação do Documento | [Bruno Henrique](https://github.com/BrunoHenrique00) e[Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 <h6> Tabela n: Histórico de Versão.
 
 ## **Bibliografia**
