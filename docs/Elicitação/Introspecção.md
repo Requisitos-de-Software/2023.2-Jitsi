@@ -40,9 +40,10 @@
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 02/10/2023 | Introdução, Metodologia e Cenário de Uso | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
 <h6> Tabela n: Histórico de Versão.
-<br> Autor(a): [Catlen Cleane](https://github.com/catlenc) </h6>
+<br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
 
 ## **Bibliografia**
-> <a href="https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md">[1]</a> Cronograma Bilheteria Digital. Acesso em 02 de Outubro de 2023.
+> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/introspeccao/">[1]</a> Introspecção Bilheteria Digital. Acesso em 02 de Outubro de 2023.
 
 > <a href="https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf">[2]</a> Requisitos - Aula 07. Acesso em 02 de Outubro de 2023.
