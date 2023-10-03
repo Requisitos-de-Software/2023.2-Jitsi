@@ -40,7 +40,12 @@ nav:
     - Heatmap: Planejamento/heatmap.md
     - Metodologias: Planejamento/metodologias.md
   - Elicitação:
-    - Introspecção: Elicitação/Introspecção.md
+    - Técnicas:
+      - Introspecção: Elicitação/Introspecção.md
+      - Questionário: Elicitação/questionario.md
+      - Brainstorming: Elicitação/brainstorming.md
+      - Entrevista: Elicitação/entrevista.md
+
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md
