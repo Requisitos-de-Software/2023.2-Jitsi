@@ -23,6 +23,7 @@
 | Escrever introdução sobre projeto e equipe no READ.ME | Início: 15/09 <br>Fim: 20/09 | [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
 | Criar modelos de documentação e organização interna dos arquivos | Início: 15/09 <br>Fim: 18/09 | [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Souza](https://github.com/JuliaSSouza)|
 | Gravação do vídeo de apresentação | Início: 19/09 <br>Fim: 20/09 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Realizar correções após entrega e feedbacks recebidos | Início: 22/09 <br>Fim: 23/09 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 1: Apresentação do Projeto.
@@ -46,7 +47,6 @@
 | 100 Dolares| Início: 27/09 <br>Fim: 29/09 |[Júlia Souza](https://github.com/JuliaSSouza), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Vitória](https://github.com/Juhvitoria4)|
 | MoSCoW| Início: 27/09 <br>Fim: 29/09 |[Catlen Cleane](https://github.com/catlenc), [Júlia Vitória](https://github.com/Juhvitoria4) e [Bruno Henrique](https://github.com/BrunoHenrique00)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 | Gravação do vídeo de apresentação | Início: 30/09 <br>Fim: 01/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
-| Correção pós gravação | Início: 01/10 <br>Fim: 03/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 
 <center>
