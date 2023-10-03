@@ -10,9 +10,13 @@
 &emsp;&emsp;
 </p>
 
-## **Palavras-chaves usadas na sessão de Brainstorming**
+## **Perguntas / Respostas**
 <p align="justify">
-&emsp;&emsp;Texto ....
+<li>Quais são as principais funcionalidades que você espera de um aplicativo de chamadas como o Jitsi?</li>
+
+<li>Quais recursos ou funcionalidades você considera essenciais para uma experiência de chamada de vídeo satisfatória?</li>
+
+<li>Quais são as principais funcionalidades que você espera de um aplicativo de chamadas como o Jitsi?</li>
 </p>
 
 ## **Legenda**
