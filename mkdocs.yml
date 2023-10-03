@@ -40,6 +40,7 @@ nav:
     - Heatmap: Planejamento/heatmap.md
     - Metodologias: Planejamento/metodologias.md
   - Elicitação:
+    - Perfil do Usuário: Elicitação/Personas.md  
     - Técnicas:
       - Introspecção: Elicitação/Introspecção.md
       - Questionário: Elicitação/questionario.md

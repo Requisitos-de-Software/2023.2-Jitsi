@@ -23,7 +23,7 @@
 
 ## **Links**
 <p align="justify">
-<a href="link de referência">nome a ser referenciado</a>
+<a href="https://docs.google.com/document/d/1fmuMpkPT43gpluq_j9xrKqiJx61ifFlCeK5ZwiqAOsg/edit">termo de consentimento</a>
 </p>
 
 ## **Tópico n**
