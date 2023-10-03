@@ -67,7 +67,7 @@ Perfil de usuário:
 
 
 <div align="center">
-<img src="../assets/Marina.jpeg" width="300" height="300">
+<img src="../../assets/Marina.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
@@ -86,29 +86,29 @@ Perfil de usuário:
 
 
 
-|        Caracteristica       |  Resposta   |
-| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**            | Marina    |
-| **Idade**            |     23 anos     | 
-| **Gênero**       | Feminino      |
-| **Localidade**            |               |   
-| **Particularidades**            |              |    
-| **Escolaridade**            |               |    
-| **Profissão**            |           |   
-| **História**            |            |    
-| **Objetivos**       |           |
-| **Rotina**         |         |
-| **Requisitos**      |      |
-| **Frequência** |    | 
-| **Necessidades** |  |
-| **Expectativas**    |  |
+| Caracteristica       | Resposta |
+|:---------------------|:---------|
+| **Nome**             | Marina   |
+| **Idade**            | 23 anos  |
+| **Gênero**           | Feminino |
+| **Localidade**       |          |
+| **Particularidades** |          |
+| **Escolaridade**     |          |
+| **Profissão**        |          |
+| **História**         |          |
+| **Objetivos**        |          |
+| **Rotina**           |          |
+| **Requisitos**       |          |
+| **Frequência**       |          |
+| **Necessidades**     |          |
+| **Expectativas**     |          |
 
 ### Marina - Persona primária
 
 
 
 <div align="center">
-<img src="../assets/Marcos.jpeg" width="300" height="300">
+<img src="../../assets/Marcos.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
@@ -127,29 +127,29 @@ Perfil de usuário:
 
 
 
-|        Caracteristica       |  Resposta   |
-| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**            |     |
-| **Idade**            |        | 
-| **Gênero**       |      |
-| **Localidade**            |               |   
-| **Particularidades**            |              |    
-| **Escolaridade**            |               |    
-| **Profissão**            |           |   
-| **História**            |            |    
-| **Objetivos**       |           |
-| **Rotina**         |         |
-| **Requisitos**      |      |
-| **Frequência** |    | 
-| **Necessidades** |  |
-| **Expectativas**    |  |
+| Caracteristica       | Resposta |
+|:---------------------|:---------|
+| **Nome**             |          |
+| **Idade**            |          |
+| **Gênero**           |          |
+| **Localidade**       |          |
+| **Particularidades** |          |
+| **Escolaridade**     |          |
+| **Profissão**        |          |
+| **História**         |          |
+| **Objetivos**        |          |
+| **Rotina**           |          |
+| **Requisitos**       |          |
+| **Frequência**       |          |
+| **Necessidades**     |          |
+| **Expectativas**     |          |
 
 ### Marina - Persona primária
 
 
 
 <div align="center">
-<img src="../assets/Jaqueline.jpeg" width="300" height="300">
+<img src="../../assets/Jaqueline.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
@@ -168,22 +168,22 @@ Perfil de usuário:
 
 
 
-|        Caracteristica       |  Resposta   |
-| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**            |     |
-| **Idade**            |          | 
-| **Gênero**       |     |
-| **Localidade**            |               |   
-| **Particularidades**            |              |    
-| **Escolaridade**            |               |    
-| **Profissão**            |           |   
-| **História**            |            |    
-| **Objetivos**       |           |
-| **Rotina**         |         |
-| **Requisitos**      |      |
-| **Frequência** |    | 
-| **Necessidades** |  |
-| **Expectativas**    |  |
+| Caracteristica       | Resposta |
+|:---------------------|:---------|
+| **Nome**             |          |
+| **Idade**            |          |
+| **Gênero**           |          |
+| **Localidade**       |          |
+| **Particularidades** |          |
+| **Escolaridade**     |          |
+| **Profissão**        |          |
+| **História**         |          |
+| **Objetivos**        |          |
+| **Rotina**           |          |
+| **Requisitos**       |          |
+| **Frequência**       |          |
+| **Necessidades**     |          |
+| **Expectativas**     |          |
 
 
 ### Marina - Persona primária
@@ -191,7 +191,7 @@ Perfil de usuário:
 
 
 <div align="center">
-<img src="../assets/Joyce.jpeg" width="300" height="300">
+<img src="../../assets/Joyce.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
@@ -210,22 +210,22 @@ Perfil de usuário:
 
 
 
-|        Caracteristica       |  Resposta   |
-| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**            | Joyce    |
-| **Idade**            |         | 
-| **Gênero**       |      |
-| **Localidade**            |               |   
-| **Particularidades**            |              |    
-| **Escolaridade**            |               |    
-| **Profissão**            |           |   
-| **História**            |            |    
-| **Objetivos**       |           |
-| **Rotina**         |         |
-| **Requisitos**      |      |
-| **Frequência** |    | 
-| **Necessidades** |  |
-| **Expectativas**    |  |
+| Caracteristica       | Resposta |
+|:---------------------|:---------|
+| **Nome**             | Joyce    |
+| **Idade**            |          |
+| **Gênero**           |          |
+| **Localidade**       |          |
+| **Particularidades** |          |
+| **Escolaridade**     |          |
+| **Profissão**        |          |
+| **História**         |          |
+| **Objetivos**        |          |
+| **Rotina**           |          |
+| **Requisitos**       |          |
+| **Frequência**       |          |
+| **Necessidades**     |          |
+| **Expectativas**     |          |
 
 
 ### Marina - Persona primária
@@ -233,7 +233,7 @@ Perfil de usuário:
 
 
 <div align="center">
-<img src="../assets/Isaque.jpeg" width="300" height="300">
+<img src="../../assets/Isaque.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
@@ -252,22 +252,22 @@ Perfil de usuário:
 
 
 
-|        Caracteristica       |  Resposta   |
-| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**            |    |
-| **Idade**            |         | 
-| **Gênero**       |      |
-| **Localidade**            |               |   
-| **Particularidades**            |              |    
-| **Escolaridade**            |               |    
-| **Profissão**            |           |   
-| **História**            |            |    
-| **Objetivos**       |           |
-| **Rotina**         |         |
-| **Requisitos**      |      |
-| **Frequência** |    | 
-| **Necessidades** |  |
-| **Expectativas**    |  |
+| Caracteristica       | Resposta |
+|:---------------------|:---------|
+| **Nome**             |          |
+| **Idade**            |          |
+| **Gênero**           |          |
+| **Localidade**       |          |
+| **Particularidades** |          |
+| **Escolaridade**     |          |
+| **Profissão**        |          |
+| **História**         |          |
+| **Objetivos**        |          |
+| **Rotina**           |          |
+| **Requisitos**       |          |
+| **Frequência**       |          |
+| **Necessidades**     |          |
+| **Expectativas**     |          |
 
 ## **Legenda**
 <p align="justify">
