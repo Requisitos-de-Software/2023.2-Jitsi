@@ -21,7 +21,7 @@ De acordo com a figura 1, o gênero dos participantes em sua maioria é masculin
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 1 - Questão 1.</p></font>
 <img src="../../assets/questionario/1.png" alt="logo"  style="float: none; margin: auto"/>
-<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Catlen.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
 </figure>
 
 De acordo com o gráfico apresentado na figura 2 em relação a faixa etária dos participantes, a maioria representando 70% dos participantes estão na faixa etária de 18 a 24 anos.
@@ -29,7 +29,7 @@ De acordo com o gráfico apresentado na figura 2 em relação a faixa etária do
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 2 - Questão 2.</p></font>
 <img src="../../assets/questionario/2.png" alt="logo"  style="float: none; margin: auto"/>
-<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Catlen.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
 </figure>
 
 De acordo com o gráfico apresentado na figura 3 o grau de escolaridade dos participantes, com 65% o Ensino Superior Incompleto e 25% com o Ensino Superior Completo, ou seja, uma predominância de usuários no ensino superior.
@@ -37,7 +37,7 @@ De acordo com o gráfico apresentado na figura 3 o grau de escolaridade dos part
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 3 - Questão 3.</p></font>
 <img src="../../assets/questionario/3.png" alt="logo"  style="float: none; margin: auto"/>
-<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Catlen.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
 </figure>
 
 De acordo com o gráfico apresentado na figura 4 sobre a frequência que o participante utiliza o aplicativos de chamada, com 55% selecionado a opção diariamente e os outros 20% semanalmente e esporadicamente.
@@ -45,7 +45,7 @@ De acordo com o gráfico apresentado na figura 4 sobre a frequência que o parti
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 4 - Questão 4.</p></font>
 <img src="../../assets/questionario/4.png" alt="logo"  style="float: none; margin: auto"/>
-<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Catlen.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
 </figure>
 
 ## **Perfil de Usuário**
@@ -62,10 +62,212 @@ Perfil de usuário:
 
 
 ## **Personas**
-<p align="justify">
-&emsp;&emsp;
-</p>
+### Marina - Persona primária
 
+
+
+<div align="center">
+<img src="../assets/Marina.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 1: Marina (persona-primária).</b>
+    <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
+</figcaption>
+</div>
+
+
+
+<br>
+
+
+
+
+
+|        Caracteristica       |  Resposta   |
+| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**            | Marina    |
+| **Idade**            |     23 anos     | 
+| **Gênero**       | Feminino      |
+| **Localidade**            |               |   
+| **Particularidades**            |              |    
+| **Escolaridade**            |               |    
+| **Profissão**            |           |   
+| **História**            |            |    
+| **Objetivos**       |           |
+| **Rotina**         |         |
+| **Requisitos**      |      |
+| **Frequência** |    | 
+| **Necessidades** |  |
+| **Expectativas**    |  |
+
+### Marina - Persona primária
+
+
+
+<div align="center">
+<img src="../assets/Marcos.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 1: Marcos (persona-primária).</b>
+    <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
+</figcaption>
+</div>
+
+
+
+<br>
+
+
+
+
+
+|        Caracteristica       |  Resposta   |
+| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**            |     |
+| **Idade**            |        | 
+| **Gênero**       |      |
+| **Localidade**            |               |   
+| **Particularidades**            |              |    
+| **Escolaridade**            |               |    
+| **Profissão**            |           |   
+| **História**            |            |    
+| **Objetivos**       |           |
+| **Rotina**         |         |
+| **Requisitos**      |      |
+| **Frequência** |    | 
+| **Necessidades** |  |
+| **Expectativas**    |  |
+
+### Marina - Persona primária
+
+
+
+<div align="center">
+<img src="../assets/Jaqueline.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 1: Jaqueline (persona-primária).</b>
+    <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
+</figcaption>
+</div>
+
+
+
+<br>
+
+
+
+
+
+|        Caracteristica       |  Resposta   |
+| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**            |     |
+| **Idade**            |          | 
+| **Gênero**       |     |
+| **Localidade**            |               |   
+| **Particularidades**            |              |    
+| **Escolaridade**            |               |    
+| **Profissão**            |           |   
+| **História**            |            |    
+| **Objetivos**       |           |
+| **Rotina**         |         |
+| **Requisitos**      |      |
+| **Frequência** |    | 
+| **Necessidades** |  |
+| **Expectativas**    |  |
+
+
+### Marina - Persona primária
+
+
+
+<div align="center">
+<img src="../assets/Joyce.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 1: Joyce (persona-primária).</b>
+    <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
+</figcaption>
+</div>
+
+
+
+<br>
+
+
+
+
+
+|        Caracteristica       |  Resposta   |
+| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**            | Joyce    |
+| **Idade**            |         | 
+| **Gênero**       |      |
+| **Localidade**            |               |   
+| **Particularidades**            |              |    
+| **Escolaridade**            |               |    
+| **Profissão**            |           |   
+| **História**            |            |    
+| **Objetivos**       |           |
+| **Rotina**         |         |
+| **Requisitos**      |      |
+| **Frequência** |    | 
+| **Necessidades** |  |
+| **Expectativas**    |  |
+
+
+### Marina - Persona primária
+
+
+
+<div align="center">
+<img src="../assets/Isaque.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 1: Isaque (persona-primária).</b>
+    <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
+</figcaption>
+</div>
+
+
+
+<br>
+
+
+
+
+
+|        Caracteristica       |  Resposta   |
+| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**            |    |
+| **Idade**            |         | 
+| **Gênero**       |      |
+| **Localidade**            |               |   
+| **Particularidades**            |              |    
+| **Escolaridade**            |               |    
+| **Profissão**            |           |   
+| **História**            |            |    
+| **Objetivos**       |           |
+| **Rotina**         |         |
+| **Requisitos**      |      |
+| **Frequência** |    | 
+| **Necessidades** |  |
+| **Expectativas**    |  |
 
 ## **Legenda**
 <p align="justify">
@@ -83,6 +285,7 @@ Perfil de usuário:
 |--------|------------|----------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------|
 | `1.0`  | 03/10/2023 | Criação do Documento | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.1`  | 03/10/2023 | Adiciona Perguntas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
+| `1.2`  | 03/10/2023 | Iniciando Personas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 <h6> Tabela n: Histórico de Versão.
 
 ## **Bibliografia**
