@@ -7,74 +7,81 @@
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;A tabela 1 apresenta os requisitos funcionais e não funcionais que foram elicitados em todas as técnicas citadas cima, cada uma contendo o seu identificador, descrição, hyperlink de rastreabilidade (direciona ao(s) artefato(s) aonde o requisito foi elicitado) e se foi implementado na aplicação ou não.
+&emsp;&emsp;As tabelas 1 e 2 apresentam os requisitos funcionais e não funcionais que foram elicitados em todas as técnicas citadas cima, cada uma contendo o seu identificador, descrição, <b><i>hyperlink</i></b> de rastreabilidade (direciona ao(s) artefato(s) aonde o requisito foi elicitado) e se foi implementado na aplicação ou não.
 </p>
 <p align="justify">
 &emsp;&emsp;Legenda para cada sigla utilizada na tabela:
 <ul>
-<li>RF: Requisito Funcional</li>
-<li>RNF: Requisito Não-Funcional nº</li>
-<li>BRx: Requisito nºx elicitado pela Brainstorming</li>
-<li>ENTx: Requisito nºx elicitado pela Entrevista</li>
-<li>INx: Requisito nºx elicitado pela Introspecção</li>
-<li>OBx: Requisito nºx elicitado pela Observação</li>
+<li>RFx: Requisito Funcional nºx;</li>
+<li>RNFx: Requisito Não-Funcional nºx;</li>
+<li>BRx: Requisito nºx elicitado pela Brainstorming;</li>
+<li>ENTx: Requisito nºx elicitado pela Entrevista;</li>
+<li>INx: Requisito nºx elicitado pela Introspecção;</li>
+<li>OBx: Requisito nºx elicitado pela Observação.</li>
 </p>
 
+### **Requisitos Funcionais**
 | Identificador | Requisito | Categoria | Implementado | 
 | ------------- | -------------------- | --------- | ------- | 
-| ENT01, IN02, OB07, BR02 | Os usuários devem poder compartilhar suas telas durante as chamadas | RF | Sim | 
-| ENT02| Os usuários devem ser capazes de criar uma videoconferência | RF | Sim |
-| ENT03, OB09 | Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | RF | Sim |
-| ENT04, IN03, OB05, BR03 | Deve permitir a gravação de chamadas | RF | Não | 
-| ENT05, BR05 | Deve permitir a transcrição do áudio da chamada | RF | Não | 
-| ENT06, IN04, BR01 | Deve permitir a utilização de quadro de anotação durante a chamada | RF | Não |
-| ENT07, BR04 | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | RF | Não | 
-| ENT08, OB18, BR17 | Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim |
-|IN01| Deve permitir a configuração de controles de acesso | RF | Sim | 
-|IN05| Ser compatível com sistemas operacionais Android e IOS| RNF | Sim | 
-|IN06| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | RNF | Sim | 
-|IN07| Deve ser de código aberto e gratuito | RNF | Sim | 
-|IN08| Deve ser possível deletar reuniões armazenadas | RF | Sim |
-|IN09, BR09 | Deve possuir um mecanismo de busca a partir da data da reunião | RF | Não |
-|IN10, BR07 | Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | RF | Não | 
-|IN11, OB12| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência | RNF | Sim |
-|IN12| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia | RNF | Sim |
-|IN13| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela  | RNF | Sim | 
-|OB01| Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook | RF | Sim |
-|OB02| Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos| RF | Sim |
-|OB03| Deve possuir um link de ajuda para explicar como se convida outros participantes | RF | Não | 
-|OB04| Deve possuir a opção de mutar o áudio | RF | Sim | 
-|OB06| Deve permitir enviar mensagem de texto durante a videochamada | RF | Sim | 
-|OB08, BR15| Os usuários devem poder compartilhar arquivos durante as reuniões | RF | Não | 
-|OB10| O anfitrião deve conseguir, através do compartilhamento de tela, interagir no celular de outro usuário | RF | Não | 
-|OB11| Deve permitir que o usuário configure seu perfil, com nome de usuário e foto | RF | Sim | 
-|OB13| Deve possuir um calendário com chamadas agendadas | RF | Sim | 
-|OB14| Deve permitir que o calendário de um usuário seja sincronizado ao de outros | RF | Não | 
-|OB15| Deve permitir agendar reuniões com outros usuários através do calendário | RF | Não | 
-|OB16| Deve possuir uma lista das reuniões que o usuário já participou | RF | Sim | 
-|OB17| Deve ser um aplicativo que ocupe menos de 100mb de memória | RNF | Sim |
-|BR06| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | RF | Não | 
-|BR08| Deve ser possível baixar as gravações das reuniões | RF | Sim | 
-|BR10| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. | RF | Sim | 
-|BR11| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso | RF | Sim | 
-|BR12| Deve ser possível ingressar em uma reunião sem a necessidade de um login | RNF | Sim | 
-|BR13| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | RF | Sim | 
-|BR14| Os usuários devem poder compartilhar arquivos durante as reuniões | RF | Não | 
-|BR16| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | RF | Não | 
-|BR18| Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade | RNF | Sim | 
+| [ENT01](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN02](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB07](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados), [BR02](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Os usuários devem poder compartilhar suas telas durante as chamadas | RF01 | Sim | 
+| [ENT02](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados) | Os usuários devem ser capazes de criar uma videoconferência | RF02 | Sim |
+| [ENT03](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [OB09](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | RF03 | Sim |
+| [ENT04](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN03](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB05](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados), [BR03](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve permitir a gravação de chamadas | RF04 | Não | 
+| [ENT05](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [BR05](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve permitir a transcrição do áudio da chamada | RF05 | Não | 
+| [ENT06](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN04](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [BR01](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve permitir a utilização de quadro de anotação durante a chamada | RF06 | Não |
+| [ENT07](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [BR04](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | RF07 | Não | 
+| [IN01](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Deve permitir a configuração de controles de acesso | RF08 | Sim | 
+| [IN08](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Deve ser possível deletar reuniões armazenadas | RF09 | Sim |
+| [IN09](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [BR09](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve possuir um mecanismo de busca a partir da data da reunião | RF10 | Não |
+| [IN10](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [BR07](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | RF11 | Não | 
+| [OB01](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook | RF12 | Sim |
+| [OB02](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos| RF13 | Sim |
+| [OB03](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve possuir um link de ajuda para explicar como se convida outros participantes | RF14 | Não | 
+| [OB04](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve possuir a opção de mutar o áudio | RF15 | Sim | 
+| [OB06](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve permitir enviar mensagem de texto durante a videochamada | RF16 | Sim | 
+| [OB08](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados), [BR15](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Os usuários devem poder compartilhar arquivos durante as reuniões | RF17 | Não | 
+| [OB10](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | O anfitrião deve conseguir, através do compartilhamento de tela, interagir no celular de outro usuário | RF18 | Não | 
+| [OB11](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve permitir que o usuário configure seu perfil, com nome de usuário e foto | RF19 | Sim | 
+| [OB13](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve possuir um calendário com chamadas agendadas | RF20 | Sim | 
+| [OB14](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve permitir que o calendário de um usuário seja sincronizado ao de outros | RF21 | Não | 
+| [OB15](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve permitir agendar reuniões com outros usuários através do calendário | RF22 | Não | 
+| [OB16](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve possuir uma lista das reuniões que o usuário já participou | RF23 | Sim | 
+| [BR06](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | RF24 | Não | 
+| [BR08](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve ser possível baixar as gravações das reuniões | RF25 | Sim | 
+| [BR10](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente | RF26 | Sim | 
+| [BR11](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso | RF27 | Sim | 
+| [BR13](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | RF28 | Sim | 
+| [BR14](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Os usuários devem poder compartilhar arquivos durante as reuniões | RF29 | Não | 
+| [BR16](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | RF30 | Não |  
+<h6 align = "center"> Tabela 1: Requisitos Funcionais Elicitados.
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
-<h6 align = "center"> Tabela 1: Requisitos Elicitados.
+### **Requisitos Não Funcionais**
+| Identificador | Requisito | Categoria | Implementado | 
+| ------------- | -------------------- | --------- | ------- | 
+| [ENT08](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [OB18](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados), [BR17](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF01 | Sim |
+| [IN05](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Ser compatível com sistemas operacionais Android e IOS | RNF02 | Sim | 
+| [IN06](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | RNF03 | Sim | 
+| [IN07](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Deve ser de código aberto e gratuito | RNF04 | Sim | 
+| [IN11](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB12](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência | RNF05 | Sim |
+| [IN12](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Deve ser estável, tendo no máximo 1 queda de funcionamento por dia | RNF06 | Sim |
+| [IN13](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela  | RNF07 | Sim | 
+| [OB17](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve ser um aplicativo que ocupe menos de 100mb de memória | RNF08 | Sim |
+| [BR12](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve ser possível ingressar em uma reunião sem a necessidade de um login | RNF09 | Sim | 
+| [BR18](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade | RNF10 | Sim |
+<h6 align = "center"> Tabela 2: Requisitos Não Funcionais Elicitados.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 3 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 04/10/2023 | Criação do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)|
-<h6> Tabela 2: Histórico de Versão.
+| `1.1`  | 04/10/2023 | Enumerando requisitos e aplicando a rastreabilidade | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)|
+<h6> Tabela 3: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Bibliografia**
