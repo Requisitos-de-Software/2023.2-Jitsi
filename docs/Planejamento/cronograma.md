@@ -1,5 +1,5 @@
 # **Cronograma**
-## *Introdução*
+## **Introdução**
 <p align="justify">
 &emsp;&emsp;O cronograma da equipe foi elaborado com base nas <b>datas de entrega</b> e <b>conteúdos descritos</b> no cronograma do plano de Ensino da disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales no semestre de 2023.2.
 </p>
@@ -7,7 +7,7 @@
 &emsp;&emsp;Tem como objetivo mostrar em ordem como as terefas serão desenvolvidas ao longo do semestre, com as repectivas projeções de datas de início e conclusão, ajudando na organização e acompanhamento do progresso das atividades.
 </p>
 
-## *Entrega 1 - Apresentação do Projeto*
+## **Entrega 1 - Apresentação do Projeto**
 <p align="justify">
 &emsp;&emsp;A tabela 1 apresenta as entregas da primeira etapa.
 </p>
@@ -34,7 +34,7 @@
 </center>
 
 
-## *Entrega 2 - Elicitação - Técnicas e Priorização*
+## **Entrega 2 - Elicitação - Técnicas e Priorização**
 <p align="justify">
 &emsp;&emsp;A tabela 2 apresenta as entregas da segunda etapa.
 </p>
@@ -60,7 +60,7 @@
 </center>
 
 
-## *Entrega 3 - Modelagem de Requisitos*
+## **Entrega 3 - Modelagem de Requisitos**
 <p align="justify">
 &emsp;&emsp;A tabela 3 apresenta as entregas da terceira etapa.
 </p>
@@ -79,7 +79,7 @@
 <br/> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
-## *Entrega 4 - Modelagem de Requisitos - Ágil*
+## **Entrega 4 - Modelagem de Requisitos - Ágil**
 <p align="justify">
 &emsp;&emsp;A tabela 4 apresenta as entregas da quarta etapa.
 </p>
@@ -97,7 +97,7 @@
 <br/> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
-## *Entrega 5.1 - Análise de Requisitos: Verificação e Validação 1*
+## **Entrega 5.1 - Análise de Requisitos: Verificação e Validação 1**
 <p align="justify">
 &emsp;&emsp;A tabela 5 apresenta as entregas da quinta etapa.
 </p>
@@ -114,7 +114,7 @@
 <br/> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
-## *Entrega 6 - Pós-Rastreabilidade*
+## **Entrega 6 - Pós-Rastreabilidade**
 <p align="justify">
 &emsp;&emsp;A tabela 6 apresenta as entregas da sexta etapa.
 </p>
@@ -131,7 +131,7 @@
 <br/> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
-## *Entrega 5.2 - Análise de Requisitos 2*
+## **Entrega 5.2 - Análise de Requisitos 2**
 <p align="justify">
 &emsp;&emsp;A tabela 7 apresenta as entregas da sétima etapa.
 </p>
@@ -148,7 +148,7 @@
 <br/> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
-## *Entrega Final* 
+## **Entrega Final**
 <p align="justify">
 &emsp;&emsp;A tabela 8 apresenta as entregas da etapa final.
 </p>
@@ -164,7 +164,7 @@
 <br/> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
-## *Histórico de Versão*
+## **Histórico de Versão**
 <p align="justify">
 &emsp;&emsp;A tabela 9 representa o histórico de versão do documento.
 </p>

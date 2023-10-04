@@ -40,16 +40,17 @@ nav:
     - Heatmap: Planejamento/heatmap.md
     - Metodologias: Planejamento/metodologias.md
   - Elicitação:
-    - Perfil do Usuário:  
-      - Personas: Elicitação/perfilDoUsuario/personas.md  
-      - Questionário: Elicitação/perfilDoUsuario/questionario.md
-    - Técnicas:
-      - Introspecção: Elicitação/tecnicas/introspecção.md
-      - Brainstorming: Elicitação/tecnicas/brainstorming.md
-      - Entrevista: Elicitação/tecnicas/entrevista.md
+    - Planejamento: Elicitacao/planejamento.md
+    - Perfil do Usuário:
+      - Personas: Elicitacao/perfilDoUsuario/personas.md  
+      - Questionário: Elicitacao/perfilDoUsuario/questionario.md
     - Priorização: 
-      - 100 doláres: Elicitação/priorizacao/100Dolares.md
-      - MoSCoW: Elicitação/priorizacao/MoSCoW.md
+      - 100 Doláres: Elicitacao/priorizacao/100Dolares.md
+      - MoSCoW: Elicitacao/priorizacao/MoSCoW.md
+    - Técnicas:
+      - Brainstorming: Elicitacao/tecnicas/brainstorming.md
+      - Entrevista: Elicitacao/tecnicas/entrevista.md
+      - Introspecção: Elicitacao/tecnicas/introspecção.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md
