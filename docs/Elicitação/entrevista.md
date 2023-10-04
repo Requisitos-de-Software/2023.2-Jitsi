@@ -11,7 +11,7 @@
 
 Durante as entrevistas, predominantemente utilizamos perguntas abertas, permitindo assim que os entrevistados expressassem suas opiniões, experiências e sugestões de forma livre. As valiosas opiniões e insights coletados podem ter um impacto significativo no desenvolvimento de um aplicativo robusto, seguro e que atenda plenamente às necessidades dos usuários.
 
-A gravação da entrevista pode ser conferida no links [Entrevistado 1](https://youtu.be/9wbc4-v2vWc) e [Entrevistado 2](https://youtu.be/9wbc4-v2vWc), o cronograma da entrevista e termo de consentimento pode ser conferida no Toggle abaixo:
+A gravação da entrevista pode ser conferida no links <a href="https://youtu.be/9wbc4-v2vWc">Entrevistado 1</a> e <a href="https://youtu.be/9wbc4-v2vWc">Entrevistado 2</a>, o cronograma da entrevista e termo de consentimento pode ser conferida no Toggle abaixo:
 
 
 <details>
