@@ -35,10 +35,10 @@
 
 ## **Link para as gravações da observação**
 <p align="justify">
-<a href="link de referência">Observação Hugo</a> 
+<a href="https://youtu.be/EJyVBQSa5yw">Observação Hugo</a> 
 </p>
 <p>
-<a href="link de referência">Observação Leticia</a>
+<a href="https://youtu.be/ZMosEjgKFcg">Observação Leticia</a>
  </p>
 
 ## **Requisitos Elicitados**
