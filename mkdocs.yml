@@ -41,12 +41,13 @@ nav:
     - Metodologias: Planejamento/metodologias.md
   - Elicitação:
     - Perfil do Usuário:  
-      - Personas: Elicitação/perfilDoUsuario/personas.md  
+      - Personas: Elicitação/perfilDoUsuario/Personas.md  
       - Questionário: Elicitação/perfilDoUsuario/questionario.md
     - Técnicas:
-      - Introspecção: Elicitação/tecnicas/introspecção.md
+      - Introspecção: Elicitação/tecnicas/Introspecção.md
       - Brainstorming: Elicitação/tecnicas/brainstorming.md
       - Entrevista: Elicitação/tecnicas/entrevista.md
+      - Observação: Elicitação/tecnicas/observacao.md
     - Priorização: 
       - 100 doláres: Elicitação/priorizacao/100Dolares.md
       - MoSCoW: Elicitação/priorizacao/MoSCoW.md
