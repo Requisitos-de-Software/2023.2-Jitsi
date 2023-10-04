@@ -42,4 +42,4 @@
 | `1.0` | 15/09/2023 | Criação do documento | [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Vitória](https://github.com/Juhvitoria4) |
 
 <h6 align = "center"> Tabela 2: Histórico de Versão.
-<br> Autor(a): Pedro Siqueira</h6>
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
