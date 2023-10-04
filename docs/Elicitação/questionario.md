@@ -7,7 +7,7 @@
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;O questionário foi divulgado em grupos de WhatsApp, nos grupos da Unb, familia .... desenvolver
+&emsp;&emsp;
 </p>
 
 ## **Resultados**

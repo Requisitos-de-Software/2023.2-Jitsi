@@ -29,7 +29,7 @@
 | Identificação  | Descrição  | Categoria | 
 |-----|---------------------------------------------------------|-------|
 |IN01| Deve permitir a configuração de controles de acesso | RF |
-|IN02| Os usuários devem poder compartilhar suas telas durante as reuniões | RF|
+|IN02| O usuário deve ser capaz de compartilhar sua tela durante as reuniões | RF|
 |IN03| Deve permitir a gravação de reuniões  | RF |
 |IN04| Deve haver uma funcionalidade de quadro de anotações disponível | RF |
 |IN05| Ser compatível com sistemas operacionais Android e IOS| RNF|
