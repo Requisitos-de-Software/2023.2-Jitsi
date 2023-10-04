@@ -23,10 +23,10 @@
 | --------------------------------------------------------- | ---------- |
 | [Júlia Souza](https://github.com/JuliaSSouza)             | Mediadora  |
 | [Carolina Barbosa](https://github.com/CarolinaBarb)       | Secretária |
-| <span style = "color: purple"> Caio Pacheco</span>        | Usuário    |
-| <span style = "color: purple"> Gabriel Santana</span>     | Usuário    |
-| <span style = "color: purple"> Guilherme Quirino </span>  | Usuário    |
-| <span style = "color: purple"> Henrique Pucci </span>     | Usuário    |
+| <span style = "color: purple"> Caio Pacheco Santos</span>        | Usuário    |
+| <span style = "color: purple"> Gabriel Morais Santana</span>     | Usuário    |
+| <span style = "color: purple"> Guilherme Almeida Quirino </span>  | Usuário    |
+| <span style = "color: purple"> Henrique Pucci da Silva Pinto </span>     | Usuário    |
 
 </center>
 
