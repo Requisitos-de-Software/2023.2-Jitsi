@@ -62,9 +62,7 @@ Perfil de usuário:
 
 
 ## **Personas**
-### Marina - Persona primária
-
-
+### Marina
 
 <div align="center">
 <img src="../../assets/Marina.jpeg" width="300" height="300">
@@ -73,18 +71,12 @@ Perfil de usuário:
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 1: Marina (persona-primária).</b>
+    <b>Figura 1: Marina.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
 
-
-
 <br>
-
-
-
-
 
 | Caracteristica       | Resposta |
 |:---------------------|:---------|
@@ -103,9 +95,12 @@ Perfil de usuário:
 | **Necessidades**     |          |
 | **Expectativas**     |          |
 
-### Marina - Persona primária
+<p align="justify">
+<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
 
-
+### Marcos
 
 <div align="center">
 <img src="../../assets/Marcos.jpeg" width="300" height="300">
@@ -114,24 +109,18 @@ Perfil de usuário:
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 1: Marcos (persona-primária).</b>
+    <b>Figura 2: Marcos.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
 
-
-
 <br>
-
-
-
-
 
 | Caracteristica       | Resposta |
 |:---------------------|:---------|
-| **Nome**             |          |
-| **Idade**            |          |
-| **Gênero**           |          |
+| **Nome**             |  Marcos  |
+| **Idade**            |    25    |
+| **Gênero**           | Masculino|
 | **Localidade**       |          |
 | **Particularidades** |          |
 | **Escolaridade**     |          |
@@ -144,9 +133,12 @@ Perfil de usuário:
 | **Necessidades**     |          |
 | **Expectativas**     |          |
 
-### Marina - Persona primária
+<p align="justify">
+<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
 
-
+### Jaqueline
 
 <div align="center">
 <img src="../../assets/Jaqueline.jpeg" width="300" height="300">
@@ -155,24 +147,18 @@ Perfil de usuário:
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 1: Jaqueline (persona-primária).</b>
+    <b>Figura 3: Jaqueline.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
 
-
-
 <br>
-
-
-
-
 
 | Caracteristica       | Resposta |
 |:---------------------|:---------|
-| **Nome**             |          |
-| **Idade**            |          |
-| **Gênero**           |          |
+| **Nome**             | Jaqueline |
+| **Idade**            |   38     |
+| **Gênero**           | Feminino  |
 | **Localidade**       |          |
 | **Particularidades** |          |
 | **Escolaridade**     |          |
@@ -185,10 +171,12 @@ Perfil de usuário:
 | **Necessidades**     |          |
 | **Expectativas**     |          |
 
+<p align="justify">
+<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
 
-### Marina - Persona primária
-
-
+### Joyce
 
 <div align="center">
 <img src="../../assets/Joyce.jpeg" width="300" height="300">
@@ -197,24 +185,19 @@ Perfil de usuário:
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 1: Joyce (persona-primária).</b>
+    <b>Figura 4: Joyce.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
 
-
-
 <br>
-
-
-
 
 
 | Caracteristica       | Resposta |
 |:---------------------|:---------|
 | **Nome**             | Joyce    |
-| **Idade**            |          |
-| **Gênero**           |          |
+| **Idade**            |   18     |
+| **Gênero**           | Feminino |
 | **Localidade**       |          |
 | **Particularidades** |          |
 | **Escolaridade**     |          |
@@ -227,10 +210,13 @@ Perfil de usuário:
 | **Necessidades**     |          |
 | **Expectativas**     |          |
 
+<p align="justify">
+<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
 
-### Marina - Persona primária
 
-
+### Isaque 
 
 <div align="center">
 <img src="../../assets/Isaque.jpeg" width="300" height="300">
@@ -239,24 +225,19 @@ Perfil de usuário:
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 1: Isaque (persona-primária).</b>
+    <b>Figura 5: Isaque.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
 
-
-
 <br>
-
-
-
 
 
 | Caracteristica       | Resposta |
 |:---------------------|:---------|
-| **Nome**             |          |
+| **Nome**             |   Isaque |
 | **Idade**            |          |
-| **Gênero**           |          |
+| **Gênero**           |Masculino |
 | **Localidade**       |          |
 | **Particularidades** |          |
 | **Escolaridade**     |          |
@@ -269,11 +250,11 @@ Perfil de usuário:
 | **Necessidades**     |          |
 | **Expectativas**     |          |
 
-## **Legenda**
 <p align="justify">
 <h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
-<br> Autor(a): <a href="https://github.com/fulanodetal">Fulano de Tal</a></h6>
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
+
 
 
 ## **Histórico de Versão**
