@@ -82,14 +82,14 @@
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela n representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 03 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 04/10/2023 | Criação do documento  | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
-<h6> Tabela n: Histórico de Versão.
-<br> Autor(a): Fulano de tal </h6>
+<h6 align = "center"> Tabela 03: Histórico de Versão.
+<br> Autor(a):  <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
 ## **Bibliografia**
 > <a href="https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pd">[1]</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. **UnB Gama**, Brasília, 2023

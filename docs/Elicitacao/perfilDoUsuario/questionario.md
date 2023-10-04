@@ -19,7 +19,7 @@ De acordo com a figura 1, o gênero dos participantes em sua maioria é masculin
 
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 1 - Questão 1.</p></font>
-<img src="../../assets/questionario/1.png" alt="logo"  style="float: none; margin: auto"/>
+<img src="../../../assets/questionario/1.png" alt="logo"  style="float: none; margin: auto"/>
 <font size="3"><p style="text-align: center">Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></p></font>
 </figure>
 
@@ -27,7 +27,7 @@ De acordo com o gráfico apresentado na figura 2 em relação a faixa etária do
 
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 2 - Questão 2.</p></font>
-<img src="../../assets/questionario/2.png" alt="logo"  style="float: none; margin: auto"/>
+<img src="../../../assets/questionario/2.png" alt="logo"  style="float: none; margin: auto"/>
 <font size="3"><p style="text-align: center">Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></p></font>
 </figure>
 
@@ -35,7 +35,7 @@ De acordo com o gráfico apresentado na figura 3 o grau de escolaridade dos part
 
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 3 - Questão 3.</p></font>
-<img src="../../assets/questionario/3.png" alt="logo"  style="float: none; margin: auto"/>
+<img src="../../../assets/questionario/3.png" alt="logo"  style="float: none; margin: auto"/>
 <font size="3"><p style="text-align: center">Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></p></font>
 </figure>
 
@@ -43,7 +43,7 @@ De acordo com o gráfico apresentado na figura 4 sobre a frequência que o parti
 
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 4 - Questão 4.</p></font>
-<img src="../../assets/questionario/4.png" alt="logo"  style="float: none; margin: auto"/>
+<img src="../../../assets/questionario/4.png" alt="logo"  style="float: none; margin: auto"/>
 <font size="3"><p style="text-align: center">Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></p></font>
 </figure>
 
@@ -51,7 +51,7 @@ De acordo com a figura 5, a maioria dos usuarios não usa o Jitsi.
 
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 5 - Questão 5.</p></font>
-<img src="../../assets/questionario/5.png" alt="logo"  style="float: none; margin: auto"/>
+<img src="../../../assets/questionario/5.png" alt="logo"  style="float: none; margin: auto"/>
 <font size="3"><p style="text-align: center">Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></p></font>
 </figure>
 
@@ -59,7 +59,7 @@ De acordo com a figura 6, 75% dos usuários possuem muita experiência com dispo
 
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 6 - Questão 6.</p></font>
-<img src="../../assets/questionario/6.png" alt="logo"  style="float: none; margin: auto"/>
+<img src="../../../assets/questionario/6.png" alt="logo"  style="float: none; margin: auto"/>
 <font size="3"><p style="text-align: center">Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></p></font>
 </figure>
 
@@ -67,7 +67,7 @@ De acordo com a figura 7, a maioria dos usuários usam o aplicativo para reuniõ
 
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 7 - Questão 7.</p></font>
-<img src="../../assets/questionario/7.png" alt="logo"  style="float: none; margin: auto"/>
+<img src="../../../assets/questionario/7.png" alt="logo"  style="float: none; margin: auto"/>
 <font size="3"><p style="text-align: center">Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></p></font>
 </figure>
 
@@ -75,7 +75,7 @@ De acordo com a figura 8, dentre as funcionalidades presentes no Jitsi, as mais 
 
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 8 - Questão 8.</p></font>
-<img src="../../assets/questionario/8.png" alt="logo"  style="float: none; margin: auto"/>
+<img src="../../../assets/questionario/8.png" alt="logo"  style="float: none; margin: auto"/>
 <font size="3"><p style="text-align: center">Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></p></font>
 </figure>
 
@@ -83,21 +83,21 @@ De acordo com a figura 9, os usuários também usam outros aplicativos de chamad
 
 <figure markdown>
 <font size="3"><p style="text-align: center">Figura 9 - Questão 9.</p></font>
-<img src="../../assets/questionario/9.png" alt="logo"  style="float: none; margin: auto"/>
+<img src="../../../assets/questionario/9.png" alt="logo"  style="float: none; margin: auto"/>
 <font size="3"><p style="text-align: center"> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></font>
 </figure>
 
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela n representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 1 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 03/10/2023 | Criação do Documento  | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.1`  | 04/10/2023 | Adiciona Perguntas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
-<h6> Tabela n: Histórico de Versão.
+<h6> Tabela 1: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </center>
 

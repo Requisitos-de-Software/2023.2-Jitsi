@@ -23,10 +23,10 @@
 | --------------------------------------------------------- | ---------- |
 | [Júlia Souza](https://github.com/JuliaSSouza)             | Mediadora  |
 | [Carolina Barbosa](https://github.com/CarolinaBarb)       | Secretária |
-| <span style = "color: purple"> Caio Pacheco</span>        | Usuário    |
-| <span style = "color: purple"> Gabriel Santana</span>     | Usuário    |
-| <span style = "color: purple"> Guilherme Quirino </span>  | Usuário    |
-| <span style = "color: purple"> Henrique Pucci </span>     | Usuário    |
+| <span style = "color: purple"> Caio Pacheco Santos</span>        | Usuário    |
+| <span style = "color: purple"> Gabriel Morais Santana</span>     | Usuário    |
+| <span style = "color: purple"> Guilherme Almeida Quirino </span>  | Usuário    |
+| <span style = "color: purple"> Henrique Pucci da Silva Pinto </span>     | Usuário    |
 
 </center>
 
@@ -105,14 +105,14 @@
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela n representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 04 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 02/10/2023 | Introdução e Ideias Iniciais | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.1`  | 03/10/2023 | Elicitação dos Requisitos e conclusão | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
-<h6> Tabela n: Histórico de Versão.
+<h6 align="center"> Tabela 04: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 

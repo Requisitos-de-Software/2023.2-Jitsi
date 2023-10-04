@@ -31,8 +31,8 @@ theme:
 nav:
   - Início: index.md
   - Atas de Reunião: 
-    - Reunião 01: atas/reuniao-01.md
-    - Reunião 02: atas/reuniao-02.md
+    - Reunião 01: Atas/reuniao-01.md
+    - Reunião 02: Atas/reuniao-02.md
   - Planejamento:
     - Cronograma: Planejamento/cronograma.md 
     - Cronograma Realizado: Planejamento/cronograma_realizado.md
@@ -40,20 +40,20 @@ nav:
     - Heatmap: Planejamento/heatmap.md
     - Metodologias: Planejamento/metodologias.md
   - Elicitação:
-    - Perfil do usuário:  
-      - Personas: Elicitação/Personas.md  
-      - Questionário: Elicitação/questionario.md
-    - Técnicas:
-      - Introspecção: Elicitação/Introspecção.md
-      - Brainstorming: Elicitação/brainstorming.md
-      - Entrevista: Elicitação/entrevista.md
-      - Observação: Elicitação/observacao.md
+    - Planejamento: Elicitacao/planejamento.md
+    - Perfil do Usuário:
+      - Personas: Elicitacao/perfilDoUsuario/personas.md  
+      - Questionário: Elicitacao/perfilDoUsuario/questionario.md
     - Priorização: 
-      - 100 doláres: Elicitação/100Dolares.md
-      - MoSCoW: Elicitação/MoSCoW.md
+      - 100 Doláres: Elicitacao/priorizacao/100Dolares.md
+      - MoSCoW: Elicitacao/priorizacao/MoSCoW.md
+    - Técnicas:
+      - Brainstorming: Elicitacao/tecnicas/brainstorming.md
+      - Entrevista: Elicitacao/tecnicas/entrevista.md
+      - Introspecção: Elicitacao/tecnicas/introspecção.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md
   - Apresentações: 
-    - Etapa 01: apresentacoes/etapa-01.md
+    - Etapa 01: Apresentacoes/etapa-01.md
     

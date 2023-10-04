@@ -31,16 +31,11 @@
 &emsp;&emsp;A tabela 1 representa os Requisitos Elicitados pela técnica de Introspecção.
 </p>
 
-| Identificação  | Descrição  | Categoria | 
+| Identificador  | Requisito  | Categoria | 
 |-----|---------------------------------------------------------|-------|
 |IN01| Deve permitir a configuração de controles de acesso | RF |
-<<<<<<< HEAD
 |IN02| Os usuários devem poder compartilhar suas telas durante as reuniões | RF|
-|IN03| Deve permitir a gravação de reuniões, por parte do usuário anfitrião  | RF |
-=======
-|IN02| O usuário deve ser capaz de compartilhar sua tela durante as reuniões | RF|
-|IN03| Deve permitir a gravação de reuniões  | RF |
->>>>>>> ef377453fa062f7257a80d46547509cd90a2e0d3
+|IN03| Deve permitir a gravação de reuniões | RF |
 |IN04| Deve haver uma funcionalidade de quadro de anotações disponível | RF |
 |IN05| Ser compatível com sistemas operacionais Android e IOS| RNF|
 |IN06| Deve ser fácil de instalar e usar|RNF|
