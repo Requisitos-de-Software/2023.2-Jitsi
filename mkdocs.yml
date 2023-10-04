@@ -48,7 +48,9 @@ nav:
       - Brainstorming: Elicitação/brainstorming.md
       - Entrevista: Elicitação/entrevista.md
       - Observação: Elicitação/observacao.md
-
+    - Priorização: 
+      - 100 doláres: Elicitação/100Dolares.md
+      - MoSCoW: Elicitação/MoSCoW.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md
