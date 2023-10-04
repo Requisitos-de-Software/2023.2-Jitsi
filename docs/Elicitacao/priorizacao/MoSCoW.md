@@ -11,7 +11,7 @@
 
 <p align="justify">
 &emsp;&emsp;A classificação dos requisitos baseou-se em uma análise abrangente das necessidades dos stakeholders, considerações técnicas, viabilidade e alinhamento com os objetivos do projeto. Essa abordagem de priorização nos permite tomar decisões informadas sobre como alocar recursos e garantir que nosso projeto atenda às expectativas e metas estabelecidas.
-</p>
+</p></p>
 
 ## **Objetivo**
 <p align="justify">
@@ -25,36 +25,144 @@
 
 ## **Must Have**
 
-
-
-
-
-
-
-
-
-
-
-
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;Legenda da tabela 1: 
+<li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
+<li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
+</p>
+<p align="justify">
+&emsp;&emsp;A tabela 1 representa os requisitos classificados de acordo com a técnia MoSCoW como Must Have
 </p>
 
-## **Legenda**
+|TIPO| Requisito | Elicitação |
+| -------|--------|------------|
+|RF| O usuário deve ser capaz de compartilhar sua tela durante as reuniões | Brainstorming|
+|RF| Deve permitir a gravação de reuniões  |Brainstorming|
+|RF| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião |Brainstorming|
+|RNF| Deve oferecer uma interface simples e objetiva |Brainstorming|
+|RF| Deve oferecer configurações claras e intuitivas |Brainstorming|
+| RF | Os usuários devem poder compartilhar suas telas durante as reuniões | Entrevista |
+| RF | Os usuários devem ser capazes de criar uma videoconferência | Entrevista |
+| RF | Deve permitir a gravação de chamadas | Entrevista |
+|RNF | Deve ter uma interface intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | Entrevista |
+|RF| Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook| Observação |
+|RF| Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos| Observação |
+|RF| Deve possuir a opção de mutar o áudio| Observação |
+|RF| Deve permitir a gravação de chamadas | Observação |
+|RF| Deve permitir enviar menssagem de texto durante a videochamada | Observação |
+|RF| Os usuários devem poder compartilhar suas telas durante as chamadas | Observação |
+|RF| Deve permitir configuração de perfil |Observação |
+|RNF| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência| Observação |
+|RNF| Deve ser um aplicativo ágil e que ocupe pouco espaço de memória | Observação |
+|RNF| Deve ser um aplicativo intuitivo que o usuário possa utilizar sem dificuldades | Observação |
+|RF| Deve permitir a configuração de controles de acesso | Instrospecção | 
+|RNF| Ser compatível com sistemas operacionais Android e IOS| Instrospecção | 
+|RNF| Deve ser de código aberto e gratuito | Instrospecção | 
+
+<h6 align = "center"> Tabela 01: Must Have
+<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a>
+</center>
+</p>
+</h6>
+
+
+
+## **Should Have**
+
 <p align="justify">
-<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
-<br> Autor(a): <a href="https://github.com/fulanodetal">Fulano de Tal</a></h6>
+&emsp;&emsp;Legenda da tabela 2: 
+<li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
+<li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
+</p>
+<p align="justify">
+&emsp;&emsp;A tabela 2 representa os requisitos classificados de acordo com a técnia MoSCoW como Should Have
 </p>
 
-## **Links**
+|TIPO| Requisito | Elicitação |
+| -------|--------|------------|
+|RF| Deve ser possível fazer o download das gravações das reuniões|Brainstorming|
+|RF| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha|Brainstorming|
+|RNF| Deve ser possível a integração com outros sistemas afim de possibilitar a abertura de arquivos no próprio aplicativo| Brainstorming |
+|RF| Deve haver uma funcionalidade de quadro de anotações disponível  | Brainstorming |
+|RF| O sistema deve ser capaz de transcrever uma chamada|Brainstorming|
+|RF| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante. |Brainstorming|
+|RF| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente |Brainstorming|
+| RF | Deve fornecer opções pré-definidas de _emojis_ para comunicação entre os usuários | Entrevista |
+| RF | Deve permitir a transcrição do áudio da chamada | Entrevista |
+| RF | Deve permitir a utilização de quadro branco durante a chamada | Entrevista |
+| RF | Os usuários devem poder alterar o fundo do seu vídeo em exibição durante a chamada | Entrevista |
+|RF| Os usuários possam compartilhar arquivos durante as reuniões | Observação |
+|RF| Deve possuir um calendário | Observação |
+|RF| Deve permitir que o calendário de um usuário seja sincronizado ao de outros | Observação |
+|RF| Deve permitir agendar reuniões com outros usuários atraves do calendário | Observação |
+|RF| Deve possuir uma lista das reuniões que o usuário já participou | Observação |
+|RNF| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | Instrospecção | 
+|RNF| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia | Instrospecção | 
+|RNF| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela  |Instrospecção | 
+
+<h6 align = "center"> Tabela 02: Should Have
+<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a>
+</center>
+</p>
+</h6>
+
+
+
+## **Could Have**
+
 <p align="justify">
-<a href="link de referência">nome a ser referenciado</a>
+&emsp;&emsp;Legenda da tabela 3: 
+<li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
+<li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
+</p>
+<p align="justify">
+&emsp;&emsp;A tabela 3 representa os requisitos classificados de acordo com a técnia MoSCoW como Could Have
 </p>
 
-## **Tópico n**
-<p align="justify">
-&emsp;&emsp;Texto ....
+|TIPO| Requisito | Elicitação |
+| -------|--------|------------|
+|RF| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade |Brainstorming|
+|RNF| Deve possuir um bom contraste entre as cores afim aprimorar a legibilidade | Brainstorming|
+|RNF| Deve ser possível ingressar em uma reunião sem a necessidade de um login |Brainstorming|
+|RF| O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo |Brainstorming|
+|RF| Deve possuir um mecanismo de busca a partir da data da reunião|Brainstorming|
+|RF| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião |Brainstorming|
+|RF| Deve possuir um link de ajuda para explicar como se convida outros participantes | Observação |
+|RF| Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | Observação |
+|RF| Deve ser possível deletar reuniões armazenadas | Instrospecção |
+
+<h6 align = "center"> Tabela 03: Could Have
+<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a>
+</center>
 </p>
+</h6>
+
+
+
+## **Won't Have**
+
+<p align="justify">
+&emsp;&emsp;Legenda da tabela 4: 
+<li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
+<li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
+</p>
+<p align="justify">
+&emsp;&emsp;A tabela 4 representa os requisitos classificados de acordo com a técnia MoSCoW como Won't Have
+</p>
+
+|TIPO| Requisito | Elicitação |
+| -------|--------|------------|
+|RNF| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a visualização dos compromissos do usuario no aplicativo|Brainstorming|
+|RF| Os usuários possam tirar foto de captura de tela | Observação |
+|RF| O anfitrião conseguir atraveS do compartilhamento de tela interagir no celular de outro usuário | Observação |
+
+
+
+<h6 align = "center"> Tabela 04: Won't Have
+<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a>
+</center>
+</p>
+</h6>
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -63,11 +171,12 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | dd/mm/2023 |  |  |  |
+| `1.0`  | 04/10/2023 | Elaboração do artefato | [Catlen Cleane](https://github.com/catlenc), [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 <h6> Tabela n: Histórico de Versão.
-<br> Autor(a): Fulano de tal </h6>
+<br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a> </h6>
 
 ## **Bibliografia**
-> <a href="https://Link_da_fonte">[1]</a> Fonte 1
+> <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/">[1]</a> MoSCoW em Simplenote. Acesso em 04 de Outubro de 2023.
 
-> <a href="https://Link_da_fonte">[2]</a> Fonte 2
+
+> <a href="https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf">[2]</a> Requisitos - Aula 06. Acesso em 04 de Outubro de 2023.
