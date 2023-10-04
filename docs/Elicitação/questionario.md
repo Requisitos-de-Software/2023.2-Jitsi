@@ -7,7 +7,7 @@
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;
+&emsp;&emsp;A equipe compartilhou o link através de aplicativos de mensagens com potenciais usuários e o manteve disponível por um período de 4 dias, com o propósito de coletar informações e elaborar o perfil do usuário do Jitsi.
 </p>
 
 ## **Resultados**
@@ -72,7 +72,6 @@
 <img src="../../assets/questionario/9.png" alt="logo"  style="float: none; margin: auto"/>
 <font size="3"><p style="text-align: center"> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></font>
 </figure>
-
 
 
 ## **Histórico de Versão**
