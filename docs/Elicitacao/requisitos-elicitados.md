@@ -30,46 +30,33 @@
 | ENT06, IN04, BR01 | Deve permitir a utilização de quadro de anotação durante a chamada | RF | Não |
 | ENT07, BR04 | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | RF | Não | 
 | ENT08, BR19 | Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim |
-|IN01 | Deve permitir a configuração de controles de acesso | RF |  | 
-|IN02| Os usuários devem poder compartilhar suas telas durante as chamadas | RF|
-|IN03| Deve permitir a gravação de reuniões | RF |
-|IN04| Deve haver uma funcionalidade de quadro de anotações disponível | RF |
-|IN05| Ser compatível com sistemas operacionais Android e IOS| RNF|
-|IN06| Deve ser fácil de instalar e usar|RNF|
-|IN07| Ser de código aberto e gratuíto| RNF|
-|IN08| Deve ser possível deletar reuniões armazenadas | RF|
-|IN09|Deve possuir um mecanismo de busca a partir da data da reunião| RF|
-|IN10| Deve permitir que o anfitrião exclua particpantes | RF|
-|IN11| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência| RNF |
-|IN12| Deve ser estável | RNF|
-|IN13| Deve oferecer um desempenho rápido e responsivo | RNF |
-|IN14| Deve ser escalável para acomodar um número crescente de participantes | RNF | 
+|IN01| Deve permitir a configuração de controles de acesso | RF | Sim | 
+|IN05| Ser compatível com sistemas operacionais Android e IOS| RNF | Sim | 
+|IN06| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | RNF | Sim | 
+|IN07| Deve ser de código aberto e gratuito | RNF | Sim | 
+|IN08| Deve ser possível deletar reuniões armazenadas | RF | Sim |
+|IN09, BR09 | Deve possuir um mecanismo de busca a partir da data da reunião | RF | Não |
+|IN10, BR10 | Deve permitir que o anfitrião exclua participantes | RF | Sim | 
+|IN11, OB13| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência | RNF | Sim |
+|IN12| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia | RNF | Sim |
+|IN13| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela  | RNF | Sim | 
 
-<h6 align = "center"> Tabela 1: Nome da figura/tabela.
-<br> Autor(a): <a href="https://github.com/fulanodetal">Fulano de Tal</a></h6>
 
-## **Links**
-<p align="justify">
-<a href="link de referência">nome a ser referenciado</a>
-</p>
-
-## **Tópico n**
-<p align="justify">
-&emsp;&emsp;Texto ....
-</p>
+<h6 align = "center"> Tabela 1: Requisitos elicitados.
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela n representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | dd/mm/2023 |  |  |  |
-<h6> Tabela n: Histórico de Versão.
-<br> Autor(a): Fulano de tal </h6>
+| `1.0`  | 04/10/2023 | Criação do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)|
+<h6> Tabela 2: Histórico de Versão.
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Bibliografia**
-> <a href="https://Link_da_fonte">[1]</a> Fonte 1
+> <a href="https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/entrevista/">[1]</a>  Repositório Lichess. Acesso em 04 de Outubro de 2023.
 
-> <a href="https://Link_da_fonte">[2]</a> Fonte 2
+> <a href="https://aprender3.unb.br/pluginfile.php/2692771/mod_resource/content/3/Elicitacao%20de%20Req%202.pdf">[2]</a> VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.

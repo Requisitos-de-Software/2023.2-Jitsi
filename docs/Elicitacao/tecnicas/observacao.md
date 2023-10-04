@@ -66,7 +66,7 @@
 |OB10| Os usuários possam tirar foto de captura de tela | RF |
 |OB11| O anfitrião conseguir atraveS do compartilhamento de tela interagir no celular de outro usuário | RF |
 |OB12| Deve permitir configuração de perfil | RF |
-|OB13| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência| | RNF |
+|OB13| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência| RNF |
 |OB14| Deve possuir um calendário | RF |
 |OB15| Deve permitir que o calendário de um usuário seja sincronizado ao de outros | RF |
 |OB16| Deve permitir agendar reuniões com outros usuários atraveS do calendário | RF |

@@ -84,8 +84,8 @@
 |BR05| Deve permitir a transcrição do áudio da chamada | RF|
 |BR06| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante. |RF|
 |BR07| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião. | RF|
-|BR08| Deve ser possível fazer o download das gravações das reuniões| RF|
-|BR09| Deve possuir um mecanismo de busca a partir da data da reunião| RF|
+|BR08| Deve ser possível fazer o download das gravações das reuniões| RF |
+|BR09| Deve possuir um mecanismo de busca a partir da data da reunião | RF |
 |BR10| Deve permitir que o anfitrião exclua particpantes | RF|
 |BR11| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. | RF |
 |BR12| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha|RF|
