@@ -23,13 +23,13 @@
 | Identificador | Requisito | Categoria | Implementado | 
 | ------------- | -------------------- | --------- | ------- | 
 | ENT01, IN02, OB07, BR02 | Os usuários devem poder compartilhar suas telas durante as chamadas | RF | Sim | 
-| ENT02 | Os usuários devem ser capazes de criar uma videoconferência | RF | Sim |
+| ENT02| Os usuários devem ser capazes de criar uma videoconferência | RF | Sim |
 | ENT03, OB09 | Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | RF | Sim |
 | ENT04, IN03, OB05, BR03 | Deve permitir a gravação de chamadas | RF | Não | 
 | ENT05, BR05 | Deve permitir a transcrição do áudio da chamada | RF | Não | 
 | ENT06, IN04, BR01 | Deve permitir a utilização de quadro de anotação durante a chamada | RF | Não |
 | ENT07, BR04 | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | RF | Não | 
-| ENT08, BR19 | Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim |
+| ENT08, BR19, OB18 | Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim |
 |IN01| Deve permitir a configuração de controles de acesso | RF | Sim | 
 |IN05| Ser compatível com sistemas operacionais Android e IOS| RNF | Sim | 
 |IN06| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | RNF | Sim | 
@@ -37,12 +37,24 @@
 |IN08| Deve ser possível deletar reuniões armazenadas | RF | Sim |
 |IN09, BR09 | Deve possuir um mecanismo de busca a partir da data da reunião | RF | Não |
 |IN10, BR10 | Deve permitir que o anfitrião exclua participantes | RF | Sim | 
-|IN11, OB13| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência | RNF | Sim |
+|IN11, OB12| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência | RNF | Sim |
 |IN12| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia | RNF | Sim |
 |IN13| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela  | RNF | Sim | 
+|OB01| Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook | RF | Sim |
+|OB02| Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos| RF | Sim |
+|OB03| Deve possuir um link de ajuda para explicar como se convida outros participantes | RF | Não | 
+|OB04| Deve possuir a opção de mutar o áudio | RF | Sim | 
+|OB06| Deve permitir enviar mensagem de texto durante a videochamada | RF | Sim | 
+|OB08, BR15| Os usuários devem poder compartilhar arquivos durante as reuniões | RF | Não | 
+|OB10| O anfitrião deve conseguir, através do compartilhamento de tela, interagir no celular de outro usuário | RF | Não | 
+|OB11| Deve permitir que o usuário configure seu perfil, com nome de usuário e foto | RF | Sim | 
+|OB13| Deve possuir um calendário com chamadas agendadas | RF | Sim | 
+|OB14| Deve permitir que o calendário de um usuário seja sincronizado ao de outros | RF | Não | 
+|OB15| Deve permitir agendar reuniões com outros usuários através do calendário | RF | Não | 
+|OB16| Deve possuir uma lista das reuniões que o usuário já participou | RF | Sim | 
+|OB17| Deve ser um aplicativo que ocupe menos de 100mb de memória | RNF | Sim |
 
-
-<h6 align = "center"> Tabela 1: Requisitos elicitados.
+<h6 align = "center"> Tabela 1: Requisitos Elicitados.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Histórico de Versão**

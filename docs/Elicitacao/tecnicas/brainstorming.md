@@ -3,18 +3,16 @@
 ## **Introdução**
 <p align="justify">
 &emsp;&emsp;Brainstorming é uma técnica eficaz de coletar informações sobre as preferências e necessidades dos usuários em relação à um sistema. O processo consiste em realizar uma conversa informal reunindo usuários de diversas áreas, onde cada um expõe seus desejos e necessidades, e assim pode identificar os requisitos e explorar novas funcionalidades para o desenvolvimento do sistema, principalmente na fase inicial. Durante a conversa deve-se evitar críticas, para não gerar constrangimento entre os usuários. Se os participantes permitirem a sessão pode ser gravada, e todas as ideias devem ser registradas para uma posterior seleção com base em sua relevância.
-
-
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp; Para realizar o brainstorming, reunimos presencialmente dois membros da equipe para serem o moderador e o secretário e quatro usuários do aplicativo (ver tabela 1). Para realizar o brainstorming foi utilizada a ferramenta miro, nela foram feitos alguns quadros com perguntas(ver tabela 2)  para guiar a discussão e ajudar a elicitar os requisitos baseados nas necessidades dos usuários .
+&emsp;&emsp; Para realizar o brainstorming, reunimos presencialmente dois membros da equipe para serem o moderador e o secretário e quatro usuários do aplicativo (ver tabela 1). Para realizar o brainstorming foi utilizada a ferramenta Miro, nela foram feitos alguns quadros com perguntas (ver tabela 2) para guiar a discussão e ajudar a elicitar os requisitos baseados nas necessidades dos usuários.
 </p>
 
 ## **Participantes**
 <p align="justify">
-&emsp;&emsp; A tabela 1 representa os participantes da atividade de brainstorming
+&emsp;&emsp; A tabela 1 representa os participantes da atividade de brainstorming.
 </p>
 
 <center>
@@ -31,7 +29,7 @@
 </center>
 
 <p align="justify">
-<h6 align = "center"> Tabela 01: Participantes.
+<h6 align = "center"> Tabela 1: Participantes.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 </p>
 
@@ -47,7 +45,7 @@
 | Como o aplicativo do Jitsi poderia fornecer uma experiência de usuário mais agradável e intuitiva, de modo a facilitar a navegação?           |
 
 <p align="justify">
-<h6 align = "center"> Tabela 02: Perguntas.
+<h6 align = "center"> Tabela 2: Perguntas.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 </p>
 
@@ -66,17 +64,17 @@
 
 ## **Requisitos Elicitados**
 <p align="justify">
-&emsp;&emsp;Legenda da tabela 1: 
+&emsp;&emsp;Legenda da tabela 3: 
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
 <li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
 <li> Identificação(BR + N°) : Requisito Elicitado pela Brainstorming + Número
 </p>
 <p align="justify">
-&emsp;&emsp;A tabela 1 representa os Requisitos Elicitados pela técnica de Brainstorming
+&emsp;&emsp;A tabela 3 representa os Requisitos Elicitados pela técnica de Brainstorming
 </p>
 
-| Identificador  | Requisito  | Categoria | 
-|-----|---------------------------------------------------------|-------|
+| Identificador | Requisito | Categoria | Implementado | 
+| ------------- | -------------------- | --------- | ------- | 
 |BR01| Deve permitir a utilização de quadro de anotação durante a chamada  | RF |
 |BR02| Os usuários devem poder compartilhar suas telas durante as chamadas | RF|
 |BR03| Deve permitir a gravação de chamadas  | RF |
@@ -91,28 +89,28 @@
 |BR12| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha|RF|
 |BR13| Deve ser possível ingressar em uma reunião sem a necessidade de um login | RNF |
 |BR14| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | RF |
-|BR15| Deve ser possível a integração com outros sistemas afim de possibilitar a abertura de arquivos no próprio aplicativo| RNF |
-|BR16| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a vsiualização dos compromissos do usuario no aplicativo| RNF |
+|BR15| Os usuários devem poder compartilhar arquivos durante as reuniões | RF |
+|BR16| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a vsiualização dos compromissos do usuário no aplicativo | RNF |
 |BR17| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | RF |
 |BR18| Deve oferecer uma interface simples e objetiva | RNF |
 |BR19| Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RF |
 |BR20| Deve possuir um bom contraste entre as cores afim aprimorar a legibilidade | RNF |
 
-<h6 align = "center"> Tabela 03: Requisitos Elicitados
+<h6 align = "center"> Tabela 3: Requisitos Elicitados.
 <br> Autor(a):<a href="https://github.com/CarolinaBarb">Carolina Barbosa</a>, <a href="https://github.com/catlenc">Catlen Cleane</a>, <a href="https://github.com/JuliaSSouza">Julia Souza</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a></h6>
 </center>
 </p>
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 04 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 4 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 02/10/2023 | Introdução e Ideias Iniciais | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.1`  | 03/10/2023 | Elicitação dos Requisitos e conclusão | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
-<h6 align="center"> Tabela 04: Histórico de Versão.
+<h6 align="center"> Tabela 4: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
