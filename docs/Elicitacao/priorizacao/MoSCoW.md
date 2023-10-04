@@ -14,17 +14,17 @@
 </p></p>
 
 ## **Objetivo**
+
 <p align="justify">
 &emsp;&emsp;O objetivo da técnica de priorização MoSCoW é classificar as prioridades do projeto ou do produto, permitindo que a equipe e as partes interessadas identifiquem e concentrem seus esforços nos requisitos mais críticos e fundamentais. Isso ajuda a garantir que os recursos sejam alocados de forma eficaz e a manter o foco nas áreas que terão o maior impacto no sucesso geral do projeto. Além disso, a técnica MoSCoW pode ajudar a gerenciar expectativas e comunicar de forma eficaz quais funcionalidades ou requisitos são considerados mais importantes em um determinado momento.
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;Após relizar as técnicas de Eliticitação escolhidas pelo grupo, e listar todos o requisitos, analisamos cada um e classificamos nas tabelas abaixo cada um de acordo com a técnica MoSCoW: Must Have, Should Have, Could Have e W Have.
+&emsp;&emsp;Após relizar as técnicas de Elicitação escolhidas pelo grupo, e listar todos o requisitos, analisamos cada um e classificamos nas tabelas abaixo cada um de acordo com a técnica MoSCoW: Must Have, Should Have, Could Have e Won't Have.
 </p>
 
 ## **Must Have**
-
 <p align="justify">
 &emsp;&emsp;Legenda da tabela 1: 
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
@@ -34,7 +34,7 @@
 &emsp;&emsp;A tabela 1 representa os requisitos classificados de acordo com a técnia MoSCoW como Must Have
 </p>
 
-|TIPO| Requisito | Elicitação |
+| Tipo | Requisito | Elicitação |
 | -------|--------|------------|
 |RF| O usuário deve ser capaz de compartilhar sua tela durante as reuniões | Brainstorming|
 |RF| Deve permitir a gravação de reuniões  |Brainstorming|
@@ -59,16 +59,13 @@
 |RNF| Ser compatível com sistemas operacionais Android e IOS| Instrospecção | 
 |RNF| Deve ser de código aberto e gratuito | Instrospecção | 
 
-<h6 align = "center"> Tabela 01: Must Have
-<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a>
+<h6 align = "center"> Tabela 1: Must Have.
+<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a>
 </center>
 </p>
 </h6>
 
-
-
 ## **Should Have**
-
 <p align="justify">
 &emsp;&emsp;Legenda da tabela 2: 
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
@@ -78,7 +75,7 @@
 &emsp;&emsp;A tabela 2 representa os requisitos classificados de acordo com a técnia MoSCoW como Should Have
 </p>
 
-|TIPO| Requisito | Elicitação |
+| Tipo | Requisito | Elicitação |
 | -------|--------|------------|
 |RF| Deve ser possível fazer o download das gravações das reuniões|Brainstorming|
 |RF| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha|Brainstorming|
@@ -100,16 +97,13 @@
 |RNF| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia | Instrospecção | 
 |RNF| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela  |Instrospecção | 
 
-<h6 align = "center"> Tabela 02: Should Have
-<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a>
+<h6 align = "center"> Tabela 2: Should Have.
+<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a>
 </center>
 </p>
 </h6>
 
-
-
 ## **Could Have**
-
 <p align="justify">
 &emsp;&emsp;Legenda da tabela 3: 
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
@@ -119,7 +113,7 @@
 &emsp;&emsp;A tabela 3 representa os requisitos classificados de acordo com a técnia MoSCoW como Could Have
 </p>
 
-|TIPO| Requisito | Elicitação |
+|Tipo | Requisito | Elicitação |
 | -------|--------|------------|
 |RF| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade |Brainstorming|
 |RNF| Deve possuir um bom contraste entre as cores afim aprimorar a legibilidade | Brainstorming|
@@ -131,8 +125,8 @@
 |RF| Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | Observação |
 |RF| Deve ser possível deletar reuniões armazenadas | Instrospecção |
 
-<h6 align = "center"> Tabela 03: Could Have
-<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a>
+<h6 align = "center"> Tabela 3: Could Have.
+<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a>
 </center>
 </p>
 </h6>
@@ -140,7 +134,6 @@
 
 
 ## **Won't Have**
-
 <p align="justify">
 &emsp;&emsp;Legenda da tabela 4: 
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
@@ -150,15 +143,13 @@
 &emsp;&emsp;A tabela 4 representa os requisitos classificados de acordo com a técnia MoSCoW como Won't Have
 </p>
 
-|TIPO| Requisito | Elicitação |
+|Tipo| Requisito | Elicitação |
 | -------|--------|------------|
 |RNF| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a visualização dos compromissos do usuario no aplicativo|Brainstorming|
 |RF| Os usuários possam tirar foto de captura de tela | Observação |
 |RF| O anfitrião conseguir atraveS do compartilhamento de tela interagir no celular de outro usuário | Observação |
 
-
-
-<h6 align = "center"> Tabela 04: Won't Have
+<h6 align = "center"> Tabela 4: Won't Have.
 <br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a>
 </center>
 </p>
@@ -166,14 +157,14 @@
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela n representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 5 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 04/10/2023 | Elaboração do artefato | [Catlen Cleane](https://github.com/catlenc), [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
-<h6> Tabela n: Histórico de Versão.
-<br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a> </h6>
+| `1.0`  | 04/10/2023 | Elaboração do artefato | [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+<h6> Tabela 5: Histórico de Versão.
+<br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a> </h6>
 
 ## **Bibliografia**
 > <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/">[1]</a> MoSCoW em Simplenote. Acesso em 04 de Outubro de 2023.

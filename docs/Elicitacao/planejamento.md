@@ -38,12 +38,12 @@
 
 | Técnica | Autor | Revisor | Data de Entrega |
 | ------- | ----- | ------- | --------------- |
-| [Brainstorming](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/) | [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Pedro Siqueira](https://github.com/PedroSiq) | 02/10/2023 |
-| [Entrevista](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/) | [Pedro Siqueira](https://github.com/PedroSiq) e [Bruno Henrique](https://github.com/BrunoHenrique00) | [Carolina Barbosa](https://github.com/CarolinaBarb) | 02/10/2023 |
-| [Introspecção](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/) | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) | 02/10/2023 |
-| [Observação](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/) | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Bruno Henrique](https://github.com/BrunoHenrique00) | 02/10/2023 | 
-| [100 Dólares](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/100Dolares/) | [Júlia Souza](https://github.com/JuliaSSouza), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Vitória](https://github.com/Juhvitoria4) | 04/10/2023 | 
-| [MoSCow](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/) | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Bruno Henrique](https://github.com/BrunoHenrique00) | 04/10/2023 | 
+| [Brainstorming](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/) | [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Pedro Siqueira](https://github.com/PedroSiq) | 02/10 |
+| [Entrevista](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/) | [Pedro Siqueira](https://github.com/PedroSiq) e [Bruno Henrique](https://github.com/BrunoHenrique00) | [Carolina Barbosa](https://github.com/CarolinaBarb) | 02/10 |
+| [Introspecção](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/) | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) | 02/10 |
+| [Observação](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/) | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Bruno Henrique](https://github.com/BrunoHenrique00) | 02/10 | 
+| [100 Dólares](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/100Dolares/) | [Júlia Souza](https://github.com/JuliaSSouza), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Vitória](https://github.com/Juhvitoria4) | 04/10 | 
+| [MoSCow](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/) | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Bruno Henrique](https://github.com/BrunoHenrique00) | 04/10 | 
 
 <h6> Tabela 2: Cronograma de planejamento para implementar as técnicas.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
