@@ -31,8 +31,8 @@ theme:
 nav:
   - Início: index.md
   - Atas de Reunião: 
-    - Reunião 01: Atas/reuniao-01.md
-    - Reunião 02: Atas/reuniao-02.md
+    - Reunião 01: atas/reuniao-01.md
+    - Reunião 02: atas/reuniao-02.md
   - Planejamento:
     - Cronograma: Planejamento/cronograma.md 
     - Cronograma Realizado: Planejamento/cronograma_realizado.md
