@@ -1,35 +1,73 @@
-# ***Nome do Artefato (sempre com palavras começando em maiúsculo) ***
+# ***Observação***
 
-## **Introdução (sempre com palavras começando em maiúsculo) **
+## **Introdução**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;A técnica de observação de requisitos envolve observar os usuários, com o objetivo de entender as necessidades do mesmo, assim como as limitações e restrições do aplicativo que está sendo utilizado. Para a aplicação dessa técnica convidamos 2 usuários externo, para serem observados.
 </p>
 
-## **Objetivo (sempre com palavras começando em maiúsculo)**
+## **Metodologia**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;Foi realizado uma reunião no dia 03/10/2023, com os participantes citados na tabela 01, pelo Microsoft Teams com o intuito de observar os usuários utilizando o Jitsi para elicitar seus requisitos. As  <span style = "color: lightblue"> Observadoras </span> instruiram as ações que os usuários precisava realizar no aplicativo Jitsi. Durante a observação de um dos usuários, foi realizado uma chamada pelo proprio aplicativo jitsi entre uma observadora e um usuário para que ele pode-se fazer uma análise das funcionalidades do aplicativo. A elicitação dos requisitos estão presentes na tabela 02.
 </p>
 
-## **Tópico 1 (sempre com palavras começando em maiúsculo)**
+## **Participantes**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp; A tabela 01 representa os participantes da atividade de observação
 </p>
 
-## **Legenda**
+<center>
+
+| Nome                                                      |   Função    |
+| --------------------------------------------------------- |  ---------- |
+| [Carolina Barbosa](https://github.com/CarolinaBarb)       | Observadora |
+| [Catlen Cleane](https://github.com/catlenc)               | Observadora |
+| [Júlia Souza](https://github.com/JuliaSSouza)             | Observadora |
+| <span style = "color: purple"> Hugo Rogerio </span>       |Usuário|
+| <span style = "color: purple"> Leticia Resende </span>    |Usuário|
+
+
+</center>
+
 <p align="justify">
-<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
-<br> Autor(a): <a href="https://github.com/fulanodetal">Fulano de Tal</a></h6>
+<h6 align = "center"> Tabela 01: Participantes.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
 
-## **Links**
+## **Link para as gravações da observação**
 <p align="justify">
-<a href="link de referência">nome a ser referenciado</a>
+<a href="link de referência">Observação Hugo</a> 
+</p>
+<p>
+<a href="link de referência">Observação Leticia</a>
+ </p>
+
+## **Requisitos Elicitados**
+<p align="justify">
+&emsp;&emsp;Legenda da tabela 02: 
+<li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
+<li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
+<li> Identificação(BR + N°) : Requisito Elicitado pela Observação + Número
+</p>
+<p align="justify">
+&emsp;&emsp;A tabela 02 representa os Requisitos Elicitados pela técnica de Observação
 </p>
 
-## **Tópico n**
-<p align="justify">
-&emsp;&emsp;Texto ....
+| Identificação  | Descrição  | Categoria | 
+|-----|---------------------------------------------------------|-------|
+|OB01| --- | RF |
+|oB02| --- | RF |
+|OB03| --- | RF |
+|OB04| --- | RF |
+|OB05| --- | RF |
+|OB06| --- | RF |
+|OB07| --- | RF |
+|OB08| --- | RF |
+
+<h6 align = "center"> Tabela 02: Requisitos Elicitados
+<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a>
+</center>
 </p>
+</h6>
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -38,11 +76,9 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | dd/mm/2023 |  |  |  |
+| `1.0`  | 04/10/2023 | Criação do documento  | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
 <h6> Tabela n: Histórico de Versão.
 <br> Autor(a): Fulano de tal </h6>
 
 ## **Bibliografia**
-> <a href="https://Link_da_fonte">[1]</a> Fonte 1
-
-> <a href="https://Link_da_fonte">[2]</a> Fonte 2
+> <a href="https://aprender3.unb.br/pluginfile.php/2580553/mod_resource/content/2/Requisitos%20-%20Aula%2007.pd">[1]</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. **UnB Gama**, Brasília, 2023
