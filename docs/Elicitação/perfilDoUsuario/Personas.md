@@ -43,26 +43,26 @@ Perfil de usuário:
 
 <br>
 
-| Caracteristica       | Resposta |
-|:---------------------|:---------|
-| **Nome**             | Marina   |
-| **Idade**            | 23 anos  |
-| **Gênero**           | Feminino |
-| **Localidade**       |          |
-| **Particularidades** |          |
-| **Escolaridade**     |          |
-| **Profissão**        |          |
-| **História**         |          |
-| **Objetivos**        |          |
-| **Rotina**           |          |
-| **Requisitos**       |          |
-| **Frequência**       |          |
-| **Necessidades**     |          |
-| **Expectativas**     |          |
+| Caracteristica       | Resposta                                                                                                                                              |
+|:---------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**             | Marina                                                                                                                                                |
+| **Idade**            | 23 anos                                                                                                                                               |
+| **Gênero**           | Feminino                                                                                                                                              |
+| **Localidade**       | São Paulo, Brasil                                                                                                                                     |
+| **Particularidades** | Adora tecnologia e busca soluções para otimizar a comunicação em sua equipe de trabalho. Gosta de praticar yoga nas horas vagas.                      |
+| **Escolaridade**     | Graduada em Administração                                                                                                                             |
+| **Profissão**        | Gerente de Projetos em uma empresa de TI                                                                                                              |
+| **História**         | Trabalha na área de tecnologia há 10 anos e está sempre em busca de ferramentas eficientes para otimizar a colaboração e a comunicação da sua equipe. |
+| **Objetivos**        | Utilizar o Jitsi para reuniões diárias de acompanhamento de projetos e treinamentos com a equipe.                                                     |
+| **Rotina**           | Ativa e focada em suas atividades profissionais, com reuniões frequentes e práticas de yoga para equilíbrio.                                          |
+| **Requisitos**       | Alta qualidade de áudio e vídeo, integração com calendário e capacidade de compartilhamento de tela.                                                  |
+| **Frequência**       | Diariamente.                                                                                                                                          |
+| **Necessidades**     | erramenta de comunicação confiável e eficiente para coordenar equipes remotas.                                                                        |
+| **Expectativas**     | Espera uma plataforma intuitiva e de fácil utilização que a ajude a manter sua equipe produtiva.                                                      |
 
 <p align="justify">
-<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
-<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+<h6 align = "center"> Tabela 1: Persona Marina.
+<br> Autore(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
 ### Marcos
@@ -81,26 +81,26 @@ Perfil de usuário:
 
 <br>
 
-| Caracteristica       | Resposta  |
-|:---------------------|:----------|
-| **Nome**             | Marcos    |
-| **Idade**            | 25        |
-| **Gênero**           | Masculino |
-| **Localidade**       |           |
-| **Particularidades** |           |
-| **Escolaridade**     |           |
-| **Profissão**        |           |
-| **História**         |           |
-| **Objetivos**        |           |
-| **Rotina**           |           |
-| **Requisitos**       |           |
-| **Frequência**       |           |
-| **Necessidades**     |           |
-| **Expectativas**     |           |
+| Caracteristica       | Resposta                                                                                                                   |
+|:---------------------|:---------------------------------------------------------------------------------------------------------------------------|
+| **Nome**             | Marcos                                                                                                                     |
+| **Idade**            | 25                                                                                                                         |
+| **Gênero**           | Masculino                                                                                                                  |
+| **Localidade**       | Mumbai, Índia                                                                                                              |
+| **Particularidades** | Desenvolvedor de software freelancer, precisa de uma plataforma para reuniões com clientes e colaboradores remotos.        |
+| **Escolaridade**     | Bacharelado em Ciência da Computação                                                                                       |
+| **Profissão**        | Desenvolvedor de Software Freelancer                                                                                       |
+| **História**         | Trabalha de forma independente e precisa de uma solução confiável para reuniões virtuais com clientes e colegas de equipe. |
+| **Objetivos**        | Utilizar o Jitsi para reuniões de brainstorming e acompanhamento de projetos com clientes.                                 |
+| **Rotina**           | Flexível, dependendo dos prazos e demandas de projetos.                                                                    |
+| **Requisitos**       | Boa qualidade de áudio e vídeo, capacidade de compartilhar código e integração com ferramentas de desenvolvimento.         |
+| **Frequência**       | Variável, dependendo dos projetos em andamento.                                                                            |
+| **Necessidades**     | Ferramenta confiável para comunicação remota com clientes e colaboradores.                                                 |
+| **Expectativas**     | Espera uma plataforma que permita uma colaboração eficaz em projetos de desenvolvimento de software.                       |
 
 <p align="justify">
-<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
-<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+<h6 align = "center"> Tabela 2: Persona Marcos.
+<br> Autores(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
 ### Jaqueline
@@ -119,26 +119,26 @@ Perfil de usuário:
 
 <br>
 
-| Caracteristica       | Resposta  |
-|:---------------------|:----------|
-| **Nome**             | Jaqueline |
-| **Idade**            | 38        |
-| **Gênero**           | Feminino  |
-| **Localidade**       |           |
-| **Particularidades** |           |
-| **Escolaridade**     |           |
-| **Profissão**        |           |
-| **História**         |           |
-| **Objetivos**        |           |
-| **Rotina**           |           |
-| **Requisitos**       |           |
-| **Frequência**       |           |
-| **Necessidades**     |           |
-| **Expectativas**     |           |
+| Caracteristica       | Resposta                                                                                                            |
+|:---------------------|:--------------------------------------------------------------------------------------------------------------------|
+| **Nome**             | Jaqueline                                                                                                           |
+| **Idade**            | 38                                                                                                                  |
+| **Gênero**           | Feminino                                                                                                            |
+| **Localidade**       | Lisboa, Portugal                                                                                                    |
+| **Particularidades** | Professora universitária que busca uma solução de videoconferência para aulas online e reuniões acadêmicas.         |
+| **Escolaridade**     | Doutorado em Literatura Comparada                                                                                   |
+| **Profissão**        | Professora Universitário                                                                                            |
+| **História**         | Leciona há 15 anos e necessita de uma plataforma que permita interações fluidas com seus alunos, mesmo à distância. |
+| **Objetivos**        | Utilizar o Jitsi para aulas online e reuniões com colegas e alunos.                                                 |
+| **Rotina**           | Dedica grande parte do tempo ao ensino, pesquisa e orientação de estudantes de pós-graduação.                       |
+| **Requisitos**       | Boa qualidade de vídeo e áudio, funcionalidade de chat e opção de gravação de aulas.                                |
+| **Frequência**       | Três vezes por semana.                                                                                              |
+| **Necessidades**     | Ferramenta confiável para aulas online interativas e produtivas.                                                    |
+| **Expectativas**     | Espera uma plataforma estável e intuitiva que facilite a comunicação com seus alunos.                               |
 
 <p align="justify">
-<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
-<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+<h6 align = "center"> Tabela 3: Persona Jaqueline.
+<br> Autores(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
 ### Joyce
@@ -158,26 +158,26 @@ Perfil de usuário:
 <br>
 
 
-| Caracteristica       | Resposta |
-|:---------------------|:---------|
-| **Nome**             | Joyce    |
-| **Idade**            | 18       |
-| **Gênero**           | Feminino |
-| **Localidade**       |          |
-| **Particularidades** |          |
-| **Escolaridade**     |          |
-| **Profissão**        |          |
-| **História**         |          |
-| **Objetivos**        |          |
-| **Rotina**           |          |
-| **Requisitos**       |          |
-| **Frequência**       |          |
-| **Necessidades**     |          |
-| **Expectativas**     |          |
+| Caracteristica       | Resposta                                                                                                                                                                        |
+|:---------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**             | Joyce                                                                                                                                                                           |
+| **Idade**            | 18                                                                                                                                                                              |
+| **Gênero**           | Feminino                                                                                                                                                                        |
+| **Localidade**       | Nova York, EUA                                                                                                                                                                  |
+| **Particularidades** | Recém-formada no ensino médio e apaixonada por tecnologia e programação. É entusiasta de jogos online e busca maneiras de se conectar com amigos de diferentes partes do mundo. |
+| **Escolaridade**     | Concluiu o Ensino Médio                                                                                                                                                         |
+| **Profissão**        | Estudante e Aspirante a Desenvolvedora de Jogos                                                                                                                                 |
+| **História**         | Sempre teve um interesse profundo por tecnologia e passa boa parte do seu tempo livre aprendendo sobre programação e design de jogos.                                           |
+| **Objetivos**        | Utilizar o Jitsi para participar de reuniões e workshops online sobre desenvolvimento de jogos.                                                                                 |
+| **Rotina**           | Dedica grande parte do tempo a estudos autodidatas de programação e design de jogos.                                                                                            |
+| **Requisitos**       | Boa qualidade de áudio e vídeo, capacidade de compartilhamento de tela para apresentações de projetos e integração com ferramentas de desenvolvimento de jogos.                 |
+| **Frequência**       | Participa de reuniões e workshops online pelo menos duas vezes por semana                                                                                                       |
+| **Necessidades**     | Ferramenta de comunicação confiável para interagir com colegas de estudo e participar de eventos de desenvolvimento de jogos.                                                   |
+| **Expectativas**     | Espera uma plataforma intuitiva e de fácil acesso que a ajude a se conectar e colaborar com outros entusiastas de jogos ao redor do mundo.                                      |
 
 <p align="justify">
-<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
-<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+<h6 align = "center"> Tabela 4: Persona Joyce.
+<br> Autores(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
 
@@ -198,26 +198,26 @@ Perfil de usuário:
 <br>
 
 
-| Caracteristica       | Resposta  |
-|:---------------------|:----------|
-| **Nome**             | Isaque    |
-| **Idade**            |           |
-| **Gênero**           | Masculino |
-| **Localidade**       |           |
-| **Particularidades** |           |
-| **Escolaridade**     |           |
-| **Profissão**        |           |
-| **História**         |           |
-| **Objetivos**        |           |
-| **Rotina**           |           |
-| **Requisitos**       |           |
-| **Frequência**       |           |
-| **Necessidades**     |           |
-| **Expectativas**     |           |
+| Caracteristica       | Resposta                                                                                                                                                                                                                                     |
+|:---------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**             | Isaque                                                                                                                                                                                                                                       |
+| **Idade**            | 55                                                                                                                                                                                                                                           |
+| **Gênero**           | Masculino                                                                                                                                                                                                                                    |
+| **Localidade**       | Belo Horizonte, Brasil                                                                                                                                                                                                                       |
+| **Particularidades** | Isaque é um entusiasta da música clássica e, recentemente, se aposentou como professor de matemática.                                                                                                                                        |
+| **Escolaridade**     | Mestrado em Matemática                                                                                                                                                                                                                       |
+| **Profissão**        | Professor de Matemática aposentado                                                                                                                                                                                                           |
+| **História**         | saque dedicou a maior parte de sua vida ao ensino de matemática em uma escola local. Agora aposentado, ele deseja explorar novas maneiras de se manter ativo intelectualmente e se conectar com sua família, que está espalhada pelo Brasil. |
+| **Objetivos**        | Utilizar o Jitsi para participar de aulas online de música clássica, manter contato com seus filhos e netos que vivem em diferentes estados do Brasil e participar de grupos de discussão sobre matemática.                                  |
+| **Rotina**           | Seu dia é flexível após a aposentadoria, permitindo-lhe dedicar tempo a seus hobbies, como ouvir música, ler sobre matemática e praticar jardinagem.                                                                                         |
+| **Requisitos**       | Qualidade de áudio cristalina para apreciar música clássica, facilidade de uso para participar de aulas online e grupos de discussão.                                                                                                        |
+| **Frequência**       | Duas vezes por semana para aulas de música online e reuniões familiares ocasionais.                                                                                                                                                          |
+| **Necessidades**     | Uma ferramenta de videoconferência confiável para se conectar com familiares, aprender música clássica e participar de discussões acadêmicas.                                                                                                |
+| **Expectativas**     | Espera uma plataforma que o ajude a se manter envolvido em suas paixões e a se sentir conectado com sua família, de forma acessível e amigável para pessoas da sua idade.                                                                    |
 
 <p align="justify">
-<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
-<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+<h6 align = "center"> Tabela 5: Persona Isaque.
+<br> Autores(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
 
@@ -231,6 +231,7 @@ Perfil de usuário:
 |--------|------------|----------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------|
 | `1.0`  | 03/10/2023 | Criação do Documento | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.1`  | 03/10/2023 | Iniciando Personas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
+| `1.2`  | 04/10/2023 | Finalizar Personas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 <h6> Tabela n: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </center>
