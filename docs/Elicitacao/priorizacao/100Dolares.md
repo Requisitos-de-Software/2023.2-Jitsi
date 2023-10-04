@@ -1,13 +1,13 @@
-# ***Nome do Artefato (sempre com palavras começando em maiúsculo) ***
+# ***100$***
 
-## **Introdução (sempre com palavras começando em maiúsculo) **
+## **Introdução**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;Essa abordagem busca ilustrar de forma tangível a priorização de requisitos, utilizando uma analogia direta com dinheiro. Neste contexto, focamos inicialmente na priorização dos requisitos funcionais, simplificando o processo para facilitar a participação ativa dos usuários no processo decisório. Vamos explorar como essa técnica nos permite discernir a proeminência dos requisitos e tomar decisões estratégicas fundamentadas.
 </p>
 
-## **Objetivo (sempre com palavras começando em maiúsculo)**
+## **Metodologia**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;Envolve a alocação de um orçamento fictício de $100 entre os requisitos de um projeto ou produto. Os participantes distribuem esse dinheiro de acordo com a importância percebida de cada requisito, resultando em uma pontuação que reflete a prioridade geral. A discussão em equipe e o consenso ajudam a finalizar a lista de requisitos priorizados, facilitando a tomada de decisões informadas. É uma abordagem eficaz para envolver as partes interessadas na priorização de requisitos.
 </p>
 
 ## **Tópico 1 (sempre com palavras começando em maiúsculo)**
