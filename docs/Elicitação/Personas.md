@@ -48,6 +48,46 @@ De acordo com o gráfico apresentado na figura 4 sobre a frequência que o parti
 <font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
 </figure>
 
+De acordo com a figura 5, a maioria dos usuarios não usa o Jitsi.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 5 - Questão 5.</p></font>
+<img src="../../assets/questionario/5.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
+De acordo com a figura 6, 75% dos usuários possuem muita experiência com dispositivos eletrônicos, e 25% possuem mêdia experiência.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 6 - Questão 6.</p></font>
+<img src="../../assets/questionario/6.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
+De acordo com a figura 7, a maioria dos usuários usam o aplicativo para reuniões da faculdade, trabalho e uso pessoal.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 7 - Questão 7.</p></font>
+<img src="../../assets/questionario/7.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
+De acordo com a figura 8, dentre as funcionalidades presentes no Jitsi, as mais usadas entre os usuários são: chat e compartilhar tela.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 8 - Questão 8.</p></font>
+<img src="../../assets/questionario/8.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
+De acordo com a figura 9, os usuários também usam outros aplicativos de chamada como o Google Meet e Microsoft Teams estão entre os mais usados.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 9 - Questão 9.</p></font>
+<img src="../../assets/questionario/9.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
 ## **Perfil de Usuário**
 <p align="justify">
 &emsp;&emsp; Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021), com base nisso definimos o perfil de usuário primeiro para depois definir as personas.
@@ -116,22 +156,22 @@ Perfil de usuário:
 
 <br>
 
-| Caracteristica       | Resposta |
-|:---------------------|:---------|
-| **Nome**             |  Marcos  |
-| **Idade**            |    25    |
-| **Gênero**           | Masculino|
-| **Localidade**       |          |
-| **Particularidades** |          |
-| **Escolaridade**     |          |
-| **Profissão**        |          |
-| **História**         |          |
-| **Objetivos**        |          |
-| **Rotina**           |          |
-| **Requisitos**       |          |
-| **Frequência**       |          |
-| **Necessidades**     |          |
-| **Expectativas**     |          |
+| Caracteristica       | Resposta  |
+|:---------------------|:----------|
+| **Nome**             | Marcos    |
+| **Idade**            | 25        |
+| **Gênero**           | Masculino |
+| **Localidade**       |           |
+| **Particularidades** |           |
+| **Escolaridade**     |           |
+| **Profissão**        |           |
+| **História**         |           |
+| **Objetivos**        |           |
+| **Rotina**           |           |
+| **Requisitos**       |           |
+| **Frequência**       |           |
+| **Necessidades**     |           |
+| **Expectativas**     |           |
 
 <p align="justify">
 <h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
@@ -154,22 +194,22 @@ Perfil de usuário:
 
 <br>
 
-| Caracteristica       | Resposta |
-|:---------------------|:---------|
+| Caracteristica       | Resposta  |
+|:---------------------|:----------|
 | **Nome**             | Jaqueline |
-| **Idade**            |   38     |
+| **Idade**            | 38        |
 | **Gênero**           | Feminino  |
-| **Localidade**       |          |
-| **Particularidades** |          |
-| **Escolaridade**     |          |
-| **Profissão**        |          |
-| **História**         |          |
-| **Objetivos**        |          |
-| **Rotina**           |          |
-| **Requisitos**       |          |
-| **Frequência**       |          |
-| **Necessidades**     |          |
-| **Expectativas**     |          |
+| **Localidade**       |           |
+| **Particularidades** |           |
+| **Escolaridade**     |           |
+| **Profissão**        |           |
+| **História**         |           |
+| **Objetivos**        |           |
+| **Rotina**           |           |
+| **Requisitos**       |           |
+| **Frequência**       |           |
+| **Necessidades**     |           |
+| **Expectativas**     |           |
 
 <p align="justify">
 <h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
@@ -196,7 +236,7 @@ Perfil de usuário:
 | Caracteristica       | Resposta |
 |:---------------------|:---------|
 | **Nome**             | Joyce    |
-| **Idade**            |   18     |
+| **Idade**            | 18       |
 | **Gênero**           | Feminino |
 | **Localidade**       |          |
 | **Particularidades** |          |
@@ -233,22 +273,22 @@ Perfil de usuário:
 <br>
 
 
-| Caracteristica       | Resposta |
-|:---------------------|:---------|
-| **Nome**             |   Isaque |
-| **Idade**            |          |
-| **Gênero**           |Masculino |
-| **Localidade**       |          |
-| **Particularidades** |          |
-| **Escolaridade**     |          |
-| **Profissão**        |          |
-| **História**         |          |
-| **Objetivos**        |          |
-| **Rotina**           |          |
-| **Requisitos**       |          |
-| **Frequência**       |          |
-| **Necessidades**     |          |
-| **Expectativas**     |          |
+| Caracteristica       | Resposta  |
+|:---------------------|:----------|
+| **Nome**             | Isaque    |
+| **Idade**            |           |
+| **Gênero**           | Masculino |
+| **Localidade**       |           |
+| **Particularidades** |           |
+| **Escolaridade**     |           |
+| **Profissão**        |           |
+| **História**         |           |
+| **Objetivos**        |           |
+| **Rotina**           |           |
+| **Requisitos**       |           |
+| **Frequência**       |           |
+| **Necessidades**     |           |
+| **Expectativas**     |           |
 
 <p align="justify">
 <h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
