@@ -125,20 +125,22 @@
 <p align="justify">
 &emsp;&emsp;Como resultado das entrevistas realizadas, foram elicitados os requisitos na tabela abaixo, com os seguintes componentes:
 <ul>
-<li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
-<li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
-<li> Identificação(ENT + N°) : Requisito Elicitado pela Entrevista + Número
+<li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários;</li>
+<li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema;</li>
+<li> Identificação(ENT + N°) : Requisito Elicitado pela Entrevista + Número.</li>
 </ul>
 </p>
 
-| Identificador | Requisito | Categoria |
-| ------------- | -------------------- | --------- |
-| ENT01 | Os usuários devem poder compartilhar suas telas durante as reuniões | RF | 
-| ENT02 | Os usuários devem ser capazes de criar uma videoconferência | RF |
-| ENT03 | Deve fornecer opções pré-definidas de _emojis_ para comunicação entre os usuários | RF | 
-| ENT04 | Deve permitir a gravação de chamadas | RF |
-| ENT05 | Deve permitir a transcrição do áudio da chamada | RF |
-| ENT06 | Deve ter uma interface intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 10 cliques | RNF | 
+| Identificador | Requisito | Categoria | Implementado | 
+| ------------- | -------------------- | --------- | ------- | 
+| ENT01 | Os usuários devem poder compartilhar suas telas durante as reuniões | RF | Sim |
+| ENT02 | Os usuários devem ser capazes de criar uma videoconferência | RF | Sim | 
+| ENT03 | Deve fornecer opções pré-definidas de _emojis_ para comunicação entre os usuários | RF | Sim |
+| ENT04 | Deve permitir a gravação de chamadas | RF | Não | 
+| ENT05 | Deve permitir a transcrição do áudio da chamada | RF | Não | 
+| ENT06 | Deve permitir a utilização de quadro branco durante a chamada | RF | Não |
+| ENT07 | Os usuários devem poder alterar o fundo do seu vídeo em exibição durante a chamada | RF | Não | 
+| ENT08 | Deve ter uma interface intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim |
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -153,6 +155,6 @@
 <br> Autor(a): <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 
 ## **Bibliografia**
-> <a href="https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/entrevista/">[1]</a>  Repositório Lichess
+> <a href="https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/entrevista/">[1]</a>  Repositório Lichess. Acesso em 04 de Outubro de 2023.
 
-> <a href="https://aprender3.unb.br/pluginfile.php/2692771/mod_resource/content/3/Elicitacao%20de%20Req%202.pdf">[2]</a>  Livro Engenharia de Requisitos
+> <a href="https://aprender3.unb.br/pluginfile.php/2692771/mod_resource/content/3/Elicitacao%20de%20Req%202.pdf">[2]</a>  VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016.
