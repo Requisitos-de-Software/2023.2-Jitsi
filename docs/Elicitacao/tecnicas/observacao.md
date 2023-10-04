@@ -70,7 +70,7 @@
 |OB15| Deve permitir agendar reuniões com outros usuários atraveS do calendário | RF | Não | 
 |OB16| Deve possuir uma lista das reuniões que o usuário já participou | RF | Sim | 
 |OB17| Deve ser um aplicativo que ocupe menos de 100mb de memória | RNF | Sim | 
-|OB18| Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF |
+|OB18| Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim | 
 
 <h6 align = "center"> Tabela 2: Requisitos Elicitados.
 <br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a>

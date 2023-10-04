@@ -54,6 +54,7 @@
 |OB16| Deve possuir uma lista das reuniões que o usuário já participou | RF | Sim | 
 |OB17| Deve ser um aplicativo que ocupe menos de 100mb de memória | RNF | Sim |
 
+
 <h6 align = "center"> Tabela 1: Requisitos Elicitados.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
