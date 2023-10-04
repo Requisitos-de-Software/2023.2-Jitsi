@@ -3,6 +3,8 @@
 ## **Introdução**
 <p align="justify">
 &emsp;&emsp;Brainstorming é uma técnica eficaz de coletar informações sobre as preferências e necessidades dos usuários em relação à um sistema. O processo consiste em realizar uma conversa informal reunindo usuários de diversas áreas, onde cada um expõe seus desejos e necessidades, e assim pode identificar os requisitos e explorar novas funcionalidades para o desenvolvimento do sistema, principalmente na fase inicial. Durante a conversa deve-se evitar críticas, para não gerar constrangimento entre os usuários. Se os participantes permitirem a sessão pode ser gravada, e todas as ideias devem ser registradas para uma posterior seleção com base em sua relevância.
+
+
 </p>
 
 ## **Metodologia**
@@ -21,10 +23,10 @@
 | --------------------------------------------------------- | ---------- |
 | [Júlia Souza](https://github.com/JuliaSSouza)             | Mediadora  |
 | [Carolina Barbosa](https://github.com/CarolinaBarb)       | Secretária |
-| <span style = "color: purple"> Caio Pacheco</span>        | Usuário    |
-| <span style = "color: purple"> Gabriel Santana</span>     | Usuário    |
-| <span style = "color: purple"> Guilherme Quirino </span>  | Usuário    |
-| <span style = "color: purple"> Henrique Pucci </span>     | Usuário    |
+| <span style = "color: purple"> Caio Pacheco Santos</span>        | Usuário    |
+| <span style = "color: purple"> Gabriel Morais Santana</span>     | Usuário    |
+| <span style = "color: purple"> Guilherme Almeida Quirino </span>  | Usuário    |
+| <span style = "color: purple"> Henrique Pucci da Silva Pinto </span>     | Usuário    |
 
 </center>
 
@@ -73,7 +75,7 @@
 &emsp;&emsp;A tabela 1 representa os Requisitos Elicitados pela técnica de Brainstorming
 </p>
 
-| Identificador  | Requisito  | Categoria | 
+| Identificação  | Descrição  | Categoria | 
 |-----|---------------------------------------------------------|-------|
 |BR01| Deve haver uma funcionalidade de quadro de anotações disponível  | RF |
 |BR02| O usuário deve ser capaz de compartilhar sua tela durante as reuniões | RF|
