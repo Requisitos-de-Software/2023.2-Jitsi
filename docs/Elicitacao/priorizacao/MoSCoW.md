@@ -13,12 +13,29 @@
 &emsp;&emsp;A classificação dos requisitos baseou-se em uma análise abrangente das necessidades dos stakeholders, considerações técnicas, viabilidade e alinhamento com os objetivos do projeto. Essa abordagem de priorização nos permite tomar decisões informadas sobre como alocar recursos e garantir que nosso projeto atenda às expectativas e metas estabelecidas.
 </p>
 
-## **Metodologia**
+## **Objetivo**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;O objetivo da técnica de priorização MoSCoW é classificar as prioridades do projeto ou do produto, permitindo que a equipe e as partes interessadas identifiquem e concentrem seus esforços nos requisitos mais críticos e fundamentais. Isso ajuda a garantir que os recursos sejam alocados de forma eficaz e a manter o foco nas áreas que terão o maior impacto no sucesso geral do projeto. Além disso, a técnica MoSCoW pode ajudar a gerenciar expectativas e comunicar de forma eficaz quais funcionalidades ou requisitos são considerados mais importantes em um determinado momento.
 </p>
 
-## **Tópico 1 (sempre com palavras começando em maiúsculo)**
+## **Metodologia**
+<p align="justify">
+&emsp;&emsp;Após relizar as técnicas de Eliticitação escolhidas pelo grupo, e listar todos o requisitos, analisamos cada um e classificamos nas tabelas abaixo cada um de acordo com a técnica MoSCoW: Must Have, Should Have, Could Have e W Have.
+</p>
+
+## **Must Have**
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="justify">
 &emsp;&emsp;Texto ....
 </p>
