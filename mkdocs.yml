@@ -40,12 +40,14 @@ nav:
     - Heatmap: Planejamento/heatmap.md
     - Metodologias: Planejamento/metodologias.md
   - Elicitação:
-    - Perfil do Usuário: Elicitação/Personas.md  
+    - Perfil do usuário:  
+      - Personas: Elicitação/Personas.md  
+      - Questionário: Elicitação/questionario.md
     - Técnicas:
       - Introspecção: Elicitação/Introspecção.md
-      - Questionário: Elicitação/questionario.md
       - Brainstorming: Elicitação/brainstorming.md
       - Entrevista: Elicitação/entrevista.md
+      - Observação: Elicitação/observacao.md
 
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  

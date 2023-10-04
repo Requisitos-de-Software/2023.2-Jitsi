@@ -12,6 +12,82 @@ Para criar as personas utilizamos a técnica usada para coletar dados <a href="h
 As imagens utilizadas neste documento para reprensentar as personas foram obtidas do site <a href="https://this-person-does-not-exist.com/en">This Person Does Not Exist</a>, que a partir de inteligência artificial gera imagens que não possuem direitos autorais.
 </p>
 
+## **Resultado do Questionário**
+
+O resultado no questionário teve o total de 20 respostas todas de acordo com o [termo de consentimento](./termo-consentimento-questionario.pdf) e o resultado das respostas são apresentados nas figuras de 1 a 10.
+
+De acordo com a figura 1, o gênero dos participantes em sua maioria é masculino represetando 55% das respostas sendo que o gênero masculino representa os outros 45%.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 1 - Questão 1.</p></font>
+<img src="../../assets/questionario/1.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
+De acordo com o gráfico apresentado na figura 2 em relação a faixa etária dos participantes, a maioria representando 70% dos participantes estão na faixa etária de 18 a 24 anos.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 2 - Questão 2.</p></font>
+<img src="../../assets/questionario/2.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
+De acordo com o gráfico apresentado na figura 3 o grau de escolaridade dos participantes, com 65% o Ensino Superior Incompleto e 25% com o Ensino Superior Completo, ou seja, uma predominância de usuários no ensino superior.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 3 - Questão 3.</p></font>
+<img src="../../assets/questionario/3.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
+De acordo com o gráfico apresentado na figura 4 sobre a frequência que o participante utiliza o aplicativos de chamada, com 55% selecionado a opção diariamente e os outros 20% semanalmente e esporadicamente.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 4 - Questão 4.</p></font>
+<img src="../../assets/questionario/4.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
+De acordo com a figura 5, a maioria dos usuarios não usa o Jitsi.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 5 - Questão 5.</p></font>
+<img src="../../assets/questionario/5.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
+De acordo com a figura 6, 75% dos usuários possuem muita experiência com dispositivos eletrônicos, e 25% possuem mêdia experiência.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 6 - Questão 6.</p></font>
+<img src="../../assets/questionario/6.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
+De acordo com a figura 7, a maioria dos usuários usam o aplicativo para reuniões da faculdade, trabalho e uso pessoal.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 7 - Questão 7.</p></font>
+<img src="../../assets/questionario/7.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
+De acordo com a figura 8, dentre as funcionalidades presentes no Jitsi, as mais usadas entre os usuários são: chat e compartilhar tela.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 8 - Questão 8.</p></font>
+<img src="../../assets/questionario/8.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
+De acordo com a figura 9, os usuários também usam outros aplicativos de chamada como o Google Meet e Microsoft Teams estão entre os mais usados.
+
+<figure markdown>
+<font size="3"><p style="text-align: center">Figura 9 - Questão 9.</p></font>
+<img src="../../assets/questionario/9.png" alt="logo"  style="float: none; margin: auto"/>
+<font size="3"><p style="text-align: center">Fonte: Bruno Henrique e Carolina Barbosa.</p></font>
+</figure>
+
 ## **Perfil de Usuário**
 <p align="justify">
 &emsp;&emsp; Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021), com base nisso definimos o perfil de usuário primeiro para depois definir as personas.
@@ -26,16 +102,199 @@ Perfil de usuário:
 
 
 ## **Personas**
-<p align="justify">
-&emsp;&emsp;
-</p>
+### Marina
 
+<div align="center">
+<img src="../../assets/Marina.jpeg" width="300" height="300">
+</div>
 
-## **Legenda**
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 1: Marina.</b>
+    <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
+</figcaption>
+</div>
+
+<br>
+
+| Caracteristica       | Resposta |
+|:---------------------|:---------|
+| **Nome**             | Marina   |
+| **Idade**            | 23 anos  |
+| **Gênero**           | Feminino |
+| **Localidade**       |          |
+| **Particularidades** |          |
+| **Escolaridade**     |          |
+| **Profissão**        |          |
+| **História**         |          |
+| **Objetivos**        |          |
+| **Rotina**           |          |
+| **Requisitos**       |          |
+| **Frequência**       |          |
+| **Necessidades**     |          |
+| **Expectativas**     |          |
+
 <p align="justify">
 <h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
-<br> Autor(a): <a href="https://github.com/fulanodetal">Fulano de Tal</a></h6>
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
+
+### Marcos
+
+<div align="center">
+<img src="../../assets/Marcos.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 2: Marcos.</b>
+    <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
+</figcaption>
+</div>
+
+<br>
+
+| Caracteristica       | Resposta  |
+|:---------------------|:----------|
+| **Nome**             | Marcos    |
+| **Idade**            | 25        |
+| **Gênero**           | Masculino |
+| **Localidade**       |           |
+| **Particularidades** |           |
+| **Escolaridade**     |           |
+| **Profissão**        |           |
+| **História**         |           |
+| **Objetivos**        |           |
+| **Rotina**           |           |
+| **Requisitos**       |           |
+| **Frequência**       |           |
+| **Necessidades**     |           |
+| **Expectativas**     |           |
+
+<p align="justify">
+<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
+
+### Jaqueline
+
+<div align="center">
+<img src="../../assets/Jaqueline.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 3: Jaqueline.</b>
+    <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
+</figcaption>
+</div>
+
+<br>
+
+| Caracteristica       | Resposta  |
+|:---------------------|:----------|
+| **Nome**             | Jaqueline |
+| **Idade**            | 38        |
+| **Gênero**           | Feminino  |
+| **Localidade**       |           |
+| **Particularidades** |           |
+| **Escolaridade**     |           |
+| **Profissão**        |           |
+| **História**         |           |
+| **Objetivos**        |           |
+| **Rotina**           |           |
+| **Requisitos**       |           |
+| **Frequência**       |           |
+| **Necessidades**     |           |
+| **Expectativas**     |           |
+
+<p align="justify">
+<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
+
+### Joyce
+
+<div align="center">
+<img src="../../assets/Joyce.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 4: Joyce.</b>
+    <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
+</figcaption>
+</div>
+
+<br>
+
+
+| Caracteristica       | Resposta |
+|:---------------------|:---------|
+| **Nome**             | Joyce    |
+| **Idade**            | 18       |
+| **Gênero**           | Feminino |
+| **Localidade**       |          |
+| **Particularidades** |          |
+| **Escolaridade**     |          |
+| **Profissão**        |          |
+| **História**         |          |
+| **Objetivos**        |          |
+| **Rotina**           |          |
+| **Requisitos**       |          |
+| **Frequência**       |          |
+| **Necessidades**     |          |
+| **Expectativas**     |          |
+
+<p align="justify">
+<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
+
+
+### Isaque 
+
+<div align="center">
+<img src="../../assets/Isaque.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 5: Isaque.</b>
+    <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
+</figcaption>
+</div>
+
+<br>
+
+
+| Caracteristica       | Resposta  |
+|:---------------------|:----------|
+| **Nome**             | Isaque    |
+| **Idade**            |           |
+| **Gênero**           | Masculino |
+| **Localidade**       |           |
+| **Particularidades** |           |
+| **Escolaridade**     |           |
+| **Profissão**        |           |
+| **História**         |           |
+| **Objetivos**        |           |
+| **Rotina**           |           |
+| **Requisitos**       |           |
+| **Frequência**       |           |
+| **Necessidades**     |           |
+| **Expectativas**     |           |
+
+<p align="justify">
+<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
+
 
 
 ## **Histórico de Versão**
@@ -43,9 +302,11 @@ Perfil de usuário:
 &emsp;&emsp;A tabela n representa o histórico de versão do documento.
 </p>
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 03/10/2023 | Criação do Documento | [Bruno Henrique](https://github.com/BrunoHenrique00) e[Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc)  |
+| Versão | Data       | Descrição            | Autor(es)                                                                                                  | Revisor(es)                                 |
+|--------|------------|----------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| `1.0`  | 03/10/2023 | Criação do Documento | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
+| `1.1`  | 03/10/2023 | Adiciona Perguntas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
+| `1.2`  | 03/10/2023 | Iniciando Personas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 <h6> Tabela n: Histórico de Versão.
 
 ## **Bibliografia**
