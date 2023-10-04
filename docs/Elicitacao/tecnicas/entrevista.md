@@ -46,7 +46,7 @@
 | Com que finalidade você usa o Jitsi? A trabalho? Para estudos? Para entretenimento?|
 | Como o Jitsi pode ser melhorado para se tornar mais útil e prático para você?|
 <h6 align="center"> Tabela 1: Perguntas realizadas durante a entrevista.
-<br> Autor(a): <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+<br> Autor(a): <a href="https://github.com/Juhvitoria4">Júlia Vitória e <a href="https://github.com/JuliaSSouza">Júlia Souza</a></a></h6>
 <details>
    <summary>Roteiro da Entrevista</summary>
       <iframe src="https://docs.google.com/document/d/e/2PACX-1vT0GYLXPvdkWTIS-Y3qKcul_vgbJHrLS9-BUWw6N-TmZrV1iNow-HXeGCIAUdqKCyl7__4V_RYUJ1wi/pub?embedded=true" width="100%" height="700" frameborder="0" scrolling="yes"></iframe>
@@ -69,7 +69,7 @@
 
 ## **Entrevista 1**
 <p align="justify">
-&emsp;&emsp;A entrevista foi realizada presencialmente, e apesar de ter transcrevido o áudio, não foi possível disponibilizá-lo. A tabela 3 apresenta as perguntas e respostas da entrevista 1.
+&emsp;&emsp;A entrevista foi realizada presencialmente. A entrevistadora foi a <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e a entrevistada Luana Soares. Apesar de ter transcrevido o áudio, não foi possível disponibilizá-lo. A tabela 3 apresenta as perguntas e respostas da entrevista 1.
 </p>
 
 | Perguntas | Respostas |
@@ -83,7 +83,7 @@
 | Com que finalidade você usa o Jitsi? A trabalho? Para estudos? Para entretenimento?| Para estudo | 
 | Como o Jitsi pode ser melhorado para se tornar mais útil e prático para você?| Acréscimo de modo claro na plataforma e aprimoramentos no design | 
 <h6 align="center"> Tabela 3: Perguntas e Respostas - Entrevista 1.
-<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a> e <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ## **Entrevista 2**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DyWOoL0fo4o?si=8LxdkEn1e-22WzLi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
