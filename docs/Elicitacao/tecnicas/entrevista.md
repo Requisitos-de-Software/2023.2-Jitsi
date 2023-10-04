@@ -133,14 +133,14 @@
 
 | Identificador | Requisito | Categoria | Implementado | 
 | ------------- | -------------------- | --------- | ------- | 
-| ENT01 | Os usuários devem poder compartilhar suas telas durante as reuniões | RF | Sim |
+| ENT01 | Os usuários devem poder compartilhar suas telas durante as chamadas | RF | Sim |
 | ENT02 | Os usuários devem ser capazes de criar uma videoconferência | RF | Sim | 
-| ENT03 | Deve fornecer opções pré-definidas de _emojis_ para comunicação entre os usuários | RF | Sim |
+| ENT03 | Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | RF | Sim |
 | ENT04 | Deve permitir a gravação de chamadas | RF | Não | 
 | ENT05 | Deve permitir a transcrição do áudio da chamada | RF | Não | 
-| ENT06 | Deve permitir a utilização de quadro branco durante a chamada | RF | Não |
-| ENT07 | Os usuários devem poder alterar o fundo do seu vídeo em exibição durante a chamada | RF | Não | 
-| ENT08 | Deve ter uma interface intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim |
+| ENT06 | Deve permitir a utilização de quadro de anotação durante a chamada | RF | Não |
+| ENT07 | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | RF | Não | 
+| ENT08 | Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim |
 
 ## **Histórico de Versão**
 <p align="justify">

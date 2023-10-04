@@ -34,9 +34,9 @@
 | Identificador  | Requisito  | Categoria | 
 |-----|---------------------------------------------------------|-------|
 |IN01| Deve permitir a configuração de controles de acesso | RF |
-|IN02| Os usuários devem poder compartilhar suas telas durante as reuniões | RF|
-|IN03| Deve permitir a gravação de reuniões | RF |
-|IN04| Deve haver uma funcionalidade de quadro de anotações disponível | RF |
+|IN02| Os usuários devem poder compartilhar suas telas durante as chamadas | RF|
+|IN03| Deve permitir a gravação de chamadas | RF |
+|IN04| Deve permitir a utilização de quadro de anotação durante a chamada | RF |
 |IN05| Ser compatível com sistemas operacionais Android e IOS| RNF|
 |IN06| Deve ser fácil de instalar e usar|RNF|
 |IN07| Ser de código aberto e gratuíto| RNF|

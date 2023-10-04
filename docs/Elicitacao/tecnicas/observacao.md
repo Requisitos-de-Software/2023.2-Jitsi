@@ -52,24 +52,24 @@
 &emsp;&emsp;A tabela 02 representa os Requisitos Elicitados pela técnica de Observação
 </p>
 
-| Identificação  | Descrição  | Categoria | 
+| Identificador  | Requisito  | Categoria | 
 |-----|---------------------------------------------------------|-------|
-|OB01| Deve permitir fazer autenticação astravés de outros aplicativos, como google ou facebook| RF |
-|OB02| Dever permitir convidar participantes através de compartilahemnto de link por meio de outros aplicativos| RF |
+|OB01| Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook| RF |
+|OB02| Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos| RF |
 |OB03| Deve possuir um link de ajuda para explicar como se convida outros participantes | RF |
 |OB04| Deve possuir a opção de mutar o áudio| RF |
-|OB05| Deve possuir a opão de gravar a vídeo chamada | RF |
-|OB06| Deve permitir enviar menssagem de texto durante a vídeo chamada | RF |
-|OB07| Os usuários possam compartilhar suas telas durante as reuniões | RF |
+|OB05| Deve permitir a gravação de chamadas | RF |
+|OB06| Deve permitir enviar menssagem de texto durante a videochamada | RF |
+|OB07| Os usuários devem poder compartilhar suas telas durante as chamadas | RF |
 |OB08| Os usuários possam compartilhar arquivos durante as reuniões | RF |
-|OB09| Os usuários possam compartilhar emojis durante as reuniões | RF |
+|OB09| Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | RF |
 |OB10| Os usuários possam tirar foto de captura de tela | RF |
-|OB11| O anfitrião conseguir atraveś do compartilhamento de tela interagir no celular de outro usuário | RF |
+|OB11| O anfitrião conseguir atraveS do compartilhamento de tela interagir no celular de outro usuário | RF |
 |OB12| Deve permitir configuração de perfil | RF |
 |OB13| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência| | RNF |
 |OB14| Deve possuir um calendário | RF |
 |OB15| Deve permitir que o calendário de um usuário seja sincronizado ao de outros | RF |
-|OB16| Deve permitir agendar reuniões com outros usuários atraveś do calendário | RF |
+|OB16| Deve permitir agendar reuniões com outros usuários atraveS do calendário | RF |
 |OB17| Deve possuir uma lista das reuniões que o usuário já participou | RF |
 |OB18| Deve ser um aplicativo ágil e que ocupe pouco espaço de memória | RNF |
 |OB19| Deve ser um aplicativo intuitivo que o usuário possa utilizar sem dificuldades | RNF |
