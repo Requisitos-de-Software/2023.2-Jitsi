@@ -29,14 +29,14 @@
 | ENT05, BR05 | Deve permitir a transcrição do áudio da chamada | RF | Não | 
 | ENT06, IN04, BR01 | Deve permitir a utilização de quadro de anotação durante a chamada | RF | Não |
 | ENT07, BR04 | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | RF | Não | 
-| ENT08, BR19, OB18 | Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim |
+| ENT08, OB18, BR17 | Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim |
 |IN01| Deve permitir a configuração de controles de acesso | RF | Sim | 
 |IN05| Ser compatível com sistemas operacionais Android e IOS| RNF | Sim | 
 |IN06| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | RNF | Sim | 
 |IN07| Deve ser de código aberto e gratuito | RNF | Sim | 
 |IN08| Deve ser possível deletar reuniões armazenadas | RF | Sim |
 |IN09, BR09 | Deve possuir um mecanismo de busca a partir da data da reunião | RF | Não |
-|IN10, BR10 | Deve permitir que o anfitrião exclua participantes | RF | Sim | 
+|IN10, BR07 | Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | RF | Não | 
 |IN11, OB12| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência | RNF | Sim |
 |IN12| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia | RNF | Sim |
 |IN13| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela  | RNF | Sim | 
@@ -53,7 +53,15 @@
 |OB15| Deve permitir agendar reuniões com outros usuários através do calendário | RF | Não | 
 |OB16| Deve possuir uma lista das reuniões que o usuário já participou | RF | Sim | 
 |OB17| Deve ser um aplicativo que ocupe menos de 100mb de memória | RNF | Sim |
-
+|BR06| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | RF | Não | 
+|BR08| Deve ser possível baixar as gravações das reuniões | RF | Sim | 
+|BR10| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. | RF | Sim | 
+|BR11| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso | RF | Sim | 
+|BR12| Deve ser possível ingressar em uma reunião sem a necessidade de um login | RNF | Sim | 
+|BR13| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | RF | Sim | 
+|BR14| Os usuários devem poder compartilhar arquivos durante as reuniões | RF | Não | 
+|BR16| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | RF | Não | 
+|BR18| Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade | RNF | Sim | 
 
 <h6 align = "center"> Tabela 1: Requisitos Elicitados.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>

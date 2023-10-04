@@ -75,26 +75,24 @@
 
 | Identificador | Requisito | Categoria | Implementado | 
 | ------------- | -------------------- | --------- | ------- | 
-|BR01| Deve permitir a utilização de quadro de anotação durante a chamada  | RF |
-|BR02| Os usuários devem poder compartilhar suas telas durante as chamadas | RF|
-|BR03| Deve permitir a gravação de chamadas  | RF |
-|BR04| O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | RF |
-|BR05| Deve permitir a transcrição do áudio da chamada | RF|
-|BR06| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante. |RF|
-|BR07| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião. | RF|
-|BR08| Deve ser possível fazer o download das gravações das reuniões| RF |
-|BR09| Deve possuir um mecanismo de busca a partir da data da reunião | RF |
-|BR10| Deve permitir que o anfitrião exclua particpantes | RF|
-|BR11| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. | RF |
-|BR12| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha|RF|
-|BR13| Deve ser possível ingressar em uma reunião sem a necessidade de um login | RNF |
-|BR14| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | RF |
-|BR15| Os usuários devem poder compartilhar arquivos durante as reuniões | RF |
-|BR16| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a vsiualização dos compromissos do usuário no aplicativo | RNF |
-|BR17| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | RF |
-|BR18| Deve oferecer uma interface simples e objetiva | RNF |
-|BR19| Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RF |
-|BR20| Deve possuir um bom contraste entre as cores afim aprimorar a legibilidade | RNF |
+|BR01| Deve permitir a utilização de quadro de anotação durante a chamada  | RF | Não | 
+|BR02| Os usuários devem poder compartilhar suas telas durante as chamadas | RF| Sim | 
+|BR03| Deve permitir a gravação de chamadas  | RF | Não | 
+|BR04| O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | RF | Não | 
+|BR05| Deve permitir a transcrição do áudio da chamada | RF | Não |
+|BR06| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | RF | Não | 
+|BR07| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | RF | Não |  
+|BR08| Deve ser possível baixar as gravações das reuniões | RF | Sim | 
+|BR09| Deve possuir um mecanismo de busca a partir da data da reunião | RF | Não | 
+|BR10| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. | RF | Sim | 
+|BR11| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso | RF | Sim | 
+|BR12| Deve ser possível ingressar em uma reunião sem a necessidade de um login | RNF | Sim | 
+|BR13| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | RF | Sim | 
+|BR14| Os usuários devem poder compartilhar arquivos durante as reuniões | RF | Não | 
+|BR15| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a vsiualização dos compromissos do usuário no aplicativo | RNF | Não | 
+|BR16| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | RF | Não | 
+|BR17| Deve ter uma interface objetiva e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RF | Sim | 
+|BR18| Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade | RNF | Sim | 
 
 <h6 align = "center"> Tabela 3: Requisitos Elicitados.
 <br> Autor(a):<a href="https://github.com/CarolinaBarb">Carolina Barbosa</a>, <a href="https://github.com/catlenc">Catlen Cleane</a>, <a href="https://github.com/JuliaSSouza">Julia Souza</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a></h6>
