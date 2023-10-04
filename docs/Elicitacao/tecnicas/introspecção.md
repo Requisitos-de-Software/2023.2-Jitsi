@@ -31,22 +31,21 @@
 &emsp;&emsp;A tabela 1 representa os Requisitos Elicitados pela técnica de Introspecção.
 </p>
 
-| Identificador  | Requisito  | Categoria | 
-|-----|---------------------------------------------------------|-------|
-|IN01| Deve permitir a configuração de controles de acesso | RF |
-|IN02| Os usuários devem poder compartilhar suas telas durante as reuniões | RF|
-|IN03| Deve permitir a gravação de reuniões | RF |
-|IN04| Deve haver uma funcionalidade de quadro de anotações disponível | RF |
-|IN05| Ser compatível com sistemas operacionais Android e IOS| RNF|
-|IN06| Deve ser fácil de instalar e usar|RNF|
-|IN07| Ser de código aberto e gratuíto| RNF|
-|IN08| Deve ser possível deletar reuniões armazenadas | RF|
-|IN09|Deve possuir um mecanismo de busca a partir da data da reunião| RF|
-|IN10| Deve permitir que o anfitrião exclua particpantes | RF|
-|IN11| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência| RNF |
-|IN12| Deve ser estável | RNF|
-|IN13| Deve oferecer um desempenho rápido e responsivo | RNF |
-|IN14| Deve ser escalável para acomodar um número crescente de participantes | RNF |
+| Identificador | Requisito | Categoria | Implementado | 
+| ------------- | -------------------- | --------- | ------- | 
+|IN01| Deve permitir a configuração de controles de acesso | RF | Sim | 
+|IN02| Os usuários devem poder compartilhar suas telas durante as chamadas | RF| Sim | 
+|IN03| Deve permitir a gravação de chamadas | RF | Não | 
+|IN04| Deve permitir a utilização de quadro de anotação durante a chamada | RF | Não |
+|IN05| Ser compatível com sistemas operacionais Android e IOS | RNF | Sim | 
+|IN06| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | RNF | Sim | 
+|IN07| Deve ser de código aberto e gratuito | RNF | Sim | 
+|IN08| Deve ser possível deletar reuniões armazenadas | RF | Sim |
+|IN09|Deve possuir um mecanismo de busca a partir da data da reunião | RF | Não |
+|IN10| Deve permitir que o anfitrião exclua participantes | RF | Sim | 
+|IN11| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência | RNF | Sim |
+|IN12| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia  | RNF | Sim |
+|IN13| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela | RNF | Sim | 
 
 <h6 align = "center"> Tabela 1: Requisitos Elicitados.
 <br> Autor(a): <a href="https://github.com/fulanodetal"><a href="https://github.com/catlenc">Catlen Cleane</a></h6>

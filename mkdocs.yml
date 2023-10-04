@@ -52,6 +52,7 @@ nav:
       - Entrevista: Elicitacao/tecnicas/entrevista.md
       - Introspecção: Elicitacao/tecnicas/introspecção.md
       - Observação: Elicitacao/tecnicas/observacao.md
+    - Requisitos Elicitados: Elicitacao/requisitos-elicitados.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md

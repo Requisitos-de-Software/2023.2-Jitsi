@@ -75,17 +75,17 @@
 &emsp;&emsp;A tabela 1 representa os Requisitos Elicitados pela técnica de Brainstorming
 </p>
 
-| Identificação  | Descrição  | Categoria | 
+| Identificador  | Requisito  | Categoria | 
 |-----|---------------------------------------------------------|-------|
-|BR01| Deve haver uma funcionalidade de quadro de anotações disponível  | RF |
-|BR02| O usuário deve ser capaz de compartilhar sua tela durante as reuniões | RF|
-|BR03| Deve permitir a gravação de reuniões  | RF |
+|BR01| Deve permitir a utilização de quadro de anotação durante a chamada  | RF |
+|BR02| Os usuários devem poder compartilhar suas telas durante as chamadas | RF|
+|BR03| Deve permitir a gravação de chamadas  | RF |
 |BR04| O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | RF |
-|BR05| O sistema deve ser capaz de transcrever uma chamada| RF|
+|BR05| Deve permitir a transcrição do áudio da chamada | RF|
 |BR06| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante. |RF|
 |BR07| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião. | RF|
-|BR08| Deve ser possível fazer o download das gravações das reuniões| RF|
-|BR09| Deve possuir um mecanismo de busca a partir da data da reunião| RF|
+|BR08| Deve ser possível fazer o download das gravações das reuniões| RF |
+|BR09| Deve possuir um mecanismo de busca a partir da data da reunião | RF |
 |BR10| Deve permitir que o anfitrião exclua particpantes | RF|
 |BR11| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. | RF |
 |BR12| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha|RF|
@@ -95,7 +95,7 @@
 |BR16| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a vsiualização dos compromissos do usuario no aplicativo| RNF |
 |BR17| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | RF |
 |BR18| Deve oferecer uma interface simples e objetiva | RNF |
-|BR19| Deve oferecer configurações claras e intuitivas | RF |
+|BR19| Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RF |
 |BR20| Deve possuir um bom contraste entre as cores afim aprimorar a legibilidade | RNF |
 
 <h6 align = "center"> Tabela 03: Requisitos Elicitados

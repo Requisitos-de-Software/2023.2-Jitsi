@@ -48,15 +48,25 @@
 <h6> Tabela 2: Cronograma de planejamento para implementar as técnicas.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
+<p align="justify">
+&emsp;&emsp;A tabela 3 demonstra o modelo de tabela que deve ser utilizado na elicitação de requisitos após a aplicação da respectiva técnica.
+</p>
+
+| Identificador | Requisito | Categoria | Implementado | 
+| ------------- | -------------------- | --------- | ------- | 
+
+<h6> Tabela 2: Cronograma de planejamento para implementar as técnicas.
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
+
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 3 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 4 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 04/10/2023 | Criação do artefato  | [Pedro Siqueira](https://github.com/PedroSiq)  | [Carolina Barbosa](https://github.com/CarolinaBarb) |
-<h6 align="center"> Tabela 3: Histórico de Versão.
+<h6 align="center"> Tabela 4: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Bibliografia**
