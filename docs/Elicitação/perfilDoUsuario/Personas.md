@@ -30,7 +30,7 @@ Perfil de usuário:
 ### Marina
 
 <div align="center">
-<img src="../../assets/Marina.jpeg" width="300" height="300">
+<img src="../../../assets/Marina.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
@@ -68,7 +68,7 @@ Perfil de usuário:
 ### Marcos
 
 <div align="center">
-<img src="../../assets/Marcos.jpeg" width="300" height="300">
+<img src="../../../assets/Marcos.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
@@ -106,7 +106,7 @@ Perfil de usuário:
 ### Jaqueline
 
 <div align="center">
-<img src="../../assets/Jaqueline.jpeg" width="300" height="300">
+<img src="../../../assets/Jaqueline.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
@@ -144,7 +144,7 @@ Perfil de usuário:
 ### Joyce
 
 <div align="center">
-<img src="../../assets/Joyce.jpeg" width="300" height="300">
+<img src="../../../assets/Joyce.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
@@ -184,7 +184,7 @@ Perfil de usuário:
 ### Isaque 
 
 <div align="center">
-<img src="../../assets/Isaque.jpeg" width="300" height="300">
+<img src="../../../assets/Isaque.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
