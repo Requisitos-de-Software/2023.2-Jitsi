@@ -7,7 +7,7 @@
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;Foi realizado uma reunião no dia 03/10/2023, com os participantes citados na tabela 01, pelo Microsoft Teams com o intuito de observar os usuários utilizando o Jitsi para elicitar seus requisitos. As  <span style = "color: lightblue"> Observadoras </span> instruiram as ações que os usuários precisava realizar no aplicativo Jitsi. Durante a observação de um dos usuários, foi realizado uma chamada pelo proprio aplicativo jitsi entre uma observadora e um usuário para que ele pode-se fazer uma análise das funcionalidades do aplicativo. A elicitação dos requisitos estão presentes na tabela 02.
+&emsp;&emsp;Foi realizado uma reunião no dia 03/10/2023, com os participantes citados na tabela 01, pelo Microsoft Teams com o intuito de observar os usuários utilizando o Jitsi para elicitar seus requisitos. As  <span style = "color: blue"> Observadoras </span> instruiram as ações que os usuários precisava realizar no aplicativo Jitsi. Durante a observação de um dos usuários, foi realizado uma chamada pelo proprio aplicativo jitsi entre uma observadora e um usuário para que ele pode-se fazer uma análise das funcionalidades do aplicativo. A elicitação dos requisitos estão presentes na tabela 02.
 </p>
 
 ## **Participantes**
@@ -22,8 +22,8 @@
 | [Carolina Barbosa](https://github.com/CarolinaBarb)       | Observadora |
 | [Catlen Cleane](https://github.com/catlenc)               | Observadora |
 | [Júlia Souza](https://github.com/JuliaSSouza)             | Observadora |
-| <span style = "color: purple"> Hugo Rogerio </span>       |Usuário|
-| <span style = "color: purple"> Leticia Resende </span>    |Usuário|
+| <span style = "color: purple"> Hugo Rogerio Pinto Martins</span>       |Usuário|
+| <span style = "color: purple"> Leticia Resende da Silva</span>    |Usuário|
 
 
 </center>
@@ -54,14 +54,25 @@
 
 | Identificação  | Descrição  | Categoria | 
 |-----|---------------------------------------------------------|-------|
-|OB01| --- | RF |
-|oB02| --- | RF |
-|OB03| --- | RF |
-|OB04| --- | RF |
-|OB05| --- | RF |
-|OB06| --- | RF |
-|OB07| --- | RF |
-|OB08| --- | RF |
+|OB01| Deve permitir fazer autenticação astravés de outros aplicativos, como google ou facebook| RF |
+|OB02| Dever permitir convidar participantes através de compartilahemnto de link por meio de outros aplicativos| RF |
+|OB03| Deve possuir um link de ajuda para explicar como se convida outros participantes | RF |
+|OB04| Deve possuir a opção de mutar o áudio| RF |
+|OB05| Deve possuir a opão de gravar a vídeo chamada | RF |
+|OB06| Deve permitir enviar menssagem de texto durante a vídeo chamada | RF |
+|OB07| Os usuários possam compartilhar suas telas durante as reuniões | RF |
+|OB08| Os usuários possam compartilhar arquivos durante as reuniões | RF |
+|OB09| Os usuários possam compartilhar emojis durante as reuniões | RF |
+|OB10| Os usuários possam tirar foto de captura de tela | RF |
+|OB11| O anfitrião conseguir atraveś do compartilhamento de tela interagir no celular de outro usuário | RF |
+|OB12| Deve permitir configuração de perfil | RF |
+|OB13| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência| | RNF |
+|OB14| Deve possuir um calendário | RF |
+|OB15| Deve permitir que o calendário de um usuário seja sincronizado ao de outros | RF |
+|OB16| Deve permitir agendar reuniões com outros usuários atraveś do calendário | RF |
+|OB17| Deve possuir uma lista das reuniões que o usuário já participou | RF |
+|OB18| Deve ser um aplicativo ágil e que ocupe pouco espaço de memória | RNF |
+|OB19| Deve ser um aplicativo intuitivo que o usuário possa utilizar sem dificuldades | RNF |
 
 <h6 align = "center"> Tabela 02: Requisitos Elicitados
 <br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a>
