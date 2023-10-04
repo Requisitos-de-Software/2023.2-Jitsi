@@ -30,13 +30,13 @@ Perfil de usuário:
 ### Marina
 
 <div align="center">
-<img src="../../assets/Marina.jpeg" width="300" height="300">
+<img src="../../../assets/Marina.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 1: Marina.</b>
+    <b>Figura 01: Marina.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -61,20 +61,20 @@ Perfil de usuário:
 | **Expectativas**     | Espera uma plataforma intuitiva e de fácil utilização que a ajude a manter sua equipe produtiva.                                                      |
 
 <p align="justify">
-<h6 align = "center"> Tabela 1: Persona Marina.
+<h6 align = "center"> Tabela 01: Persona Marina.
 <br> Autore(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
 ### Marcos
 
 <div align="center">
-<img src="../../assets/Marcos.jpeg" width="300" height="300">
+<img src="../../../assets/Marcos.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 2: Marcos.</b>
+    <b>Figura 02: Marcos.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -99,20 +99,20 @@ Perfil de usuário:
 | **Expectativas**     | Espera uma plataforma que permita uma colaboração eficaz em projetos de desenvolvimento de software.                       |
 
 <p align="justify">
-<h6 align = "center"> Tabela 2: Persona Marcos.
+<h6 align = "center"> Tabela 02: Persona Marcos.
 <br> Autores(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
 ### Jaqueline
 
 <div align="center">
-<img src="../../assets/Jaqueline.jpeg" width="300" height="300">
+<img src="../../../assets/Jaqueline.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 3: Jaqueline.</b>
+    <b>Figura 03: Jaqueline.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -137,20 +137,20 @@ Perfil de usuário:
 | **Expectativas**     | Espera uma plataforma estável e intuitiva que facilite a comunicação com seus alunos.                               |
 
 <p align="justify">
-<h6 align = "center"> Tabela 3: Persona Jaqueline.
+<h6 align = "center"> Tabela 03: Persona Jaqueline.
 <br> Autores(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
 ### Joyce
 
 <div align="center">
-<img src="../../assets/Joyce.jpeg" width="300" height="300">
+<img src="../../../assets/Joyce.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 4: Joyce.</b>
+    <b>Figura 04: Joyce.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -176,7 +176,7 @@ Perfil de usuário:
 | **Expectativas**     | Espera uma plataforma intuitiva e de fácil acesso que a ajude a se conectar e colaborar com outros entusiastas de jogos ao redor do mundo.                                      |
 
 <p align="justify">
-<h6 align = "center"> Tabela 4: Persona Joyce.
+<h6 align = "center"> Tabela 04: Persona Joyce.
 <br> Autores(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
@@ -184,13 +184,13 @@ Perfil de usuário:
 ### Isaque 
 
 <div align="center">
-<img src="../../assets/Isaque.jpeg" width="300" height="300">
+<img src="../../../assets/Isaque.jpeg" width="300" height="300">
 </div>
 
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 5: Isaque.</b>
+    <b>Figura 05: Isaque.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -216,7 +216,7 @@ Perfil de usuário:
 | **Expectativas**     | Espera uma plataforma que o ajude a se manter envolvido em suas paixões e a se sentir conectado com sua família, de forma acessível e amigável para pessoas da sua idade.                                                                    |
 
 <p align="justify">
-<h6 align = "center"> Tabela 5: Persona Isaque.
+<h6 align = "center"> Tabela 05: Persona Isaque.
 <br> Autores(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
@@ -224,7 +224,7 @@ Perfil de usuário:
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela n representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 06 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data       | Descrição            | Autor(es)                                                                                                  | Revisor(es)                                 |
@@ -232,7 +232,7 @@ Perfil de usuário:
 | `1.0`  | 03/10/2023 | Criação do Documento | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.1`  | 03/10/2023 | Iniciando Personas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.2`  | 04/10/2023 | Finalizar Personas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
-<h6> Tabela n: Histórico de Versão.
+<h6 align="justify"> Tabela 06: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </center>
 
