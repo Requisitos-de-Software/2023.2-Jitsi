@@ -87,7 +87,8 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 04/10/2023 | Criação do documento  | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
+| `1.0`  | 03/10/2023 | Criação do documento  | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
+ `1.1`  | 04/10/2023 | Listagem dos Requisitos e conclusão | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
 <h6 align = "center"> Tabela 03: Histórico de Versão.
 <br> Autor(a):  <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
