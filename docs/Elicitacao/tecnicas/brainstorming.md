@@ -19,7 +19,7 @@
 
 | Nome                                                      | Função     |
 | --------------------------------------------------------- | ---------- |
-| [Júlia Souza](https://github.com/JuliaSSouza)             | Mediadora  |
+| [Júlia Souza](https://github.com/JuliaSSouza)             | Moderadora  |
 | [Carolina Barbosa](https://github.com/CarolinaBarb)       | Secretária |
 | <span style = "color: purple"> Caio Pacheco Santos</span>        | Usuário    |
 | <span style = "color: purple"> Gabriel Morais Santana</span>     | Usuário    |
