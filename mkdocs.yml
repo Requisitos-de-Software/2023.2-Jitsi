@@ -44,14 +44,14 @@ nav:
     - Perfil do Usuário:
       - Personas: Elicitacao/perfilDoUsuario/personas.md  
       - Questionário: Elicitacao/perfilDoUsuario/questionario.md
-    - Priorização: 
-      - 100 Doláres: Elicitacao/priorizacao/100Dolares.md
-      - MoSCoW: Elicitacao/priorizacao/MoSCoW.md
     - Técnicas:
       - Brainstorming: Elicitacao/tecnicas/brainstorming.md
       - Entrevista: Elicitacao/tecnicas/entrevista.md
       - Introspecção: Elicitacao/tecnicas/introspecção.md
       - Observação: Elicitacao/tecnicas/observacao.md
+    - Priorização: 
+      - 100 Doláres: Elicitacao/priorizacao/100Dolares.md
+      - MoSCoW: Elicitacao/priorizacao/MoSCoW.md
     - Requisitos Elicitados: Elicitacao/requisitos-elicitados.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
