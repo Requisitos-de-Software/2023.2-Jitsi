@@ -45,4 +45,20 @@
 </center>
 
 ## **Bibliografia**
+
 > <a href="https://github.com/Requisitos-de-Software/2023.2-Jitsi">[1]</a> Repositório Requisitos - Cronograma - Ferramentas. Acesso em: 18 de setembro de 2023.
+
+> <a href="https://github.com">[2]</a> GitHub. Acesso em: 18 de setembro de 2023.
+
+> <a href="https://web.whatsapp.com/">[3]</a> WhatsApp. Acesso em: 18 de setembro de 2023.
+
+> <a href="https://www.youtube.com">[4]</a> YouTube. Acesso em: 18 de setembro de 2023.
+
+> <a href="https://code.visualstudio.com/">[5]</a> Visual Studio Code (VSCode). Acesso em: 18 de setembro de 2023.
+> <a href="https://teams.microsoft.com/">[6]</a> Microsoft Teams. Acesso em: 18 de setembro de 2023.
+
+> <a href="https://www.draw.io/">[7]</a> Draw.io. Acesso em: 18 de setembro de 2023.
+
+> <a href="https://trello.com">[8]</a> Trello. Acesso em: 18 de setembro de 2023.
+
+> <a href="https://www.mkdocs.org/">[9]</a> MkDocs. Acesso em: 18 de setembro de 2023.
