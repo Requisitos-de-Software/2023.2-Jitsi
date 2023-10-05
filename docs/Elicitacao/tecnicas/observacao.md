@@ -45,7 +45,7 @@
 &emsp;&emsp;Legenda da tabela 2: 
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
 <li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
-<li> Identificação(BR + N°) : Requisito Elicitado pela Observação + Número
+<li> Identificação(OB + N°) : Requisito Elicitado pela Observação + Número
 </p>
 <p align="justify">
 &emsp;&emsp;A tabela 2 representa os Requisitos Elicitados pela técnica de Observação
