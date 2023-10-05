@@ -55,7 +55,7 @@
 | Identificador | Requisito | Categoria | Implementado | 
 | ------------- | -------------------- | --------- | ------- | 
 
-<h6> Tabela 2: Cronograma de planejamento para implementar as técnicas.
+<h6> Tabela 3: Cronograma de planejamento para implementar as técnicas.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Histórico de Versão**
