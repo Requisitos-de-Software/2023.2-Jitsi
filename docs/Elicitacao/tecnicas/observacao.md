@@ -32,13 +32,13 @@
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
 
-## **Link para as gravações da observação**
-<p align="justify">
-<a href="https://youtu.be/EJyVBQSa5yw">Observação Hugo</a> 
-</p>
-<p>
-<a href="https://youtu.be/ZMosEjgKFcg">Observação Leticia</a>
- </p>
+## **Gravações**
+### **Observação Hugo**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJyVBQSa5yw?si=tY-xDTShMAL_WJHp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### **Observação Letícia**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMosEjgKFcg?si=yQlpyMhpaRuIpTj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## **Requisitos Elicitados**
 <p align="justify">
