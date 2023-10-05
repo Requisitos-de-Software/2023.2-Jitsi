@@ -48,6 +48,20 @@
 <li> Escolha das técnicas de priorização e elicitação de requisitos</li>
 </ul>
 
+## **Atividades definidas**
+<p align="justify">
+&emsp;&emsp;A tabela 3 representa as atividades definidas durante a reunião.
+</p>
+| Atividade | Prazo final | Responsável | Revisor |
+| --------- | ----------- | ----------- | ----------- |
+| Atualizar Cronograma| 27/09 | Catlen | Julia Souza
+| Atualizar a tabela de ferramentas| 20/09 | Julia Souza | Julia Vitoria
+
+<p align="justify">
+<h6 align = "center"> Tabela 2: Escopo da reunião.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+</p>
+
 
 ## **Gravação da Reunião**
 
@@ -61,6 +75,7 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------  |
 | `1.0`  | 04/10/2023 | Elaboração do documento | [Júlia Souza](https://github.com/JuliaSSouza) | [Júlia Vitória](https://github.com/Juhvitoria4) |
+| `1.0`  | 04/10/2023 | Adição das atividades | [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq) |
 <p align="justify">
 <h6 align = "center"> Tabela 4: histórico de versão.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
