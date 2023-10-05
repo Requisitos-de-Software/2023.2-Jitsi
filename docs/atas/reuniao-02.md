@@ -61,7 +61,7 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------  |
-| `1.0`  | 19/09/2023 | Teste apresentação | [Julia Vitoria](https://github.com/Juhvitoria4) |  |
-| `1.1`  | 19/09/2023 | Acrescentando a gravação | [Pedro Siqueira](https://github.com/PedroSiq) | |
+| `1.0`  | 19/09/2023 | Teste apresentação | [Julia Vitoria](https://github.com/Juhvitoria4) | [Catlen Cleane](https://github.com/catlenc) |
+| `1.1`  | 19/09/2023 | Acrescentando a gravação | [Pedro Siqueira](https://github.com/PedroSiq) |  [Carolina Barbosa](https://github.com/CarolinaBarb) |
 <h6> Tabela 4: Histórico de Versão.
 <br> Autor(a): Júlia Vitória</h6>

@@ -60,7 +60,7 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------  |
-| `1.0`  | 04/10/2023 | Elaboração do documento | [Júlia Souza](https://github.com/JuliaSSouza) |  |
+| `1.0`  | 04/10/2023 | Elaboração do documento | [Júlia Souza](https://github.com/JuliaSSouza) | [Júlia Vitória](https://github.com/Juhvitoria4) |
 <p align="justify">
 <h6 align = "center"> Tabela 4: histórico de versão.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
