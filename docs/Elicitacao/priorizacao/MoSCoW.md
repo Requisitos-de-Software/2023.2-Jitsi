@@ -29,6 +29,10 @@
 &emsp;&emsp;Legenda da tabela 1: 
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
 <li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
+<li> Identificação(ENT + N°) : Requisito Elicitado pela Entrevista + Número.
+<li> Identificação(BR + N°) : Requisito Elicitado pela Brainstorming + Número
+<li> Identificação(IN + N°) : Requisito Elicitado pela Introspecção + Número
+<li> Identificação(OB + N°) : Requisito Elicitado pela Observação + Número
 </p>
 <p align="justify">
 &emsp;&emsp;A tabela 1 representa os requisitos classificados de acordo com a técnia MoSCoW como Must Have
@@ -68,6 +72,10 @@
 &emsp;&emsp;Legenda da tabela 2: 
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
 <li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
+<li> Identificação(ENT + N°) : Requisito Elicitado pela Entrevista + Número.
+<li> Identificação(BR + N°) : Requisito Elicitado pela Brainstorming + Número
+<li> Identificação(IN + N°) : Requisito Elicitado pela Introspecção + Número
+<li> Identificação(OB + N°) : Requisito Elicitado pela Observação + Número
 </p>
 <p align="justify">
 &emsp;&emsp;A tabela 2 representa os requisitos classificados de acordo com a técnia MoSCoW como Should Have
@@ -103,6 +111,10 @@
 &emsp;&emsp;Legenda da tabela 3: 
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
 <li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
+<li> Identificação(ENT + N°) : Requisito Elicitado pela Entrevista + Número.
+<li> Identificação(BR + N°) : Requisito Elicitado pela Brainstorming + Número
+<li> Identificação(IN + N°) : Requisito Elicitado pela Introspecção + Número
+<li> Identificação(OB + N°) : Requisito Elicitado pela Observação + Número
 </p>
 <p align="justify">
 &emsp;&emsp;A tabela 3 representa os requisitos classificados de acordo com a técnia MoSCoW como Could Have
@@ -131,6 +143,10 @@
 &emsp;&emsp;Legenda da tabela 4: 
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
 <li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
+<li> Identificação(ENT + N°) : Requisito Elicitado pela Entrevista + Número.
+<li> Identificação(BR + N°) : Requisito Elicitado pela Brainstorming + Número
+<li> Identificação(IN + N°) : Requisito Elicitado pela Introspecção + Número
+<li> Identificação(OB + N°) : Requisito Elicitado pela Observação + Número
 </p>
 <p align="justify">
 &emsp;&emsp;A tabela 4 representa os requisitos classificados de acordo com a técnia MoSCoW como Won't Have
