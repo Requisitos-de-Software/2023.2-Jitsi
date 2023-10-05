@@ -36,28 +36,26 @@
 
 | Tipo | Requisito | Elicitação |
 | -------|--------|------------|
-|RF| O usuário deve ser capaz de compartilhar sua tela durante as reuniões | Brainstorming|
-|RF| Deve permitir a gravação de reuniões  |Brainstorming|
-|RF| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião |Brainstorming|
-|RNF| Deve oferecer uma interface simples e objetiva |Brainstorming|
-|RF| Deve oferecer configurações claras e intuitivas |Brainstorming|
-| RF | Os usuários devem poder compartilhar suas telas durante as reuniões | Entrevista |
-| RF | Os usuários devem ser capazes de criar uma videoconferência | Entrevista |
-| RF | Deve permitir a gravação de chamadas | Entrevista |
-|RNF | Deve ter uma interface intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | Entrevista |
-|RF| Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook| Observação |
-|RF| Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos| Observação |
-|RF| Deve possuir a opção de mutar o áudio| Observação |
-|RF| Deve permitir a gravação de chamadas | Observação |
-|RF| Deve permitir enviar menssagem de texto durante a videochamada | Observação |
-|RF| Os usuários devem poder compartilhar suas telas durante as chamadas | Observação |
-|RF| Deve permitir configuração de perfil |Observação |
-|RNF| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência| Observação |
-|RNF| Deve ser um aplicativo ágil e que ocupe pouco espaço de memória | Observação |
-|RNF| Deve ser um aplicativo intuitivo que o usuário possa utilizar sem dificuldades | Observação |
-|RF| Deve permitir a configuração de controles de acesso | Instrospecção | 
-|RNF| Ser compatível com sistemas operacionais Android e IOS| Instrospecção | 
-|RNF| Deve ser de código aberto e gratuito | Instrospecção | 
+|RF| O usuário deve ser capaz de compartilhar sua tela durante as reuniões |BR02|
+|RF| Deve permitir a gravação de chamadas  |BR03|
+|RF| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião |BR07|
+|RNF| Deve oferecer uma interface simples e objetiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques |BR17|
+| RF | Os usuários devem poder compartilhar suas telas durante as reuniões |ENT01|
+| RF | Os usuários devem ser capazes de criar uma videoconferência | ENT02 |
+| RF | Deve permitir a gravação de chamadas | ENT04 |
+|RNF | Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | EN08 e OB18|
+|RF| Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook| OB01 |
+|RF| Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos| OB02 |
+|RF| Deve possuir a opção de mutar o áudio| OB04 |
+|RF| Deve permitir a gravação de chamadas | OB05 |
+|RF| Deve permitir enviar menssagem de texto durante a videochamada | OB06 |
+|RF| Os usuários devem poder compartilhar suas telas durante as chamadas | OB07 |
+|RF| Deve permitir configuração de perfil |OB11 |
+|RNF| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência| OB12 |
+|RNF| Deve ser um aplicativo que ocupe pouco menos de 100mb de memória | OB17 |
+|RF| Deve permitir a configuração de controles de acesso | IN01 | 
+|RNF| Ser compatível com sistemas operacionais Android e IOS| IN05 | 
+|RNF| Deve ser de código aberto e gratuito | IN07 | 
 
 <h6 align = "center"> Tabela 1: Must Have.
 <br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a>
@@ -77,25 +75,22 @@
 
 | Tipo | Requisito | Elicitação |
 | -------|--------|------------|
-|RF| Deve ser possível fazer o download das gravações das reuniões|Brainstorming|
-|RF| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha|Brainstorming|
-|RNF| Deve ser possível a integração com outros sistemas afim de possibilitar a abertura de arquivos no próprio aplicativo| Brainstorming |
-|RF| Deve haver uma funcionalidade de quadro de anotações disponível  | Brainstorming |
-|RF| O sistema deve ser capaz de transcrever uma chamada|Brainstorming|
-|RF| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante. |Brainstorming|
-|RF| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente |Brainstorming|
-| RF | Deve fornecer opções pré-definidas de _emojis_ para comunicação entre os usuários | Entrevista |
-| RF | Deve permitir a transcrição do áudio da chamada | Entrevista |
-| RF | Deve permitir a utilização de quadro branco durante a chamada | Entrevista |
-| RF | Os usuários devem poder alterar o fundo do seu vídeo em exibição durante a chamada | Entrevista |
-|RF| Os usuários possam compartilhar arquivos durante as reuniões | Observação |
-|RF| Deve possuir um calendário | Observação |
-|RF| Deve permitir que o calendário de um usuário seja sincronizado ao de outros | Observação |
-|RF| Deve permitir agendar reuniões com outros usuários atraves do calendário | Observação |
-|RF| Deve possuir uma lista das reuniões que o usuário já participou | Observação |
-|RNF| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | Instrospecção | 
-|RNF| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia | Instrospecção | 
-|RNF| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela  |Instrospecção | 
+|RF| Deve ser possível baixar as gravações das reuniões|BR08|
+|RF| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha|BR11|
+|RF| O sistema deve permitir a transcrição do áudio de chamada|BR05 EN05|
+|RF| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante |BR06|
+|RF| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente |BR10|
+| RF | Os usuários devem poder compartilhar emojis pré definidos durante as chamadas | ENT03 e OB09|
+| RF | Deve permitir a utilização de quadro de anotação durante a chamada | ENT06 |
+| RF | Os usuários devem ser capaz de alterar seu fundo durante a chamada de vídeo| ENT07 e BR04|
+|RF| Os usuários possam compartilhar arquivos durante as reuniões | OB08 |
+|RF| Deve possuir um calendário com chamadas agendadas| OB13 |
+|RF| Deve permitir que o calendário de um usuário seja sincronizado ao de outros | OB14 |
+|RF| Deve permitir agendar reuniões com outros usuários atraves do calendário | OB15 |
+|RF| Deve possuir uma lista das reuniões que o usuário já participou | OB16 |
+|RNF| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | IN06 | 
+|RNF| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia | IN12 | 
+|RNF| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela  |IN13 | 
 
 <h6 align = "center"> Tabela 2: Should Have.
 <br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a>
@@ -115,15 +110,13 @@
 
 |Tipo | Requisito | Elicitação |
 | -------|--------|------------|
-|RF| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade |Brainstorming|
-|RNF| Deve possuir um bom contraste entre as cores afim aprimorar a legibilidade | Brainstorming|
-|RNF| Deve ser possível ingressar em uma reunião sem a necessidade de um login |Brainstorming|
-|RF| O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo |Brainstorming|
-|RF| Deve possuir um mecanismo de busca a partir da data da reunião|Brainstorming|
-|RF| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião |Brainstorming|
-|RF| Deve possuir um link de ajuda para explicar como se convida outros participantes | Observação |
-|RF| Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | Observação |
-|RF| Deve ser possível deletar reuniões armazenadas | Instrospecção |
+|RF| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade |BR16|
+|RNF| Deve possuir um bom contraste entre as cores afim aprimorar a legibilidade | BR18|
+|RNF| Deve ser possível ingressar em uma reunião sem a necessidade de um login |BR12|
+|RF| Deve possuir um mecanismo de busca a partir da data da reunião|BR09|
+|RF| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião |BR13|
+|RF| Deve possuir um link de ajuda para explicar como se convida outros participantes | OB03 |
+|RF| Deve ser possível deletar reuniões armazenadas | IN08 |
 
 <h6 align = "center"> Tabela 3: Could Have.
 <br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a>
@@ -145,9 +138,8 @@
 
 |Tipo| Requisito | Elicitação |
 | -------|--------|------------|
-|RNF| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a visualização dos compromissos do usuario no aplicativo|Brainstorming|
-|RF| Os usuários possam tirar foto de captura de tela | Observação |
-|RF| O anfitrião conseguir atraveS do compartilhamento de tela interagir no celular de outro usuário | Observação |
+|RNF| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a visualização dos compromissos do usuario no aplicativo|BR15|
+|RF| O anfitrião conseguir atraveS do compartilhamento de tela interagir no celular de outro usuário | OB10 |
 
 <h6 align = "center"> Tabela 4: Won't Have.
 <br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a>
@@ -163,6 +155,7 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 04/10/2023 | Elaboração do artefato | [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+| `1.1`  | 04/10/2023 | Correções do artefato | [Catlen Cleane](https://github.com/catlenc) e [Bruno Henrique](https://github.com/BrunoHenrique00)| [Carolina Barbosa](https://github.com/CarolinaBarb) |
 <h6> Tabela 5: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a> </h6>
 
