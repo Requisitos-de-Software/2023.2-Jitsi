@@ -19,7 +19,7 @@
 
 | Nome                                                      | Função     |
 | --------------------------------------------------------- | ---------- |
-| [Júlia Souza](https://github.com/JuliaSSouza)             | Mediadora  |
+| [Júlia Souza](https://github.com/JuliaSSouza)             | Moderadora  |
 | [Carolina Barbosa](https://github.com/CarolinaBarb)       | Secretária |
 | <span style = "color: purple"> Caio Pacheco Santos</span>        | Usuário    |
 | <span style = "color: purple"> Gabriel Morais Santana</span>     | Usuário    |
@@ -89,7 +89,7 @@
 |BR12| Deve ser possível ingressar em uma reunião sem a necessidade de um login | RNF | Sim | 
 |BR13| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | RF | Sim | 
 |BR14| Os usuários devem poder compartilhar arquivos durante as reuniões | RF | Não | 
-|BR15| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a vsiualização dos compromissos do usuário no aplicativo | RNF | Não | 
+|BR15| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a visualização dos compromissos do usuário no aplicativo | RNF | Não | 
 |BR16| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | RF | Não | 
 |BR17| Deve ter uma interface objetiva e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RF | Sim | 
 |BR18| Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade | RNF | Sim | 
