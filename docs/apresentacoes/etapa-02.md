@@ -1,4 +1,4 @@
-# ***Apresentação Etapa 01***
+# ***Apresentação Etapa 02***
 ## **Introdução** 
 <p align="justify">
 &emsp;&emsp;O seguinte artefato tem como objetivo expor <b>todas as entregas</b> da <b>segunda etapa</b>.
@@ -10,7 +10,7 @@
 <ul>
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/planejamento/">Planejamento</a></li>
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/personas/">Personas</a></li>   
-<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/">Questionario</a></li>  
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/">Questionário</a></li>  
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">Brainstorming</a></li>  
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">Entrevista</a></li>
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspecção/">Introspecção</a></li>
@@ -23,7 +23,8 @@
 </p>
 
 ## **Vídeo da Apresentação**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ItVBKesxpC8?si=ChDwY20jUfVkUL-F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H8J4GbFUmQw?si=mfBB1hOLKQadZ_IM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -32,7 +33,7 @@
 
 | Versão | Data       | Descrição           | Autor(es)                                            | Revisor(es) |
 |--------|------------|---------------------|------------------------------------------------------|-------------|
-| `1.0`  | 20/09/2023 | Criação do artefato | [Bruno Henrique](https://github.com/BrunoHenrique00) |             |
+| `1.0`  | 04/10/2023 | Criação do artefato | [Bruno Henrique](https://github.com/BrunoHenrique00) | [Pedro Siqueira](https://github.com/PedroSiq) |
 
 <center>
 <h6> Tabela 1: Histórico de Versão.
