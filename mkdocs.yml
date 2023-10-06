@@ -53,6 +53,7 @@ nav:
     - Priorização: 
       - 100 Doláres: Elicitacao/priorizacao/100Dolares.md
       - MoSCoW: Elicitacao/priorizacao/MoSCoW.md
+      - Three Level Scale:  Elicitacao/priorizacao/TLS.md
     - Requisitos Elicitados: Elicitacao/requisitos-elicitados.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
