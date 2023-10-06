@@ -11,14 +11,6 @@
 </p>
 
 ## **Requisitos**
-<p align="justify">
-&emsp;&emsp;Legenda da tabela 1: 
-<li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
-<li> Identificação(ENT + N°) : Requisito Elicitado pela Entrevista + Número.
-<li> Identificação(BR + N°) : Requisito Elicitado pela Brainstorming + Número
-<li> Identificação(IN + N°) : Requisito Elicitado pela Introspecção + Número
-<li> Identificação(OB + N°) : Requisito Elicitado pela Observação + Número
-
 </p>
 <p align="justify">
 &emsp;&emsp;A Tabela 1 demonstra a versão final dos requisitos funcionais avaliados conforme a metodologia e os classifica de $2 até $20, baseado em sua importância.
@@ -61,6 +53,18 @@
 <h6 align = "center"> Figura/Tabela 1: Requisitos avaliados.
 <br> Autor(a): <a href="https://github.com/juhvitoria4">Julia Vitória</a>, <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
+
+## **Legenda**
+
+<p align="justify"> 
+<li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
+<li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
+<li> Identificação(ENT + N°) : Requisito Elicitado pela Entrevista + Número.
+<li> Identificação(BR + N°) : Requisito Elicitado pela Brainstorming + Número
+<li> Identificação(IN + N°) : Requisito Elicitado pela Introspecção + Número
+<li> Identificação(OB + N°) : Requisito Elicitado pela Observação + Número
+</p>
+
 
 ## **Histórico de Versão**
 <p align="justify">
