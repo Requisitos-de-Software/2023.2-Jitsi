@@ -45,18 +45,37 @@
 | Observação | Início: 03/10 <br>Fim: 04/10 |[Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)|[Júlia Vitória](https://github.com/Juhvitoria4)|
 | Introspecção | Início: 02/10 <br>Fim: 04/10 |[Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Souza](https://github.com/JuliaSSouza)|
 | Entendimento das técnicas de priorização de requisitos e quais serão usadas no projeto| Início: 27/09 <br>Fim: 29/09 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe) | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
-| 100 Dólares| Início: 04/10 <br>Fim: 04/10 |[Júlia Souza](https://github.com/JuliaSSouza), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Vitória](https://github.com/Juhvitoria4)|
-| MoSCoW| Início: 04/10 <br>Fim: 04/10 |[Catlen Cleane](https://github.com/catlenc), [Júlia Vitória](https://github.com/Juhvitoria4) e [Bruno Henrique](https://github.com/BrunoHenrique00)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
+| In Or Out| Início: 13/10 <br>Fim: 15/10 |[Júlia Souza](https://github.com/JuliaSSouza), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Vitória](https://github.com/Juhvitoria4)|
+| MoSCoW| Início: 04/10 <br>Fim: 15/10 |[Catlen Cleane](https://github.com/catlenc), [Júlia Vitória](https://github.com/Juhvitoria4) e [Bruno Henrique](https://github.com/BrunoHenrique00)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
+|Three Level Scale | Início: 06/10 <br>Fim: 15/10 |[Catlen Cleane](https://github.com/catlenc), [Júlia Vitória](https://github.com/Juhvitoria4) e [Bruno Henrique](https://github.com/BrunoHenrique00)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 | Planejamento da aplicação de técnicas de elicitação e priorização| Início: 20/09 <br>Fim: 04/10 |[Pedro Siqueira](https://github.com/PedroSiq)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 | Requisitos Elicitados| Início: 01/10 <br>Fim: 04/10 |[Pedro Siqueira](https://github.com/PedroSiq)|[Bruno Henrique](https://github.com/BrunoHenrique00)|
 | Gravação do vídeo de apresentação | Início: 04/10 <br>Fim: 04/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Realizar correções após entrega e feedbacks recebidos | Início: 06/10 <br>Fim: 15/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 2: Elicitação - Técnicas e Priorização.
 <br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
+# **Entrega 3 - Modelagem de Requisitos**
+<p align="justify">
+&emsp;&emsp;A tabela 3 apresenta as entregas da terceira etapa.
+</p>
 
+| Atividade  | Período de Desenvolvimento | Responsáveis | Revisor |
+|----------------------------------------------------|------------------------------|-----------------------|---------------|
+| Modelagem de Requisitos: Cenários | Início: 05/10 <br>Fim: 08/10 | [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| Modelagem de Requisitos: Léxico | Início: 08/10 <br>Fim: 12/10 | [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb)|
+| Modelagem de Requisitos: Use Case | Início: 12/10 <br>Fim: 15/10 | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Souza](https://github.com/JuliaSSouza) |
+| Modelagem de Requisitos: Especificação Suplementar | Início: 15/09 <br>Fim: 20/10 | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
+| Gravação do vídeo de apresentação | Início: 23/10 <br>Fim: 24/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Realizar correções após entrega e feedbacks recebidos | Início: 26/10 <br>Fim: 28/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+
+<center>
+<h6> Tabela 3: Modelagem de Requisitos.
+<br/> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
 
 ## **Histórico de Versão**
 <p align="justify">
