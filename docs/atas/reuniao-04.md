@@ -2,7 +2,7 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp;Reunião com o propósito de atualizar o cronogrma e ajustar as técnicas de priorização utilizadas.
+&emsp;&emsp;Reunião com o propósito de atualizar o cronograma e ajustar as técnicas de priorização utilizadas.
 </p>
 
 ## **Lista de Presença**
@@ -74,7 +74,7 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------  |
-| `1.0`  | 04/10/2023 | Elaboração do documento | [Júlia Souza](https://github.com/JuliaSSouza) | [Júlia Vitória](https://github.com/Juhvitoria4) |
+| `1.0`  | 04/10/2023 | Elaboração do documento | [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 <p align="justify">
 <h6 align = "center"> Tabela 4: histórico de versão.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>

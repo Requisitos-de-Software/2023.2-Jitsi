@@ -52,7 +52,7 @@ nav:
       - Introspecção: Elicitacao/tecnicas/introspecção.md
       - Observação: Elicitacao/tecnicas/observacao.md
     - Priorização: 
-      - First Things First : Elicitacao/priorizacao/100Dolares.md
+      - First Things First : Elicitacao/priorizacao/ftf.md
       - MoSCoW: Elicitacao/priorizacao/MoSCoW.md
       - Three Level Scale:  Elicitacao/priorizacao/TLS.md
     - Requisitos Elicitados: Elicitacao/requisitos-elicitados.md

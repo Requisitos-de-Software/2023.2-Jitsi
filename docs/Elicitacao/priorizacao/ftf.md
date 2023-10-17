@@ -18,36 +18,36 @@
 
 | Identificador | Requisito | Benefício Relativo | Penalidade Relativa | Valor Total | Valor(%) | Custo Relativo | Custo(%) | Dificuldade | Dificuldade (%) | Prioridade |
 | ------------- | ---------- | ------------------- | -------------------- | ----------- | -------- | -------------- | ----------- | ----------- | -------------- | ---------- |
-| ENT01, IN02, OB07, BR02 | Os usuários devem poder compartilhar suas telas durante as chamadas | 9 | 8 |  |  | 7 |  |  |  | |
-| ENT02 | Os usuários devem ser capazes de criar uma videoconferência | 9 | 9 |  |  | 9 |  |  |  | |
-| ENT03, OB09 | Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | 3 | 0 |  |  | 3 |  |  |  | |
-| ENT04, IN03, OB05, BR03 | Deve permitir a gravação de chamadas | 9 | 9 |  |  | 9 |  |  |  | |
-| ENT05, BR05 | Deve permitir a transcrição do áudio da chamada | 8 | 8 |  |  | 8 |  |  |  | |
-| ENT06, IN04, BR01 | Deve permitir a utilização de quadro de anotação durante a chamada | 5 | 3 |  |  | 4 |  |  |  | |
-| ENT07, BR04 | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | 3 | 0 |  |  | 2 |  |  |  | |
-| IN01 | Deve permitir a configuração de controles de acesso | 9 | 9 |  |  | 9 |  |  |  | |
-| IN08 | Deve ser possível deletar reuniões armazenadas | 5 | 0 |  |  | 2 |  |  |  | |
-| IN09, BR09 | Deve possuir um mecanismo de busca a partir da data da reunião | 2 | 0 |  |  | 1 |  |  |  | |
-| IN10, BR07 | Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | 9 | 9 |  |  | 9 |  |  |  | |
-| OB01 | Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook | 4 | 3 |  |  | 7 |  |  |  | |
-| OB02 | Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos | 9 | 9 |  |  | 9 |  |  |  | |
-| OB03 | Deve possuir um link de ajuda para explicar como se convida outros participantes | 1 | 1 |  |  | 1 |  |  |  | |
-| OB04 | Deve possuir a opção de mutar o áudio | 9 | 9 |  |  |7 |  |  |  | |
-| OB06 | Deve permitir enviar mensagem de texto durante a videochamada | 9 | 9 |  |  | 7 |  |  |  | |
-| OB08, BR15 | Os usuários devem poder compartilhar arquivos durante as reuniões | 7 | 5  |  |  | 6 |  |  |  | |
-| OB10 | O anfitrião deve conseguir, através do compartilhamento de tela, interagir no celular de outro usuário | 6 | 0 |  |  | 9 |  |  |  | |
-| OB11 | Deve permitir que o usuário configure seu perfil, com nome de usuário e foto | 9 | 7 |  |  | 4 |  |  |  | |
-| OB13 | Deve possuir um calendário com chamadas agendadas | 5 | 0 |  |  | 9 |  |  |  | |
-| OB14 | Deve permitir que o calendário de um usuário seja sincronizado ao de outros | 3 | 0 |  |  | 9|  |  |  | |
-| OB15 | Deve permitir agendar reuniões com outros usuários através do calendário | 7 | 3 |  |  | 9 |  |  |  | |
-| OB16 | Deve possuir uma lista das reuniões que o usuário já participou | 3 | 7 |  |  | 2 |  |  |  | |
-| BR06 | Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | 7 | 2 |  |  | 4 |  |  |  | |
-| BR08 | Deve ser possível baixar as gravações das reuniões | 9 | 7 |  |  | 2 |  |  |  | |
-| BR10 | Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. |2 | 0 |   |  | 2 |  |  |  | |
-| BR11 | O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso | 0 | 0  |  |  |  | |  |  | |
-| BR13 | O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | 5 | 3 |  |  |  | |  |  | |
+| ENT01, IN02, OB07, BR02 | Os usuários devem poder compartilhar suas telas durante as chamadas | 9 | 8 | 26 | 5,52 | 7 |  |  |  | |
+| ENT02 | Os usuários devem ser capazes de criar uma videoconferência | 9 | 9 | 27 | 5,73 | 9 |  |  |  | |
+| ENT03, OB09 | Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | 3 | 0 | 6 |1,27  | 3 |  |  |  | |
+| ENT04, IN03, OB05, BR03 | Deve permitir a gravação de chamadas | 9 | 9 | 27 | 5,73 | 9 |  |  |  | |
+| ENT05, BR05 | Deve permitir a transcrição do áudio da chamada | 8 | 8 | 24 | 5,10 | 8 |  |  |  | |
+| ENT06, IN04, BR01 | Deve permitir a utilização de quadro de anotação durante a chamada | 5 | 3 | 13 | 2,76 | 4 |  |  |  | |
+| ENT07, BR04 | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | 3 | 0 | 6 | 1,27 | 2 |  |  |  | |
+| IN01 | Deve permitir a configuração de controles de acesso | 9 | 9 | 27 | 5,73 | 9 |  |  |  | |
+| IN08 | Deve ser possível deletar reuniões armazenadas | 5 | 0 | 10 | 2,12 | 2 |  |  |  | |
+| IN09, BR09 | Deve possuir um mecanismo de busca a partir da data da reunião | 2 | 0 | 4 | 0,85 | 1 |  |  |  | |
+| IN10, BR07 | Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | 9 | 9 | 27 | 5,73 | 9 |  |  |  | |
+| OB01 | Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook | 4 | 3 | 11 | 2,34 | 7 |  |  |  | |
+| OB02 | Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos | 9 | 9 | 27 | 5,73 | 9 |  |  |  | |
+| OB03 | Deve possuir um link de ajuda para explicar como se convida outros participantes | 1 | 1 | 3 | 0,64 | 1 |  |  |  | |
+| OB04 | Deve possuir a opção de mutar o áudio | 9 | 9 | 27 | 5,73 |7 |  |  |  | |
+| OB06 | Deve permitir enviar mensagem de texto durante a videochamada | 9 | 9 | 27 | 5,73 | 7 |  |  |  | |
+| OB08, BR15 | Os usuários devem poder compartilhar arquivos durante as reuniões | 7 | 5  | 19 | 4,03 | 6 |  |  |  | |
+| OB10 | O anfitrião deve conseguir, através do compartilhamento de tela, interagir no celular de outro usuário | 6 | 0 | 12 | 2,55 | 9 |  |  |  | |
+| OB11 | Deve permitir que o usuário configure seu perfil, com nome de usuário e foto | 9 | 7 | 25 | 5,31 | 4 |  |  |  | |
+| OB13 | Deve possuir um calendário com chamadas agendadas | 5 | 0 | 10 | 2,12 | 9 |  |  |  | |
+| OB14 | Deve permitir que o calendário de um usuário seja sincronizado ao de outros | 3 | 0 | 6 | 1,27 | 9|  |  |  | |
+| OB15 | Deve permitir agendar reuniões com outros usuários através do calendário | 7 | 3 | 17 | 3,61 | 9 |  |  |  | |
+| OB16 | Deve possuir uma lista das reuniões que o usuário já participou | 3 | 7 | 13 | 2,76 | 2 |  |  |  | |
+| BR06 | Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | 7 | 2 |16  |  | 4 |  |  |  | |
+| BR08 | Deve ser possível baixar as gravações das reuniões | 9 | 7 | 25 | 3,40 | 2 |  |  |  | |
+| BR10 | Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. |2 | 0 |  4 | 5,31 | 2 |  |  |  | |
+| BR11 | O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso | 0 | 0  | 0 | 0 |  | |  |  | |
+| BR13 | O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | 5 | 3 | 13 | 2,76 |  | |  |  | |
 | BR14 | Os usuários devem poder compartilhar arquivos durante as reuniões |  |  |  |  |  | |  |  | |
-| BR16 | Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | 7 | 5 |  |  |  | |  |  | |  
+| BR16 | Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | 7 | 5 | 19 | 4,03 |  | |  |  | |  
 
 
 
