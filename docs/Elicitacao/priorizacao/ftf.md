@@ -33,12 +33,12 @@
 </p>
 
 ## **Gravações**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=YcpCNRviV_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<a href="https://youtu.be/YcpCNRviV_0">First Things First</a>
 
 ## **Requisitos**
 </p>
 <p align="justify">
-&emsp;&emsp;A Tabela 1 demonstra a versão final dos requisitos funcionais avaliados conforme a metodologia e os classifica de $2 até $20, baseado em sua importância.
+&emsp;&emsp;A Tabela 2 demonstra a versão final dos requisitos funcionais avaliados conforme a metodologia e os classifica de 1 até 9, baseado em sua importância.
 </p>
 
 | Identificador | Requisito | Benefício Relativo | Penalidade Relativa | Valor Total | Valor(%) | Custo Relativo | Custo(%) | Dificuldade | Dificuldade (%) | Prioridade |
@@ -77,7 +77,7 @@
 
 
 <p align="justify">
-<h6 align = "center"> Figura/Tabela 1: Requisitos avaliados.
+<h6 align = "center"> Figura/Tabela 2: Requisitos avaliados.
 <br> Autor(a): <a href="https://github.com/juhvitoria4">Julia Vitória</a>, <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
 
