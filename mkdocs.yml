@@ -56,6 +56,8 @@ nav:
       - MoSCoW: Elicitacao/priorizacao/MoSCoW.md
       - Three Level Scale:  Elicitacao/priorizacao/TLS.md
     - Requisitos Elicitados: Elicitacao/requisitos-elicitados.md
+  - Modelagem:
+      - Léxicos: Modelagem/lexico.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md
