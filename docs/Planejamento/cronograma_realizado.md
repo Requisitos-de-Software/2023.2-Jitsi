@@ -66,7 +66,7 @@
 | Atividade  | Período de Desenvolvimento | Responsáveis | Revisor |
 |----------------------------------------------------|------------------------------|-----------------------|---------------|
 | Modelagem de Requisitos: Cenários | Início: 05/10 <br>Fim: 08/10 | [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
-| Modelagem de Requisitos: Léxico | Início: 08/10 <br>Fim: 12/10 | [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb)|
+| Modelagem de Requisitos: Léxico | Início: 18/10 <br>Fim: 20/10 | [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb)|
 | Modelagem de Requisitos: Use Case | Início: 12/10 <br>Fim: 15/10 | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Souza](https://github.com/JuliaSSouza) |
 | Modelagem de Requisitos: Especificação Suplementar | Início: 15/09 <br>Fim: 20/10 | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
 | Gravação do vídeo de apresentação | Início: 23/10 <br>Fim: 24/10 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
@@ -87,6 +87,7 @@
 | `1.0`  | 20/09/2023 | Criação do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)|
 | `1.1`  | 02/10/2023 | Inclusão da entrega 2 | [Catlen Cleane](https://github.com/catlenc) |[Carolina Barbosa](https://github.com/CarolinaBarb)|
 | `1.2`  | 04/10/2023 | Atualização da entrega 2 | [Catlen Cleane](https://github.com/catlenc), [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
+| `1.3`  | 18/10/2023 | Atualização da entrega 3 | [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 
 <center>
 <h6> Tabela 2: Histórico de Versão.
