@@ -62,6 +62,26 @@
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 </p>
 
+<p align="justify">
+&emsp;&emsp; A imagem 02 representa um momento da atividade de brainstorming com alguns participantes.
+</p>
+<figure markdown>
+<img src= "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/MomentoBrainstorming.jpg" alt="participantes" style="float: none; margin: auto"> 
+</figure>
+<p align="justify">
+<h6 align = "center"> Imagem 02: Participantes.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
+
+## **Gravação**
+<center>
+    <audio controls>
+        <source src="../../assets/AudioBrainstorming.mp3" type="audio/mpeg">
+        Seu navegador não suporta a tag de áudio.
+    </audio>
+</center>
+
+
 ## **Requisitos Elicitados**
 <p align="justify">
 &emsp;&emsp;Legenda da tabela 3: 
@@ -108,6 +128,7 @@
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 02/10/2023 | Introdução e Ideias Iniciais | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.1`  | 03/10/2023 | Elicitação dos Requisitos e conclusão | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
+| `1.2`  | 20/10/2023 | Adição de áudio da atividade | [Carolina Barbosa](https://github.com/CarolinaBarb) |[Júlia Souza](https://github.com/JuliaSSouza) |
 <h6 align="center"> Tabela 4: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
