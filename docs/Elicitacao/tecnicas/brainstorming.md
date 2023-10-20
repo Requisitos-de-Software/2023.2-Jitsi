@@ -74,13 +74,8 @@
 </p>
 
 ## **Gravação**
-<center>
-    <audio controls>
-        <source src="../../assets/AudioBrainstorming.mp3" type="audio/mpeg">
-        Seu navegador não suporta a tag de áudio.
-    </audio>
-</center>
-
+<a href="https://drive.google.com/file/d/1slutHpxYl5z06qzIgN02mdJT9Odf2iKf/view?usp=sharing">Áudio Brainstorming</a>
+</p>
 
 ## **Requisitos Elicitados**
 <p align="justify">
