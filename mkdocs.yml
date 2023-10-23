@@ -58,6 +58,7 @@ nav:
     - Requisitos Elicitados: Elicitacao/requisitos-elicitados.md
   - Modelagem:
       - Léxicos: Modelagem/lexico.md
+      - Casos de Uso: Modelagem/casoDeUso.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md
