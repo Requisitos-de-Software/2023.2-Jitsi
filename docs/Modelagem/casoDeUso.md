@@ -15,7 +15,6 @@
 <p align="justify">
 &emsp;&emsp; A tabela 01 Componentes do diagrama de casos de uso.
 </p>
-
 | Icone | Componente | Descrição |
 | ------- |---------- | ----------- |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Atores.png" alt="Ator" width=75px> | Ator | Representa os usuários que interagem com o sistema,o ator pode ser uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema.|
@@ -23,9 +22,8 @@
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/usecasesetas.png" alt="setas" width=75px> | Relacionamento | As setas são usadas para representar as relações entre atores e casos de uso.|
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Dados.png" alt="Sistema" width=75px> | Sistema | Uma sequência específica de ações e interações entre os atores e o sistema. O sistema também pode ser chamado de cenário. |
 
-
 <p align="justify">
-<h6 align= "center"> Tabela 01: Legenda do Rich Picture.
+<h6 align= "center"> Tabela 01: Componentes do diagrama de casos de uso.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
 
@@ -43,15 +41,83 @@
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
 
+## **Especificação dos casos de uso**
+<p align="justify">
+&emsp;&emsp;As tabelas a seguir apresentam especificação dos casos de uso.
+</p>
+
+<font size="3"><p style="text-align: center">Tabela 02:Criar Chamada</p></font>
+
+| UC01 | Informações |
+| ----- | ---------- |
+| Descrição | |
+| Ator | |
+| Pré-condições |  |
+| Ação |  |
+| Fluxo principal |  |
+| Fluxo alternativo | |
+| Fluxo de exceção ||
+| Pós-condições | |
+| Data de Criação | |
+| Rastreabilidade | |
+
+<p align="justify">
+<h6 align= "center"> Tabela 02
+<br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
+
+<font size="3"><p style="text-align: center">Tabela 03: Entrar na Chamada</p></font>
+
+| UC02 | Informações |
+| ----- | ---------- |
+| Descrição | |
+| Ator | |
+| Pré-condições |  |
+| Ação |  |
+| Fluxo principal |  |
+| Fluxo alternativo | |
+| Fluxo de exceção ||
+| Pós-condições | |
+| Data de Criação | |
+| Rastreabilidade | |
+
+<p align="justify">
+<h6 align= "center"> Tabela 03
+<br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
+
+<font size="3"><p style="text-align: center">Tabela 04:     Visualizar Chamadas</p></font>
+
+| UC03 | Informações |
+| ----- | ---------- |
+| Descrição | |
+| Ator | |
+| Pré-condições |  |
+| Ação |  |
+| Fluxo principal |  |
+| Fluxo alternativo | |
+| Fluxo de exceção ||
+| Pós-condições | |
+| Data de Criação | |
+| Rastreabilidade | |
+
+<p align="justify">
+<h6 align= "center"> Tabela 04
+<br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
+
+
+
+
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 02 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 05 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 23/10/2023 | Criação do Documento   | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza) |
-<h6 align="center"> Tabela 02: Histórico de Versão.
+| `1.0`  | 23/10/2023 | Criação do Documento   | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Bruno Henrique](https://github.com/BrunoHenrique00) | [Júlia Souza](https://github.com/JuliaSSouza) |
+<h6 align="center"> Tabela 05: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> </h6>
 
 ## **Bibliografia**
