@@ -41,67 +41,107 @@
 <li>Observação</li>
 </p>
 <p align="justify">
-&emsp;&emsp;Os participantes empregaram a plataforma LucidChart para efetuar a divisão e a priorização dos requisitos nos respectivos quadrantes, conforme demonstrado e organizado de forma clara na Figura 1.
-
-<div align="center">
-<img src="../../../assets/quadrante.png" width="300" height="300">
-</div>
+&emsp;&emsp;Os participantes fizeram uma videochamada com uma usuária  e conforme ela foi surgerindo os requisistos elicitados foram sendo classificados em critérios de alta, média ou baixa complexidade, e posteriormente listados em planilhas.
 </p>
 
-
-## **Resultados**
-Ao término do processo de priorização, os requisitos foram organizados e dispostos conforme apresentado na Figura 2. 
-
-<div align="center">
-<img src="../../../assets/quadrante.png" width="300" height="300">
-</div>
+## **Participantes**
+<p align="justify">
+&emsp;&emsp;A usuária do aplicativo Jitsi Ana Carolina Costa César participou atraveś de uma vídeo chamada pelo Teams, no dia 23/10/2023, às 17:40, com duração de aproximadamente 13 minutos, com a desenvolvedora Catlen Cleane. Conforme já explicado anteriormente.
 </p>
 
+## **Gravação**
+### **Priorização ThreeLevelScale**
+
+<iframe width="560" height="315" src="https://youtu.be/embed_AninrIp5G7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Requisitos de Alta Prioridade**
+<p align="justify">
+&emsp;&emsp;A tabela 1 apresenta os requisitos de Alta Prioridade
+</p>
 
 |identificador|Requisito|Quadrante|
 |-------------|---------|---------|
-||||
+|BR02, ENT01, IN02, OB07|Os usuários devem poder compartilhar suas telas durante as chamadas|Alta|
+|BR03, IN03, OB05| Deve permitir a gravação de chamadas  |Alta|
+|BR07| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | Alta|
+|BR08| Deve ser possível baixar as gravações das reuniões | Alta|
+|BR12| Deve ser possível ingressar em uma reunião sem a necessidade de um login |Alta|
+|BR13| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião |Alta|
+|BR14, OB08| Os usuários devem poder compartilhar arquivos durante as reuniões |Alta|
+|BR16| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade |Alta|
+|BR17, ENT08, OB17| Deve ter uma interface objetiva e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques |Alta|
+| ENT02 | Os usuários devem ser capazes de criar uma videoconferência |Alta|
+| ENT04 | Deve permitir a gravação de chamadas |Alta|
+|IN01| Deve permitir a configuração de controles de acesso |Alta|
+|IN05| Ser compatível com sistemas operacionais Android e IOS |Alta|
+|IN07| Deve ser de código aberto e gratuito |Alta|
+|IN10| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião |Alta|
+|IN11, OB12| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência |Alta|
+|IN12| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia  | Alta|
+|OB02| Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos|Alta|
+|OB04| Deve possuir a opção de mutar o áudio|Alta|
+|OB11| Deve permitir que o usuário configure seu perfil, com nome de usuário e foto |Alta|
+
 
 <h6 align = "center"> Tabela 1: Requisitos de Alta Prioridade.
-<br> Autor(a):<a href="https://github.com/Juhvitoria4">Júlia Vitória</a>
+<br> Autor(a):<a href="https://github.com/Juhvitoria4">Júlia Vitória</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 </p>
 </h6>
-
 
 ## **Requisitos de Média Prioridade**
+<p align="justify">
+&emsp;&emsp;A tabela 2 apresenta os requisitos de Média Prioridade
+</p>
+
 |identificador|Requisito|Quadrante|
 |-------------|---------|---------|
-||||
+|BR06| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | Média|
+|BR11| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso |Média|
+|BR18| Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade |Média|
+|IN06| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos |Média|
+|IN13| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela |Média|
+|OB01| Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook|Média|
+|BR05, ENT05| Deve permitir a transcrição do áudio da chamada |Média|
+|OB06| Deve permitir enviar mensagem de texto durante a videochamada |Média|
+|OB13| Deve possuir um calendário com chamadas agendadas |Média|
+|OB14| Deve permitir que o calendário de um usuário seja sincronizado ao de outros |Média|
+|OB15| Deve permitir agendar reuniões com outros usuários atraveS do calendário |Média|
+|OB16| Deve ser um aplicativo que ocupe menos de 100mb de memória |Média|
 
-<h6 align = "center"> Tabela 1: Requisitos de Media Prioridade.
-<br> Autor(a):<a href="https://github.com/Juhvitoria4">Júlia Vitória</a>
+<h6 align = "center"> Tabela 2: Requisitos de Média Prioridade.
+<br> Autor(a):<a href="https://github.com/Juhvitoria4">Júlia Vitória</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 </p>
 </h6>
-
-
 
 ## **Requisitos de Baixa Prioridade**
+<p align="justify">
+&emsp;&emsp;A tabela 3 apresenta os requisitos de Baixa Prioridade
+</p>
+
 |identificador|Requisito|Quadrante|
 |-------------|---------|---------|
-||||
+|BR01, ENT06, IN04| Deve permitir a utilização de quadro de anotação durante a chamada  | Baixa|
+|BR04, ENT07| O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | Baixa|
+|BR09, IN09| Deve possuir um mecanismo de busca a partir da data da reunião | Baixa|
+|BR10| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. | Baixa|
+|BR15| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a visualização dos compromissos do usuário no aplicativo | Baixa|
+| ENT03, OB09| Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | Baixa|
+|IN08| Deve ser possível deletar reuniões armazenadas | Baixa|
+|OB03| Deve possuir um link de ajuda para explicar como se convida outros participantes | Baixa|
+|OB10| O anfitrião deve conseguir, através do compartilhamento de tela, interagir no celular de outro usuário | Baixa|
 
-<h6 align = "center"> Tabela 1: Requisitos de Baixa Prioridade.
-<br> Autor(a):<a href="https://github.com/Juhvitoria4">Júlia Vitória</a>
+<h6 align = "center"> Tabela 3: Requisitos de Baixa Prioridade.
+<br> Autor(a):<a href="https://github.com/Juhvitoria4">Júlia Vitória</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 </p>
 </h6>
-
 
 
 ## **Legenda**
 
 <p align="justify"> 
-<li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
-<li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
 <li> Identificação(ENT + N°) : Requisito Elicitado pela Entrevista + Número.
 <li> Identificação(BR + N°) : Requisito Elicitado pela Brainstorming + Número
 <li> Identificação(IN + N°) : Requisito Elicitado pela Introspecção + Número
@@ -110,21 +150,22 @@ Ao término do processo de priorização, os requisitos foram organizados e disp
 
 
 
-
-
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 4 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 06/10/2023 | Elaboração do artefato | [Júlia Vitória](https://github.com/Juhvitoria4) |  |
-<h6> Tabela 5: Histórico de Versão.
+| `1.0`  | 06/10/2023 | Elaboração do artefato | [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+| `1.1`  | 23/10/2023 |Tabelas com requisitos junto com um usuário | [Catlen Cleane](https://https://github.com/catlenc) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+
+
+
+<h6> Tabela 4: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/Juhvitoria4">Júlia Vitória</a> </h6>
 
 ## **Bibliografia**
-> <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Prioriza%C3%A7%C3%A3o/MoScoW/">[1]</a> MoSCoW em Simplenote. Acesso em 04 de Outubro de 2023.
 
+> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/threeLvlScale/">[1]</a> Three Level Scale em Bilheteria Digital. Acesso em 06 de Outubro de 2023.
 
-> <a href="https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf">[2]</a> Requisitos - Aula 06. Acesso em 04 de Outubro de 2023.
