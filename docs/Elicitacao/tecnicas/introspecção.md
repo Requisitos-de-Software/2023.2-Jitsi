@@ -10,10 +10,28 @@
 &emsp;&emsp;O objetivo desta introspecção é <b>elicitar os requisitos funcionais e não funcionais</b> da aplicação móvel <b><i>Jitsi</i></b>. Ao utilizar a perspectiva de um membro da equipe de desenvolvimento, visa, por meio de um ponto de vista diferente do usuário, definir requisitos <b>precisos</b>, <b>melhorar a experiência</b> com usuário, <b>evitar retrabalho</b> e, consequentemente, <b>reduzir os custos</b>.
 </p>
 
+## **Cronograma**
+<p align="justify">
+</p>
+<p align="justify">
+&emsp;&emsp;A tabela 1 apresenta o Cronograma
+</p>
+
+| Nome | Data | Hora | Função |
+|----|----|----|-----|
+|[Catlen Cleane(https://github.com/catlenc)]|03/10/2023|18:40| Desenvolvedor|
+|[Pedro Siqueira](https://github.com/PedroSiq)|03/10/2023| 18:40| Desenvolvedor|
+|Jaqueline|03/10/2023|18:40| Usuário(Persona)|
+<h6 align = "center"> Tabela 1: Cronograma
+<br> Autor(a): <a href="https://github.com/fulanodetal"><a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp;Consiste na criação de uma <b>simulação</b> que mostra a forma como os usuários interagem com o aplicativo. Através da elaboração de uma narrativa de um usuário, são analisados seus objetivos, tarefas e preferências, permitindo a identificação dos diferentes caminhos que os usuários podem seguir. Com base nessa análise, são definidos os requisitos funcionais e não funcionais do sistema.
 </p>
+
 
 ## **Narrativa**
 <p align="justify">
@@ -28,7 +46,7 @@
 <li> Identificação(IN + N°) : Requisito Elicitado pela Introspecção + Número
 </p>
 <p align="justify">
-&emsp;&emsp;A tabela 1 representa os Requisitos Elicitados pela técnica de Introspecção.
+&emsp;&emsp;A tabela 2 representa os Requisitos Elicitados pela técnica de Introspecção.
 </p>
 
 | Identificador | Requisito | Categoria | Implementado | 
@@ -47,14 +65,14 @@
 |IN12| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia  | RNF | Sim |
 |IN13| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela | RNF | Sim | 
 
-<h6 align = "center"> Tabela 1: Requisitos Elicitados.
+<h6 align = "center"> Tabela 2: Requisitos Elicitados.
 <br> Autor(a): <a href="https://github.com/fulanodetal"><a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 </p>
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 3 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -62,7 +80,7 @@
 | `1.0`  | 02/10/2023 | Introdução e Metodologia | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.1`  | 02/10/2023 | Elicitação de Requisitos | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.2`  | 03/10/2023 | Atualização do artefato | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
-<h6 align = "center"> Tabela 2: Histórico de Versão.
+<h6 align = "center"> Tabela 3: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 
 
