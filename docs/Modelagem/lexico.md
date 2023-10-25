@@ -27,9 +27,6 @@
 
 
 ## **Descrição dos Léxicos**
-<p align="justify">
-&emsp;&emsp;
-</p>
 
 ## **L01 - Usuário**
 <p align="justify">
@@ -59,7 +56,7 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
-## L03 - **Iniciar a videochamada**
+## **L03 - Iniciar a videochamada**
 <p align="justify">
 &emsp;&emsp;A tabela 4: apresenta a descrição léxica Iniciar videochamada
 </p>
@@ -143,7 +140,7 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
-### L09 - Trancrever a reunião
+## **L09 - Trancrever a reunião**
 <p align="justify">
 &emsp;&emsp;A tabela 10: apresenta a descrição Trancrever da reunião
 </p>
