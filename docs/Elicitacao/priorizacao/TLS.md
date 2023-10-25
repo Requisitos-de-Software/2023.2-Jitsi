@@ -46,13 +46,33 @@
 
 ## **Participantes**
 <p align="justify">
-&emsp;&emsp;A usuária do aplicativo Jitsi Ana Carolina Costa César participou atraveś de uma vídeo chamada pelo Teams, no dia 23/10/2023, às 17:40, com duração de aproximadamente 13 minutos, com a desenvolvedora Catlen Cleane. Conforme já explicado anteriormente.
+&emsp;&emsp; A tabela 1 representa os participantes da técnica three level scale.
 </p>
+
+<center>
+
+| Nome                                                      |   Função    |
+| --------------------------------------------------------- |  ---------- |
+|  [Catlen Cleane](https://https://github.com/catlenc)      | Desenvolvedora |
+| <span style = "color: purple"> Ana Carolina Costa Césars</span> |  Cliente  |
+
+
+</center>
+
+<p align="justify"></p>
+<h6 align = "center"> Tabela 1: Participantes.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</p>
+
+
+
 
 ## **Gravação**
 ### **Priorização ThreeLevelScale**
 
+<p align="justify">
 <iframe width="560" height="315" src="https://youtu.be/embed_AninrIp5G7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
 
 ## **Requisitos de Alta Prioridade**
 <p align="justify">
@@ -65,13 +85,11 @@
 |BR03, IN03, OB05| Deve permitir a gravação de chamadas  |Alta|
 |BR07| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | Alta|
 |BR08| Deve ser possível baixar as gravações das reuniões | Alta|
-|BR12| Deve ser possível ingressar em uma reunião sem a necessidade de um login |Alta|
 |BR13| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião |Alta|
 |BR14, OB08| Os usuários devem poder compartilhar arquivos durante as reuniões |Alta|
 |BR16| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade |Alta|
 |BR17, ENT08, OB17| Deve ter uma interface objetiva e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques |Alta|
 | ENT02 | Os usuários devem ser capazes de criar uma videoconferência |Alta|
-| ENT04 | Deve permitir a gravação de chamadas |Alta|
 |IN01| Deve permitir a configuração de controles de acesso |Alta|
 |IN05| Ser compatível com sistemas operacionais Android e IOS |Alta|
 |IN07| Deve ser de código aberto e gratuito |Alta|
@@ -98,6 +116,7 @@
 |-------------|---------|---------|
 |BR06| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | Média|
 |BR11| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso |Média|
+|BR12| Deve ser possível ingressar em uma reunião sem a necessidade de um login |Média|
 |BR18| Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade |Média|
 |IN06| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos |Média|
 |IN13| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela |Média|
