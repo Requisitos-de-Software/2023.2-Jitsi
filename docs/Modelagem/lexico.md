@@ -2,12 +2,12 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp; O léxico é uma técnica 
+&emsp;&emsp; O léxico é uma técnica que buscar detalhar os símbolos de uma linguagem, por meio da identificaçõa de palavras ou frases especificas do meio de estudo. Nesse contexto, cada símbolo é descrito com noção e impacto, onde noção é o significado do símbolo e impacto as consequencias da aplicação de certo símbolo
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;
+&emsp;&emsp; Para realizarmos essa modelagem, utilizamos o LAL (léxico ampliado da linguagem), usando como base os requisitos funcionais elicitados.
 </p>
 
 
@@ -180,7 +180,7 @@
 |--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | `1.0`  | 18/10/2023 | Criação do artefato | [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
  `1.1`  | 18/10/2023 | Listagem dos Léxicos| [Júlia Souza](https://github.com/JuliaSSouza) e [Catlen Cleane](https://github.com/catlenc)| [Carolina Barbosa](https://github.com/CarolinaBarb) |
-
+ `1.1`  | 25/10/2023 | Introdução e Metodologia| [Júlia Souza](https://github.com/JuliaSSouza)| [Carolina Barbosa](https://github.com/CarolinaBarb) |
 
 <h6 align="center"> Tabela 3: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
