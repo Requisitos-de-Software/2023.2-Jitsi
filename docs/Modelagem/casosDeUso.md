@@ -28,9 +28,9 @@
 </p>
 
 
-## **Diagrama de Caso de uso**
+## **Diagrama de Caso de Uso**
 <p align="justify">
-&emsp;&emsp;A Imagem 01 apresenta o Diagrama de caso de uso do aplicativo Jitsi Meet produzido.
+&emsp;&emsp;A Imagem 01 apresenta o diagrama de caso de uso do aplicativo Jitsi Meet produzido.
 </p>
 
 <figure markdown>
@@ -41,7 +41,7 @@
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
 
-## **Especificação dos casos de uso**
+## **Especificação dos Casos de Uso**
 <p align="justify">
 &emsp;&emsp;As tabelas a seguir apresentam especificação dos casos de uso.
 </p>
