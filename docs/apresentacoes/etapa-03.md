@@ -9,7 +9,7 @@
 &emsp;&emsp;Durante a terceira etapa, foram produzidos os seguintes artefatos: 
 <ul>
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">Léxico</a></li>
-<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casoDeUso/">Casos de Uso</a></li>
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">Casos de Uso</a></li>
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">Especificação Suplementar</a></li>
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">Cenários</a></li>
 
