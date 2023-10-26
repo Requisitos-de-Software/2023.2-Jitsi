@@ -59,7 +59,7 @@ nav:
   - Modelagem:
       - Cenários: Modelagem/cenarios.md
       - Léxicos: Modelagem/lexico.md
-      - Casos de Uso: Modelagem/casoDeUso.md
+      - Casos de Uso: Modelagem/casosDeUso.md
       - Especificação Suplementar: Modelagem/especificacaoSuplementar.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
