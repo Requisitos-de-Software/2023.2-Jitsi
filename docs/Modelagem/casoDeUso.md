@@ -1,4 +1,4 @@
-# ***Caso de Uso***
+# ***Casos de Uso***
 
 ## **Introdução**
 <p align="justify">

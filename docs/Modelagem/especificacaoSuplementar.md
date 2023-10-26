@@ -121,7 +121,7 @@
 </center>
 </p>
 
-## **"+"**
+## **Outros**
 <p align="justify">
 
 </p>
