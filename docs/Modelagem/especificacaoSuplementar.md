@@ -28,10 +28,9 @@
 
 </p>
 
-CORRIGIR!!!!
 ## **Funcionalidade**
 <p align="justify">
-&emsp;&emsp;O requisitos funcionais foram listados na etapa de Elicitação de Requisitos e estão na [tabela 1](tecnicas/requisitos-elicitados.md)
+&emsp;&emsp;O requisitos funcionais foram listados na etapa de Elicitação de Requisitos e estão na <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/"><b><i>tabela 1</i></b></a>
 </p>
 
 ## **Usabilidade**
