@@ -33,7 +33,7 @@
 </p>
 
 ## **Gravações**
-<a href="https://youtu.be/YcpCNRviV_0">First Things First</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YcpCNRviV_0?si=mcdnPIlKCSEeaRob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Requisitos**
 </p>

@@ -70,9 +70,7 @@
 ## **Gravação**
 ### **Priorização ThreeLevelScale**
 
-<p align="justify">
-<iframe width="560" height="315" src="https://youtu.be/embed_AninrIp5G7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AninrIp5G7g?si=MbP9lxsVMAzJLTNB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Requisitos de Alta Prioridade**
 <p align="justify">
