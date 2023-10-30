@@ -61,6 +61,9 @@ nav:
       - Léxicos: Modelagem/lexico.md
       - Casos de Uso: Modelagem/casosDeUso.md
       - Especificação Suplementar: Modelagem/especificacaoSuplementar.md
+      - Ágil:
+        - Histórias de usuário: Modelagem/historias.md
+
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md
