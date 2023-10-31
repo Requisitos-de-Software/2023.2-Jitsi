@@ -77,6 +77,25 @@
 <br/> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
+## **Entrega 4 - Modelagem de Requisitos - Ágil**
+<p align="justify">
+&emsp;&emsp;A tabela 4 apresenta as entregas da quarta etapa.
+</p>
+
+| Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
+|------------------------------------------------------|------------------------------|-----------------------|-------------|
+| Modelagem de Requisitos - Ágil: Histórias de Usuário | Início: 31/10 <br>Fim: 29/10 | [Júlia Vitória](https://github.com/Juhvitoria4) e [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq)|
+| Modelagem de Requisitos - Ágil: Backlogs | Início: 28/10 <br>Fim: 31/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc)| [Júlia Souza](https://github.com/JuliaSSouza) |
+| Modelagem de Requisitos - Ágil: NFR Framework| Início: 01/11 <br>Fim: 02/11 | [Bruno Henrique](https://github.com/BrunoHenrique00)  e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Vitória](https://github.com/Juhvitoria4) |
+| Gravação do vídeo de apresentação | Início: 04/11 <br>Fim: 05/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Realizar correções após entrega e feedbacks recebidos | Início: 06/11 <br>Fim: 08/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+
+<center>
+<h6> Tabela 4: Modelagem de Requisitos Ágil.
+<br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> 
+e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+
 ## **Histórico de Versão**
 <p align="justify">
 &emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
@@ -88,7 +107,7 @@
 | `1.1`  | 02/10/2023 | Inclusão da entrega 2 | [Catlen Cleane](https://github.com/catlenc) |[Carolina Barbosa](https://github.com/CarolinaBarb)|
 | `1.2`  | 04/10/2023 | Atualização da entrega 2 | [Catlen Cleane](https://github.com/catlenc), [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 | `1.3`  | 18/10/2023 | Atualização da entrega 3 | [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
-
+| `1.4`  | 18/10/2023 | Atualização da entrega 4|  [Júlia Souza](https://github.com/JuliaSSouza)|[Catlen Cleane](https://github.com/catlenc)|
 <center>
 <h6> Tabela 2: Histórico de Versão.
 <br/> Autor(a): <a href="https://github.com/pedrosiq">Pedro Siqueira</a></h6>
