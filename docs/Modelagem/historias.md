@@ -65,6 +65,10 @@
 </p>
 
 ### **US01 - Gravação de Chamadas**
+<p align="justify">
+&emsp;&emsp;A tabela 3 apresenta a história de usuário Gravação de Chamadas
+</p>
+
 | ID    | Nome           |
 |-------|----------------|
 | US01  | Gravar chamadas de vídeo |
@@ -72,9 +76,18 @@
 | Critérios de Aceitação | Deve permitir a gravação de chamadas de vídeo. |
 | Valida | Sim |
 
+<center>
+<h6> Tabela 3: Gravação de Chamadas.
+<br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+</center>
+
 
 
 ### **US02 - Compartilhamento de Tela**
+<p align="justify">
+&emsp;&emsp;A tabela 4 apresenta a história de usuário Compartilhamento de Tela
+</p>
+
 | ID    | Nome           |
 |-------|----------------|
 | US02  | Compartilhar minha tela |
@@ -82,9 +95,17 @@
 | Critérios de Aceitação | Deve ser possível compartilhar a tela durante a chamada de vídeo. |
 | Valida | Sim |
 
+<center>
+<h6> Tabela 4: Compartilhamento de Tela.
+<br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+</center>
 
 
-### **US03 - Remover um participante específico**
+### **US03 - Remover um Participante Específico**
+<p align="justify">
+&emsp;&emsp;A tabela 4 apresenta a história de usuário Remover um Participante Específico
+</p>
+
 | ID    | Nome           |
 |-------|----------------|
 | US03  | Remover um participante específico da reunião |
@@ -92,8 +113,16 @@
 | Critérios de Aceitação | Deve permitir que o anfitrião remova um participante específico da reunião. |
 |Valida | Sim |
 
+<center>
+<h6> Tabela 5:  Remover um Participante Específico.
+<br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+</center>
 
-### **US04 - Baixar as gravações**
+### **US04 - Baixar as Gravações**
+<p align="justify">
+&emsp;&emsp;A tabela 4 apresenta a história de usuário Baixar as Gravações
+</p>
+
 | ID    | Nome           |
 |-------|----------------|
 | US04  | Baixar as gravações das reuniões |
@@ -101,9 +130,16 @@
 | Critérios de Aceitação | Deve fornecer a capacidade de baixar as gravações das reuniões. |
 |Valida | Sim |
 
+<center>
+<h6> Tabela 6: Baixar as Gravações.
+<br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+</center>
 
 
-### **US05 - Conceder permissões personalizadas**
+### **US05 - Conceder Permissões Personalizadas**
+<p align="justify">
+&emsp;&emsp;A tabela 4 apresenta a história de usuário Conceder Permissões Personalizadas
+</p>
 | ID    | Nome           |
 |-------|----------------|
 | US05  | Conceder permissões diferentes a cada participante |
@@ -111,9 +147,15 @@
 | Critérios de Aceitação | Deve permitir que o usuário conceda permissões diferentes a cada participante para a utilização das ferramentas durante a reunião. |
 |Valida | Sim |
 
+<center>
+<h6> Tabela 7: Conceder Permissões Personalizadas.
+<br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+</center>
 
-
-### **US06 - Compartilhamento de documentos**
+### **US06 - Compartilhamento de Documentos**
+<p align="justify">
+&emsp;&emsp;A tabela 4 apresenta a história de usuário Compartilhamento de Documentos
+</p>
 | ID    | Nome           |
 |-------|----------------|
 | US06  | Compartilhar arquivos durante as reuniões |
@@ -121,9 +163,15 @@
 | Critérios de Aceitação | Deve permitir o compartilhamento de arquivos durante as reuniões. |
 |Valida | Sim |
 
+<center>
+<h6> Tabela 8: Compartilhamento de Documentos.
+<br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+</center>
 
-
-### **US07 - Modo claro ou escuro**
+### **US07 - Modo Claro ou Escuro**
+<p align="justify">
+&emsp;&emsp;A tabela 4 apresenta a história de usuário Modo Claro ou Escuro
+</p>
 | ID    | Nome           |
 |-------|----------------|
 | US07  | Oferecer um modo claro ou escuro de interface como parte das funcionalidades |
@@ -131,9 +179,15 @@
 | Critérios de Aceitação | Deve oferecer um modo claro ou escuro como parte das funcionalidades de acessibilidade.|
 |Valida | Sim |
 
+<center>
+<h6> Tabela 9: Modo Claro ou Escuro.
+<br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+</center>
 
-
-### **US08 - Criar uma videoconferência**
+### **US08 - Criar uma Videoconferência**
+<p align="justify">
+&emsp;&emsp;A tabela 4 apresenta a história de usuário Criar uma Videoconferência
+</p>
 | ID    | Nome           |
 |-------|----------------|
 | US08  | Criar uma videoconferência |
@@ -141,9 +195,15 @@
 | Critérios de Aceitação | Deve permitir a criação de videoconferências. |
 |Valida | Sim |
 
-
+<center>
+<h6> Tabela 10: Criar uma Videoconferência.
+<br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+</center>
 
 ### **US09 - Mutar o Áudio**
+<p align="justify">
+&emsp;&emsp;A tabela 4 apresenta a história de usuário Mutar o Áudio
+</p>
 | ID    | Nome           |
 |-------|----------------|
 | US09  | Mutar o áudio  |
@@ -151,9 +211,16 @@
 | Critérios de Aceitação | Deve possuir a opção de mutar o áudio. |
 | Valida | Sim |
 
+<center>
+<h6> Tabela 11: Mutar o Áudio.
+<br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+</center>
 
 
 ### **US10 - Configurar Perfil**
+<p align="justify">
+&emsp;&emsp;A tabela 4 apresenta a história de usuário Configurar Perfil
+</p>
 | ID    | Nome           |
 |-------|----------------|
 | US10  | Configurar seu perfil com nome de usuário e foto |
@@ -161,7 +228,10 @@
 | Critérios de Aceitação | Deve permitir que o usuário configure seu perfil com nome de usuário e foto.
 |Valida | Sim |
 
-
+<center>
+<h6> Tabela 12: Configurar Perfil.
+<br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+</center>
 
 
 ## **Histórico de Versão**
@@ -173,9 +243,10 @@
 |--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | `1.0`  | 18/10/2023 | Criação do artefato | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
 | `1.1`  | 18/10/2023 | Aperfeiçoamento do artefato | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
+| `1.2`  | 18/10/2023 | Inclusão titulos e legendas nas tabelas | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
  
 
-<h6 align="center"> Tabela 12: Histórico de Versão.
+<h6 align="center"> Tabela 13: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ## **Bibliografia**
