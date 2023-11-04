@@ -2,8 +2,12 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp;Texto 
-texto texto texto escrevert  texto
+&emsp;&emsp;O Product Backlog é uma lista contendo todas as funcionalidades desejadas para
+um produto. O conteúdo desta lista é definido pelo Product Owner. O Product
+Backlog não precisa estar completo no início de um projeto. Pode-se começar
+com tudo aquilo que é mais óbvio em um primeiro momento. Com o tempo, o
+Product Backlog cresce e muda à medida que se aprende mais sobre o produto e
+seus usuários[1].
 </p>
 
 ## **Metodologia**
@@ -95,6 +99,6 @@ texto texto texto escrevert  texto
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa </h6>
 
 ## **Bibliografia**
-> <a href="https://Link_da_fonte">[1]</a> Fonte 1
+> <a href="https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf">[1]</a> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. Aprender 3. Distrito Federal, 2016. 
 
 > <a href="https://Link_da_fonte">[2]</a> Fonte 2
