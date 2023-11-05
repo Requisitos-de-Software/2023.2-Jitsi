@@ -56,7 +56,9 @@
 <br> Autor(a): <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </p>
 
+## **Gravação**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MRz3N_tC2ww?si=-nx3u1U1OPlRTa5Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## **Histórias de usuário**
@@ -244,6 +246,8 @@
 | `1.0`  | 18/10/2023 | Criação do artefato | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
 | `1.1`  | 18/10/2023 | Aperfeiçoamento do artefato | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
 | `1.2`  | 18/10/2023 | Inclusão titulos e legendas nas tabelas | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
+| `1.3`  | 05/11/2023 | Inclusão gravação | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
+ 
  
 
 <h6 align="center"> Tabela 13: Histórico de Versão.

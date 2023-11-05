@@ -84,7 +84,7 @@
 
 | Atividade | Período de Desenvolvimento | Responsáveis | Revisor |
 |------------------------------------------------------|------------------------------|-----------------------|-------------|
-| Modelagem de Requisitos - Ágil: Histórias de Usuário | Início: 31/10 <br>Fim: 29/10 | [Júlia Vitória](https://github.com/Juhvitoria4) e [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq)|
+| Modelagem de Requisitos - Ágil: Histórias de Usuário | Início: 31/10 <br>Fim: 05/11 | [Júlia Vitória](https://github.com/Juhvitoria4) e [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq)|
 | Modelagem de Requisitos - Ágil: Backlogs | Início: 28/10 <br>Fim: 31/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc)| [Júlia Souza](https://github.com/JuliaSSouza) |
 | Modelagem de Requisitos - Ágil: NFR Framework| Início: 01/11 <br>Fim: 02/11 | [Bruno Henrique](https://github.com/BrunoHenrique00)  e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Vitória](https://github.com/Juhvitoria4) |
 | Gravação do vídeo de apresentação | Início: 04/11 <br>Fim: 05/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
