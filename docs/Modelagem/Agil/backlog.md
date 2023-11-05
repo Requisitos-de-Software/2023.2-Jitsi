@@ -12,22 +12,8 @@ seus usuários[1].
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp; Com a participação dp Product Owner, foi feita uma lista inicial, de requisitos usando critério como valor para o negócio, necessiades dos clientes, prazos e dependências. A medida que o projeto evolui, o backlog pode ser atualizado. Posteriormente, foram definidos temas e os épicos de forma a categorizar as histórias de usuário.
+&emsp;&emsp; Foi feita uma lista inicial, de requisitos usando critério como valor para o negócio, necessidades dos clientes, prazos e dependências. Posteriormente, foram definidos temas e os épicos de forma a categorizar as histórias de usuário. A medida que o projeto evolui, o backlog pode ser atualizado.
 
-<p align="justify">
-&emsp;&emsp; A tabela 01.
-</p>
-
-| Épico | Feature | História de usuário | Priorização | 
-| ------ | ---- | --------- | --------- | 
-|  Épico 1 |  |  |  |  
-|  Épico 2 |  |  |  |  
-|  Épico 3 |  |  |  | 
-|  Épico 4 |  |  |  | 
-|  Épico 5 |  |  |  |    
-<p align="justify">
-<h6 align= "center"> Tabela 01: .
-<br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
 
 ## **Temas**
@@ -45,77 +31,105 @@ seus usuários[1].
 &emsp;&emsp;Os épicos são uma ferramenta importante para gerenciar a complexidade do desenvolvimento de software, permitindo que as equipes tenham uma compreensão clara das funcionalidades essenciais do produto e como elas se relacionam com as necessidades dos usuários.
 </p>
 
-|Tema|Épicos|
-|------|-----|
-|Funcionalidades de Comunicação e Colaboração|Chamada de Vídeo e Áudio|
-| |Compartilhamento de Conteúdo|
-|Personalização e Configuração|Personalização da Interface|
-| |Configuração do Perfil do Usuário|
-| |Gerenciamento de Permissões|
 
 
+<center>
 
-Personalização da Interface
-US07: Modo Claro ou Escuro
+<table>
+  <tr>
+    <th>Tema</th>
+    <th>Épicos</th>
+    <th>ID</th>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle"rowspan="2">Funcionalidades de Comunicação e Colaboração</td>
+    <td>Chamada de Vídeo e Áudio</td>
+    <td>EP01</td>
+  </tr>
+  <tr>
+    <td>Compartilhamento de Conteúdo</td>
+    <td>EP02</td>
+    </tr>
+  <tr>
+    <td style="vertical-align:middle" rowspan="3">Personalização e Configuração</td>
+    <td>Personalização da Interface</td>
+    <td>EP03</td>
+  </tr>
+  <tr>
+    <td>Configuração do Perfil do Usuário</td>
+    <td>EP04</td>
+    </tr>
+    <tr>
+    <td>Gerenciamento de Permissões</td>
+    <td>EP05</td>
+  </tr>
+</table>
 
-Configuração do Perfil do Usuário
-US10: Configurar seu perfil com nome de usuário e foto
+</center>
 
-Gerenciamento de Permissões
-US05: Conceder permissões diferentes a cada participante
+Cada épico vai possuir suas histórias de usuário correspondente, o que serão especificadas e detalhadas dentro do documento de [histórias de usuário](../Agil/historias.md).
 
-Chamada de Vídeo e Áudio
-US01: Gravar chamadas de vídeo
-US03: Remover um participante específico da reunião
-US04: Baixar as gravações das reuniões
-US08: Criar uma videoconferência
-US09: Mutar o áudio
+<table>
+<thead>
+  <tr>
+    <th>Tema</th>
+    <th>Épico</th>
+    <th>História de usuário</th>
+    <th>Priorização</th>
+  </tr>
+</thead>
+<tbody>
+   <tr>
+    <td rowspan="7">Tema 1 - Funcionalidades de Comunicação e Colaboração</td>
+    <td rowspan="5">Épico 1 - Chamada de Vídeo e Áudio</td>
+    <td><a href="../Agil/historias.md#us01---gravação-de-chamadas"> US01 </a> - Gravar chamadas de vídeo</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../Agil/historias.md#us03---remover-um-participante-específico"> US03 </a> - Remover um participante específico da reunião</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../Agil/historias.md#us04---baixar-as-gravações"> US04 </a> - Baixar as gravações das reuniões</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+  <td><a href="../Agil/historias.md#us08---criar-uma-videoconferência"> US08 </a> - Criar uma videoconferência</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+  <td><a href="../Agil/historias.md#us09---mutar-o-áudio"> US09 </a> - Mutar o áudio</td>
+    <td>Alta</td>
+    </tr>
+  <tr>
+  <td rowspan="2">Épico 2 - Compartilhamento de Conteúdo</td>
+  <td><a href="../Agil/historias.md#us02---compartilhamento-de-tela"> US02 </a> - Compartilhar minha tela</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+  <td><a href="../Agil/historias.md#us06---compartilhamento-de-documentos"> US06 </a> - Compartilhar arquivos durante as reuniões</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+  <tr>
+    <td rowspan="3">Tema 2 - Personalização e Configuração</td>
+    <td rowspan="1">Épico 3 - Personalização da Interface</td>
+    <td><a href="../Agil/historias.md#us07---modo-claro-ou-escuro"> US07 </a> - Modo Claro ou Escuro</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+  <td rowspan="1">Épico 4 - Configuração do Perfil do Usuário</td>
+    <td><a href="../Agil/historias.md#us10---configurar-perfil"> US10 </a> - Configurar seu perfil com nome de usuário e foto</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+ <td rowspan="1">Épico 5 - Gerenciamento de Permissões</td>
+    <td><a href="../Agil/historias.md#us05---conceder-permissões-personalizadas"> US05 </a> - Conceder permissões diferentes a cada participante</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
 
-Compartilhamento de Conteúdo
-US02: Compartilhar minha tela
-US06: Compartilhar arquivos durante as reuniões
 
-## **Features**
-<p align="justify">
-&emsp;&emsp;Texto 
-texto texto texto escrevert  texto
-</p>
-
-## **Histórias de Usuário**
-<p align="justify">
-&emsp;&emsp;Texto 
-texto texto texto escrevert  texto
-</p>
-
-## **Épicos 1: Categorização**
-<p align="justify">
-&emsp;&emsp;Texto 
-texto texto texto escrevert  texto
-</p>
-
-## **Épicos 2: Preferências**
-<p align="justify">
-&emsp;&emsp;Texto 
-texto texto texto escrevert  texto
-</p>
-
-## **Épicos 3: Acessibilidade**
-<p align="justify">
-&emsp;&emsp;Texto 
-texto texto texto escrevert  texto
-</p>
-
-## **Épicos 4: Segurança**
-<p align="justify">
-&emsp;&emsp;Texto 
-texto texto texto escrevert  texto
-</p>
-
-## **Épico 5: Padronização**
-<p align="justify">
-&emsp;&emsp;Texto 
-texto texto texto escrevert  texto
-</p>
 
 
 ## **Histórico de Versão**
@@ -127,6 +141,8 @@ texto texto texto escrevert  texto
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 04/11/2023 | Criação do Documento | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
 |'1.1' |04/11/2023| Metodologia, temas e épicos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
+|'1.2' |05/11/2023| Criação de tabelas de requisitos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
+
 <h6 align= "center"> Tabela 2: Histórico de Versão.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa </h6>
 
