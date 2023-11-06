@@ -1,14 +1,14 @@
 # ***Backlog***
 
 ## **Introdução**
-<p align="justify">
+
 &emsp;&emsp;O Product Backlog é uma lista contendo todas as funcionalidades desejadas para
 um produto. O conteúdo desta lista é definido pelo Product Owner. O Product
 Backlog não precisa estar completo no início de um projeto. Pode-se começar
 com tudo aquilo que é mais óbvio em um primeiro momento. Com o tempo, o
 Product Backlog cresce e muda à medida que se aprende mais sobre o produto e
-seus usuários[1].
-</p>
+seus usuários. [1](#bibliografia)
+
 
 ## **Metodologia**
 <p align="justify">
@@ -117,7 +117,7 @@ seus usuários[1].
     </tr>
   <tr>
   <td><a href="../Agil/historias.md#us12---permitir-a-transcrição-do-áudio-da-chamada"> US12 </a> - Permitir a transcrição do áudio da chamada</td>
-    <td> </td>
+    <td>Média</td>
     </tr>
   <tr>
   <td style="vertical-align:middle" rowspan="5">Épico 2 - Compartilhamento de Conteúdo</td>
@@ -129,14 +129,14 @@ seus usuários[1].
     <td>Alta</td>
   </tr>
   <td><a href="../Agil/historias.md#us11---compartilhar-emojis-pré-definidos-durante-as-chamadas"> US11 </a> - Compartilhar emojis pré-definidos durante as chamadas</td>
-    <td></td>
+    <td>Baixa</td>
   </tr>
   <td><a href="../Agil/historias.md#us13---utilização-de-quadro-de-anotação-durante-a-chamada"> US13 </a> - Envio de Mensagem de Texto</td>
-    <td></td>
+    <td>Média</td>
   </tr>
   <tr>
    <td><a href="../Agil/historias.md#us20---envio-de-mensagem-de-texto"> US20 </a> - Utilização de quadro de anotação durante a chamada</td>
-    <td></td>
+    <td>Alta</td>
   </tr>
 <tr>
 </table>
@@ -171,7 +171,7 @@ seus usuários[1].
     <td>Alta</td>
   </tr>
   <td><a href="../Agil/historias.md#us14---alterar-fundo-em-uma-chamada-de-vídeo"> US14 </a> - Alterar fundo em uma chamada de vídeo</td>
-    <td> </td>
+    <td>Média</td>
   </tr>
   <tr>
   <td style="vertical-align:middle" rowspan="5">Épico 4 - Configuração do Perfil do Usuário</td>
@@ -179,16 +179,16 @@ seus usuários[1].
     <td>Alta</td>
   </tr>
   <td><a href="../Agil/historias.md#us18---autenticação-através-de-outros-aplicativos-como-google-ou-facebook"> US18 </a> - Autenticação através de outros aplicativos como google ou facebook</td>
-    <td> </td>
+    <td>Alta</td>
   </tr>
    <td><a href="../Agil/historias.md#us21---possuir-um-calendário-com-chamadas-agendadas"> US21 </a> - Possuir um Calendário com Chamadas Agendadas</td>
-    <td> </td>
+    <td>Baixa</td>
   </tr>
    <td><a href="../Agil/historias.md#us22---calendário-de-um-usuário-sincronizado-ao-de-outros"> US22 </a> - Calendário de Um Usuário Sincronizado ao de Outros</td>
-    <td> </td>
+    <td>Baixa</td>
   </tr>
   <td><a href="../Agil/historias.md#us23---agendar-reuniões-com-outros-usuários-atrvés-do-calendário"> US23 </a> - Agendar Reuniões com Outros Usuários Atrvés do Calendário</td>
-    <td> </td>
+    <td>Baixa</td>
   </tr>
   <tr>
  <td style="vertical-align:middle" rowspan="5">Épico 5 - Gerenciamento de Permissões</td>
@@ -196,27 +196,27 @@ seus usuários[1].
     <td>Alta</td>
   </tr>
    <td><a href="../Agil/historias.md#us15---permitir-a-configuração-de-controles-de-acesso"> US15 </a> - Permitir a configuração de controles de acesso</td>
-    <td> </td>
+    <td>Alta</td>
   </tr>
   <td><a href="../Agil/historias.md#us19---convidar-participantes-através-de-compartilhamento-de-link"> US19 </a> - Convidar participantes através de compartilhamento de link</td>
-    <td> </td>
+    <td>Média</td>
   </tr>
   <td><a href="../Agil/historias.md#us24---o-anfitrião-desligar-o-microfone-e-a-câmera-de-qualquer-participante"> US24 </a> - O Anfitrião Desligar o Microfone e a Câmera de Qualquer Participante</td>
-    <td> </td>
+    <td>Média</td>
   </tr>
   <td><a href="../Agil/historias.md#us26---controle-de-entrada-em-uma-sala-com-senha-de-acesso"> US26 </a> - Controle de Entrada em Uma Sala com Senha de Acesso</td>
-    <td> </td>
+    <td>Média</td>
   </tr>
    <td style="vertical-align:middle" rowspan="3">Épico 6 - Configuração de Chamada</td>
    <td><a href="../Agil/historias.md#us16---deletar-reuniões-armazenadas"> US16 </a> - Deletar reuniões armazenadas</td>
-    <td> </td>
+    <td>Baixa</td>
     </tr>
   <tr>
   <td><a href="../Agil/historias.md#us17---mecanismo-de-busca-a-partir-da-data-da-reunião"> US17 </a> -Mecanismo de busca a partir da data da reunião</td>
-    <td> </td>
+    <td>Média</td>
     </tr>
     <td><a href="../Agil/historias.md#us25---visualização-de-todas-as-salas-que-foram-participadas-anteriormente"> US25 </a> -Visualização de Todas as Salas que Foram Participadas Anteriormente</td>
-    <td> </td>
+    <td>Baixa</td>
     </tr>
   <tr>
 </table>
