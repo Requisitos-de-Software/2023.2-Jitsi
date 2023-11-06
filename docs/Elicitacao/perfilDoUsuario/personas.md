@@ -13,21 +13,8 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 </p>
 
 
-## **Perfil de Usuário**
-<p align="justify">
-&emsp;&emsp; Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021), com base nisso definimos o perfil de usuário primeiro para depois definir as personas.
-</p>
-Perfil de usuário:
-<p align="justify">
-<li>É predominantemente usado por pessoas entre 18 e 44 anos</li>
-<li>Estudantes do ensino médio e superior, e também concluintes</li>
-<li>Tem muita ou media experiencia com dispositivos eletrônicos</li>
-<li>Usado principalmente em reuniões para a faculdade</li>
-</p>
-
-
 ## **Personas**
-### Marina
+### Marina Lima - Persona Primária
 
 <div align="center">
 <img src="../../../assets/Marina.jpeg" width="300" height="300">
@@ -36,7 +23,7 @@ Perfil de usuário:
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 01: Marina.</b>
+    <b>Figura 01: Marina Lima - Persona Primária.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -45,7 +32,7 @@ Perfil de usuário:
 
 | Característica       | Resposta                                                                                                                                              |
 |:---------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**             | Marina                                                                                                                                                |
+| **Nome**             | Marina Lima                                                                                                                                             |
 | **Idade**            | 23 anos                                                                                                                                               |
 | **Gênero**           | Feminino                                                                                                                                              |
 | **Localidade**       | São Paulo, Brasil                                                                                                                                     |
@@ -65,7 +52,7 @@ Perfil de usuário:
 <br> Autore(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
-### Marcos
+### Marcos Costa - Persona Primária
 
 <div align="center">
 <img src="../../../assets/Marcos.jpeg" width="300" height="300">
@@ -74,7 +61,7 @@ Perfil de usuário:
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 02: Marcos.</b>
+    <b>Figura 02: Marcos Costa - Persona Primária.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -83,7 +70,7 @@ Perfil de usuário:
 
 | Característica       | Resposta                                                                                                                   |
 |:---------------------|:---------------------------------------------------------------------------------------------------------------------------|
-| **Nome**             | Marcos                                                                                                                     |
+| **Nome**             | Marcos Costa                                                                                                                   |
 | **Idade**            | 25                                                                                                                         |
 | **Gênero**           | Masculino                                                                                                                  |
 | **Localidade**       | Mumbai, Índia                                                                                                              |
@@ -103,7 +90,7 @@ Perfil de usuário:
 <br> Autores(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
-### Jaqueline
+### Jaqueline Pereira - Persona Secundária
 
 <div align="center">
 <img src="../../../assets/Jaqueline.jpeg" width="300" height="300">
@@ -112,7 +99,7 @@ Perfil de usuário:
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 03: Jaqueline.</b>
+    <b>Figura 03: Jaqueline Pereira - Persona Secundária.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -121,7 +108,7 @@ Perfil de usuário:
 
 | Característica       | Resposta                                                                                                            |
 |:---------------------|:--------------------------------------------------------------------------------------------------------------------|
-| **Nome**             | Jaqueline                                                                                                           |
+| **Nome**             | Jaqueline Pereira                                                                                                         |
 | **Idade**            | 38                                                                                                                  |
 | **Gênero**           | Feminino                                                                                                            |
 | **Localidade**       | Lisboa, Portugal                                                                                                    |
@@ -141,56 +128,17 @@ Perfil de usuário:
 <br> Autores(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
-### Joyce
+
+### Isaque Oliveira - Anti-Persona
 
 <div align="center">
-<img src="../../../assets/Joyce.jpeg" width="300" height="300">
+<img src="../../assets/download.jpg" width="300" height="300">
 </div>
 
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 04: Joyce.</b>
-    <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
-</figcaption>
-</div>
-
-<br>
-
-
-| Característica       | Resposta                                                                                                                                                                        |
-|:---------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**             | Joyce                                                                                                                                                                           |
-| **Idade**            | 18                                                                                                                                                                              |
-| **Gênero**           | Feminino                                                                                                                                                                        |
-| **Localidade**       | Nova York, EUA                                                                                                                                                                  |
-| **Particularidades** | Recém-formada no ensino médio e apaixonada por tecnologia e programação. É entusiasta de jogos online e busca maneiras de se conectar com amigos de diferentes partes do mundo. |
-| **Escolaridade**     | Concluiu o Ensino Médio                                                                                                                                                         |
-| **Profissão**        | Estudante e Aspirante a Desenvolvedora de Jogos                                                                                                                                 |
-| **História**         | Sempre teve um interesse profundo por tecnologia e passa boa parte do seu tempo livre aprendendo sobre programação e design de jogos.                                           |
-| **Objetivos**        | Utilizar o Jitsi para participar de reuniões e workshops online sobre desenvolvimento de jogos.                                                                                 |
-| **Rotina**           | Dedica grande parte do tempo a estudos autodidatas de programação e design de jogos.                                                                                            |
-| **Requisitos**       | Boa qualidade de áudio e vídeo, capacidade de compartilhamento de tela para apresentações de projetos e integração com ferramentas de desenvolvimento de jogos.                 |
-| **Frequência**       | Participa de reuniões e workshops online pelo menos duas vezes por semana                                                                                                       |
-| **Necessidades**     | Ferramenta de comunicação confiável para interagir com colegas de estudo e participar de eventos de desenvolvimento de jogos.                                                   |
-| **Expectativas**     | Espera uma plataforma intuitiva e de fácil acesso que a ajude a se conectar e colaborar com outros entusiastas de jogos ao redor do mundo.                                      |
-
-<p align="justify">
-<h6 align = "center"> Tabela 04: Persona Joyce.
-<br> Autores(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
-</p>
-
-
-### Isaque 
-
-<div align="center">
-<img src="../../../assets/Isaque.jpeg" width="300" height="300">
-</div>
-
-<div align="center">
-
-<figcaption align='center'>
-    <b>Figura 05: Isaque.</b>
+    <b>Figura 05: Isaque Oliveira - Anti-Persona.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -200,7 +148,7 @@ Perfil de usuário:
 
 | Característica       | Resposta                                                                                                                                                                                                                                     |
 |:---------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**             | Isaque                                                                                                                                                                                                                                       |
+| **Nome**             | Isaque Oliveira                                                                                                                                                                                                                                       |
 | **Idade**            | 55                                                                                                                                                                                                                                           |
 | **Gênero**           | Masculino                                                                                                                                                                                                                                    |
 | **Localidade**       | Belo Horizonte, Brasil                                                                                                                                                                                                                       |
@@ -208,12 +156,12 @@ Perfil de usuário:
 | **Escolaridade**     | Mestrado em Matemática                                                                                                                                                                                                                       |
 | **Profissão**        | Professor de Matemática aposentado                                                                                                                                                                                                           |
 | **História**         | saque dedicou a maior parte de sua vida ao ensino de matemática em uma escola local. Agora aposentado, ele deseja explorar novas maneiras de se manter ativo intelectualmente e se conectar com sua família, que está espalhada pelo Brasil. |
-| **Objetivos**        | Utilizar o Jitsi para participar de aulas online de música clássica, manter contato com seus filhos e netos que vivem em diferentes estados do Brasil e participar de grupos de discussão sobre matemática.                                  |
+| **Objetivos**        | Planeja aprender a tocar piano num estudio no centro que fica 45 min. da sua casa.  |
 | **Rotina**           | Seu dia é flexível após a aposentadoria, permitindo-lhe dedicar tempo a seus hobbies, como ouvir música, ler sobre matemática e praticar jardinagem.                                                                                         |
-| **Requisitos**       | Qualidade de áudio cristalina para apreciar música clássica, facilidade de uso para participar de aulas online e grupos de discussão.                                                                                                        |
-| **Frequência**       | Duas vezes por semana para aulas de música online e reuniões familiares ocasionais.                                                                                                                                                          |
-| **Necessidades**     | Uma ferramenta de videoconferência confiável para se conectar com familiares, aprender música clássica e participar de discussões acadêmicas.                                                                                                |
-| **Expectativas**     | Espera uma plataforma que o ajude a se manter envolvido em suas paixões e a se sentir conectado com sua família, de forma acessível e amigável para pessoas da sua idade.                                                                    |
+| **Requisitos**       | Não encontrar transito no caminho da sua casa ao estudio onde fará suas aulas. |
+| **Frequência**       | Duas vezes por semana para aulas de piano.     |
+| **Necessidades**     | Aprender música clássica.         |
+| **Expectativas**     | Manter envolvido em suas paixões e poder apresentar para sua familia seu novo talento. |
 
 <p align="justify">
 <h6 align = "center"> Tabela 05: Persona Isaque.
@@ -232,10 +180,12 @@ Perfil de usuário:
 | `1.0`  | 03/10/2023 | Criação do Documento | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.1`  | 03/10/2023 | Iniciando Personas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.2`  | 04/10/2023 | Finalizar Personas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
+| `1.3`  | 06/11/2023 | Ajustes após a entrega 2 | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
+
 <h6 align="justify"> Tabela 06: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </center>
 
 ## **Bibliografia**
 
-> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> <a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/personas/">[1]</a> Personas Simplenote. Acesso em 06 de Novembro de 2023.

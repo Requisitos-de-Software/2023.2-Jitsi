@@ -87,6 +87,18 @@ De acordo com a figura 9, os usuários também usam outros aplicativos de chamad
 <font size="3"><p style="text-align: center"> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></font>
 </figure>
 
+## **Perfil de Usuário**
+<p align="justify">
+&emsp;&emsp; Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021), com base nisso definimos o perfil de usuário primeiro para depois definir as personas.
+</p>
+Perfil de usuário:
+<p align="justify">
+<li>É predominantemente usado por pessoas entre 18 e 44 anos</li>
+<li>Estudantes do ensino médio e superior, e também concluintes</li>
+<li>Tem muita ou media experiencia com dispositivos eletrônicos</li>
+<li>Usado principalmente em reuniões para a faculdade</li>
+</p>
+
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -97,6 +109,7 @@ De acordo com a figura 9, os usuários também usam outros aplicativos de chamad
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 03/10/2023 | Criação do Documento  | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.1`  | 04/10/2023 | Adiciona Perguntas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
+| `1.2`  | 06/11/2023 | Ajustes após a entrega 2|  [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 <h6> Tabela 1: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </center>
