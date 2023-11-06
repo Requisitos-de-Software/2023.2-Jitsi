@@ -132,7 +132,7 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 ### Isaque Oliveira - Anti-Persona
 
 <div align="center">
-<img src="../../assets/Isaque.jpg" width="300" height="300">
+<img src="../../../Isaque.jpg" width="300" height="300">
 </div>
 
 <div align="center">
