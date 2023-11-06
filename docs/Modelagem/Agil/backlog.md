@@ -94,8 +94,8 @@ seus usuários[1].
 </thead>
 <tbody>
    <tr>
-    <td rowspan="11">Tema 1 - Funcionalidades de Comunicação e Colaboração</td>
-    <td rowspan="6">Épico 1 - Chamada de Vídeo e Áudio</td>
+    <td style="vertical-align:middle" rowspan="11">Tema 1 - Funcionalidades de Comunicação e Colaboração</td>
+    <td style="vertical-align:middle" rowspan="6">Épico 1 - Chamada de Vídeo e Áudio</td>
     <td><a href="../Agil/historias.md#us01---gravação-de-chamadas"> US01 </a> - Gravar chamadas de vídeo</td>
     <td>Alta</td>
   </tr>
@@ -120,7 +120,7 @@ seus usuários[1].
     <td> </td>
     </tr>
   <tr>
-  <td rowspan="5">Épico 2 - Compartilhamento de Conteúdo</td>
+  <td style="vertical-align:middle" rowspan="5">Épico 2 - Compartilhamento de Conteúdo</td>
   <td><a href="../Agil/historias.md#us02---compartilhamento-de-tela"> US02 </a> - Compartilhar minha tela</td>
     <td>Alta</td>
   </tr>
@@ -139,8 +139,8 @@ seus usuários[1].
     <td></td>
   </tr>
   <tr>
-    <td rowspan="15">Tema 2 - Personalização e Configuração</td>
-    <td rowspan="2">Épico 3 - Personalização da Interface</td>
+    <td style="vertical-align:middle" rowspan="15">Tema 2 - Personalização e Configuração</td>
+    <td style="vertical-align:middle" rowspan="2">Épico 3 - Personalização da Interface</td>
     <td><a href="../Agil/historias.md#us07---modo-claro-ou-escuro"> US07 </a> - Modo Claro ou Escuro</td>
     <td>Alta</td>
   </tr>
@@ -148,7 +148,7 @@ seus usuários[1].
     <td> </td>
   </tr>
   <tr>
-  <td rowspan="5">Épico 4 - Configuração do Perfil do Usuário</td>
+  <td style="vertical-align:middle" rowspan="5">Épico 4 - Configuração do Perfil do Usuário</td>
     <td><a href="../Agil/historias.md#us10---configurar-perfil"> US10 </a> - Configurar seu perfil com nome de usuário e foto</td>
     <td>Alta</td>
   </tr>
@@ -165,7 +165,7 @@ seus usuários[1].
     <td> </td>
   </tr>
   <tr>
- <td rowspan="5">Épico 5 - Gerenciamento de Permissões</td>
+ <td style="vertical-align:middle" rowspan="5">Épico 5 - Gerenciamento de Permissões</td>
     <td><a href="../Agil/historias.md#us05---conceder-permissões-personalizadas"> US05 </a> - Conceder permissões diferentes a cada participante</td>
     <td>Alta</td>
   </tr>
@@ -181,7 +181,7 @@ seus usuários[1].
   <td><a href="../Agil/historias.md#us26---controle-de-entrada-em-uma-sala-com-senha-de-acesso"> US26 </a> - Controle de Entrada em Uma Sala com Senha de Acesso</td>
     <td> </td>
   </tr>
-   <td rowspan="3">Épico 6 - Configuração de Chamada</td>
+   <td style="vertical-align:middle" rowspan="3">Épico 6 - Configuração de Chamada</td>
    <td><a href="../Agil/historias.md#us16---deletar-reuniões-armazenadas"> US16 </a> - Deletar reuniões armazenadas</td>
     <td> </td>
     </tr>
