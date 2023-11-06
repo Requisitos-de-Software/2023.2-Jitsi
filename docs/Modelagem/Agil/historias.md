@@ -96,9 +96,10 @@
 |-------|----------------|
 | US02  | Compartilhar minha tela |
 | Descrição  | Eu, como usuário, desejo compartilhar minha tela para mostrar apresentações, documentos e outros conteúdos relevantes durante a chamada de vídeo. |
-| Critérios de Aceitação | Deve ser possível compartilhar a tela durante a chamada de vídeo. |
+| Critérios de Aceitação | - Durante a chamada, deve haver uma opção clara e acessível de compartilhar a tela. <br> - O compartilhamento da tela deve permitir que o usuário selecione qual parte da tela compartilhar (toda a tela, uma janela específica, ou uma regiãom definida). </br> - Deve ser possível pausar e retomar o compartilhamento da tela durante a chamada.|
 | Prioridade | Alta |
 | Valida | Sim |
+
 
 <center>
 <h6> Tabela 4: Compartilhamento de Tela.
@@ -108,14 +109,14 @@
 
 ### **US03 - Remover um Participante Específico**
 <p align="justify">
-&emsp;&emsp;A tabela 4 apresenta a história de usuário Remover um Participante Específico
+&emsp;&emsp;A tabela 5 apresenta a história de usuário Remover um Participante Específico
 </p>
 
 | ID    | Descrição   |
 |-------|----------------|
 | US03  | Remover um participante específico da reunião |
 | Descrição  | Eu, como anfitrião, desejo remover um participante específico da reunião para manter controle sobre a participação. |
-| Critérios de Aceitação | Deve permitir que o anfitrião remova um participante específico da reunião. |
+| Critérios de Aceitação | - Durante a chamada, deve haver uma opção clara e acessível para remover um participante. <br> - O anfitrião da reunião deve ter a permissão necessária para remover um participante, enquanto os participantes regulares não têm essa permissão. </br> - Ao remover um participante, deve haver uma confirmação ou aviso para evitar ações acidentais. <br> - Após a remoção de um participante, o participante removido deve ser desconectado imediatamente da reunião </br> |
 |Prioridade |Alta |
 |Valida | Sim |
 
@@ -126,14 +127,14 @@
 
 ### **US04 - Baixar as Gravações**
 <p align="justify">
-&emsp;&emsp;A tabela 4 apresenta a história de usuário Baixar as Gravações
+&emsp;&emsp;A tabela 6 apresenta a história de usuário Baixar as Gravações
 </p>
 
 | ID    | Descrição       |
 |-------|----------------|
 | US04  | Baixar as gravações das reuniões |
 | Descrição  | Eu, como usuário, desejo baixar as gravações das reuniões para arquivar ou compartilhar gravações. |
-| Critérios de Aceitação | Deve fornecer a capacidade de baixar as gravações das reuniões. |
+| Critérios de Aceitação | - Deve haver uma opção clara e acessível de baixar as gravações das reuniões. <br> - As gravações devem estar disponíveis para download após o término da reunião, e o usuário deve poder acessá-las em um local específico. </br> |
 |Prioridade | Alta |
 |Valida | Sim |
 
@@ -145,13 +146,13 @@
 
 ### **US05 - Conceder Permissões Personalizadas**
 <p align="justify">
-&emsp;&emsp;A tabela 4 apresenta a história de usuário Conceder Permissões Personalizadas
+&emsp;&emsp;A tabela 7 apresenta a história de usuário Conceder Permissões Personalizadas
 </p>
 | ID    | Descrição         |
 |-------|----------------|
 | US05  | Conceder permissões diferentes a cada participante |
 | Descrição  | Eu, como anfitrião, desejo conceder permissões diferentes a cada participante para personalizar a experiência de cada participante na reunião. |
-| Critérios de Aceitação | Deve permitir que o usuário conceda permissões diferentes a cada participante para a utilização das ferramentas durante a reunião. |
+| Critérios de Aceitação | - As configurações de permissões devem ser fáceis de entender e ajustar, mesmo para anfitriões iniciantes, através de uma opção clara na tela. <br> - As permissões concedidas a cada participante devem ser aplicadas em tempo real durante a reunião. </br> - Deve haver uma maneira de revogar ou alterar as permissões de um participante durante a reunião.|
 | Prioridade | Alta |
 |Valida | Sim |
 
@@ -162,13 +163,13 @@
 
 ### **US06 - Compartilhamento de Documentos**
 <p align="justify">
-&emsp;&emsp;A tabela 4 apresenta a história de usuário Compartilhamento de Documentos
+&emsp;&emsp;A tabela 8 apresenta a história de usuário Compartilhamento de Documentos
 </p>
 | ID    | Descriçãp          |
 |-------|----------------|
 | US06  | Compartilhar arquivos durante as reuniões |
 | Descrição  | Eu, como usuário, desejo compartilhar arquivos durante as reuniões para compartilhar documentos e arquivos relevantes durante a reunião. |
-| Critérios de Aceitação | Deve permitir o compartilhamento de arquivos durante as reuniões. |
+| Critérios de Aceitação | - Durante a reunião, deve haver uma opção clara e acessível para compartilhar arquivos.<br> -  Deve ser possível visualizar ou baixar os arquivos compartilhados pelos participantes durante a reunião.|
 |Priorização |Alta|
 |Valida | Sim |
 
@@ -179,13 +180,13 @@
 
 ### **US07 - Modo Claro ou Escuro**
 <p align="justify">
-&emsp;&emsp;A tabela 4 apresenta a história de usuário Modo Claro ou Escuro
+&emsp;&emsp;A tabela 9 apresenta a história de usuário Modo Claro ou Escuro
 </p>
 | ID    | Descrição          |
 |-------|----------------|
 | US07  | Oferecer um modo claro ou escuro de interface como parte das funcionalidades |
 | Descrição  | Eu, como usuário, desejo que o sistema ofereça um modo claro ou escuro de interface como parte das funcionalidades para personalizar a aparência da interface. |
-| Critérios de Aceitação | Deve oferecer um modo claro ou escuro como parte das funcionalidades de acessibilidade.|
+| Critérios de Aceitação | - Deve haver uma opção clara e acessível para alternar entre o modo claro e escuro no aplicativo.<br> - A mudança de modo deve afetar a aparência geral do aplicativo, incluindo cores de fundo, cores de texto e elementos visuais.<br> - O aplicativo no modo escuro deve ser esteticamente agradável e legível, garantindo que o conteúdo seja bem visível.<br>|
 |Priorização | Alta |
 |Valida | Sim |
 
@@ -196,13 +197,13 @@
 
 ### **US08 - Criar uma Videoconferência**
 <p align="justify">
-&emsp;&emsp;A tabela 4 apresenta a história de usuário Criar uma Videoconferência
+&emsp;&emsp;A tabela 10 apresenta a história de usuário Criar uma Videoconferência
 </p>
 | ID    | Descrição         |
 |-------|----------------|
 | US08  | Criar uma videoconferência |
 | Descrição  | Eu, como usuário, desejo criar uma videoconferência para realizar reuniões eficazes com colegas, amigos ou clientes. |
-| Critérios de Aceitação | Deve permitir a criação de videoconferências. |
+| Critérios de Aceitação | - Deve haver a opção de criar uma videoconferência de forma simples e acessível na tela inicial.<br> - Deve possuir a opção de definir o nome da videoconferência.<br>|
 | Priorização | Alta |
 |Valida | Sim |
 
@@ -213,13 +214,13 @@
 
 ### **US09 - Mutar o Áudio**
 <p align="justify">
-&emsp;&emsp;A tabela 4 apresenta a história de usuário Mutar o Áudio
+&emsp;&emsp;A tabela 11 apresenta a história de usuário Mutar o Áudio
 </p>
 | ID    | Descrição          |
 |-------|----------------|
 | US09  | Mutar o áudio  |
-| Descrição  | Eu, como usuário, desejo mutar o áudio para controlar o som durante a reunião. |
-| Critérios de Aceitação | Deve possuir a opção de mutar o áudio. |
+| Descrição  | Eu, como usuário, desejo mutar o seu áudio para controlar o som durante a reunião. |
+| Critérios de Aceitação | - Deve haver uma opção clara e acessível para mutar o áudio durante a reunião.<br> - Os usuários devem poder mutar ou desmutar seu próprio áudio de forma simples e rápida.<br>- Deve ser possível identificar claramente quando o áudio está mutado ou desmutado,  por meio de ícones visuais<br> |
 | Priorização | Alta |
 | Valida | Sim |
 
@@ -232,13 +233,13 @@
 
 ### **US10 - Configurar Perfil**
 <p align="justify">
-&emsp;&emsp;A tabela 4 apresenta a história de usuário Configurar Perfil
+&emsp;&emsp;A tabela 12 apresenta a história de usuário Configurar Perfil
 </p>
 | ID    | Descrição        |
 |-------|----------------|
-| US10  | Configurar seu perfil com nome de usuário e foto |
-| Descrição  | Eu, como usuário, desejo configurar meu perfil com nome de usuário e foto para personalizar meu perfil e identidade. |
-| Critérios de Aceitação | Deve permitir que o usuário configure seu perfil com nome de usuário e foto.|
+| US10  | Configurar seu perfil com nome de usuário, foto e email |
+| Descrição  | Eu, como usuário, desejo configurar meu perfil com nome de usuário, foto e email para personalizar meu perfil e identidade. |
+| Critérios de Aceitação | - Deve haver uma opção clara e acessível para configurar o perfil com nome de usuário, foto e email.<br> - Deve ser possível fazer upload ou selecionar uma foto de perfil para personalizar a identidade do usuário.<br> - A foto de perfil deve ser exibida de maneira clara e legível para os outros participantes da plataforma.<br>|
 |Priorização | Alta |
 |Valida | Sim |
 
@@ -254,8 +255,8 @@
 | ID    | Descrição        |
 |-------|----------------|
 | US11  | Compartilhar emojis pré-definidos durante as chamadas |
-| Descrição  | Eu, como usuário, desejo poder compartilhar emojis pré-definidos durante as chamadas. |
-| Critérios de Aceitação |Deve permitir que os usuários compartilhem emojis pré-definidos durante as chamadas|
+| Descrição  | Eu, como usuário, desejo poder compartilhar emojis pré-definidos durante as chamadas para auxiliar nas discussões durante a chamada. |
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível para compartilhar emojis pré-definidos durante as chamadas.<br> - Deve haver uma variedade de emojis pré-definidos disponíveis para escolha, representando diferentes emoções e expressões.<br>|
 |Priorização |  |
 |Valida | Sim |
 
@@ -270,9 +271,9 @@
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  | Permitir a transcrição do áudio da chamada |
-| Descrição  | Eu, como usuário, desejo poder realizar a trasncrição do áudio da chamada. |
-| Critérios de Aceitação |Deve permitir a transcrição do áudio da chamada|
+| US12  | Permitir a transcrição do áudio da chamada |
+| Descrição  | Eu, como usuário, desejo poder realizar a trasncrição do áudio da chamada para auxiliar pessoas com deficiências auditivas. |
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível para realizar a transcrição do áudio durante a chamada.<br> - Deve ser possível salvar a transcrição após a chamada para referência futura.<br>|
 |Priorização |  |
 |Valida |  |
 
@@ -287,9 +288,9 @@
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  | Utilização de quadro de anotação durante a chamada |
-| Descrição  | Eu, como usuário, desejo poder utilizar um quadro de anotações durante a chamada. |
-| Critérios de Aceitação |Deve permitir a utilização de quadro de anotação durante a chamada|
+| US13  | Utilização de quadro de anotação durante a chamada |
+| Descrição  | Eu, como usuário, desejo ter a opção de utilizar um quadro de anotações durante a chamada para ilustrar melhor meus pensamentos. |
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível para abrir e utilizar um quadro de anotações durante a chamada.<br> - Deve ser possível compartilhar o conteúdo do quadro de anotações com outros participantes durante a chamada.<br> - O quadro de anotações deve oferecer ferramentas de desenho, como lápis, cores e borracha, para permitir uma variedade de anotações.<br>|
 |Priorização |  |
 |Valida |  |
 
@@ -298,15 +299,15 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US15 -  Alterar fundo em uma chamada de vídeo**
+### **US14 -  Alterar fundo em uma chamada de vídeo**
 <p align="justify">
 &emsp;&emsp;A tabela 16 apresenta a história de usuário  alterar fundo em uma chamada de vídeo
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  | Alterar fundo em uma chamada de vídeo |
-| Descrição  | Eu, como usuário, desejo poder alterar o fundo em uma chamada de vídeo. |
-| Critérios de Aceitação |O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo|
+| US14  | Alterar fundo em uma chamada de vídeo |
+| Descrição  | Eu, como usuário, desejo alterar o meu fundo em uma chamada de vídeo para manter a minha privacidade em relação ao ambiente em que estou. |
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível para alterar o fundo durante uma chamada de vídeo.<br>- Deve ser possível selecionar ou fazer upload de imagens de fundo para personalizar a aparência da chamada de vídeo.<br>- A alteração de fundo deve ser exibida  para os outros participantes da chamada.<br>- Deve haver a opção de desativar a alteração de fundo, se desejado.<br>|
 |Priorização |  |
 |Valida |  |
 
@@ -315,15 +316,15 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US16 -  Permitir a configuração de controles de acesso**
+### **US15 -  Permitir a configuração de controles de acesso**
 <p align="justify">
 &emsp;&emsp;A tabela 17 apresenta a história de usuário permitir a configuração de controles de acesso
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  | Permitir a configuração de controles de acesso |
-| Descrição  | Eu, como usuário, desejo ter acesso a uma configuração de controles de acessso|
-| Critérios de Aceitação |Deve permitir a configuração de controles de acesso|
+| US15  | Permitir a configuração de controles de acesso |
+| Descrição  | Eu, como usuário, desejo ter acesso a uma configuração de controles de acessso para controlar quem entra na reunião.|
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível para acessar as configurações de controles de acesso.<br> - Deve haver a opção de configurar restrições de acesso, como proteger com senha reuniões.<br>|
 |Priorização |  |
 |Valida |  |
 
@@ -332,15 +333,15 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US17 - Deletar reuniões armazenadas**
+### **US16 - Deletar reuniões armazenadas**
 <p align="justify">
 &emsp;&emsp;A tabela 18 apresenta a história de usuário deletar reuniões armazenadas
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  | Deletar reuniões armazenadas |
-| Descrição  | Eu, como usuário, desejo deletar reuniões armazenadas|
-| Critérios de Aceitação |Deve ser possivel deletar reuniões armazenadas|
+| US16  | Deletar reuniões armazenadas |
+| Descrição  | Eu, como usuário, desejo deletar reuniões armazenadas para liberar espaço de memória.|
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível para deletar reuniões armazenadas.<br> - Os usuários devem conseguir selecionar reuniões específicas que desejam deletar.<br> - Deve ser possível confirmar a exclusão de uma reunião para evitar ações acidentais.<br>|
 |Priorização |  |
 |Valida |  |
 
@@ -349,15 +350,15 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US18 -  Mecanismo de busca a partir da data da reunião**
+### **US17 -  Mecanismo de busca a partir da data da reunião**
 <p align="justify">
 &emsp;&emsp;A tabela 19 apresenta a história de usuário  mecanismo de busca a partir da data da reunião
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  |  mecanismo de busca a partir da data da reunião |
-| Descrição  | Eu, como usuário, desejo ter um mecanismo de busca a partir da data da reunião|
-| Critérios de Aceitação | Deve possuir um mecanismo de busca a partir da data da reunião|
+| US17  |  mecanismo de busca a partir da data da reunião |
+| Descrição  | Eu, como usuário, desejo ter um mecanismo de busca, a partir da data, para encontrar de maneira mais fácil uma reunião específica|
+| Critérios de Aceitação | - Deve haver um mecanismo de busca claramente visível e acessível que permita aos usuários pesquisar reuniões a partir da data específica das mesmas.<br> - Os resultados da busca devem ser exibidos de maneira clara e organizada, mostrando informações relevantes das reuniões encontradas.<br> |
 |Priorização |  |
 |Valida |  |
 
@@ -366,15 +367,15 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US19 -  Autenticação através de outros aplicativos, como Google ou Facebook**
+### **US18 -  Autenticação através de outros aplicativos, como Google ou Facebook**
 <p align="justify">
 &emsp;&emsp;A tabela 20 apresenta a história de usuário   autenticação através de outros aplicativos, como Google ou Facebook.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  | Autenticação através de outros aplicativos, como Google ou Facebook |
-| Descrição  | Eu, como usuário, desejo fazer autenticação através de outros aplicativos, como Google ou Facebook|
-| Critérios de Aceitação | Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook |
+| US18  | Autenticação através de outros aplicativos, como Google ou Facebook |
+| Descrição  | Eu, como usuário, desejo fazer autenticação através de outros aplicativos, como Google ou Facebook para facilitar o processo de login|
+| Critérios de Aceitação | - Deve haver uma opção clara e acessível para autenticar-se por meio de outros aplicativos, como Google ou Facebook, para facilitar o processo de login.<br> - Os usuários devem receber feedback claro e informações sobre a autenticação bem-sucedida ou malsucedida com aplicativos de terceiros.<br>|
 |Priorização |  |
 |Valida |  |
 
@@ -383,15 +384,15 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US20 -  Convidar participantes através de compartilhamento de link**
+### **US19 -  Convidar participantes através de compartilhamento de link**
 <p align="justify">
 &emsp;&emsp;A tabela 21 apresenta a história de usuário   convidar participantes através de compartilhamento de link.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  | Convidar participantes através de compartilhamento de link |
-| Descrição  | Eu, como usuário, desejo convidar participantes através de compartilhamento de link por meio de outros aplicativos|
-| Critérios de Aceitação |Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos |
+| US19  | Convidar participantes através de compartilhamento de link |
+| Descrição  | Eu, como usuário, desejo convidar participantes através de compartilhamento de link para facilitar o acesso à reunião|
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível para convidar participantes através do compartilhamento de um link.<br> - Os usuários devem poder gerar um link de convite facilmente e compartilhá-lo com outras pessoas.<br> - Os participantes convidados devem conseguir acessar a reunião de forma simples e direta ao clicar no link compartilhado.<br> |
 |Priorização |  |
 |Valida |  |
 
@@ -400,15 +401,15 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US21 -   permitir enviar mensagem de texto durante a videochamada**
+### **US20 - Envio de Mensagem de Texto**
 <p align="justify">
-&emsp;&emsp;A tabela 22 apresenta a história de usuário permitir enviar mensagem de texto durante a videochamada
+&emsp;&emsp;A tabela 22 apresenta a história de usuário Envio de Mensagem de Texto
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  | Permitir enviar mensagem de texto durante a videochamada |
-| Descrição  | Eu, como usuário, desejo enviar mensagem de texto durante a videochamada|
-| Critérios de Aceitação |Deve permitir enviar mensagem de texto durante a videochamada |
+| US20  | Permitir enviar mensagem de texto durante a videochamada |
+| Descrição  | Eu, como usuário, desejo enviar mensagem de texto durante a videochamada para me comunicar com outros partipantes|
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível para enviar mensagens de texto durante a videochamada.<br> - As mensagens de texto devem ser exibidas de forma clara e organizada durante a chamada.<br>|
 |Priorização |  |
 |Valida |  |
 
@@ -417,15 +418,15 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US22 -   Possuir um calendário com chamadas agendadas**
+### **US21 -   Possuir um calendário com chamadas agendadas**
 <p align="justify">
 &emsp;&emsp;A tabela 23 apresenta a história de usuário possuir um calendário com chamadas agendadas
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  |  Possuir um calendário com chamadas agendadas |
-| Descrição  | Eu, como usuário, desejo possuir um calendário com chamadas agendadas|
-| Critérios de Aceitação |Deve possuir um calendário com chamadas agendadas |
+| US21  |  Possuir um calendário com chamadas agendadas |
+| Descrição  | Eu, como usuário, desejo possuir um calendário com chamadas agendadas para conseguir organizar meus compromissos|
+| Critérios de Aceitação |- Deve haver um calendário claramente visível e acessível com chamadas agendadas.<br>- As chamadas agendadas no calendário devem exibir informações relevantes, como data, hora, participantes e outras informações associadas.<br>|
 |Priorização |  |
 |Valida |  |
 
@@ -434,15 +435,15 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US23 -   Permitir que o calendário de um usuário seja sincronizado ao de outros**
+### **US22 -   Permitir que o calendário de um usuário seja sincronizado ao de outros**
 <p align="justify">
 &emsp;&emsp;A tabela 24 apresenta a história de usuário permitir que o calendário de um usuário seja sincronizado ao de outros
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  | Permitir que o calendário de um usuário seja sincronizado ao de outros |
-| Descrição  | Eu, como usuário, desejo possuir um calendário que seja sincronizado ao de outros usuários|
-| Critérios de Aceitação |Deve possuir um calendário com chamadas agendadas |
+| US22  | Permitir que o calendário de um usuário seja sincronizado ao de outros |
+| Descrição  | Eu, como usuário, desejo possuir um calendário que seja sincronizado ao de outros usuários para auxiliar na coordenação de compromissos|
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível para sincronizar o calendário de um usuário com o calendário de outros usuários.<br> - Deve ser possível visualizar os compromissos e eventos sincronizados no calendário, diferenciando-os dos eventos pessoais.<br> |
 |Priorização |  |
 |Valida |  |
 
@@ -451,15 +452,15 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US24 -  Agendar reuniões com outros usuários através do calendário**
+### **US23 -  Agendar Reuniões com Outros Usuários Atrvés do Calendário**
 <p align="justify">
-&emsp;&emsp;A tabela 25 apresenta a história de usuário agendar reuniões com outros usuários através do calendário
+&emsp;&emsp;A tabela 25 apresenta a história de usuário Agendar Reuniões com Outros Usuários Atrvés do Calendário.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  | Agendar reuniões com outros usuários através do calendário |
-| Descrição  | Eu, como usuário, desejo agendar reuniões com outros usuários através do calendário|
-| Critérios de Aceitação |Deve permitir agendar reuniões com outros usuários através do calendário|
+| US23  | Agendar reuniões com outros usuários através do calendário |
+| Descrição  | Eu, como usuário, desejo agendar reuniões com outros usuários através do calendário para fazer reuniões com minha equipe|
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível para agendar reuniões com outros usuários através do calendário.<br>- Os usuários devem poder selecionar a data, horário e participantes da reunião de forma simples.<br>|
 |Priorização |  |
 |Valida |  |
 
@@ -469,15 +470,15 @@
 </center>
 
 
-### **US25 -   Permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante**
+### **US24 -   Permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante**
 <p align="justify">
 &emsp;&emsp;A tabela 26 apresenta a história de usuário  permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  |  Permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante |
-| Descrição  | Eu, como anfitrião, desejo conseguir desligar o microfone e a câmera de qualquer participante |
-| Critérios de Aceitação |Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante|
+| US24  |  Permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante |
+| Descrição  | Eu, como anfitrião, desejo conseguir desligar o microfone e a câmera de qualquer participante para manter a ordem em discussões|
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível para que o anfitrião de uma reunião possa desligar o microfone e a câmera de qualquer participante.<br> - Deve haver feedback visual ou notificações para os participantes quando o anfitrião controla o estado de seus microfones e câmeras.<br>|
 |Priorização |  |
 |Valida |  |
 
@@ -486,15 +487,15 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US26 - Capacidade de visualizar todas as salas que foram participadas anteriormente**
+### **US25 - Capacidade de visualizar todas as salas que foram participadas anteriormente**
 <p align="justify">
 &emsp;&emsp;A tabela 27 apresenta a história de usuário capacidade de visualizar todas as salas que foram participadas anteriormente.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  |  Capacidade de visualizar todas as salas que foram participadas anteriormente |
-| Descrição  | Eu, como usuários, desejo ter a capacidade de visualizar todas as salas que foram participadas anteriormente |
-| Critérios de Aceitação |Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente|
+| US25  |  Capacidade de visualizar todas as salas que foram participadas anteriormente |
+| Descrição  | Eu, como usuários, desejo ter a capacidade de visualizar todas as salas que foram participadas anteriormente para facilitar o acompanhamento de reuniões e conversas anteriores.|
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível que permita aos usuários visualizar todas as salas que foram participadas anteriormente.<br>- As salas visualizadas anteriormente devem ser organizadas de forma clara, exibindo informações relevantes, como título, data e participantes.<br>|
 |Priorização |  |
 |Valida |  |
 
@@ -503,15 +504,15 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US27 - Controlar a entrada em uma sala por meio de senha de acesso**
+### **US26 - Controlar a entrada em uma sala por meio de senha de acesso**
 <p align="justify">
 &emsp;&emsp;A tabela 28 apresenta a história de usuário controlar a entrada em uma sala por meio de senha de acesso.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
-| US11  |  Controlar a entrada em uma sala por meio de senha de acesso |
-| Descrição  | Eu, como anfitrião, desejo ter poder controlar a entrada em uma sala por meio de senha de acesso|
-| Critérios de Aceitação |O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso|
+| US26  |  Controlar a entrada em uma sala por meio de senha de acesso |
+| Descrição  | Eu, como anfitrião, desejo controlar a entrada em uma sala por meio de senha de acesso para garantir a segurança e privacidade dos participantes da chamada|
+| Critérios de Aceitação |- Deve haver uma opção clara e acessível para o anfitrião controlar a entrada em uma sala por meio de senha de acesso.<br> - Os participantes devem ser solicitados a inserir a senha ao tentar entrar na sala de reunião.<br> - O acesso à sala deve ser negado a qualquer participante que não insira a senha correta.<br>|
 |Priorização |  |
 |Valida |  |
 
@@ -532,6 +533,7 @@
 | `1.1`  | 18/10/2023 | Aperfeiçoamento do artefato | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
 | `1.2`  | 18/10/2023 | Inclusão titulos e legendas nas tabelas | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
 | `1.3`  | 05/11/2023 | Inclusão gravação | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
+| `1.4`  | 05/11/2023 | Correção de Erros| [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
  
  
 
