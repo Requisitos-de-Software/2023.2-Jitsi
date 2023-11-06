@@ -28,7 +28,12 @@ seus usuários[1].
 <p align="justify">
 &emsp;&emsp;Os épicos são uma ferramenta importante para gerenciar a complexidade do desenvolvimento de software, permitindo que as equipes tenham uma compreensão clara das funcionalidades essenciais do produto e como elas se relacionam com as necessidades dos usuários.
 </p>
-&emsp;&emsp; A tabela 01 apresenta os épicos definidos.
+
+### **Épicos definidos**
+<p align="justify">
+&emsp;&emsp; A tabela 01 apresenta os épicos definidos
+</p>
+
 <center>
 <table>
   <tr>
@@ -71,6 +76,7 @@ seus usuários[1].
 
 &emsp;&emsp;Cada épico vai possuir suas histórias de usuário correspondente, o que serão especificadas e detalhadas dentro do documento de [histórias de usuário](../Agil/historias.md).
 
+### **Histórias de usuário correspondente a cada épico**
 <p align="justify">
 &emsp;&emsp; A tabela 02 apresenta as Histórias de usuário correspondente a cada épico.
 </p>
@@ -88,7 +94,7 @@ seus usuários[1].
 </thead>
 <tbody>
    <tr>
-    <td rowspan="10">Tema 1 - Funcionalidades de Comunicação e Colaboração</td>
+    <td rowspan="11">Tema 1 - Funcionalidades de Comunicação e Colaboração</td>
     <td rowspan="6">Épico 1 - Chamada de Vídeo e Áudio</td>
     <td><a href="../Agil/historias.md#us01---gravação-de-chamadas"> US01 </a> - Gravar chamadas de vídeo</td>
     <td>Alta</td>
@@ -114,7 +120,7 @@ seus usuários[1].
     <td> </td>
     </tr>
   <tr>
-  <td rowspan="4">Épico 2 - Compartilhamento de Conteúdo</td>
+  <td rowspan="5">Épico 2 - Compartilhamento de Conteúdo</td>
   <td><a href="../Agil/historias.md#us02---compartilhamento-de-tela"> US02 </a> - Compartilhar minha tela</td>
     <td>Alta</td>
   </tr>
@@ -125,12 +131,15 @@ seus usuários[1].
   <td><a href="../Agil/historias.md#us11---compartilhar-emojis-pré-definidos-durante-as-chamadas"> US11 </a> - Compartilhar emojis pré-definidos durante as chamadas</td>
     <td></td>
   </tr>
-  <td><a href="../Agil/historias.md#us13---utilização-de-quadro-de-anotação-durante-a-chamada"> US13 </a> - Utilização de quadro de anotação durante a chamada</td>
+  <td><a href="../Agil/historias.md#us13---utilização-de-quadro-de-anotação-durante-a-chamada"> US13 </a> - Envio de Mensagem de Texto</td>
     <td></td>
   </tr>
   <tr>
+   <td><a href="../Agil/historias.md#us20---envio-de-mensagem-de-texto"> US20 </a> - Utilização de quadro de anotação durante a chamada</td>
+    <td></td>
+  </tr>
   <tr>
-    <td rowspan="9">Tema 2 - Personalização e Configuração</td>
+    <td rowspan="15">Tema 2 - Personalização e Configuração</td>
     <td rowspan="2">Épico 3 - Personalização da Interface</td>
     <td><a href="../Agil/historias.md#us07---modo-claro-ou-escuro"> US07 </a> - Modo Claro ou Escuro</td>
     <td>Alta</td>
@@ -139,15 +148,24 @@ seus usuários[1].
     <td> </td>
   </tr>
   <tr>
-  <td rowspan="2">Épico 4 - Configuração do Perfil do Usuário</td>
+  <td rowspan="5">Épico 4 - Configuração do Perfil do Usuário</td>
     <td><a href="../Agil/historias.md#us10---configurar-perfil"> US10 </a> - Configurar seu perfil com nome de usuário e foto</td>
     <td>Alta</td>
   </tr>
   <td><a href="../Agil/historias.md#us18---autenticação-através-de-outros-aplicativos-como-google-ou-facebook"> US18 </a> - Autenticação através de outros aplicativos como google ou facebook</td>
     <td> </td>
   </tr>
+   <td><a href="../Agil/historias.md#us21---possuir-um-calendário-com-chamadas-agendadas"> US21 </a> - Possuir um Calendário com Chamadas Agendadas</td>
+    <td> </td>
+  </tr>
+   <td><a href="../Agil/historias.md#us22---calendário-de-um-usuário-sincronizado-ao-de-outros"> US22 </a> - Calendário de Um Usuário Sincronizado ao de Outros</td>
+    <td> </td>
+  </tr>
+  <td><a href="../Agil/historias.md#us23---agendar-reuniões-com-outros-usuários-atrvés-do-calendário"> US23 </a> - Agendar Reuniões com Outros Usuários Atrvés do Calendário</td>
+    <td> </td>
+  </tr>
   <tr>
- <td rowspan="3">Épico 5 - Gerenciamento de Permissões</td>
+ <td rowspan="5">Épico 5 - Gerenciamento de Permissões</td>
     <td><a href="../Agil/historias.md#us05---conceder-permissões-personalizadas"> US05 </a> - Conceder permissões diferentes a cada participante</td>
     <td>Alta</td>
   </tr>
@@ -157,12 +175,21 @@ seus usuários[1].
   <td><a href="../Agil/historias.md#us19---convidar-participantes-através-de-compartilhamento-de-link"> US19 </a> - Convidar participantes através de compartilhamento de link</td>
     <td> </td>
   </tr>
-   <td rowspan="2">Épico 6 - Configuração de Chamada</td>
+  <td><a href="../Agil/historias.md#us24---o-anfitrião-desligar-o-microfone-e-a-câmera-de-qualquer-participante"> US24 </a> - O Anfitrião Desligar o Microfone e a Câmera de Qualquer Participante</td>
+    <td> </td>
+  </tr>
+  <td><a href="../Agil/historias.md#us26---controle-de-entrada-em-uma-sala-com-senha-de-acesso"> US26 </a> - Controle de Entrada em Uma Sala com Senha de Acesso</td>
+    <td> </td>
+  </tr>
+   <td rowspan="3">Épico 6 - Configuração de Chamada</td>
    <td><a href="../Agil/historias.md#us16---deletar-reuniões-armazenadas"> US16 </a> - Deletar reuniões armazenadas</td>
     <td> </td>
     </tr>
   <tr>
   <td><a href="../Agil/historias.md#us17---mecanismo-de-busca-a-partir-da-data-da-reunião"> US17 </a> -Mecanismo de busca a partir da data da reunião</td>
+    <td> </td>
+    </tr>
+    <td><a href="../Agil/historias.md#us25---visualização-de-todas-as-salas-que-foram-participadas-anteriormente"> US25 </a> -Visualização de Todas as Salas que Foram Participadas Anteriormente</td>
     <td> </td>
     </tr>
   <tr>
@@ -183,6 +210,8 @@ seus usuários[1].
 | `1.0`  | 04/11/2023 | Criação do Documento | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
 |`1.1`| 04/11/2023| Metodologia, temas e épicos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
 |`1.2` |05/11/2023| Criação de tabelas de requisitos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
+|`1.3` |06/11/2023| Atualização de requisitos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
+
 <p align="justify">
 <h6 align="center"> Tabela 03: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
