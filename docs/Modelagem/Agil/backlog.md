@@ -46,7 +46,7 @@ seus usuários[1].
     <td>EP02</td>
     </tr>
   <tr>
-    <td style="vertical-align:middle" rowspan="3">Personalização e Configuração</td>
+    <td style="vertical-align:middle" rowspan="4">Personalização e Configuração</td>
     <td>Personalização da Interface</td>
     <td>EP03</td>
   </tr>
@@ -57,6 +57,10 @@ seus usuários[1].
     <tr>
     <td>Gerenciamento de Permissões</td>
     <td>EP05</td>
+  </tr>
+   <tr>
+    <td>Configuração de chamadas</td>
+    <td>EP06</td>
   </tr>
 </table>
 </center>
@@ -84,8 +88,8 @@ seus usuários[1].
 </thead>
 <tbody>
    <tr>
-    <td rowspan="7">Tema 1 - Funcionalidades de Comunicação e Colaboração</td>
-    <td rowspan="5">Épico 1 - Chamada de Vídeo e Áudio</td>
+    <td rowspan="10">Tema 1 - Funcionalidades de Comunicação e Colaboração</td>
+    <td rowspan="6">Épico 1 - Chamada de Vídeo e Áudio</td>
     <td><a href="../Agil/historias.md#us01---gravação-de-chamadas"> US01 </a> - Gravar chamadas de vídeo</td>
     <td>Alta</td>
   </tr>
@@ -106,7 +110,11 @@ seus usuários[1].
     <td>Alta</td>
     </tr>
   <tr>
-  <td rowspan="2">Épico 2 - Compartilhamento de Conteúdo</td>
+  <td><a href="../Agil/historias.md#us12---permitir-a-transcrição-do-áudio-da-chamada"> US12 </a> - Permitir a transcrição do áudio da chamada</td>
+    <td> </td>
+    </tr>
+  <tr>
+  <td rowspan="4">Épico 2 - Compartilhamento de Conteúdo</td>
   <td><a href="../Agil/historias.md#us02---compartilhamento-de-tela"> US02 </a> - Compartilhar minha tela</td>
     <td>Alta</td>
   </tr>
@@ -114,23 +122,49 @@ seus usuários[1].
   <td><a href="../Agil/historias.md#us06---compartilhamento-de-documentos"> US06 </a> - Compartilhar arquivos durante as reuniões</td>
     <td>Alta</td>
   </tr>
+  <td><a href="../Agil/historias.md#us11---compartilhar-emojis-pré-definidos-durante-as-chamadas"> US11 </a> - Compartilhar emojis pré-definidos durante as chamadas</td>
+    <td></td>
+  </tr>
+  <td><a href="../Agil/historias.md#us13---utilização-de-quadro-de-anotação-durante-a-chamada"> US13 </a> - Utilização de quadro de anotação durante a chamada</td>
+    <td></td>
+  </tr>
   <tr>
   <tr>
-    <td rowspan="3">Tema 2 - Personalização e Configuração</td>
-    <td rowspan="1">Épico 3 - Personalização da Interface</td>
+    <td rowspan="9">Tema 2 - Personalização e Configuração</td>
+    <td rowspan="2">Épico 3 - Personalização da Interface</td>
     <td><a href="../Agil/historias.md#us07---modo-claro-ou-escuro"> US07 </a> - Modo Claro ou Escuro</td>
     <td>Alta</td>
   </tr>
+  <td><a href="../Agil/historias.md#us14---alterar-fundo-em-uma-chamada-de-vídeo"> US14 </a> - Alterar fundo em uma chamada de vídeo</td>
+    <td> </td>
+  </tr>
   <tr>
-  <td rowspan="1">Épico 4 - Configuração do Perfil do Usuário</td>
+  <td rowspan="2">Épico 4 - Configuração do Perfil do Usuário</td>
     <td><a href="../Agil/historias.md#us10---configurar-perfil"> US10 </a> - Configurar seu perfil com nome de usuário e foto</td>
     <td>Alta</td>
   </tr>
+  <td><a href="../Agil/historias.md#us18---autenticação-através-de-outros-aplicativos-como-google-ou-facebook"> US18 </a> - Autenticação através de outros aplicativos como google ou facebook</td>
+    <td> </td>
+  </tr>
   <tr>
- <td rowspan="1">Épico 5 - Gerenciamento de Permissões</td>
+ <td rowspan="3">Épico 5 - Gerenciamento de Permissões</td>
     <td><a href="../Agil/historias.md#us05---conceder-permissões-personalizadas"> US05 </a> - Conceder permissões diferentes a cada participante</td>
     <td>Alta</td>
   </tr>
+   <td><a href="../Agil/historias.md#us15---permitir-a-configuração-de-controles-de-acesso"> US15 </a> - Permitir a configuração de controles de acesso</td>
+    <td> </td>
+  </tr>
+  <td><a href="../Agil/historias.md#us19---convidar-participantes-através-de-compartilhamento-de-link"> US19 </a> - Convidar participantes através de compartilhamento de link</td>
+    <td> </td>
+  </tr>
+   <td rowspan="2">Épico 6 - Configuração de Chamada</td>
+   <td><a href="../Agil/historias.md#us16---deletar-reuniões-armazenadas"> US16 </a> - Deletar reuniões armazenadas</td>
+    <td> </td>
+    </tr>
+  <tr>
+  <td><a href="../Agil/historias.md#us17---mecanismo-de-busca-a-partir-da-data-da-reunião"> US17 </a> -Mecanismo de busca a partir da data da reunião</td>
+    <td> </td>
+    </tr>
   <tr>
 </table>
 </center> 
