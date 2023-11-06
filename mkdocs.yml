@@ -4,7 +4,7 @@ repo_name: "2023.2-Jitsi"
 repo_url: "https://github.com/Requisitos-de-Software/2023.2-Jitsi.git"
 
 theme:
-  name: material
+  name: mkdocs
   logo: assets/logoJitsi.png
   favicon: assets/favicon.png
   language: "pt"
@@ -64,6 +64,7 @@ nav:
       - Agil:
         - Backlog: Modelagem/Agil/backlog.md
         - Histórias de usuário: Modelagem/Agil/historias.md
+        - NFR Framework: Modelagem/Agil/nfr-framework.md
 
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
