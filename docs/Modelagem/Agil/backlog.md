@@ -76,9 +76,9 @@ seus usuários[1].
 
 &emsp;&emsp;Cada épico vai possuir suas histórias de usuário correspondente, o que serão especificadas e detalhadas dentro do documento de [histórias de usuário](../Agil/historias.md).
 
-### **Histórias de usuário correspondente a cada épico**
+### **Histórias de usuário correspondente aos épicos pertencentes ao tema 01**
 <p align="justify">
-&emsp;&emsp; A tabela 02 apresenta as Histórias de usuário correspondente a cada épico.
+&emsp;&emsp; A tabela 02 apresenta as Histórias de usuário correspondente a cada épico, pertencentes ao <span style = "color: blue">tema 01: Funcionalidades de Comunicação e Colaboração </span>.
 </p>
 
 <p align="justify">
@@ -138,6 +138,32 @@ seus usuários[1].
    <td><a href="../Agil/historias.md#us20---envio-de-mensagem-de-texto"> US20 </a> - Utilização de quadro de anotação durante a chamada</td>
     <td></td>
   </tr>
+<tr>
+</table>
+</center> 
+</p> 
+<p align="justify">
+<h6 align="center"> Tabela 02: Histórias de usuário correspondente a cada épicos, tema 01.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</p>
+
+
+### **Histórias de usuário correspondente aos épicos pertencentes ao tema 02**
+<p align="justify">
+&emsp;&emsp; A tabela 03 apresenta as Histórias de usuário correspondente a cada épico, pertencentes ao <span style = "color: blue">tema 02: Personalização e Configuração</span>.
+</p>
+<p align="justify">
+<center>
+<table>
+<thead>
+  <tr>
+    <th>Tema</th>
+    <th>Épico</th>
+    <th>História de usuário</th>
+    <th>Priorização</th>
+  </tr>
+</thead>
+<tbody>
   <tr>
     <td style="vertical-align:middle" rowspan="15">Tema 2 - Personalização e Configuração</td>
     <td style="vertical-align:middle" rowspan="2">Épico 3 - Personalização da Interface</td>
@@ -197,13 +223,13 @@ seus usuários[1].
 </center> 
 </p> 
 <p align="justify">
-<h6 align="center"> Tabela 02:Histórias de usuário correspondente a cada épico .
+<h6 align="center"> Tabela 03: Histórias de usuário correspondente a cada épicos, tema 02.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </p>
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 03 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 04 representa o histórico de versão do documento.
 </p>
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
@@ -211,9 +237,11 @@ seus usuários[1].
 |`1.1`| 04/11/2023| Metodologia, temas e épicos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
 |`1.2` |05/11/2023| Criação de tabelas de requisitos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
 |`1.3` |06/11/2023| Atualização de requisitos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
+|`1.4` |06/11/2023| Ajuste nas tabelas | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
+
 
 <p align="justify">
-<h6 align="center"> Tabela 03: Histórico de Versão.
+<h6 align="center"> Tabela 04: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </p>
 
