@@ -13,28 +13,23 @@ seus usuários[1].
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp; Foi feita uma lista inicial, de requisitos usando critério como valor para o negócio, necessidades dos clientes, prazos e dependências. Posteriormente, foram definidos temas e os épicos de forma a categorizar as histórias de usuário. A medida que o projeto evolui, o backlog pode ser atualizado.
-
 </p>
 
 ## **Temas**
 <p align="justify">
 &emsp;&emsp;Analisando a históra de Usuário dividimos os requisitos em dois grandes temas:
-
+</p>
 **Funcionalidades de Comunicação e Colaboração:** Este tema se concentra em aprimorar as funcionalidades de comunicação e colaboração da plataforma. As histórias de usuário incluídas neste tema são direcionadas para melhorar a interação e a colaboração entre os usuários durante chamadas de vídeo e reuniões online.
-
+</p>
 **Personalização e Configuração:** Este tema se concentra na personalização da experiência do usuário e nas configurações da plataforma, permitindo que os usuários adaptem a plataforma de acordo com suas preferências e necessidades.
-
 </p>
 
 ## **Épicos**
 <p align="justify">
 &emsp;&emsp;Os épicos são uma ferramenta importante para gerenciar a complexidade do desenvolvimento de software, permitindo que as equipes tenham uma compreensão clara das funcionalidades essenciais do produto e como elas se relacionam com as necessidades dos usuários.
 </p>
-
-
-
+&emsp;&emsp; A tabela 01 apresenta os épicos definidos.
 <center>
-
 <table>
   <tr>
     <th>Tema</th>
@@ -64,11 +59,20 @@ seus usuários[1].
     <td>EP05</td>
   </tr>
 </table>
-
 </center>
+<p align="justify">
+<h6 align="center"> Tabela 01: Épicos definidos.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</p>
 
-Cada épico vai possuir suas histórias de usuário correspondente, o que serão especificadas e detalhadas dentro do documento de [histórias de usuário](../Agil/historias.md).
+&emsp;&emsp;Cada épico vai possuir suas histórias de usuário correspondente, o que serão especificadas e detalhadas dentro do documento de [histórias de usuário](../Agil/historias.md).
 
+<p align="justify">
+&emsp;&emsp; A tabela 02 apresenta as Histórias de usuário correspondente a cada épico.
+</p>
+
+<p align="justify">
+<center>
 <table>
 <thead>
   <tr>
@@ -128,25 +132,27 @@ Cada épico vai possuir suas histórias de usuário correspondente, o que serão
     <td>Alta</td>
   </tr>
   <tr>
-
-
-
+</table>
+</center> 
+</p> 
+<p align="justify">
+<h6 align="center"> Tabela 02:Histórias de usuário correspondente a cada épico .
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</p>
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 03 representa o histórico de versão do documento.
 </p>
-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 04/11/2023 | Criação do Documento | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
-|'1.1' |04/11/2023| Metodologia, temas e épicos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
-|'1.2' |05/11/2023| Criação de tabelas de requisitos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
-
-<h6 align= "center"> Tabela 2: Histórico de Versão.
-<br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa </h6>
+|`1.1`| 04/11/2023| Metodologia, temas e épicos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
+|`1.2` |05/11/2023| Criação de tabelas de requisitos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
+<p align="justify">
+<h6 align="center"> Tabela 03: Histórico de Versão.
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</p>
 
 ## **Bibliografia**
 > <a href="https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf">[1]</a> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. Aprender 3. Distrito Federal, 2016. 
-
-> <a href="https://Link_da_fonte">[2]</a> Fonte 2
