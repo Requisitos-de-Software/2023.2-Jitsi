@@ -7,7 +7,7 @@
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp; Para a criação das histórias de usuário, estabelecemos um modelo padrão, detalhado na Tabela 1. A validação das Histórias de Usuário foi realizada por meio de um processo de verificação com a participação de uma usuária do aplicativo Jitsi. A entrevista foi conduzida via Teams no dia 30 de outubro de 2023. Depois de elicitadas as histórias de usuário, os critérios de aceitação foram definidos e elas foram priorizadas pelo usuário em: Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Os participantes são apresentados na tabela 2.
+&emsp;&emsp; Para a criação das histórias de usuário, foram utilizados os requisitos funcionais como base. Para representar as histórias, estabelecemos um modelo padrão, detalhado na Tabela 1. A validação das Histórias de Usuário foi realizada por meio de um processo de verificação com a participação de uma usuária do aplicativo Jitsi. A entrevista foi conduzida via Teams no dia 06 de novembro de 2023. Depois de elicitadas as histórias de usuário, os critérios de aceitação foram definidos e elas foram priorizadas pelo usuário em: Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Os participantes são apresentados na tabela 2.
 </p>
 
 **Legenda**
@@ -23,8 +23,8 @@
 | ID    | Nome           |
 |-------|----------------|
 | USXX  | Título |
-| Descrição  | Eu, como xxx, desejo gravar xxx |
-| Critérios de Aceitação | Deve xxx.|
+| Descrição  | Eu, como xxx, desejo xxx para xxx |
+| Critérios de Aceitação | - xxx <br> -xxx|
 |Priorização | Alta, Média ou Baixa |
 |Valida|sim/não|
 
@@ -76,8 +76,7 @@
 |-------|----------------|
 | US01  | Gravar chamadas de vídeo |
 | Descrição  | Eu, como usuário, desejo gravar chamadas de vídeo para revisar ou compartilhar o conteúdo discutido posteriormente. |
-| Critérios de Aceitação | - Deve ser possível iniciar e parar a gravação de chamadas de vídeo durante uma reunião. <br> - As gravações devem incluir o vídeo e áudio de todos os participantes, bem como quaisquer compartilhamentos de tela ou apresentações realizadas durante a reunião.<br> - Deve ser possível acessar as gravações de chamadas de vídeo após o término da reunião.<br>
- |
+| Critérios de Aceitação | - Deve ser possível iniciar e parar a gravação de chamadas de vídeo durante uma reunião. <br> - As gravações devem incluir o vídeo e áudio de todos os participantes, bem como quaisquer compartilhamentos de tela ou apresentações realizadas durante a reunião.<br> - Deve ser possível acessar as gravações de chamadas de vídeo após o término da reunião.<br>|
 |Prioridade | Alta |
 | Valida | sim |
 
