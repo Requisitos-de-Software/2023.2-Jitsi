@@ -248,9 +248,9 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US11 - Compartilhar emojis pré-definidos durante as chamadas**
+### **US11 - Compartilhar Emojis Pré-Definidos Durante as Chamadas**
 <p align="justify">
-&emsp;&emsp;A tabela 13 apresenta a história de usuário Configurar Perfil
+&emsp;&emsp;A tabela 13 apresenta a história de usuário Compartilhar Emojis Pré-Definidos Durante as Chamadas.
 </p>
 | ID    | Descrição        |
 |-------|----------------|
@@ -265,9 +265,9 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US12 - Permitir a transcrição do áudio da chamada**
+### **US12 - Transcrição do Áudio da Chamada**
 <p align="justify">
-&emsp;&emsp;A tabela 14 apresenta a história de usuário Permitir a trasncrição do áudio da chamada
+&emsp;&emsp;A tabela 14 apresenta a história de usuário Transcrição do Áudio da Chamada.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -282,9 +282,9 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US13 - Utilização de quadro de anotação durante a chamada**
+### **US13 - Quadro de Anotação Durante a Chamada**
 <p align="justify">
-&emsp;&emsp;A tabela 15 apresenta a história de usuário Utilização de quadro de anotação durante a chamada
+&emsp;&emsp;A tabela 15 apresenta a história de usuário Quadro de Anotação Durante a Chamada.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -299,9 +299,9 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US14 -  Alterar fundo em uma chamada de vídeo**
+### **US14 -  Alterar Fundo em Uma Chamada de Vídeo**
 <p align="justify">
-&emsp;&emsp;A tabela 16 apresenta a história de usuário  alterar fundo em uma chamada de vídeo
+&emsp;&emsp;A tabela 16 apresenta a história de usuário Alterar Fundo em Uma Chamada de Vídeo.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -316,9 +316,9 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US15 -  Permitir a configuração de controles de acesso**
+### **US15 -  Permitir a Configuração de Controles de Acesso**
 <p align="justify">
-&emsp;&emsp;A tabela 17 apresenta a história de usuário permitir a configuração de controles de acesso
+&emsp;&emsp;A tabela 17 apresenta a história de usuário Permitir a Configuração de Controles de Acesso.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -333,9 +333,9 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US16 - Deletar reuniões armazenadas**
+### **US16 - Deletar Reuniões Armazenadas**
 <p align="justify">
-&emsp;&emsp;A tabela 18 apresenta a história de usuário deletar reuniões armazenadas
+&emsp;&emsp;A tabela 18 apresenta a história de usuário Deletar Reuniões Armazenadas.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -350,9 +350,9 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US17 -  Mecanismo de busca a partir da data da reunião**
+### **US17 -  Mecanismo de Busca a Partir da Data da Reunião**
 <p align="justify">
-&emsp;&emsp;A tabela 19 apresenta a história de usuário  mecanismo de busca a partir da data da reunião
+&emsp;&emsp;A tabela 19 apresenta a história de usuário Mecanismo de Busca a Partir da Data da Reunião.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -363,13 +363,13 @@
 |Valida |  |
 
 <center>
-<h6> Tabela 19:  mecanismo de busca a partir da data da reunião.
+<h6> Tabela 19: Mecanismo de Busca a Partir da Data da Reunião.
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US18 -  Autenticação através de outros aplicativos, como Google ou Facebook**
+### **US18 -  Autenticação Através de Outros Aplicativos, como Google ou Facebook**
 <p align="justify">
-&emsp;&emsp;A tabela 20 apresenta a história de usuário   autenticação através de outros aplicativos, como Google ou Facebook.
+&emsp;&emsp;A tabela 20 apresenta a história de usuário Autenticação Através de Outros Aplicativos, como Google ou Facebook.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -380,13 +380,13 @@
 |Valida |  |
 
 <center>
-<h6> Tabela 20:  mecanismo de busca a partir da data da reunião.
+<h6> Tabela 20: Autenticação Através de Outros Aplicativos, como Google ou Facebook.
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US19 -  Convidar participantes através de compartilhamento de link**
+### **US19 -  Convidar Participantes Através de Compartilhamento de Link**
 <p align="justify">
-&emsp;&emsp;A tabela 21 apresenta a história de usuário   convidar participantes através de compartilhamento de link.
+&emsp;&emsp;A tabela 21 apresenta a história de usuário Convidar Participantes Através de Compartilhamento de Link.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -397,7 +397,7 @@
 |Valida |  |
 
 <center>
-<h6> Tabela 21:  mecanismo de busca a partir da data da reunião.
+<h6> Tabela 21: Convidar Participantes Através de Compartilhamento de Link.
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
@@ -418,9 +418,9 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US21 -   Possuir um calendário com chamadas agendadas**
+### **US21 -  Possuir um Calendário com Chamadas Agendadas**
 <p align="justify">
-&emsp;&emsp;A tabela 23 apresenta a história de usuário possuir um calendário com chamadas agendadas
+&emsp;&emsp;A tabela 23 apresenta a história de usuário Possuir um Calendário com Chamadas Agendadas
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -431,13 +431,13 @@
 |Valida |  |
 
 <center>
-<h6> Tabela 23:  mecanismo de busca a partir da data da reunião.
+<h6> Tabela 23: Possuir um Calendário com Chamadas Agendadas.
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US22 -   Permitir que o calendário de um usuário seja sincronizado ao de outros**
+### **US22 - Calendário de Um Usuário Sincronizado ao de Outros**
 <p align="justify">
-&emsp;&emsp;A tabela 24 apresenta a história de usuário permitir que o calendário de um usuário seja sincronizado ao de outros
+&emsp;&emsp;A tabela 24 apresenta a história de usuário permitir que o Calendário de Um Usuário Sincronizado ao de Outros.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -448,11 +448,11 @@
 |Valida |  |
 
 <center>
-<h6> Tabela 24:  Permitir que o calendário de um usuário seja sincronizado ao de outros.
+<h6> Tabela 24: Calendário de Um Usuário Sincronizado ao de Outros.
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US23 -  Agendar Reuniões com Outros Usuários Atrvés do Calendário**
+### **US23 - Agendar Reuniões com Outros Usuários Atrvés do Calendário**
 <p align="justify">
 &emsp;&emsp;A tabela 25 apresenta a história de usuário Agendar Reuniões com Outros Usuários Atrvés do Calendário.
 </p>
@@ -465,14 +465,14 @@
 |Valida |  |
 
 <center>
-<h6> Tabela 25:  Agendar reuniões com outros usuários através do calendário.
+<h6> Tabela 25: Agendar Reuniões com Outros Usuários Atrvés do Calendário.
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
 
-### **US24 -   Permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante**
+### **US24 - O Anfitrião Desligar o Microfone e a Câmera de Qualquer Participante**
 <p align="justify">
-&emsp;&emsp;A tabela 26 apresenta a história de usuário  permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante.
+&emsp;&emsp;A tabela 26 apresenta a história de usuário O Anfitrião Desligar o Microfone e a Câmera de Qualquer Participante.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -483,13 +483,13 @@
 |Valida |  |
 
 <center>
-<h6> Tabela 26:  Permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante .
+<h6> Tabela 26: O Anfitrião Desligar o Microfone e a Câmera de Qualquer Participante.
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US25 - Capacidade de visualizar todas as salas que foram participadas anteriormente**
+### **US25 -  Visualização de Todas as Salas que Foram Participadas Anteriormente**
 <p align="justify">
-&emsp;&emsp;A tabela 27 apresenta a história de usuário capacidade de visualizar todas as salas que foram participadas anteriormente.
+&emsp;&emsp;A tabela 27 apresenta a história de usuário Visualização de Todas as Salas que Foram Participadas Anteriormente.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -500,13 +500,13 @@
 |Valida |  |
 
 <center>
-<h6> Tabela 27:  Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente.
+<h6> Tabela 27: Visualização de Todas as Salas que Foram Participadas Anteriormente.
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US26 - Controlar a entrada em uma sala por meio de senha de acesso**
+### **US26 - Controle de Entrada em Uma Sala com Senha de Acesso**
 <p align="justify">
-&emsp;&emsp;A tabela 28 apresenta a história de usuário controlar a entrada em uma sala por meio de senha de acesso.
+&emsp;&emsp;A tabela 28 apresenta a história de usuário Controle de Entrada em Uma Sala com Senha de Acesso.
 </p>
 | ID    | Descrição      |
 |-------|----------------|
@@ -517,7 +517,7 @@
 |Valida |  |
 
 <center>
-<h6> Tabela 28:  O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso.
+<h6> Tabela 28: Controle de Entrada em Uma Sala com Senha de Acesso.
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
@@ -534,6 +534,7 @@
 | `1.2`  | 18/10/2023 | Inclusão titulos e legendas nas tabelas | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
 | `1.3`  | 05/11/2023 | Inclusão gravação | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
 | `1.4`  | 05/11/2023 | Correção de Erros| [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
+| `1.5`  | 06/11/2023 | Ajustes nostitulos e legendas| [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
  
  
 
