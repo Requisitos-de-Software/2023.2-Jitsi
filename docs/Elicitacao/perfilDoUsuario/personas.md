@@ -132,13 +132,13 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 ### Isaque Oliveira - Anti-Persona
 
 <div align="center">
-<img src="../../../Isaque.jpg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Isaque.jpg" width="300" height="300">
 </div>
 
 <div align="center">
 
 <figcaption align='center'>
-    <b>Figura 05: Isaque Oliveira - Anti-Persona.</b>
+    <b>Figura 04: Isaque Oliveira - Anti-Persona.</b>
     <br><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>
 </figcaption>
 </div>
@@ -164,7 +164,7 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 | **Expectativas**     | Manter envolvido em suas paixões e poder apresentar para sua familia seu novo talento. |
 
 <p align="justify">
-<h6 align = "center"> Tabela 05: Persona Isaque.
+<h6 align = "center"> Tabela 04: Persona Isaque.
 <br> Autores(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </p>
 
@@ -172,7 +172,7 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 06 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 05 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data       | Descrição            | Autor(es)                                                                                                  | Revisor(es)                                 |
@@ -180,11 +180,11 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 | `1.0`  | 03/10/2023 | Criação do Documento | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.1`  | 03/10/2023 | Iniciando Personas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.2`  | 04/10/2023 | Finalizar Personas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
-| `1.3`  | 06/11/2023 | Ajustes após a entrega 2 | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
+| `1.3`  | 06/11/2023 | Ajustes após a entrega 2 | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza) |
+| `1.4`  | 06/11/2023 | Correção de imagem| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza) | [Catlen Cleane](https://github.com/catlenc) |
 
-<h6 align="justify"> Tabela 06: Histórico de Versão.
+<h6 align="center"> Tabela 05: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
-</center>
 
 ## **Bibliografia**
 
