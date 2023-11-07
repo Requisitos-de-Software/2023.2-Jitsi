@@ -65,7 +65,6 @@ nav:
         - Backlog: Modelagem/Agil/backlog.md
         - Histórias de usuário: Modelagem/Agil/historias.md
         - NFR Framework: Modelagem/Agil/nfr-framework.md
-
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md

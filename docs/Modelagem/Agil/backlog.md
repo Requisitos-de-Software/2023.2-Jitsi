@@ -1,4 +1,4 @@
-# ***Backlog***
+# ***Product Backlog***
 
 ## **Introdução**
 
@@ -9,19 +9,20 @@ com tudo aquilo que é mais óbvio em um primeiro momento. Com o tempo, o
 Product Backlog cresce e muda à medida que se aprende mais sobre o produto e
 seus usuários. [1](#bibliografia)
 
-
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp; Foi feita uma lista inicial, de requisitos usando critério como valor para o negócio, necessidades dos clientes, prazos e dependências. Posteriormente, foram definidos temas e os épicos de forma a categorizar as histórias de usuário. A medida que o projeto evolui, o backlog pode ser atualizado.
+&emsp;&emsp; Foi feita uma lista inicial, de requisitos, usando como critério o valor para o negócio, necessidades dos clientes, prazos e dependências. Posteriormente, foram definidos temas e os épicos de forma a categorizar as histórias de usuário. A medida que o projeto evolui, o backlog pode ser atualizado.
 </p>
 
 ## **Temas**
 <p align="justify">
 &emsp;&emsp;Analisando a históra de Usuário dividimos os requisitos em dois grandes temas:
 </p>
-**Funcionalidades de Comunicação e Colaboração:** Este tema se concentra em aprimorar as funcionalidades de comunicação e colaboração da plataforma. As histórias de usuário incluídas neste tema são direcionadas para melhorar a interação e a colaboração entre os usuários durante chamadas de vídeo e reuniões online.
+<p align="justify">
+&emsp;&emsp;<b>Funcionalidades de Comunicação e Colaboração</b>: Este tema se concentra em aprimorar as funcionalidades de comunicação e colaboração da plataforma. As histórias de usuário incluídas neste tema são direcionadas para melhorar a interação e a colaboração entre os usuários durante chamadas de vídeo e reuniões online.
 </p>
-**Personalização e Configuração:** Este tema se concentra na personalização da experiência do usuário e nas configurações da plataforma, permitindo que os usuários adaptem a plataforma de acordo com suas preferências e necessidades.
+<p align="justify">
+&emsp;&emsp;<b>Personalização e Configuração</b>: Este tema se concentra na personalização da experiência do usuário e nas configurações da plataforma, permitindo que os usuários adaptem a plataforma de acordo com suas preferências e necessidades.
 </p>
 
 ## **Épicos**
