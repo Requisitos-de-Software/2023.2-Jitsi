@@ -2,12 +2,12 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp; Neste artefato, serão desenvolvidas as histórias de usuário do aplicativo Jitsi. As histórias de usuário representam uma <b>técnica de modelagem ágil</b> que possibilita à equipe <b>compreender as necessidades do usuário de forma eficiente</b> e, assim, trabalhar de maneira mais eficaz no desenvolvimento do software. Essa abordagem ajuda a estabelecer uma ligação valiosa entre as aspirações do usuário e a entrega de valor por meio do software.
+&emsp;&emsp;Neste artefato, serão desenvolvidas as histórias de usuário do aplicativo Jitsi. As histórias de usuário representam uma <b>técnica de modelagem ágil</b> que possibilita à equipe <b>compreender as necessidades do usuário de forma eficiente</b> e, assim, trabalhar de maneira mais eficaz no desenvolvimento do software. Essa abordagem ajuda a estabelecer uma ligação valiosa entre as aspirações do usuário e a entrega de valor por meio do software.
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp; Para a criação das histórias de usuário, foram utilizados os requisitos funcionais como base. Para representar as histórias, estabelecemos um modelo padrão, detalhado na Tabela 1. A validação das Histórias de Usuário foi realizada por meio de um processo de verificação com a participação de uma usuária do aplicativo Jitsi. A entrevista foi conduzida via Teams no dia 06 de novembro de 2023. Depois de elicitadas as histórias de usuário, os critérios de aceitação foram definidos e elas foram priorizadas pelo usuário em: Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Os participantes são apresentados na tabela 2.
+&emsp;&emsp; Para a criação das histórias de usuário, foram utilizados os <b>requisitos funcionais</b> como base. Para representar as histórias, estabelecemos um modelo padrão, detalhado na Tabela 1. A validação das Histórias de Usuário foi realizada por meio de um processo de verificação com a participação de uma <b>usuária</b> do aplicativo Jitsi. A entrevista foi conduzida via Teams no dia 06 de novembro de 2023. Depois de elicitadas as histórias de usuário, os critérios de aceitação foram definidos e elas foram priorizadas pelo usuário em: Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Os participantes são apresentados na tabela 2.
 </p>
 
 **Legenda**
@@ -19,14 +19,14 @@
 
 <center>
 
-### **USXX: Título da história de usuário**
+### **USXX: Título da História de Usuário**
 | ID    | Nome           |
 |-------|----------------|
 | USXX  | Título |
 | Descrição  | Eu, como xxx, desejo xxx para xxx |
 | Critérios de Aceitação | - xxx <br> -xxx|
-|Priorização | Alta, Média ou Baixa |
-|Valida|sim/não|
+| Priorização | Alta, Média ou Baixa |
+| Valida |Sim/Não|
 
 </center>
 
@@ -62,7 +62,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UNfvNLFuAa8?si=satZ0TKG2a4hMwk6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## **Histórias de usuário**
+## **Histórias de Usuário**
 <p align="justify">
 &emsp;&emsp; As tabelas a seguir apresentam as histórias de usuário que foram elaboradas com base nos Requisitos Funcionais elicitados.
 </p>
@@ -78,7 +78,7 @@
 | Descrição  | Eu, como usuário, desejo gravar chamadas de vídeo para revisar ou compartilhar o conteúdo discutido posteriormente. |
 | Critérios de Aceitação | - Deve ser possível iniciar e parar a gravação de chamadas de vídeo durante uma reunião. <br> - As gravações devem incluir o vídeo e áudio de todos os participantes, bem como quaisquer compartilhamentos de tela ou apresentações realizadas durante a reunião.<br> - Deve ser possível acessar as gravações de chamadas de vídeo após o término da reunião.<br>|
 |Prioridade | Alta |
-| Valida | sim |
+| Valida | Sim |
 
 <center>
 <h6> Tabela 3: Gravação de Chamadas.
@@ -452,7 +452,7 @@
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 </center>
 
-### **US23 - Agendar Reuniões com Outros Usuários Atrvés do Calendário**
+### **US23 - Agendar Reuniões com Outros Usuários Através do Calendário**
 <p align="justify">
 &emsp;&emsp;A tabela 25 apresenta a história de usuário Agendar Reuniões com Outros Usuários Atrvés do Calendário.
 </p>

@@ -1,7 +1,6 @@
 # ***Product Backlog***
 
 ## **Introdução**
-
 &emsp;&emsp;O Product Backlog é uma lista contendo todas as funcionalidades desejadas para
 um produto. O conteúdo desta lista é definido pelo Product Owner. O Product
 Backlog não precisa estar completo no início de um projeto. Pode-se começar
@@ -11,7 +10,7 @@ seus usuários. [1](#bibliografia)
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp; Foi feita uma lista inicial, de requisitos, usando como critério o valor para o negócio, necessidades dos clientes, prazos e dependências. Posteriormente, foram definidos temas e os épicos de forma a categorizar as histórias de usuário. A medida que o projeto evolui, o backlog pode ser atualizado.
+&emsp;&emsp;Foi feita uma lista inicial, de requisitos, usando como critério o valor para o negócio, necessidades dos clientes, prazos e dependências. Posteriormente, foram definidos temas e os épicos de forma a categorizar as histórias de usuário. A medida que o projeto evolui, o backlog pode ser atualizado.
 </p>
 
 ## **Temas**
@@ -27,12 +26,12 @@ seus usuários. [1](#bibliografia)
 
 ## **Épicos**
 <p align="justify">
-&emsp;&emsp;Os épicos são uma ferramenta importante para gerenciar a complexidade do desenvolvimento de software, permitindo que as equipes tenham uma compreensão clara das funcionalidades essenciais do produto e como elas se relacionam com as necessidades dos usuários.
+&emsp;&emsp;Os épicos são uma ferramenta importante para gerenciar a <b>complexidade</b> do desenvolvimento de software, permitindo que as equipes tenham uma compreensão clara das funcionalidades essenciais do produto e como elas se relacionam com as necessidades dos usuários.
 </p>
 
 ### **Épicos definidos**
 <p align="justify">
-&emsp;&emsp; A tabela 01 apresenta os épicos definidos
+&emsp;&emsp; A tabela 01 apresenta os épicos definidos:
 </p>
 
 <center>
@@ -77,7 +76,7 @@ seus usuários. [1](#bibliografia)
 
 &emsp;&emsp;Cada épico vai possuir suas histórias de usuário correspondente, o que serão especificadas e detalhadas dentro do documento de [histórias de usuário](../Agil/historias.md).
 
-### **Histórias de usuário correspondente aos épicos pertencentes ao tema 01**
+### **Histórias de Usuário Correspondente aos Épicos Pertencentes ao Tema 01**
 <p align="justify">
 &emsp;&emsp; A tabela 02 apresenta as Histórias de usuário correspondente a cada épico, pertencentes ao <span style = "color: blue">tema 01: Funcionalidades de Comunicação e Colaboração </span>.
 </p>
@@ -149,7 +148,7 @@ seus usuários. [1](#bibliografia)
 </p>
 
 
-### **Histórias de usuário correspondente aos épicos pertencentes ao tema 02**
+### **Histórias de Usuário Correspondente aos Épicos Pertencentes ao Tema 02**
 <p align="justify">
 &emsp;&emsp; A tabela 03 apresenta as Histórias de usuário correspondente a cada épico, pertencentes ao <span style = "color: blue">tema 02: Personalização e Configuração</span>.
 </p>
