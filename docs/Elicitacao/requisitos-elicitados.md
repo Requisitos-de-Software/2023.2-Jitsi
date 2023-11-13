@@ -53,8 +53,7 @@
 | [BR08](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve ser possível baixar as gravações das reuniões | RF24 | Sim | 
 | [BR10](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente | RF25 | Sim | 
 | [BR11](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso | RF26 | Sim | 
-| [BR13](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | RF27 | Sim | 
-| [BR14](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Os usuários devem poder compartilhar arquivos durante as reuniões | RF28 | Não | 
+| [BR13](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | RF27 | Sim |  
 | [BR16](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | RF29 | Não |  
 <h6 align = "center"> Tabela 1: Requisitos Funcionais Elicitados.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>

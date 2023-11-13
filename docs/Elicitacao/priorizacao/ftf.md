@@ -72,7 +72,6 @@
 | BR10 | Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. |2 | 0 |  4 | 5,31 | 2 | 1,75 | 1 | 1,43 |2,15 |
 | BR11 | O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso | 0 | 0  | 0 | 0 | 1 | 0,88| 1 | 1,43 |0 |
 | BR13 | O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | 5 | 3 | 13 | 2,76 | 5 |4,39 | 3 | 4,29 | 0,42|
-| BR14 | Os usuários devem poder compartilhar arquivos durante as reuniões |  |  |  |  |  | |  |  | |
 | BR16 | Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | 7 | 5 | 19 | 4,03 | 3 | 2,63| 1 | 1,43 | 0|  
 
 

@@ -84,7 +84,7 @@
 |BR07| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | Alta|
 |BR08| Deve ser possível baixar as gravações das reuniões | Alta|
 |BR13| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião |Alta|
-|BR14, OB08| Os usuários devem poder compartilhar arquivos durante as reuniões |Alta|
+|BR15| Os usuários devem poder compartilhar arquivos durante as reuniões |Alta|
 |BR16| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade |Alta|
 |BR17, ENT08, OB17| Deve ter uma interface objetiva e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques |Alta|
 | ENT02 | Os usuários devem ser capazes de criar uma videoconferência |Alta|
