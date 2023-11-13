@@ -68,10 +68,23 @@ nav:
   - Verificação:
     - Grupo +1:
       - Entrega 01: 
+        - Planejamento: Verificacao/Grupo+1/Entrega_1/Planejamento.md
+        - Rich Picture: Verificacao/Grupo+1/Entrega_1/RichPicture.md
       - Entrega 02: 
+        - Planejamento: Verificacao/Grupo+1/Entrega_2/Planejamento.md
         - Tecnica de Elicitação: Verificacao/Grupo+1/Entrega_2/TecnicaElicitacao.md
+        - Priorização: Verificacao/Grupo+1/Entrega_2/Priorizacao.md
       - Entrega 03: 
+        - Planejamento: Verificacao/Grupo+1/Entrega_3/Planejamento.md
+        - Casos de Uso: Verificacao/Grupo+1/Entrega_3/CasosDeUso.md
+        - Lexicos: Verificacao/Grupo+1/Entrega_3/EspicificacaoS.md
+        - Especificação Suplementar: Verificacao/Grupo+1/Entrega_3/Lexicos.md
+        - Cenários: Verificacao/Grupo+1/Entrega_3/Cenarios.md
       - Entrega 04:  
+        - Planejamento: Verificacao/Grupo+1/Entrega_4/Planejamento.md
+        - NFR: Verificacao/Grupo+1/Entrega_4/NFR.md
+        - Backlog: Verificacao/Grupo+1/Entrega_4/Backlog.md
+        - Histórias de Usuário: Verificacao/Grupo+1/Entrega_4/HistoriasDeUsuario.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md
