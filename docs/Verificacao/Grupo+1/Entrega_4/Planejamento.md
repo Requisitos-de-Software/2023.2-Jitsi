@@ -2,7 +2,7 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp; A fase de verificação representa um passo fundamental no desenvolvimento de um projeto, dedicada à análise dos artefatos produzidos para garantir a aderência aos requisitos determinados. Assim, este documento detalha o planejamento para verificar os artefatos de NFR Framework, Product Backlog e Histórias de Usuário, elaborados pelo Grupo 6 durante a Etapa 4.
+&emsp;&emsp; A fase de verificação representa um passo fundamental no desenvolvimento de um projeto, dedicada à análise dos artefatos produzidos para garantir a aderência aos requisitos determinados. Assim, este documento detalha o planejamento para verificar os artefatos de NFR Framework, Product Backlog e Histórias de Usuário, elaborados pelo Grupo 6 durante a Entrega 4.
 </p>
 
 ## **Objetivo**
@@ -100,3 +100,8 @@
 |--------|------|-----------|----------|------------|
 |`1.0`   |13/11/2023| Criação do artefato |  [Júlia Vitória](https://github.com/Juhvitoria4) | - |
 |`1.1` | 13/11/2023 | Aperfeiçoamento das tabelas |[Júlia Vitória](https://github.com/Juhvitoria4)|-|
+
+## *Bibliografia*
+
+
+> <a href="https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf">[2]</a>  SALES, ANDRÉ B. Plano de ensino da disciplina de Requisitos de Software. Universidade de Brasília. 2023.
