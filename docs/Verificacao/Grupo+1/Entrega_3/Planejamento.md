@@ -134,6 +134,10 @@
 | Os requisitos apresentados são testáveis? | | |
 | As características físicas de onde o sistema funcionará são apresentadas? | | |
 
+## **Histórico de Versão**
+<p align="justify">
+&emsp;&emsp;A tabela 7 representa o histórico de versão do documento.
+</p>
 
 | Versão | Data | Descrição | Autor(es)| Revisor(es)|
 |--------|------|-----------|----------|------------|
