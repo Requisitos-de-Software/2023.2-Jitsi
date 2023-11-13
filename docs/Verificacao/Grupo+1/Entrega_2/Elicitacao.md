@@ -51,35 +51,6 @@
 <br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
-## **Brainstorming**
-<p align="justify">
-&emsp;&emsp;A tabela 1 apresenta o Checklist da Técnica Brainstormig
-
-</p>
-
-|Id|Questão|Resposta|Observação|
-|----|----|-----|-----|
-|01|O artefato possui Introdução?|sim| |
-|02|O artefato possui uma introdução condizente com o conteúdo do texto?|sim| |
-|03|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?|sim| |
-|04|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?|sim| |
-|05|Os revisores são pessoas diferentes dos autores?|sim| |
-|06|Todos os textos estão na norma padrão?|sim| |
-|07|Todas as tabelas e imagens são chamadas no texto, possuem legendas e autores?|Incompleto|As tabelas não possuem autores|
-|08|Todas as bibliografias/referências bibliográficas são utilizadas no texto?|incompleto|Apenas o item 3 foi utilizado|
-|09|Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|sim| |
-|10|As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|sim| |
-|11|Está especificado o papel de cada participante?|não|No vídeo não existe a realização de um brainstorming e sim de uma entrevista|
-|12|Todas as ideias geradas durante o brainstorming foram documentadas de forma clara e concisa?|não|Não tem as ideias que foram geradas|
-|13|Foram utilizadas técnicas de estímulo, como palavras-chave, imagens ou diagramas, para incentivar a geração de ideias?|não|Houve apenas perguntas no estilo de uma entrevista|
-|14|O brainstorming é organizado e de fácil compreensão?|sim| |
-|15|Os requisitos elicitados foram classificados corretamente?|sim| |
-
-<center>
-<h6> Tabela 1: Checklist da Técnica Brainstormig
-<br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
-</center>
-
 ## **Observação**
 <p align="justify">
 &emsp;&emsp;A tabela 2 apresenta o Checklist da Técnica Observação
@@ -111,7 +82,7 @@
 
 ## **Introspecção**
 <p align="justify">
-&emsp;&emsp;A tabela 2 apresenta o Checklist da Técnica de Instrospecção
+&emsp;&emsp;A tabela 3 apresenta o Checklist da Técnica de Instrospecção
 
 </p>
 
@@ -123,40 +94,32 @@
 |04|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?|sim| |
 |05|Os revisores são pessoas diferentes dos autores?|sim| |
 |06|Todos os textos estão na norma padrão?|Incompleto|O artefato não possue metodologia|
-|07|Todas as tabelas e imagens são chamadas no texto, possuem legendas e autores?|Incompleto|As tabelas não possuem autores|
-|08|Todas as bibliografias/referências bibliográficas são utilizadas no texto?|sim||
+|07|Todas as tabelas e imagens são chamadas no texto, possuem legendas e autores?|sim||
+|08|Todas as bibliografias/referências bibliográficas são utilizadas no texto?|não|
 |09|Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|não| |
 |10|As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|não|O artefato não possue metodologia|
-|11|Está especificado o papel de cada participante?|não||
-|12|Os requisitos foram classificados de forma correta?|Não|Não existe classificação dos requisitos|
-|13|O processo de elicitação foi devidamente explicado e documentado?|||
-|14|Foram elicitados requisitos que não estão presentes no aplicativo?|||
-|15|A pessoa que fez a introspeção estudou o aplicativo primeiro?|||
+|11|Está especificado o papel de cada participante?|não|No texto descreve que todos participaram, e no histórico tem apenas o nome de um participante|
+|12|Os requisitos foram classificados de forma correta?|sim||
+|13|O processo de elicitação foi devidamente explicado e documentado?|incompleto|Foi explicado na Execução mas não foi documentado|
+|14|Foram elicitados requisitos que não estão presentes no aplicativo?|sim||
+|15|A pessoa que fez a introspeção estudou o aplicativo primeiro?|sim||
 
 <center>
-<h6> Tabela 2: Checklist da Técnica Introspecção
+<h6> Tabela 3: Checklist da Técnica Introspecção
 <br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
-## **Links**
-<p align="justify">
-<a href="link de referência">nome a ser referenciado</a>
-</p>
 
-## **Tópico n**
-<p align="justify">
-&emsp;&emsp;Texto ....
-</p>
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela n representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 4 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | dd/mm/2023 |  |  |  |
-<h6> Tabela n: Histórico de Versão.
-<br> Autor(a): Fulano de tal </h6>
+| `1.0`  | 13/11/2013 | Criação do artefato| [Catlen Cleane](https://github.com/catlenc) | [Júlia Vitória](https://github.com/Juhvitoria4)|
+<h6> Tabela 4: Histórico de Versão.
+<br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 
 ## **Bibliografia**
 > <a href="https://Link_da_fonte">[1]</a> Fonte 1
