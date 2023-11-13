@@ -73,13 +73,19 @@ nav:
       - Entrega 02: 
         - Planejamento: Verificacao/Grupo+1/Entrega_2/Planejamento.md
         - Elicitação: Verificacao/Grupo+1/Entrega_2/Elicitacao.md
+<<<<<<< HEAD
         - Priorização: Verificacao/Grupo+1/Entrega_2/Priorizacao.md
         - Tecnica de Elicitação: Verificacao/Grupo+1/Entrega_2/TecnicaElicitacao.md
+=======
+>>>>>>> f323cb8c1e82260839e25fb18ef31a676939a6eb
         - Priorização: 
           - First Things First: Verificacao/Grupo+1/Entrega_2/Ftf.md
           - Moscow:  Verificacao/Grupo+1/Entrega_2/Moscow.md
           - Three-Level Scale:  Verificacao/Grupo+1/Entrega_2/Tls.md
+<<<<<<< HEAD
 
+=======
+>>>>>>> f323cb8c1e82260839e25fb18ef31a676939a6eb
       - Entrega 03: 
         - Planejamento: Verificacao/Grupo+1/Entrega_3/Planejamento.md
         - Casos de Uso: Verificacao/Grupo+1/Entrega_3/CasosDeUso.md
