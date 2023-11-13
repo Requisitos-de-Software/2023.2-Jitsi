@@ -1,45 +1,48 @@
-# ***Jitsi***
-## **Sobre o Projeto**
+# ***Nome do Artefato (sempre com palavras começando em maiúsculo) ***
+
+## **Introdução (sempre com palavras começando em maiúsculo) **
 <p align="justify">
-&emsp;&emsp;Esta página é voltada para expor o <b>desenvolvimento do projeto de Requisitos de Software</b>, da Universidade de Brasília - Faculdade do Gama (UnB - FGA) e seus respectivos artefatos. Com base na aplicação móvel <a href='https://meet.jit.si/'>Jitsi</a>, serão aplicados os conceitos aprendidos na disciplina, tal qual o registro de todo o desenvolvimento do projeto.
+&emsp;&emsp;Texto ....
 </p>
-<center>
-<img src="./assets/jitsi.png" alt="logo" width="40%" style="float: none; margin: auto"/>
-<p>
-&emsp;&emsp;Figura 1: Logo do Jitsi (Fonte: <a href='https://meet.jit.si/'>meet.jit.si/</a>)
-</p>
-</center>
 
-## **Sobre a Aplicação**
+## **Objetivo (sempre com palavras começando em maiúsculo)**
 <p align="justify">
-&emsp;&emsp;O <b>Jitsi</b> se trata de uma aplicação móvel <a href="https://tecnoblog.net/responde/o-que-e-open-source-software-de-codigo-aberto/">open source</a> de videoconferência que está disponível para download em sistemas <a href="https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=pt_BR&gl=US&pli=1">Android</a> e <a href="https://apps.apple.com/br/app/jitsi-meet/id1165103905">iOS</a>. Nele, um usuário é capaz de criar uma chamada a partir de um código e, posteriormente, compartilhá-lo com todos que o mesmo deseje que estejam presentes.
+&emsp;&emsp;Texto ....
 </p>
 
-## **Equipe**
+## **Tópico 1 (sempre com palavras começando em maiúsculo)**
 <p align="justify">
-&emsp;&emsp; A Tabela 1 apresenta os membros da equipe.
+&emsp;&emsp;Texto ....
 </p>
 
-|                                              Foto                                               |       Nome       |                          Github                           |
-| :---------------------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------: |
-|   <img src="https://github.com/BrunoHenrique00.png" alt="Bruno Henrique" style="width: 10vw"> | Bruno Henrique Moreira Cardoso | [BrunoHenrique00](https://github.com/BrunoHenrique00) |
-|<img src="https://github.com/CarolinaBarb.png" alt="Carolina" style="width: 10vw"> | Carolina Barbosa Brito | [CarolinaBarb](https://github.com/CarolinaBarb) |
-|<img src="https://github.com/catlenc.png" alt="Catlen" style="width: 10vw"> | Catlen Cleane Ferreira de Oliveira | [Catlenc](https://github.com/catlenc) |
-|<img src="https://github.com/JuliaSSouza.png" alt="Júlia" style="width: 10vw"> | Júlia Sant'Anna de Souza | [JuliaSSouza](https://github.com/JuliaSSouza) |
-|<img src="https://github.com/Juhvitoria4.png" alt="Júlia Vitória" style="width: 10vw"> | Júlia Vitória Freire Silva | [Juhvitoria4](https://github.com/Juhvitoria4) |
-|   <img src="https://github.com/PedroSiq.png" alt="Pedro Augusto" style="width: 10vw">       | Pedro Augusto Santos Siqueira | [PedroSiq](https://github.com/PedroSiq) |
+## **Legenda**
+<p align="justify">
+<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
+<br> Autor(a): <a href="https://github.com/fulanodetal">Fulano de Tal</a></h6>
+</p>
 
-<h6 align = "center"> Tabela 1: Membros da Equipe.
-<br> Autor(a): Pedro Siqueira</h6>
+## **Links**
+<p align="justify">
+<a href="link de referência">nome a ser referenciado</a>
+</p>
+
+## **Tópico n**
+<p align="justify">
+&emsp;&emsp;Texto ....
+</p>
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp; A Tabela 2 registra o histórico de versão deste documento.
+&emsp;&emsp;A tabela n representa o histórico de versão do documento.
 </p>
 
-|   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
-| :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
-| `1.0` | 15/09/2023 | Criação do documento | [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Vitória](https://github.com/Juhvitoria4) |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ---------- |
+| `1.0`  | dd/mm/2023 |  |  |  |
+<h6> Tabela n: Histórico de Versão.
+<br> Autor(a): Fulano de tal </h6>
 
-<h6 align = "center"> Tabela 2: Histórico de Versão.
-<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
+## **Bibliografia**
+> <a href="https://Link_da_fonte">[1]</a> Fonte 1
+
+> <a href="https://Link_da_fonte">[2]</a> Fonte 2
