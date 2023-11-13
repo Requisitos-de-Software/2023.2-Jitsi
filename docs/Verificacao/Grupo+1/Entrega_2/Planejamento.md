@@ -53,29 +53,63 @@
 <p align="justify"> 
 &emsp;&emsp;A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
 </p>
-| ID | Descrição | Avaliação | Observações |
-|----|-----------|-----------|------------|
-| 1  | O artefato possui introdução? | | |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica? | | |
-| 3  |Todas as bibliografias/referências bibliográficas são utilizadas no texto?|||
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | | |
-| 4  |Os revisores são pessoas diferentes dos autores?|| |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
-| 6  | Todos os textos estão na norma padrão? | | |
-| 7  |O artefato possui uma introdução condizente com o conteúdo do texto?|| |
-| 8  |Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|| |
-| 9  |As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|| |
-| 10 |Está especificado o papel de cada participante?|||
+| Descrição | Avaliação | Observações |
+|-----------|-----------|------------|
+| O artefato possui introdução? | | |
+| O artefato possui uma bibliografia/referência bibliográfica? | | |
+| Todas as bibliografias/referências bibliográficas são utilizadas no texto?|||
+| O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | | |
+| Os revisores são pessoas diferentes dos autores?|| |
+| Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
+| Todos os textos estão na norma padrão? | | |
+| O artefato possui uma introdução condizente com o conteúdo do texto?|| |
+| Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|| |
+| As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|| |
+| Está especificado o papel de cada participante?|||
+
 
 
 
 ## **Verificação da Técnica de Priorização Three Level Scale**
 
+| Descrição                                                                                                                                                                                                                                            | Avaliação | Observação |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: |
+| A priorização usando Three Level Scale levou em consideração as duas dimensões '_Importância_' e '_Urgência_'?                                                                                                                                                                     |           |            |
+| Os níveis de priorização foram divididos em 3? ('Alta', 'Média' e 'Baixa')                                                                                                                                                                           |           |            |
+| Foi determinado um cronograma para a realização dessa priorização?                                                                                                                                                                      |           |            |
+| Há no documento a expecificação dos participantes e seus respectivos papéis?                                                                                                                                                                         |           |            |
+| Foram apresentados no documento os resultados da priorização e a gravação da reunião?                                                                                                                                                                |           |            |
+| Dentre os Requisitos Priorizados estão os Funcionais e Não-Funcionais?    |         |     -      |
+
 ## **Verificação da Técnica de Priorização First Things First**
+| Descrição                                                                                                                   | Avaliação | Observação |
+| --------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: |
+| Foram listados todos os requisitos a serem priorizados?                                                                     |           |            |
+| Os benefícios relativos de cada recursos ao cliente/negócio é estimado em uma escala de 1 a 9?                              |           |            |
+| Os pesos relativos são apresentados?                                                                                        |           |            |
+| O valor total é calculado?                                                                                                  |           |            |
+| A fórmula utilizada é (Benefício Relativo × Peso Relativo) + (Penalidade Relativa × Peso Relativo)?                         |           |            |
+| É calculado a prioridade para cada requisito?                                                                               |           |            |
+| A fórmula utilizada é (Valor%)/[(Custo%)x(Peso Custo) + (Risco%)x(Peso Risco)]?                                             |           |            |
+| Os requisitos estão ordenados em ordem de prioridade?                                                                       |           |            |
+| Os participantes e suas funções são apresentados?                                                                           |           |            |
+| A priorização foi feita com a participação de um cliente/persona?                                                           |           |            |
+| Existe uma gravação da reunião com a participação do ciente/persona?                                                     |           |            |
+
 
 ## **Verificação da Técnica de Priorização MoSCoW**
+| Descrição                                                                                                                                        | Avaliação | Observação                                                         |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------------|
+| Foi determinado um cronograma para a realização dessa priorização?                                                                                                                                                                      |           |            |
+| O(s) registro(s) da atividade de priorização dos requisitos?                                                                                     |           |            |
+| Todos os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? |           |            |
+| As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto?                      |           | Não possui as justificativas      |
+| A participação do cliente e/ou persona no processo de priorização?                                                                               |           |       A participação não está representada no artefato                                                            |
+| Existe uma gravação da reunião com a participação do ciente/persona?                                                     |           |    Não possui a gravação no artefato      |
+
 
 ## **Verificação da Técnica de elicitação Brainstorming**
+
 |Id|Questão|Resposta|Observação|
 |----|----|-----|-----|
 |01|O artefato possui Introdução?|| |
@@ -84,6 +118,8 @@
 |13|Foram utilizadas técnicas de estímulo, como palavras-chave, imagens ou diagramas, para incentivar a geração de ideias?|||
 |14|O brainstorming é organizado e de fácil compreensão?|| |
 |15|Os requisitos elicitados foram classificados corretamente?|| |
+
+
 
 ## **Verificação da Técnica de elicitação Entrevista**
 

@@ -29,17 +29,17 @@
 <h6 align="center"> Tabela 1: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
-## **Geral**
+## **Checklist Geral**
 <p align="justify"> 
 &emsp;&emsp;A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
 </p>
 | Descrição | Avaliação | Observações |
 |-----------|-----------|------------|
-| O artefato possui introdução? | | |
-| O artefato possui uma bibliografia/referência bibliográfica? | | |
-| O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | | |
-| Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
-| Todos os textos estão na norma padrão? | | |
+| O artefato possui introdução? | Sim | |
+| O artefato possui uma bibliografia/referência bibliográfica? | Sim | |
+| O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | |
+| Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | O histórico de Versão não possui legenda nem fonte|
+| Todos os textos estão na norma padrão? | Sim | |
 
 
 
@@ -50,7 +50,9 @@
 
 | Versão | Data       | Descrição           | Autor(es)                                                                                           | Revisor(es)                                     |
 |--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| `1.0`  | 18/10/2023 | Criação do artefato | [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+| `1.0`  | 18/10/2023 | Criação do artefato | [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb) || Versão | Data       | Descrição           | Autor(es)                                                                                           | Revisor(es)                                     |
+|--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| `1.1`  | 18/10/2023 | Inclusão de análise | [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 
 
 <h6 align="center"> Tabela 2: Histórico de Versão.
