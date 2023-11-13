@@ -17,31 +17,21 @@
 
 | Id | Descrição | Avaliação | Observações |
 |----|-----------|-----------|-------------|
-| 01 |Cada caso provê um resultado observável e de valor para os atores ou outros interessados no sistema? | | |
-| 02 |As elipses representam as ações do caso de uso? (constituem internamente fluxos/cenários)? | | |
-| 03 |Há o uso de verbos no infinitivo e não substantivos? | | |
-| 04 |Há relacionamentos de extend, include e generalization? | | |
-| 05 |O caso de uso representa o usuário e suas interações com o sistema? | | |
-| 06 |O ator principal está posicionado ao lado esquerdo do sistema? | | |
-| 07 |O usuário reside fora das fronteiras da aplicação? | | |
-| 08 |O usuário possui um nome associado a ele, como: cliente, analista de RH, estudante, etc.? | | |
-| 09 |Quando o ator é um software ou um hardware, há a tag << system >>? | | |
-| 10 |O caso de uso produzido é uma funcionalidade completa que entrega algum valor? | | |
-| 11 |Os casos de uso são de requisitos funcionais? | | |
-| 12 |Foi usada alguma técnica para a produção dos casos de uso? | | |
-| 13 |Os elementos de atores, sistema e metas estão presentes no caso de uso? | | |
-| 14 |A especificação dos casos de uso consiste no detalhamento da execução dos casos de uso? | | |
-| 15 |Existem fluxos como: principal, alternativo e de exceção? | | |
-| 16 |Cada especificação de caso de uso tem somente um fluxo principal? | | |
-| 17 |Os fluxos principais representam como o usuário usaria a funcionalidade de forma primária? | | |
-| 18 |Os fluxos alternativos são possibilidades de cenários alternativos ao fluxo principal? | | |
-| 19 |Os fluxos de exceção demonstram como o sistema reagirá na presença de situações inesperadas? | | |
-
+| 07 |As elipses representam as ações do caso de uso? (constituem internamente fluxos/cenários)? | Sim | - |
+| 08 |Há o uso de verbos no infinitivo e não substantivos? | Sim | - |
+| 09 |Há relacionamentos de extend, include e generalization? | Sim | - | 
+| 10 |O caso de uso representa o usuário e suas interações com o sistema? | Sim | - |
+| 11 |O ator principal está posicionado ao lado esquerdo do sistema? | Sim | - |
+| 12 |O usuário reside fora das fronteiras da aplicação? | Sim | - |
+| 13 |O usuário possui um nome associado a ele, como: cliente, analista de RH, estudante, etc.? | Sim | - |
+| 14 |Quando o ator é um software ou um hardware, há a tag << system >>? |Não | - |
+| 15 |O caso de uso produzido é uma funcionalidade completa que entrega algum valor? | Sim | - |
+| 16 |Os casos de uso são de requisitos funcionais? | Sim | - |
+| 18 |Os elementos de atores, sistema e metas estão presentes no caso de uso? | Sim | - |
 <p align="justify">
 <h6 align = "center"> Tabela 01: Nome da figura/tabela.
-<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+<br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a> </h6>
 </p>
-
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -51,10 +41,10 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 13/11/2023 | Criação do Documento | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza) |
-<h6> Tabela 02: Histórico de Versão.
+<h6  align = "center"> Tabela 02: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
 ## **Bibliografia**
-> <a href="https://Link_da_fonte">[1]</a> Fonte 1
+> <a href="https://aprender3.unb.br/pluginfile.php/2692803/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf">[1]</a> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 11. Aprender 3. Distrito Federal, 2016. 
 
-> <a href="https://Link_da_fonte">[2]</a> Fonte 2
+> <a href="https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml">[2]</a> Lucidchart. Diagrama de Caso de Uso UML. 
