@@ -1,4 +1,4 @@
-# ***Verificação das Técnicas de Elicitação do Grupo 06 - Skoob***
+# ***Elicitação de Requisitos***
 
 ## **Introdução**
 <p align="justify">
