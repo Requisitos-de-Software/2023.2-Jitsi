@@ -1,5 +1,3 @@
-## ***Verificação dos Léxicos da Entrega 3 do Grupo 6 - Skoob***
-
 ## **Introdução**
 <p align="justify">
 &emsp;&emsp; A verificação refere-se ao processo de assegurar que todos os requisitos definidos para um sistema sejam claros, completos, corretos e compreendidos por todas as partes envolvidas no desenvolvimento. É um investimento valioso que, quando realizado de forma cuidadosa e sistemática, estabelece as bases para o desenvolvimento bem-sucedido de software.
@@ -18,7 +16,7 @@
 </p> 
 </p>
 
-## **Geral**
+## **Checklist Geral**
 <p align="justify"> 
 &emsp;&emsp;A tabela 1 a seguir apresenta a checklist referente aos aspectos gerais que o artefato deve seguir.
 </p>

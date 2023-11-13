@@ -10,7 +10,7 @@
 &emsp;&emsp; A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
 </p>
 
-## **Geral**
+## **Check List Geral**
 <p align="justify"> 
 &emsp;&emsp;A tabela 1 a seguir apresenta a checklist referente aos aspectos gerais que o artefato deve seguir.
 </p>

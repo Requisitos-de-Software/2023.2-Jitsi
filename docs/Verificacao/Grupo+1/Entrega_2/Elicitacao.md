@@ -113,7 +113,7 @@
 <br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
-## **Observação**
+## **Introspecção**
 
 ## **Checklist Geral da Introspecção**
 <p align="justify">
