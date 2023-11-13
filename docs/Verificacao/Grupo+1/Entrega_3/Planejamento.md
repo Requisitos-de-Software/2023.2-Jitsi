@@ -132,13 +132,6 @@
 | 12  | O documento possui um tópico de Restrições de Design? | | |
 | 12.1  | Os requisitos apresentados são testáveis? | | |
 | 12.2  | Os requisitos apresentados especificam ou restringem o design do sistema? | | |
-| 13  | O documento possui um tópico de Requisitos de Implementação? | | |
-| 13.1  | Os requisitos apresentados são testáveis? | | |
-| 14  | O documento possui um tópico de Requisitos de Interface? | | |
-| 14.1  | Os requisitos apresentados são testáveis? | | |
-| 15  | O documento possui um tópico de Requisitos Físicos? | | |
-| 15.1  | Os requisitos apresentados são testáveis? | | |
-| 15.2  | As características físicas de onde o sistema funcionará são apresentadas? | | |
 
 
 ## **Histórico de Versão**

@@ -10,57 +10,68 @@
 &emsp;&emsp; A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
 </p>
 
-## **Checklist de Verificação**
-<p align="justify">
-&emsp;&emsp; A tabela 1 representa o Checklist para a Verificação do Three-Level Scale.
+## **Geral**
+<p align="justify"> 
+&emsp;&emsp;A tabela 1 a seguir apresenta a checklist referente aos aspectos gerais que o artefato deve seguir.
 </p>
-| Descrição                                                                                              |   Avaliação   |                                                                             Observações                                                                              |
-|--------------------------------------------------------------------------------------------------------| :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ID | Descrição | Avaliação | Observações |
+|----|-----------|-----------|------------|
+| 1  | O artefato possui introdução? |sim| |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica? |sim| |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |sim||
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |não|não possue tabelas ou imagens|
+| 5  | Todos os textos estão na norma padrão? |sim| |
 
-| O documento segue o modelo FURPS+?                                                                     |      Sim      |                                                                                  -                                                                                   |
-| O documento possui um tópico de Funcionalidade?                                                        |      Sim      |                                                                                  -                                                                                   |
-| Os requisitos apresentados são testáveis?                                                              |      Sim      |                                                                                  -                                                                                   |
-| O documento possui um tópico de Usabilidade?                                                           |            |                 |
-| Os requisitos apresentados são testáveis?                                                              |      Sim      |                                                                                  -                                                                                   |
-| Os requisitos apresentados facilitam as tarefas realizadas pelos usuários?                             |      Sim      |                                                                                  -                                                                                   |
-| O documento possui um tópico de Confiabilidade?                                                        |      Sim      |                                                                                  -                                                                                   |
-| Os requisitos apresentados são testáveis?                                                              |      Sim      |                                                                                  -                                                                                   |
-| Os requisitos apresentados aumentam a confiabilidade do sistema?                                       |      Sim      |                                                                                  -                                                                                   |
-| Os requisitos relacionados à segurança são apresentados?                                               |      Sim      |                                                                                  -                                                                                   |
-| O documento possui um tópico de Desempenho?                                                            |      Sim      |                                                                                  -                                                                                   |
-                                                                              -                                                                                   |
-| Os requisitos sobre os tempos de respostas são apresentados?                                           |      Sim      |                                                                                  -                                                                                   |
-| Os requisitos sobre a disponibilidade são apresentados?                                                |      Sim      |                                                                                  -                                                                                   |
-| O documento possui um tópico de Suportabilidade?                                                       |      Sim      | Requisito SUP01 e SUP04 de [Suportabilidade](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/#suportabilidade) |
-                                                                              -                                                                                   |
-| É apresentado os sistemas operacionais que o sistema funcionará?                                       |      Sim      |                                                                                  -                                                                                   |
-| O documento possui um tópico de Restrições de Design?                                                  |      Sim      |                                                                                  -                                                                                   |
-| Os requisitos apresentados são testáveis?                                                              |      Sim      |                                                                                  -                                                                                   |
-                                                                                -                                                                                   |
-| O documento possui um tópico de Requisitos de Implementação?                                           |      Sim      |                                                                                  -                                                                                   |
-| Os requisitos apresentados são testáveis?                                                              |      Sim      |                                                                                  -                                                                                   |
-| O documento possui um tópico de Requisitos de Interface?                                               |      Não      |                                                                                  -                                                                                   |
-| Os requisitos apresentados são testáveis?                                                              | Não se aplica |                                                                                  -                                                                                   |
-| O documento possui um tópico de Requisitos Físicos?                                                    |      Sim      |                                                                                  -                                                                                   |
-| Os requisitos apresentados são testáveis?                                                              |      Sim      |                                                                                  -                                                                                   |
-| As características físicas de onde o sistema funcionará são apresentadas?                              |      Sim      |                                                                                  -                                                                                   |
+<center>
+<h6> Tabela 1: checklist referente aos aspectos gerais
+<br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
 
+## **Checklist de Verificação da Especificação Suplementar**
+<p align="justify">
+&emsp;&emsp; A tabela 2 representa o Checklist da Verificação da Especificação Suplementar
+</p>
 
-<h6 align="center"> Tabela 1: Checklist de Verificação.
-<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+| ID | Descrição | Avaliação | Observações |
+|----|-----------|-----------|------------|
+| 6  | O documento segue o modelo FURPS+? |sim| |
+| 7  | O documento possui um tópico de Funcionalidade? |sim| |
+| 7.1  | Os requisitos apresentados são testáveis? |sim| |
+| 8  | O documento possui um tópico de Usabilidade? |sim| |
+| 8.1  | Os requisitos apresentados são testáveis? |sim||
+| 8.2  | Os requisitos apresentados facilitam as tarefas realizadas pelos usuários? |sim| |
+| 9  | O documento possui um tópico de Confiabilidade? |sim| |
+| 9.1  | Os requisitos apresentados são testáveis? |sim| |
+| 9.2  | Os requisitos apresentados aumentam a confiabilidade do sistema? |sim| |
+| 9.3  | Os requisitos relacionados à segurança são apresentados? |sim| |
+| 10  | O documento possui um tópico de Desempenho? |sim| |
+| 10.1  | Os requisitos apresentados são testáveis? |sim| |
+| 10.2  | Os requisitos sobre os tempos de respostas são apresentados? |sim| |
+| 10.3  | Os requisitos sobre a disponibilidade são apresentados? |sim| |
+| 11  | O documento possui um tópico de Suportabilidade? |sim| |
+| 11.1  | Os requisitos apresentados são testáveis? |Incompleto|No item dispositivos apresenta entre outros, o que incapacita os testes nesse item|
+| 11.2  | É apresentado os sistemas operacionais nos quais o sistema funcionará? |sim| |
+| 12  | O documento possui um tópico de Restrições de Design? |sim| |
+| 12.1  | Os requisitos apresentados são testáveis? |sim| |
+| 12.2  | Os requisitos apresentados especificam ou restringem o design do sistema? |sim| |
+
+<h6 align="center"> Tabela 2: Checklist da Verificação da Especificação Suplementar
+<br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+
 
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 3 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data       | Descrição           | Autor(es)                                                                                           | Revisor(es)                                     |
 |--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| `1.0`  | 18/10/2023 | Criação do artefato | [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+| `1.0`  | 13/11/2023 | Criação do artefato | [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+| `1.0`  | 13/11/2023 | Criação de tabelas de checklist | [Catlen Cleane](https://github.com/catlenc) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 
-
-<h6 align="center"> Tabela 2: Histórico de Versão.
+<h6 align="center"> Tabela 3: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ## **Bibliografia**
