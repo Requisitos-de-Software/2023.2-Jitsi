@@ -39,7 +39,6 @@
 |13/11/2023| Verificação da Técnica de Priorização First Things First |[Júlia Souza](https://github.com/JuliaSSouza)|
 |13/11/2023| Verificação da Técnica de Priorização MoSCoW |[Júlia Souza](https://github.com/JuliaSSouza)|
 |13/11/2023| Verificação da Técnica de elicitação Brainstorming| [Catlen Cleane](https://github.com/catlenc) |
-|13/11/2023| Verificação da Técnica de elicitação Entrevista| [Catlen Cleane](https://github.com/catlenc) |
 |13/11/2023| Verificação da Técnica de elicitação Intropecção| [Catlen Cleane](https://github.com/catlenc) |
 |13/11/2023| Verificação da Técnica de elicitação Observação| [Catlen Cleane](https://github.com/catlenc) |
 
@@ -67,10 +66,16 @@
 | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|| |
 | Está especificado o papel de cada participante?|||
 
-
+<center>
+<h6> Tabela 2: Checklist Específico da Técnica de Introspecção
+<br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
 
 
 ## **Verificação da Técnica de Priorização Three Level Scale**
+<p align="justify"> 
+&emsp;&emsp;A tabela 3 a seguir apresenta a checklist referente à Técnica de Priorização Three Level Scale.
+</p>
 
 | Descrição                                                                                                                                                                                                                                            | Avaliação | Observação |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: |
@@ -81,7 +86,13 @@
 | Foram apresentados no documento os resultados da priorização e a gravação da reunião?                                                                                                                                                                |           |            |
 | Dentre os Requisitos Priorizados estão os Funcionais e Não-Funcionais?    |         |     -      |
 
+<h6 align="center"> Tabela 3: Verificação da Técnica de Priorização Three Level Scale.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
 ## **Verificação da Técnica de Priorização First Things First**
+<p align="justify"> 
+&emsp;&emsp;A tabela 4 a seguir apresenta a checklist referente à Técnica de Priorização First Things First.
+</p>
 | Descrição                                                                                                                   | Avaliação | Observação |
 | --------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: |
 | Foram listados todos os requisitos a serem priorizados?                                                                     |           |            |
@@ -96,36 +107,84 @@
 | A priorização foi feita com a participação de um cliente/persona?                                                           |           |            |
 | Existe uma gravação da reunião com a participação do ciente/persona?                                                     |           |            |
 
+<h6 align="center"> Tabela 4: Verificação da Técnica de Priorização First Things First.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ## **Verificação da Técnica de Priorização MoSCoW**
+<p align="justify"> 
+&emsp;&emsp;A tabela 5 a seguir apresenta a checklist referente à Técnica de Priorização MoSCoW.
+</p>
 | Descrição                                                                                                                                        | Avaliação | Observação                                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------------|
 | Foi determinado um cronograma para a realização dessa priorização?                                                                                                                                                                      |           |            |
 | O(s) registro(s) da atividade de priorização dos requisitos?                                                                                     |           |            |
 | Todos os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? |           |            |
-| As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto?                      |           | Não possui as justificativas      |
-| A participação do cliente e/ou persona no processo de priorização?                                                                               |           |       A participação não está representada no artefato                                                            |
-| Existe uma gravação da reunião com a participação do ciente/persona?                                                     |           |    Não possui a gravação no artefato      |
+| As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto?                      |           |       |
+| A participação do cliente e/ou persona no processo de priorização?                                                                               |           |                                                            |
+| Existe uma gravação da reunião com a participação do ciente/persona?                                                     |           |       |
 
+<h6 align="center"> Tabela 5: Verificação da Técnica de Priorização MoSCoW.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ## **Verificação da Técnica de elicitação Brainstorming**
 
-|Id|Questão|Resposta|Observação|
-|----|----|-----|-----|
-|01|O artefato possui Introdução?|| |
+<p align="justify">
+&emsp;&emsp;A tabela 6 apresenta o Checklist Técnica de elicitação Brainstorming
+</p>
 
-|12|Todas as ideias geradas durante o brainstorming foram documentadas de forma clara e concisa?|||
-|13|Foram utilizadas técnicas de estímulo, como palavras-chave, imagens ou diagramas, para incentivar a geração de ideias?|||
-|14|O brainstorming é organizado e de fácil compreensão?|| |
-|15|Os requisitos elicitados foram classificados corretamente?|| |
+| Questão | Resposta | Observação |
+|---------|----------|------------|
+| O artefato possui Introdução? | | |
+| Todas as ideias geradas durante o brainstorming foram documentadas de forma clara e concisa? | | |
+| Foram utilizadas técnicas de estímulo, como palavras-chave, imagens ou diagramas, para incentivar a geração de ideias? | | |
+| O brainstorming é organizado e de fácil compreensão? | | |
+| Os requisitos elicitados foram classificados corretamente? | | |
 
-
-
-## **Verificação da Técnica de elicitação Entrevista**
+<center>
+<h6> Tabela 6:Verificação da Técnica de elicitação Brainstorming
+<br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6> 
+</center>
 
 ## **Verificação da Técnica de elicitação Intropecção**
 
+<p align="justify">
+&emsp;&emsp;A tabela 7 apresenta o Checklist Específico da Técnica de Introspecção
+</p>
+
+| Questão | Resposta | Observação |
+|---------|----------|------------|
+| Os requisitos foram classificados de forma correta? | |  |
+| O processo de elicitação foi devidamente explicado e documentado? | |  |
+| Foram elicitados requisitos que não estão presentes no aplicativo? | |  |
+| A pessoa que fez a introspeção estudou o aplicativo primeiro? | |  |
+
+
+<center>
+<h6> Tabela 7: Checklist Específico da Técnica de Introspecção
+<br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6> 
+</center>
+
+
 ## **Verificação da Técnica de elicitação Observação**
+
+<p align="justify">
+&emsp;&emsp;A tabela 8 apresenta o Checklist Específico da Técnica Observação
+
+</p>
+
+| Questão | Resposta | Observação |
+|---------|----------|------------|
+| O ambiente de observação foi adequado para capturar os dados relevantes, como a interação dos usuários com o sistema? | | |
+| As observações foram conduzidas de forma não intrusiva, minimizando o impacto na rotina dos usuários? | |  |
+| Os requisitos elicitados durante a observação foram registrados de forma precisa e completa? | |  |
+| Os requisitos foram classificados de forma correta? | |  |
+
+
+<center>
+<h6> Tabela 8: Checklist Específico da Técnica de Introspecção
+<br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6> 
+</center>
+
 
 
 ## **Histórico de Versão**
@@ -135,8 +194,9 @@
 
 | Versão | Data | Descrição | Autor(es)| Revisor(es)|
 |--------|------|-----------|----------|------------|
-|`1.0`   |13/11/2023| Criação do artefato |  [Júlia Vitória](https://github.com/Juhvitoria4) | - |
-|`1.1` | 13/11/2023 | Aperfeiçoamento das tabelas |[Júlia Vitória](https://github.com/Juhvitoria4)|-|
+|`1.0`   |13/11/2023| Criação do artefato |  [Júlia Vitória](https://github.com/Juhvitoria4) | [Catlen Cleane](https://github.com/catlenc) |
+|`1.1` | 13/11/2023 | Aperfeiçoamento das tabelas |[Júlia Vitória](https://github.com/Juhvitoria4)| [Júlia Souza](https://github.com/JuliaSSouza)|
+|`1.2` | 13/11/2023 | Adição dos checklist | [Júlia Souza](https://github.com/JuliaSSouza)|[Catlen Cleane](https://github.com/catlenc)|
 
 
 ## *Bibliografia*

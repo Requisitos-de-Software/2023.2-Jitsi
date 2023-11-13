@@ -39,7 +39,8 @@
 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | O histórico de Versão não possui legenda nem fonte|
 | Todos os textos estão na norma padrão? | Sim | |
 
-
+<h6 align="center"> Tabela 2: Checklist de Verificação.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 
 ## **Histórico de Versão**
