@@ -67,10 +67,11 @@ nav:
         - NFR Framework: Modelagem/Agil/nfr-framework.md
   - Verificação:
     - Grupo +1:
-      - Entrega 01: Verificacao/Grupo+1/Entrega_1.md 
-      - Entrega 02: Verificacao/Grupo+1/Entrega _2.md
-      - Entrega 03: Verificacao/Grupo+1/Entrega_3.md
-      - Entrega 04: Verificacao/Grupo+1/Entrega_4.md  
+      - Entrega 01: 
+      - Entrega 02: 
+        - Tecnica de Elicitação: Verificacao/Grupo+1/Entrega_2/TecnicaElicitacao.md
+      - Entrega 03: 
+      - Entrega 04:  
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md

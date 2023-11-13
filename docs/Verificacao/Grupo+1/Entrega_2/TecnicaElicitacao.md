@@ -15,9 +15,9 @@
 &emsp;&emsp;Para realizar a avaliação do artefato, será criada uma lista de verificação (Checklist). Este conjunto de critérios incluirá perguntas sobre a formatação, padronização e versionamento dos artefatos, seguidas por questionamentos relacionados ao conteúdo específico sob análise. 
 </p>
 
-## **Legenda**
+## **Requisitos Elicitados**
 <p align="justify">
-<h6 align = "center"> Figura/Tabela n: Nome da figura/tabela.
+<h6 align = "center"> Checklist da Observação
 <br> Autor(a): <a href="https://github.com/fulanodetal">Fulano de Tal</a></h6>
 </p>
 
