@@ -2,12 +2,12 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp;
+&emsp;&emsp; A verificação tem como finalidade assegurar que todos os critérios de avaliação tenham sido devidamente atendidos. Isso é realizado por meio de uma análise do conteúdo e da estrutura do artefato, visando aprimorar sua qualidade.
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;
+&emsp;&emsp; A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
 </p>
 
 
@@ -19,19 +19,28 @@
 
 | Descrição                                                                                                                                        | Avaliação | Observação                                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------------|
-| O artefato possui Introdução?                                                                                                                    | Sim       |                                                                    |
-| O artefato possui bibliografia/referências bibliográficas?                                                                                       | Sim       |                                                                    |
-| O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                                           | Sim       |                                                                    |
-| Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                     | Sim       |                                                                    |
-| Todos os textos estão na norma padrão? | Não | |
+| Foi determinado um cronograma para a realização dessa priorização?                                                                                                                                                                      |    Não    |     -      |
 | O(s) registro(s) da atividade de priorização dos requisitos?                                                                                     | Sim       |                                                                    |
 | Todos os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? | Sim       |                                                                    |
-| As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto?                      | Não       | Documente justificativas coerentes para as classificações.         |
-| A participação do cliente e/ou persona no processo de priorização?                                                                               | Sim       |                                                                    |
-| Foi feita uma revisão para garantir que nenhum requisito importante tenha sido negligenciado ou erroneamente classificado?                       | Não       | Documente se todos os requisitos foram adequadamente considerados. |
+| As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto?                      | Não       | Não possui as justificativas      |
+| A participação do cliente e/ou persona no processo de priorização?                                                                               | Não      |       A participação não está representada no artefato                                                            |
+| Existe uma gravação da reunião com a participação do ciente/persona?                                                     |     Não    |    Não possui a gravação no artefato      |
 
 <h6 align="center"> Tabela 1: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
+## **Geral**
+<p align="justify"> 
+&emsp;&emsp;A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
+</p>
+| Descrição | Avaliação | Observações |
+|-----------|-----------|------------|
+| O artefato possui introdução? | | |
+| O artefato possui uma bibliografia/referência bibliográfica? | | |
+| O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | | |
+| Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
+| Todos os textos estão na norma padrão? | | |
+
 
 
 ## **Histórico de Versão**

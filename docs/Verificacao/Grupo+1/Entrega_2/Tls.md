@@ -2,12 +2,12 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp;
+&emsp;&emsp; A verificação tem como finalidade assegurar que todos os critérios de avaliação tenham sido devidamente atendidos. Isso é realizado por meio de uma análise do conteúdo e da estrutura do artefato, visando aprimorar sua qualidade.
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;
+&emsp;&emsp; A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
 </p>
 
 ## **Checklist de Verificação**
@@ -17,15 +17,12 @@
 
 | Descrição                                                                                                                                                                                                                                            | Avaliação | Observação |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: |
-| A priorização usando Three Level Scale levou em consideração as duas dimensões '_Importância_' e '_Urgência_'?                                                                                                                                       |     -     |     -      |
-| Os níveis de priorização foram divididos em 3? ('Alta', 'Média' e 'Baixa')                                                                                                                                                                           |     -     |     -      |
-| Foi utilizado um modelo de quadrante para enquadrar os requistitos entre prioridade 'Alta' (primeiro quadrante), 'Média' (segundo quadrante), 'Baixa (terceiro quadrante)' e requistos propostos com nenhum valor para o projeto (quarto quadrante)? |     -     |     -      |
-| A prioridade estabelecida foi incluida como um atributo para cada requisito no documento de requisitos de usuário ou em alguma base de dados de requisitos?                                                                                          |     -     |     -      |
-| As dependências de requisitos foram levadas em consideração no processo de ranqueamento?                                                                                                                                                             |     -     |     -      |
-| Foi determinado um cronograma para a realização dessa priorização?                                                                                                                                                                                   |     -     |     -      |
-| Há no documento a expecificação dos participantes e seus respectivos papéis?                                                                                                                                                                         |     -     |     -      |
-| Foram apresentados no documento os resultados da priorização e a gravação da reunião?                                                                                                                                                                |     -     |     -      |
-| Dentre os Requisitos Priorizados estão os Funcionais e Não-Funcionais?    |
+| A priorização usando Three Level Scale levou em consideração as duas dimensões '_Importância_' e '_Urgência_'?                                                                                                                                                                     |     Sim    |     -      |
+| Os níveis de priorização foram divididos em 3? ('Alta', 'Média' e 'Baixa')                                                                                                                                                                           |     Sim     |     -      |
+| Foi determinado um cronograma para a realização dessa priorização?                                                                                                                                                                      |     Sim    |     -      |
+| Há no documento a expecificação dos participantes e seus respectivos papéis?                                                                                                                                                                         |     Sim    |     -      |
+| Foram apresentados no documento os resultados da priorização e a gravação da reunião?                                                                                                                                                                |     Sim    |     -      |
+| Dentre os Requisitos Priorizados estão os Funcionais e Não-Funcionais?    |                                                                                     Sim     |         |     -      |
 
 <h6 align="center"> Tabela 1: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>

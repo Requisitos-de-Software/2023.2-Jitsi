@@ -2,12 +2,12 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp;
+&emsp;&emsp; A verificação tem como finalidade assegurar que todos os critérios de avaliação tenham sido devidamente atendidos. Isso é realizado por meio de uma análise do conteúdo e da estrutura do artefato, visando aprimorar sua qualidade.
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;
+&emsp;&emsp; A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
 </p>
 
 
@@ -19,36 +19,17 @@
 
 | Descrição                                                                                                                   | Avaliação | Observação |
 | --------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: |
-| Foram listados todos os requisitos a serem priorizados?                                                                     |     -     |     -      |
-| Foram retirados os requisitos logicamente ligados, deixando apenas os não dependentes?                                      |     -     |     -      |
-| Os benefícios relativos de cada recursos ao cliente/negócio é estimado em uma escala de 1 a 9?                              |     -     |     -      |
-| O peso relativo desses itens são apresentados?                                                                              |     -     |     -      |
-| Quem realizou essas estimativas foram representantes dos clientes?                                                          |     -     |     -      |
-| As penalidades relativas que o negócio sofreria se o recursos não forem implementadas são estimados em uma escala de 1 a 9? |     -     |     -      |
-| O peso relativo desses itens são apresentados?                                                                              |     -     |     -      |
-| Quem realizou essas estimativas foram representantes dos clientes?                                                          |     -     |     -      |
-| O valor total é calculado?                                                                                                  |     -     |     -      |
-| A fórmula utilizada é (Benefício Relativo × Peso Relativo) + (Penalidade Relativa × Peso Relativo)?                         |     -     |     -      |
-| Os custos relativos de implementação foram estimados em uma escala de 1 a 9?                                                |     -     |     -      |
-| O peso relativo desses itens são apresentados?                                                                              |     -     |     -      |
-| Quem realizou essas estimativas foi a equipe de desenvolvimento?                                                            |     -     |     -      |
-| Os graus relativos de riscos foram estimados em uma escala de 1 a 9?                                                        |     -     |     -      |
-| O peso relativo desses itens são apresentados?                                                                              |     -     |     -      |
-| Quem realizou essas estimativas foi a equipe de desenvolvimento?                                                            |     -     |     -      |
-| É calculado a prioridade para cada requisito?                                                                               |     -     |     -      |
-| A fórmula utilizada é (Valor%)/[(Custo%)x(Peso Custo) + (Risco%)x(Peso Risco)]?                                             |     -     |     -      |
-| A lista de requisitos foi ordenada decrescentemente em relação a prioridade?                                                |     -     |     -      |
-| Os resultados da priorização são apresentados?                                                                              |     -     |     -      |
-| Os valores totais são apresentados?                                                                                         |     -     |     -      |
-| As porcentagens dos valores dos requisitos em relação ao valor total é apresentado?                                         |     -     |     -      |
-| Os custos dos requisitos em relação ao custo relativo total são apresentados?                                               |     -     |     -      |
-| Os riscos dos requisitos em relação ao risco relativo total são apresentados?                                               |     -     |     -      |
-| Os participantes e suas funções são apresentados?                                                                           |     -     |     -      |
-| Algum participante tem a função de gerente/mediador?                                                                        |     -     |     -      |
-| Algum participante tem a função de representante dos clientes?                                                              |     -     |     -      |
-| Algum participante tem a função de representante dos desenvolvedores?                                                       |     -     |     -      |
-| Foi documentada a reunião com os participantes?                                                                             |     -     |     -      |
-| Existe uma gravação?                                                                                                       |     -     |     -      |
+| Foram listados todos os requisitos a serem priorizados?                                                                     |     Sim    |     -      |
+| Os benefícios relativos de cada recursos ao cliente/negócio é estimado em uma escala de 1 a 9?                              |     Sim    |     -      |
+| Os pesos relativos são apresentados?                                                                                        |     Sim    |     -      |
+| O valor total é calculado?                                                                                                  |     Sim    |     -      |
+| A fórmula utilizada é (Benefício Relativo × Peso Relativo) + (Penalidade Relativa × Peso Relativo)?                         |     Sim    |     -      |
+| É calculado a prioridade para cada requisito?                                                                               |     Sim    |     -      |
+| A fórmula utilizada é (Valor%)/[(Custo%)x(Peso Custo) + (Risco%)x(Peso Risco)]?                                             |     Sim    |     -      |
+| Os requisitos estão ordenados em ordem de prioridade?                                                                       |     Sim    |     -      |
+| Os participantes e suas funções são apresentados?                                                                           |     Sim    |     -      |
+| A priorização foi feita com a participação de um cliente/persona?                                                           |     Sim    |     -      |
+| Existe uma gravação da reunião com a participação do ciente/persona?                                                     |     Sim    |     -      |
 
 
 <h6 align="center"> Tabela 1: Checklist de Verificação.
