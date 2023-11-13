@@ -57,9 +57,15 @@
 |----|-----------|-----------|------------|
 | 1  | O artefato possui introdução? | | |
 | 2  | O artefato possui uma bibliografia/referência bibliográfica? | | |
+| 3  |Todas as bibliografias/referências bibliográficas são utilizadas no texto?|||
 | 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | | |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
-| 5  | Todos os textos estão na norma padrão? | | |
+| 4  |Os revisores são pessoas diferentes dos autores?|| |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
+| 6  | Todos os textos estão na norma padrão? | | |
+| 7  |O artefato possui uma introdução condizente com o conteúdo do texto?|| |
+| 8  |Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|| |
+| 9  |As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|| |
+| 10 |Está especificado o papel de cada participante?|||
 
 
 
@@ -73,16 +79,7 @@
 |Id|Questão|Resposta|Observação|
 |----|----|-----|-----|
 |01|O artefato possui Introdução?|| |
-|07|O artefato possui uma introdução condizente com o conteúdo do texto?|| |
-|02|O artefato artefato possui uma Bibliografia/Referência Bibliográfica?|| |
-|03|O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?|| |
-|04|Os revisores são pessoas diferentes dos autores?|| |
-|05|Todos os textos estão na norma padrão?|| |
-|06|Todas as tabelas e imagens são chamadas no texto, possuem legendas e autores?|||
-|08|Todas as bibliografias/referências bibliográficas são utilizadas no texto?|||
-|09|Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|| |
-|10|As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|| |
-|11|Está especificado o papel de cada participante?|||
+
 |12|Todas as ideias geradas durante o brainstorming foram documentadas de forma clara e concisa?|||
 |13|Foram utilizadas técnicas de estímulo, como palavras-chave, imagens ou diagramas, para incentivar a geração de ideias?|||
 |14|O brainstorming é organizado e de fácil compreensão?|| |
