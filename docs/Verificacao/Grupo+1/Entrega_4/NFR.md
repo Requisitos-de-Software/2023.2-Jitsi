@@ -15,7 +15,7 @@
 &emsp;&emsp;Os resultados da verificação do artefato foram extraídos das checklists desenvolvidas durante a fase de planejamento. As questões listadas nas checklists serão respondidas pelo avaliador, utilizando opções como "Sim", "Não", "Incompleto" ou "Não se aplica". Além disso, o avaliador terá a oportunidade de incluir observações detalhadas para cada pergunta, destacando aspectos relevantes que demandem maior esclarecimento ou atenção especial.
 </p>
 
-## **Verificações gerais**
+## **Verificações Gerais**
 <p align="justify"> 
 &emsp;&emsp;A Tabela 1 a seguir descreve os critérios gerais, ou seja, que todos os artefatos desenvolvidos devem estar de acordo.
 </p>
@@ -53,7 +53,7 @@
 
 ## **Conclusão**
 <p align="justify"> 
-&emsp;&emsp;Após verificar o artefato, concluímos que o mesmo está em um bom nível de especificação e cumprimento das pedidas, sendo recomendados os tópicos abaixo: 
+&emsp;&emsp;Após verificar o artefato, concluímos que o mesmo está em um bom nível de estruturação, especificação da entrega e cumprimento das pedidas, sendo recomendados os tópicos abaixo: 
 <ul>
 <li>Validação dos gráficos SIG com fontes externas;</li>
 <li>Inserir ultralinks para os requisitos citados durante o artefato nos cartões.</li>
