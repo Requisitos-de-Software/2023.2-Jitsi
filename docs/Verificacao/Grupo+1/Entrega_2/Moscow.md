@@ -10,39 +10,42 @@
 &emsp;&emsp; A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
 </p>
 
+## **Verificações Gerais**
+<p align="justify"> 
+&emsp;&emsp;A tabela 1 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
+</p>
+| ID  | Descrição                                                                                                          | Avaliação | Observações                              |
+| --  | ------------------------------------------------------------------------------------------------------------------ | :-------: | --------------------------------------- |
+| 1  | O artefato possui introdução?                                                                                      |     Sim    |                                         |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica?                                                      |     Sim    |                                         |
+|   3| O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?          |     Sim    |                                         |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                       | Não        | O histórico de Versão não possui legenda nem fonte |
+| 5  | Todos os textos estão na norma padrão?                                                                             |     Sim    |                                         |
 
 
-## **Checklist de Verificação**
+<h6 align="center"> Tabela 2: Checklist de Verificação.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
+
+## **Verificações Específicas**
 <p align="justify">
-&emsp;&emsp; A tabela 1 representa o Checklist para a Verificação do Moscow.
+&emsp;&emsp; A tabela 2 representa o Checklist para a Verificação do Moscow.
 </p>
 
-| Descrição                                                                                                                                        | Avaliação | Observação                                                         |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------------|
-| Foi determinado um cronograma para a realização dessa priorização?                                                                                                                                                                      |    Não    |     -      |
-| O(s) registro(s) da atividade de priorização dos requisitos?                                                                                     | Sim       |                                                                    |
-| Todos os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? | Sim       |                                                                    |
-| As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto?                      | Não       | Não possui as justificativas      |
-| A participação do cliente e/ou persona no processo de priorização?                                                                               | Não      |       A participação não está representada no artefato                                                            |
-| Existe uma gravação da reunião com a participação do ciente/persona?                                                     |     Não    |    Não possui a gravação no artefato      |
+| ID  | Descrição  | Avaliação | Observação  |
+| --  | -----------|-----------|------------ |
+| 6  | Foi determinado um cronograma para a realização dessa priorização? |    Não    |     -        |
+| 7  | O(s) registro(s) da atividade de priorização dos requisitos?      |    Sim    |          |
+| 8  | Todos os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? |    Sim    |        |
+| 9  | As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto?   |    Não    | Não possui as justificativas    |
+| 10  | A participação do cliente e/ou persona no processo de priorização?    |    Não    | A participação não está representada no artefato |
+| 11  | Existe uma gravação da reunião com a participação do cliente/persona?  |    Não    | Não possui a gravação no artefato               |
+
 
 <h6 align="center"> Tabela 1: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
-## **Checklist Geral**
-<p align="justify"> 
-&emsp;&emsp;A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
-</p>
-| Descrição | Avaliação | Observações |
-|-----------|-----------|------------|
-| O artefato possui introdução? | Sim | |
-| O artefato possui uma bibliografia/referência bibliográfica? | Sim | |
-| O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | |
-| Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | O histórico de Versão não possui legenda nem fonte|
-| Todos os textos estão na norma padrão? | Sim | |
 
-<h6 align="center"> Tabela 2: Checklist de Verificação.
-<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -52,7 +55,6 @@
 | Versão | Data       | Descrição           | Autor(es)                                                                                           | Revisor(es)                                     |
 |--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | `1.0`  | 18/10/2023 | Criação do artefato | [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb) || Versão | Data       | Descrição           | Autor(es)                                                                                           | Revisor(es)                                     |
-|--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | `1.1`  | 18/10/2023 | Inclusão de análise | [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 
 

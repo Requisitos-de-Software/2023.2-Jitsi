@@ -10,37 +10,44 @@
 &emsp;&emsp; A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
 </p>
 
-## **Checklist de Verificação**
+
+
+## **Verificações Gerais**
+<p align="justify"> 
+&emsp;&emsp;A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
+</p>
+| ID | Descrição | Avaliação | Observações |
+|----|-----------|-----------|------------|
+| 1  | O artefato possui introdução? | Sim | |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica? | Sim | |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | O histórico de Versão não possui legenda nem fonte |
+| 5  | Todos os textos estão na norma padrão? | Sim | |
+
+
+
+<h6 align="center"> Tabela 2: Checklist de Verificação.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
+## **Verificações Específicas**
 <p align="justify">
 &emsp;&emsp; A tabela 1 representa o Checklist para a Verificação do Three-Level Scale.
 </p>
 
-| Descrição                                                                                                                                                                                                                                            | Avaliação | Observação |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: |
-| A priorização usando Three Level Scale levou em consideração as duas dimensões '_Importância_' e '_Urgência_'?                                                                                                                                                                     |     Sim    |     -      |
-| Os níveis de priorização foram divididos em 3? ('Alta', 'Média' e 'Baixa')                                                                                                                                                                           |     Sim     |     -      |
-| Foi determinado um cronograma para a realização dessa priorização?                                                                                                                                                                      |     Sim    |     -      |
-| Há no documento a expecificação dos participantes e seus respectivos papéis?                                                                                                                                                                         |     Sim    |     -      |
-| Foram apresentados no documento os resultados da priorização e a gravação da reunião?                                                                                                                                                                |     Sim    |     -      |
-| Dentre os Requisitos Priorizados estão os Funcionais e Não-Funcionais?    |                                                                                     Sim     |         |     -      |
+| ID  | Descrição                                                                                                                                                                                                                                            | Avaliação | Observação |
+| --  | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: |
+| 6  | A priorização usando Three Level Scale levou em consideração as duas dimensões '_Importância_' e '_Urgência_'?                                                                                                                                                                     |     Sim    |     -      |
+| 7  | Os níveis de priorização foram divididos em 3? ('Alta', 'Média' e 'Baixa')                                                                                                                                                                           |     Sim     |     -      |
+| 8  | Foi determinado um cronograma para a realização dessa priorização?                                                                                                                                                                      |     Sim    |     -      |
+| 9  | Há no documento a especificação dos participantes e seus respectivos papéis?                                                                                                                                                                         |     Sim    |     -      |
+| 10  | Foram apresentados no documento os resultados da priorização e a gravação da reunião?                                                                                                                                                                |     Sim    |     -      |
+| 11  | Dentre os Requisitos Priorizados estão os Funcionais e Não-Funcionais?    |     Sim     |         |     -      |
+
 
 <h6 align="center"> Tabela 1: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
-## **Checklist Geral**
-<p align="justify"> 
-&emsp;&emsp;A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
-</p>
-| Descrição | Avaliação | Observações |
-|-----------|-----------|------------|
-| O artefato possui introdução? | Sim | |
-| O artefato possui uma bibliografia/referência bibliográfica? | Sim | |
-| O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | |
-| Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | O histórico de Versão não possui legenda nem fonte|
-| Todos os textos estão na norma padrão? | Sim | |
 
-<h6 align="center"> Tabela 2: Checklist de Verificação.
-<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 
 ## **Histórico de Versão**
