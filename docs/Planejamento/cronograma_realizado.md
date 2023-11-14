@@ -96,9 +96,27 @@
 e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
+## **Entrega 5.1 - Análise de Requisitos: Verificação e Validação 1**
+<p align="justify">
+&emsp;&emsp;A tabela 5 apresenta as entregas da quinta etapa.
+</p>
+
+| Atividade | Período de Desenvolvimento  | Responsáveis | Revisor |
+|-----------------------------------|------------------------------|-------------------------------|------------------------|
+| Verificação da entrega 1| Início: 11/11 <br>Fim: 13/11 | [Bruno Henrique](https://github.com/BrunoHenrique00), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
+| Verificação da entrega 2| Início: 11/11 <br>Fim: 13/11 | [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Vitória](https://github.com/Juhvitoria4) |
+| Verificação da entrega 3| Início: 11/11 <br>Fim: 13/11 | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Catlen Cleane](https://github.com/catlenc), [Carolina Barbosa](https://github.com/CarolinaBarb), [Júlia Souza](https://github.com/JuliaSSouza) e [Pedro Siqueira](https://github.com/PedroSiq) |
+| Verificação da entrega 4| Início: 11/11 <br>Fim: 13/11 | [Bruno Henrique](https://github.com/BrunoHenrique00), [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| Gravação do vídeo de apresentação | Início: 12/11 <br>Fim: 13/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+
+<center>
+<h6> Tabela 5: Verificação e Validação 1.
+<br/> Autor(es): <a href="https://github.com/PedroSiq">Pedro Siqueira</a> </h6>
+</center>
+
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 6 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es)| Revisor(es)|
@@ -108,8 +126,10 @@ e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 | `1.2`  | 04/10/2023 | Atualização da entrega 2 | [Catlen Cleane](https://github.com/catlenc), [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 | `1.3`  | 18/10/2023 | Atualização da entrega 3 | [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 | `1.4`  | 18/10/2023 | Atualização da entrega 4|  [Júlia Souza](https://github.com/JuliaSSouza)|[Catlen Cleane](https://github.com/catlenc)|
+| `1.5`  | 18/10/2023 | Atualização da entrega 5|  [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Vitória](https://github.com/Juhvitoria4)|
+
 <center>
-<h6> Tabela 2: Histórico de Versão.
+<h6> Tabela 6: Histórico de Versão.
 <br/> Autor(a): <a href="https://github.com/pedrosiq">Pedro Siqueira</a></h6>
 </center>
 

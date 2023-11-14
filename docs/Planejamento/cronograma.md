@@ -104,13 +104,15 @@
 
 | Atividade | Período de Desenvolvimento  | Responsáveis | Revisor |
 |-----------------------------------|------------------------------|-------------------------------|------------------------|
-| Verificação dos Requisitos| Início: 06/11 <br>Fim: 09/11 | [Bruno Henrique](https://github.com/BrunoHenrique00), [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq) |
-| Validação dos Requisitos | Início: 06/11 <br>Fim: 09/11 | [Carolina Barbosa](https://github.com/CarolinaBarb), [Júlia Souza](https://github.com/JuliaSSouza) e [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) |
-| Gravação do vídeo de apresentação | Início: 11/11 <br>Fim: 12/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
-| Realizar correções após entrega e feedbacks recebidos | Início: 13/11 <br>Fim: 15/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Verificação da entrega 1| Início: 06/11 <br>Fim: 13/11 | [Bruno Henrique](https://github.com/BrunoHenrique00), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc) |
+| Verificação da entrega 2| Início: 06/11 <br>Fim: 13/11 | [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+| Verificação da entrega 3| Início: 06/11 <br>Fim: 13/11 | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Pedro Siqueira](https://github.com/PedroSiq) |
+| Verificação da entrega 4| Início: 06/11 <br>Fim: 13/11 | [Bruno Henrique](https://github.com/BrunoHenrique00), [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| Gravação do vídeo de apresentação | Início: 12/11 <br>Fim: 13/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Realizar correções após entrega e feedbacks recebidos | Início: 14/11 <br>Fim: 16/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
-<h6> Tabela 5: Análise de Requisitos 1.
+<h6> Tabela 5: Verificação e Validação 1.
 <br/> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
@@ -174,8 +176,10 @@
 | `1.0`  | 15/09/2023 | Cronograma planejado e executado markdown              | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.1`  | 18/09/2023 | Correções em Cronograma planejado e executado markdown | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.2`  | 20/09/2023 | Padronização do documento                              | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | |
-| `1.3` | 20/09/2023 | Inserção de legendas e referenciamento de membros| [Pedro Siqueira](https://github.com/PedroSiq) | | 
+| `1.3` | 20/09/2023 | Inserção de legendas e referenciamento de membros| [Pedro Siqueira](https://github.com/PedroSiq) | [Carolina Barbosa](https://github.com/CarolinaBarb) | 
 | `1.4` | 26/09/2023 | Correções pós apresentação 1 | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
+| `1.5` | 13/11/2023 | Atualização na tabela| [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc) | 
+
 
 <center>
 <h6> Tabela 9: Histórico de Versão.

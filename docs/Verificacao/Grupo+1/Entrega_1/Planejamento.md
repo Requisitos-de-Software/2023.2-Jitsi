@@ -65,8 +65,8 @@
 
 | Versão | Data | Descrição | Autor(es)| Revisor(es)|
 |--------|------|-----------|----------|------------|
-|`1.0`   |13/11/2023| Criação do artefato |  [Júlia Vitória](https://github.com/Juhvitoria4) | - |
-|`1.1` | 13/11/2023 | Aperfeiçoamento das tabelas |[Júlia Vitória](https://github.com/Juhvitoria4)|-|
+|`1.0`   |13/11/2023| Criação do artefato |  [Júlia Vitória](https://github.com/Juhvitoria4) | [Júlia Souza](https://github.com/JuliaSSouza) |
+|`1.1` | 13/11/2023 | Aperfeiçoamento das tabelas |[Júlia Vitória](https://github.com/Juhvitoria4)| [Júlia Souza](https://github.com/JuliaSSouza) |
 
 ## *Bibliografia*
 
