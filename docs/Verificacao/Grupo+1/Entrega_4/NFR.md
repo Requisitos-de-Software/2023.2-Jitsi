@@ -58,9 +58,7 @@
 <li>Validação dos gráficos SIG com fontes externas;</li>
 <li>Inserir ultralinks para os requisitos citados durante o artefato nos cartões.</li>
 </ul>
-
 </p>
-
 
 ## **Histórico de Versão**
 <p align="justify">
