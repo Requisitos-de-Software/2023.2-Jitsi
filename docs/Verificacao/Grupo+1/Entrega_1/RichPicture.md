@@ -1,4 +1,5 @@
-# ***Rich Picture***
+
+## ***Verificação do artefato de Rich Picture do Grupo 6 - Skoob***
 
 ## **Introdução**
 <p align="justify">
@@ -10,21 +11,30 @@
 &emsp;&emsp; Para realizar a verificação do artefato produzido pelo <a href="https://requisitos-de-software.github.io/2023.2-Skoob/">grupo 6</a>, foi feito uma tabela que apresenta um id, descrição um checklist denominado de avaliação e um campo para observações, onde na descrição contém as especificações ideais para o artefato e na avalição pode receber um sim ou não como resposta para cada especificação levando em conta que a avaliação só recebera um sim se a especificação for atendida.
 </p>
 
-## **Verificação Rich Picture**
+## **Verificações Gerais**
+<p align="justify"> 
+&emsp;&emsp;A tabela 1 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
+</p>
+| ID | Descrição | Avaliação | Observações |
+|----|-----------|-----------|------------|
+| 1  | O artefato possui introdução? | sim | - |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica? | sim | - |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | sim | - |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | sim | - |
+| 5  | Todos os textos estão na norma padrão? | sim | - |
+
+## **Verificações Específicas**
 <p align="justify">
-&emsp;&emsp;A tabela 01 apresenta o checklist das especificações do artefato. 
+&emsp;&emsp;A tabela 2 apresenta o checklist das especificações específicas do artefato Rich Picture. 
 </p>
 
 | Id | Descrição |Avaliação | Observações |
 |-----------|-----------|------------|---------|
-| 06 | O artefato possui motivação ou critérios para a escolha do App? | Sim | - |
-| 07 | O artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | Sim | - |
-| 08 | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo | Sim | - |
-| 09 | O artefato possui Introdução?| Sim | - |
-| 10 | Possui um histórico de versão padronizado no artefato? | Sim | - |
-| 11 | Possui referências bibliográficas/bibliografia no artefatos?| Sim | - |
-| 12 | É possível encontrar o termo de consentimento no artefato? | Sim | - |
-| 13 | O Rich Picture possui mais elementos visuais do que texto? | Sim | - |
+| 6 | O artefato possui motivação ou critérios para a escolha do App? | Sim | - |
+| 7 | O artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | Sim | - |
+| 8 | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo | Sim | - |
+| 9 | É possível encontrar o termo de consentimento no artefato? | Sim | - |
+| 10 | O Rich Picture possui mais elementos visuais do que texto? | Sim | - |
 
 <p align="justify">
 <h6 align = "center"> Tabela 01: Nome da figura/tabela.
@@ -33,7 +43,7 @@
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 02 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 2 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

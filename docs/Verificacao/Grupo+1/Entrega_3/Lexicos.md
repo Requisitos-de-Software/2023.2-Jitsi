@@ -16,7 +16,7 @@
 </p> 
 </p>
 
-## **Checklist Geral**
+## **Verificações Gerais**
 <p align="justify"> 
 &emsp;&emsp;A tabela 1 a seguir apresenta a checklist referente aos aspectos gerais que o artefato deve seguir.
 </p>

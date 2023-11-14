@@ -1,4 +1,4 @@
-# ***Elicitação de Requisitos***
+## ***Verificação do artefato de Elicitação do Grupo 6 - Skoob***
 
 ## **Introdução**
 <p align="justify">
@@ -35,15 +35,10 @@
 |----|-----------|-----------|------------|
 | 1  | O artefato possui introdução? |sim| |
 | 2  | O artefato possui uma bibliografia/referência bibliográfica? |sim| |
-| 3  |Todas as bibliografias/referências bibliográficas são utilizadas no texto?|incompleto|Apenas o item 3 foi utilizado|
 | 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |sim| |
-| 4  |Os revisores são pessoas diferentes dos autores?|sim| |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |Incompleto|As tabelas não possuem autores|
-| 6  | Todos os textos estão na norma padrão? |sim| |
-| 7  |O artefato possui uma introdução condizente com o conteúdo do texto?|sim| |
-| 8  |Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|sim| |
-| 9  |As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|sim| |
-| 10 |Está especificado o papel de cada participante?|não|No vídeo não existe a realização de um brainstorming e sim de uma entrevista|
+| 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |Incompleto|As tabelas não possuem autores|
+| 5 | Todos os textos estão na norma padrão? |sim| |
+
 
 <center>
 <h6> Tabela 1: Checklist Geral da Técnica Brainstormig
@@ -57,10 +52,16 @@
 
 |Id|Questão|Resposta|Observação|
 |----|----|-----|-----|
+| 6  |Os revisores são pessoas diferentes dos autores?|sim| |
+| 7  |O artefato possui uma introdução condizente com o conteúdo do texto?|sim| |
+| 8  |Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|sim| |
+| 9  |As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|sim| |
+| 10 |Está especificado o papel de cada participante?|não|No vídeo não existe a realização de um brainstorming e sim de uma entrevista|
 |11|Todas as ideias geradas durante o brainstorming foram documentadas de forma clara e concisa?|não|Não tem as ideias que foram geradas|
 |12|Foram utilizadas técnicas de estímulo, como palavras-chave, imagens ou diagramas, para incentivar a geração de ideias?|não|Houve apenas perguntas no estilo de uma entrevista|
 |13|O brainstorming é organizado e de fácil compreensão?|sim| |
 |14|Os requisitos elicitados foram classificados corretamente?|sim| |
+|15|Todas as bibliografias/referências bibliográficas são utilizadas no texto?|incompleto|Apenas o item 3 foi utilizado|
 
 <center>
 <h6> Tabela 2: Checklist Específico da Técnica Brainstormig
@@ -78,15 +79,10 @@
 |----|-----------|-----------|------------|
 | 1  | O artefato possui introdução? |sim| |
 | 2  | O artefato possui uma bibliografia/referência bibliográfica? |sim| |
-| 3  |Todas as bibliografias/referências bibliográficas são utilizadas no texto?|sim||
 | 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |sim| |
-| 4  |Os revisores são pessoas diferentes dos autores?|sim| |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |Incompleto|As tabelas não possuem autores|
-| 6  | Todos os textos estão na norma padrão?|Incompleto|O artefato não possue metodologia|
-| 7  |O artefato possui uma introdução condizente com o conteúdo do texto?|sim| |
-| 8  |Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|não| |
-| 9  |As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|não|O artefato não possue metodologia|
-| 10 |Está especificado o papel de cada participante?|não||
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |Incompleto|As tabelas não possuem autores|
+| 5  | Todos os textos estão na norma padrão?|Incompleto|O artefato não possue metodologia|
+
 
 <center>
 <h6> Tabela 3: Checklist Geral da Técnica de Observação
@@ -103,10 +99,20 @@
 
 |Id|Questão|Resposta|Observação|
 |----|----|-----|-----|
-|11|O ambiente de observação foi adequado para capturar os dados relevantes, como a interação dos usuários com o sistema?|Não| |
-|12|As observações foram conduzidas de forma não intrusiva, minimizando o impacto na rotina dos usuários?|Não|Não existe usuário durante a observação|
-|13|Os requisitos elicitados durante a observação foram registrados de forma precisa e completa?|Incompleto|Não existe usuário durante a observação|
-|14|Os requisitos foram classificados de forma correta?|Não|Não existe classificação dos requisitos|
+| 6 |O artefato possui uma introdução condizente com o conteúdo do texto?|sim| |
+| 7  |Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|não| |
+| 8  |As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|não|O artefato não possue metodologia|
+| 9 |Está especificado o papel de cada participante?|não||
+| 10 |O artefato possui uma introdução condizente com o conteúdo do texto?|sim| |
+| 11 |Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|não| |
+| 12 |As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|não|O artefato não possue metodologia|
+| 13|Está especificado o papel de cada participante?|não||
+| 14  |Os revisores são pessoas diferentes dos autores?|sim| |
+| 15  |Todas as bibliografias/referências bibliográficas são utilizadas no texto?|sim||
+|16|O ambiente de observação foi adequado para capturar os dados relevantes, como a interação dos usuários com o sistema?|Não| |
+|17|As observações foram conduzidas de forma não intrusiva, minimizando o impacto na rotina dos usuários?|Não|Não existe usuário durante a observação|
+|18|Os requisitos elicitados durante a observação foram registrados de forma precisa e completa?|Incompleto|Não existe usuário durante a observação|
+|19|Os requisitos foram classificados de forma correta?|Não|Não existe classificação dos requisitos|
 
 <center>
 <h6> Tabela 4: Checklist Específico da Técnica Observação
@@ -124,15 +130,10 @@
 |----|-----------|-----------|------------|
 | 1  | O artefato possui introdução? |sim| |
 | 2  | O artefato possui uma bibliografia/referência bibliográfica? |sim| |
-| 3  |Todas as bibliografias/referências bibliográficas são utilizadas no texto?|não||
 | 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |sim| |
-| 4  |Os revisores são pessoas diferentes dos autores?|sim| |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |sim| |
-| 6  | Todos os textos estão na norma padrão? |Incompleto|O artefato não possue metodologia|
-| 7  |O artefato possui uma introdução condizente com o conteúdo do texto?|sim| |
-| 8  |Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|não| |
-| 9  |As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|não|O artefato não possue metodologia|
-| 10 |Está especificado o papel de cada participante?|não|No texto descreve que todos participaram, e no histórico tem apenas o nome de um participante|
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |sim| |
+| 5  | Todos os textos estão na norma padrão? |Incompleto|O artefato não possue metodologia|
+
 
 <center>
 <h6> Tabela 5: Checklist Geral da Técnica de Introspecção
@@ -146,10 +147,16 @@
 
 |Id|Questão|Resposta|Observação|
 |----|----|-----|-----|
-|11|Os requisitos foram classificados de forma correta?|sim||
-|12|O processo de elicitação foi devidamente explicado e documentado?|incompleto|Foi explicado na Execução mas não foi documentado|
-|13|Foram elicitados requisitos que não estão presentes no aplicativo?|sim||
-|14|A pessoa que fez a introspeção estudou o aplicativo primeiro?|sim||
+| 6  |O artefato possui uma introdução condizente com o conteúdo do texto?|sim| |
+| 7 |Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?|não| |
+| 8  |As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?|não|O artefato não possue metodologia|
+| 9 |Está especificado o papel de cada participante?|não|No texto descreve que todos participaram, e no histórico tem apenas o nome de um participante|
+| 10  |Os revisores são pessoas diferentes dos autores?|sim| |
+| 11  |Todas as bibliografias/referências bibliográficas são utilizadas no texto?|não||
+|12|Os requisitos foram classificados de forma correta?|sim||
+|13|O processo de elicitação foi devidamente explicado e documentado?|incompleto|Foi explicado na Execução mas não foi documentado|
+|14|Foram elicitados requisitos que não estão presentes no aplicativo?|sim||
+|15|A pessoa que fez a introspeção estudou o aplicativo primeiro?|sim||
 
 <center>
 <h6> Tabela 6: Checklist Específico da Técnica de Introspecção

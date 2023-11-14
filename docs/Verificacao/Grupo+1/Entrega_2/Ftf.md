@@ -11,44 +11,47 @@
 </p>
 
 
+## **Verificações Gerais**
+<p align="justify"> 
+&emsp;&emsp;A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
+</p>
+| ID | Descrição | Avaliação | Observações |
+|----|-----------|-----------|------------|
+| 1  | O artefato possui introdução? | sim | |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica? | Sim | |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | O histórico de Versão e a Revisão (V&V) não possuem legenda nem fonte |
+| 5  | Todos os textos estão na norma padrão? | Sim | |
+
+<h6 align="center"> Tabela 1: Checklist de Verificação.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
 
 ## **Checklist de Verificação**
 <p align="justify">
 &emsp;&emsp; A tabela 1 representa o Checklist para a Verificação do First Things First.
 </p>
 
-| Descrição                                                                                                                   | Avaliação | Observação |
-| --------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: |
-| Foram listados todos os requisitos a serem priorizados?                                                                     |     Sim    |     -      |
-| Os benefícios relativos de cada recursos ao cliente/negócio é estimado em uma escala de 1 a 9?                              |     Sim    |     -      |
-| Os pesos relativos são apresentados?                                                                                        |     Sim    |     -      |
-| O valor total é calculado?                                                                                                  |     Sim    |     -      |
-| A fórmula utilizada é (Benefício Relativo × Peso Relativo) + (Penalidade Relativa × Peso Relativo)?                         |     Sim    |     -      |
-| É calculado a prioridade para cada requisito?                                                                               |     Sim    |     -      |
-| A fórmula utilizada é (Valor%)/[(Custo%)x(Peso Custo) + (Risco%)x(Peso Risco)]?                                             |     Sim    |     -      |
-| Os requisitos estão ordenados em ordem de prioridade?                                                                       |     Sim    |     -      |
-| Os participantes e suas funções são apresentados?                                                                           |     Sim    |     -      |
-| A priorização foi feita com a participação de um cliente/persona?                                                           |     Sim    |     -      |
-| Existe uma gravação da reunião com a participação do ciente/persona?                                                     |     Sim    |     -      |
-
-
-<h6 align="center"> Tabela 1: Checklist de Verificação.
-<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
-
-## **Checklist Geral**
-<p align="justify"> 
-&emsp;&emsp;A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
-</p>
-| Descrição | Avaliação | Observações |
-|-----------|-----------|------------|
-| O artefato possui introdução? | Sim | |
-| O artefato possui uma bibliografia/referência bibliográfica? | Sim | |
-| O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | |
-| Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | O histórico de Versão e a Revisão (V&V) não possuem elegenda nem fonte|
-| Todos os textos estão na norma padrão? | Sim | |
+| ID  | Descrição                                                                                                                   | Avaliação | Observação |
+| --  | --------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: |
+| 6   | Foram listados todos os requisitos a serem priorizados?                                                                     |     Sim    |     -      |
+| 7   | Os benefícios relativos de cada recurso ao cliente/negócio são estimados em uma escala de 1 a 9?                              |     Sim    |     -      |
+| 8  | Os pesos relativos são apresentados?                                                                                        |     Sim    |     -      |
+| 9   | O valor total é calculado?                                                                                                  |     Sim    |     -      |
+| 10   | A fórmula utilizada é (Benefício Relativo × Peso Relativo) + (Penalidade Relativa × Peso Relativo)?                         |     Sim    |     -      |
+| 11  | É calculada a prioridade para cada requisito?                                                                               |     Sim    |     -      |
+| 12  | A fórmula utilizada é (Valor%)/[(Custo%)x(Peso Custo) + (Risco%)x(Peso Risco)]?                                             |     Sim    |     -      |
+| 13  | Os requisitos estão ordenados em ordem de prioridade?                                                                       |     Sim    |     -      |
+| 14  | Os participantes e suas funções são apresentados?                                                                           |     Sim    |     -      |
+| 15  | A priorização foi feita com a participação de um cliente/persona?                                                           |     Sim    |     -      |
+| 16  | Existe uma gravação da reunião com a participação do cliente/persona?                                                     |     Sim    |    -   |
 
 <h6 align="center"> Tabela 2: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
+
+
+
 
 
 ## **Histórico de Versão**

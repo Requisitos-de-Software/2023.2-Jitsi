@@ -10,7 +10,16 @@
 &emsp;&emsp;Para realizar a verificação do artefato produzido pelo <a href="https://requisitos-de-software.github.io/2023.2-Skoob/">grupo 6</a>, foi feito uma tabela que apresenta um id, descrição um checklist denominado de avaliação e um campo para observações, onde na descrição contém as especificações ideais para o artefato e na avalição pode receber um sim ou não como resposta para cada especificação levando em conta que a avaliação só recebera um sim se a especificação for atendida.
 </p>
 
-## **Verificação do Caso de Uso**
+## **Verificações Gerais**
+| ID | Descrição | Avaliação | Observações |
+|----|-----------|-----------|------------|
+| 1  | O artefato possui introdução? | sim | |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica? | Sim | |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | |
+| 5  | Todos os textos estão na norma padrão? | Sim | |
+
+## **Verificações Específicas**
 <p align="justify">
 &emsp;&emsp;A tabela 01 apresenta o checklist das especificações do artefato. 
 </p>
