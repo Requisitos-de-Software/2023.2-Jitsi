@@ -42,6 +42,15 @@
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a> </h6>
 </p>
 
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp;O artefato exibe uma forte conformidade nas verificações gerais, evidenciando presença de introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3), chamada de tabelas/imagens (ID 4) e conformidade com a norma padrão (ID 5).
+
+Ao analisar as verificações específicas para casos de uso, destaca-se a aderência a várias diretrizes, como uso correto de elipses, verbos no infinitivo e representação adequada de atores e usuários (IDs 7-13). Entretanto, há uma observação referente à ausência da tag << system >> em casos específicos (ID 14).
+
+Em síntese, o trabalho apresenta consistência, atendendo à maioria dos critérios com pequenas oportunidades de aprimoramento, conforme destacado pelos IDs referenciados.
+</p>
+
 ## **Histórico de Versão**
 <p align="justify">
 &emsp;&emsp;A tabela 02 representa o histórico de versão do documento.

@@ -1,4 +1,4 @@
-## ***Planejamento da Verificação da Entrega 2 do Grupo 6 - Skoob***
+## ***Planejamento da Verificação da Entrega 1 do Grupo 6 - Skoob***
 
 ## **Introdução**
 <p align="justify">
@@ -15,11 +15,7 @@
 &emsp;&emsp;A verificação será realizada por meio de inspeção, seguindo os seis passos principais conforme proposto por Fagan: planejamento, visão geral, preparação, inspeção, correção e acompanhamento. Para a elaboração do modelo de critérios, os membros do grupo considerarão elementos relevantes da disciplina, bem como as informações compartilhadas pelo professor em sala de aula. Na definição dos critérios específicos, o responsável pelo artefato deve se basear no plano de ensino da disciplina e nas correções disponibilizadas pelo monitor. Além disso, trabalhos de semestres anteriores podem servir como fonte de inspiração na criação dos critérios.
 </p>
 
-## **Objetos de Verificação**
-<p align="justify"> 
-&emsp;&emsp;Os artefatos alvo dessa verificação são:
-<li>Rich Picture, na versão 1.0 de data ***** produzido por ***** e ******* com a revisão de ****</li>
-</p>
+
 ## **Cronograma**
 <p align="justify"> 
 &emsp;&emsp;A tabela 1  a seguir apresenta o cronograma das atividades a serem realizadas.</p>

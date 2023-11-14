@@ -48,6 +48,16 @@
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp;O artefato destaca-se por elementos positivos, como introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3) e conformidade com a norma padrão (ID 5). No entanto, a chamada de tabelas e imagens, especialmente no Histórico de Versão (ID 4), requer aprimoramento.
+
+Quanto à priorização com a Three Level Scale, o processo é abordado de forma abrangente, considerando as dimensões '_Importância_' e '_Urgência_' (ID 6), dividindo os níveis de priorização (ID 7), estabelecendo um cronograma (ID 8), especificando participantes e papéis (ID 9), e apresentando resultados, incluindo a gravação da reunião (ID 10). A inclusão de requisitos funcionais e não-funcionais (ID 11) reforça a completude do trabalho.
+
+Em síntese, o artefato está sólido, com ajustes necessários na chamada de tabelas e imagens para garantir sua clareza e integralidade.
+</p>
+
+
 
 
 ## **Histórico de Versão**

@@ -56,6 +56,13 @@
 <br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp;
+O artefato destaca-se por pontos positivos, como introdução (ID 1), bibliografia (ID 2), chamada eficiente de tabelas e imagens (ID 4) e aderência à norma padrão (ID 5). No entanto, áreas de aprimoramento incluem a revisão incompleta do histórico de versões (ID 3) e a necessidade de incluir sinônimos em alguns símbolos, especialmente os do tipo Verbo (IDs 6, 10). As definições de noção e impacto para os símbolos são claras (IDs 7, 8), mas recomenda-se a inclusão de sinônimos em alguns itens específicos (IDs 6, 10). Em resumo, o artefato é robusto, com potencial de refinamento na revisão do histórico de versões e na inclusão de sinônimos, conforme apontado pelos IDs referenciados.
+</p>
+
+
 
 ## **Histórico de Versão**
 <p align="justify">

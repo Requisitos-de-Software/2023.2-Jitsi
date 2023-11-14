@@ -41,6 +41,12 @@
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
 
+
+##**Conclusão**
+<p align="justify">
+&emsp;&emsp;O artefato atende criteriosamente aos requisitos essenciais, como introdução, referências, histórico de versões e norma padrão. Detalhes específicos, como motivação, legendas no "Rich Picture" e equilíbrio visual e textual, evidenciam a atenção do grupo aos detalhes. A análise abrangente indica não apenas conformidade básica, mas também uma abordagem cuidadosa na elaboração, refletindo o comprometimento do grupo na produção de um artefato completo e bem estruturado.
+</p>
+
 ## **Histórico de Versão**
 <p align="justify">
 &emsp;&emsp;A tabela 2 representa o histórico de versão do documento.

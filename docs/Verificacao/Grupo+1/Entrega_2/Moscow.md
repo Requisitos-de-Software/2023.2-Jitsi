@@ -45,6 +45,16 @@
 <h6 align="center"> Tabela 1: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp;Com base na avaliação dos IDs fornecidos, o artefato demonstra pontos positivos, como introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3) e conformidade com a norma padrão (ID 5). Contudo, há oportunidades de melhoria, especialmente na chamada de tabelas e imagens, onde o Histórico de Versão não possui legenda nem fonte (ID 4).
+
+No processo de priorização, embora a atividade seja registrada (ID 7) e os requisitos sejam classificados (ID 8), existem lacunas significativas. A ausência de um cronograma (ID 6), justificativas documentadas para a classificação dos requisitos (ID 9), participação do cliente/persona (ID 10) e gravação da reunião correspondente (ID 11) comprometem a completude e a transparência do artefato.
+
+Em resumo, enquanto o artefato apresenta pontos fortes, ajustes são necessários para aprimorar a representação da atividade de priorização e preencher as lacunas identificadas.
+</p>
+
+
 
 
 ## **Histórico de Versão**

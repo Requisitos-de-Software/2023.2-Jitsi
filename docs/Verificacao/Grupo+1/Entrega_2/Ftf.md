@@ -49,8 +49,12 @@
 <h6 align="center"> Tabela 2: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp;O artefato atende bem aos requisitos, com destaque para a presença sólida de introdução (ID 1), bibliografia (ID 2) e histórico de versões (ID 3). Entretanto, há uma necessidade de aprimoramento na chamada de tabelas e imagens, especialmente no Histórico de Versão e Revisão (V&V), onde falta legenda e fonte (ID 4).
 
-
+Quanto à priorização, o artefato atinge positivamente os requisitos estabelecidos, desde a listagem até a gravação da reunião com a participação do cliente/persona (IDs 6 a 16). Em resumo, o trabalho está sólido, requerendo pequenos ajustes na identificação de tabelas e imagens para assegurar clareza e completude.
+</p>
 
 
 

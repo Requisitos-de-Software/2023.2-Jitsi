@@ -59,6 +59,11 @@
 <br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp;O documento aborda de maneira abrangente os requisitos FURPS+, destacando áreas como Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade e Restrições de Design. No entanto, a testabilidade dos requisitos de Suportabilidade (ID 11.1) precisa ser revisada. Quanto ao artefato, apesar de atender a requisitos fundamentais (IDs 1, 2, 3), a ausência de tabelas e imagens limita algumas verificações específicas (ID 4), indicando a necessidade de ajustes para melhorar a clareza e aplicação de critérios visuais no documento.
+</p>
+
 
 
 ## **Histórico de Versão**
