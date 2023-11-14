@@ -59,7 +59,7 @@
 | 7  | Cada SIG possui sua respectiva propagação de Impacto? | | |
 | 8  | Os softgoals se refinam até um nível de especificação bem definido? | | |
 | 9  | Os cartões de especificação representam requisitos não-funcionais verificáveis? | | |
-| 10 | Os cartões de especificação possuem: Identificador, Classificação, Descrição, Justificativa, Origem, Critério de Ajuste, Dependências, Prioridade, Conflitos e História? | | |
+| 10 | Os cartões de especificação possuem: Identificador, Classificação, Descrição, Justificativa, Origem, Critério de Aceitação, Dependências, Prioridade, Conflitos e História? | | |
 | 11 | Os Softgoals NFR estão representados apropriadamente dada a sua definição? | | |
 | 12 | Os Softgoals de Operacionalização estão representados apropriadamente dada a sua definição? | | |
 | 13 | Os Softgoals de Afirmação estão representados apropriadamente dada a sua definição? | | |
