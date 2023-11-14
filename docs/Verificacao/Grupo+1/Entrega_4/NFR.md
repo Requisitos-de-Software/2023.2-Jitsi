@@ -67,7 +67,7 @@
 
 | Versão | Data | Descrição | Autor(es)| Revisor(es)|
 |--------|------|-----------|----------|------------|
-|`1.0` | 13/11/2023 | Criação do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | - |
+|`1.0` | 13/11/2023 | Criação do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
 
 <center>
 <h6> Tabela 3: Histórico de Versão.
