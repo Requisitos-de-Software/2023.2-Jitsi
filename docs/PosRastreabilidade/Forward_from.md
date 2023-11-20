@@ -31,11 +31,11 @@
 | B       | Brainstorming              |
 | UC      | Casos de Uso               |
 | C       | Cénarios                   |
-| E       | Entrevista                 |
+| EN      | Entrevista                 |
 | ES      | Especificação Suplementar  |
 | EP      | Épico                      |
 | US      | Historia de Usuário        |
-| I       | Introspecção               |
+| IN       | Introspecção               |
 | L       | Léxico                     |
 | O       | Observação                 |
 | P       | Personas                   |
@@ -69,28 +69,28 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E02</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US02</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Funcionalidades de Comunicação e Colaboração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">IN02</a>/<a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN01</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB07</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L05</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
@@ -98,7 +98,7 @@
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C02</a></td>
       </tr>
     </tbody>
   </table>
@@ -122,24 +122,21 @@
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US08</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Funcionalidades de Comunicação e Colaboração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L02</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
@@ -147,7 +144,7 @@
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C08</a></td>
       </tr>
     </tbody>
   </table>
@@ -167,36 +164,34 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E2</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US11</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Funcionalidades de Comunicação e Colaboração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN03</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB09</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L10</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC03</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C06</a></td>
       </tr>
     </tbody>
   </table>
@@ -230,10 +225,10 @@
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">IN03</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B03</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN04</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB05</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -279,10 +274,8 @@
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B05</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN05</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -328,10 +321,9 @@
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">IN04</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B01</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN06</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -377,10 +369,8 @@
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B04</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN07</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -426,10 +416,7 @@
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">IN01</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -475,10 +462,7 @@
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">IN08</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -524,10 +508,8 @@
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">IN09</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B09</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
