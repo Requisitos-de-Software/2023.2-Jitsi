@@ -56,7 +56,7 @@
 &emsp;&emsp;Bla Bla Bla Bla Bla
 </p>
 
-<center>
+
 <details>
    <summary>RF01 - Poder compartilhar suas telas durante as chamadas</summary>
 <table>
@@ -102,10 +102,13 @@
       </tr>
     </tbody>
   </table>
-</details>
+  <p>Tabela 02: RF01, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+</p>
 
-<center>
+</details>
+
+
 <details>
    <summary>RF02 - Criar uma videoconferência</summary>
 <table>
@@ -148,10 +151,13 @@
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 03: RF02, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+</p>
 
-<center>
+</details>
+
+
 <details>
    <summary>RF03 - Compartilhar emojis pré-definidos durante as chamadas</summary>
 <table>
@@ -195,8 +201,11 @@
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 04: RF03, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+</p>
+
+</details>
 
 <center>
 <details>
