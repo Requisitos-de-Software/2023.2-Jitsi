@@ -93,6 +93,7 @@ nav:
     - Rich Picture: PreRastreabilidade/RichPicture.md
   - Pós-Rastreabilidade:
     - Backward-From: PosRastreabilidade/Backward-From.md
+    - Forward-From: PosRastreabilidade/Forward_from.md
   - Apresentações: 
     - Etapa 01: apresentacoes/etapa-01.md
     - Etapa 02: apresentacoes/etapa-02.md
