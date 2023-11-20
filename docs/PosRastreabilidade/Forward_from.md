@@ -1410,6 +1410,348 @@
 </details>
 </center>
 
+## **Requisitos Não Funcionais**
+<p align="justify">
+&emsp;&emsp;Bla Bla Bla Bla Bla
+</p>
+
+
+<details>
+   <summary>RNF01 - Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques </summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NFR</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">Desempenho</a></td>
+      </tr>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">US01</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados">ENT08</a> / <a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados">OB17</a> / <a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados">BR17</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+<p>Tabela 31: RNF01, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
+</details>
+
+
+<details>
+   <summary>RNF02 - Ser compatível com sistemas operacionais Android e IOS </summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NFR</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">Usabilidade</a></td>
+      </tr>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">SU01</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados">IN05</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+<p>Tabela 32: RNF02, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
+</details>
+
+
+<details>
+   <summary>RNF03 - Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos </summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NFR</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">Disponibilidade</a></td>
+      </tr>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">DE01</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados">IN06</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+<p>Tabela 33: RNF03, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
+</details>
+
+
+<details>
+   <summary>RNF04 - Deve ser de código aberto e gratuito </summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NFR</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">Disponibilidade</a></td>
+      </tr>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">LP01</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados">IN07</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+<p>Tabela 34: RNF04, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
+</details>
+
+<details>
+   <summary>RNF05 - Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência </summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NFR</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">Disponibilidade</a></td>
+      </tr>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">CO02</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados">IN11</a> / <a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados">OB12</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+<p>Tabela 35: RNF05, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
+</details>
+
+
+<details>
+   <summary>RNF06 - Deve ser estável, tendo no máximo 1 queda de funcionamento por dia </summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NFR</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">Disponibilidade</a></td>
+      </tr>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">CO01</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados">IN12</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+<p>Tabela 36: RNF06, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
+</details>
+
+<details>
+   <summary>RNF07 - Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela </summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NFR</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">Usabilidade</a></td>
+      </tr>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">DE02</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados">IN13</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+<p>Tabela 37: RNF07, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
+</details>
+
+<details>
+   <summary>RNF08 - Deve ser um aplicativo que ocupe menos de 100mb de memória </summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NFR</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">Disponibilidade</a></td>
+      </tr>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">DE03</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados">OB16</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+<p>Tabela 38: RNF08, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
+</details>
+
+<details>
+   <summary>RNF09 - Deve ser possível ingressar em uma reunião sem a necessidade de um login </summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NFR</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">Usabilidade</a></td>
+      </tr>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">US04</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados">BR12</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+<p>Tabela 39: RNF09, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
+</details>
+
+<details>
+   <summary>RNF10 - Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade </summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NFR</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">Usabilidade</a></td>
+      </tr>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">US03</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados">BR18</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+<p>Tabela 40: RNF10, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
+</details>
 
 ## **Histórico de Versão**
 <p align="justify">
