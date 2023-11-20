@@ -207,7 +207,7 @@
 
 </details>
 
-<center>
+
 <details>
    <summary>RF04 - Permitir a gravação de chamadas</summary>
 <table>
@@ -253,12 +253,15 @@
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 05: RF04, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+</p>
 
-<center>
+</details>
+
+
 <details>
-   <summary>RF05 - Transcrição do áudio da chamada</summary>
+   <summary>RF05 - Deve permitir a transcrição do áudio da chamada	</summary>
 <table>
     <thead>
       <tr>
@@ -273,12 +276,12 @@
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US12</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Funcionalidade de Comunicação e Colaboração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
@@ -288,24 +291,27 @@
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L09</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 06: RF05, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+</p>
 
-<center>
+</details>
+
+
 <details>
-   <summary>RF06 -  utilização de quadro de anotação durante a chamada</summary>
+   <summary>RF06 - Deve permitir a utilização de quadro de anotação durante a chamada</summary>
 <table>
     <thead>
       <tr>
@@ -316,16 +322,16 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E2</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US20</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Funcionalidades de Comunicação e Colaboração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
@@ -336,24 +342,27 @@
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 07: RF06, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+</p>
 
-<center>
 <details>
-   <summary>RF07 - Ser capaz de alterar seu fundo em uma chamada de vídeo</summary>
+
+
+<details>
+   <summary>RF07 - O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo</summary>
 <table>
     <thead>
       <tr>
@@ -364,16 +373,16 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E3</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US14</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Personalização e configuração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
@@ -383,24 +392,26 @@
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 08: RF07, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
-
-<center>
+</p>
 <details>
-   <summary>RF08 - Configuração de controles de acesso</summary>
+
+
+<details>
+   <summary>RF08 - Deve permitir a configuração de controles de acesso </summary>
 <table>
     <thead>
       <tr>
@@ -411,16 +422,16 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E5</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US15</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Personalização e Configuração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
@@ -429,20 +440,23 @@
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
       </tr>
     </tbody>
   </table>
 </details>
+<p>Tabela 09: RF08, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+</p>
+<details>
 
 <center>
 <details>
@@ -457,16 +471,16 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E6</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US16</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Personalização e Configuração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
@@ -475,22 +489,24 @@
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 10: RF09, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+</p>
+<details>
 
-<center>
+
 <details>
    <summary>RF10 - Possuir um mecanismo de busca a partir da data da reunião</summary>
 <table>
@@ -503,16 +519,16 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E6</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US17</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Personalização e Configuração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
@@ -522,20 +538,22 @@
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 11: RF10, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+</p>
+<details>
 
 <center>
 <details>
@@ -554,39 +572,39 @@
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US03</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Funcionalidades de Comunicação e Colaboração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados">INT10</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados">BR07</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C03</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 12: RF11, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+</p>
+<details>
 
-<center>
+
 <details>
    <summary>RF12 - Fazer autenticação através de outros aplicativos, como Google ou Facebook</summary>
 <table>
@@ -599,43 +617,41 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E4</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US18</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Personalização e Configuração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados">OB01</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 13: RF12, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+</p>
+<details>
 
-<center>
 <details>
    <summary>RF13 - Convidar participantes através de compartilhamento de link por meio de outros aplicativos</summary>
 <table>
@@ -648,45 +664,44 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E5</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US19</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Personalização e Configuração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 14: RF13, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
-
-<center>
+</p>
 <details>
-   <summary>RF14 - Possuir um link de ajuda para explicar como se convida outros participantes</summary>
+
+
+<details>
+   <summary>RF14 - Opção de mutar o áudio</summary>
 <table>
     <thead>
       <tr>
@@ -701,20 +716,209 @@
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US09</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Funcionalidades de Comunicação e Colaboração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB04</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C09</a></td>
+      </tr>
+    </tbody>
+  </table>
+<p>Tabela 15: RF14, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+<details>
+
+<center>
+<details>
+   <summary>RF15 - Enviar mensagem de texto durante a videochamada</summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E2</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US13</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Funcionalidades de Comunicação e COlaboração</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB06</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
+      </tr>
+    </tbody>
+  </table>
+<p>Tabela 14: RF15, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+<details>
+
+<details>
+   <summary>RF16 - Compartilhar arquivos durante as reuniões</summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E2</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US06</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>NFuncionalidades de Comunicação e Colaboração</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR15</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB08</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
+      </tr>
+    </tbody>
+  </table>
+<p>Tabela 17: RF16, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+<details>
+
+
+
+<details>
+   <summary>RF17 - O usuário configure seu perfil, com nome de usuário e foto</summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E4</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US10</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Personalização e Configuração</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB11</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C10</a></td>
+      </tr>
+    </tbody>
+  </table>
+<p>Tabela 18: RF17, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+<details>
+
+<details>
+   <summary>RF19 - Possuir um calendário com chamadas agendadas</summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E4</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US21</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Personalização e Configuração</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB13</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -722,20 +926,166 @@
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 20: RF19, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+</p>
+<details>
 
 <center>
 <details>
-   <summary>RF15 - Opção de mutar o áudio</summary>
+   <summary>RF20 - O calendário de um usuário seja sincronizado ao de outros</summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E4</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US22</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Personalização e Configuração</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB14</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
+      </tr>
+    </tbody>
+  </table>
+<p>Tabela 21: RF20, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+<details>
+
+
+<details>
+   <summary>RF21 - Agendar reuniões com outros usuários através do calendário</summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E4</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US23</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Pwersonalização e Configuração</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB15</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
+      </tr>
+    </tbody>
+  </table>
+<p>Tabela 22: RF21, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+<details>
+
+
+<details>
+   <summary>RF22 - O anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante</summary>
+<table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E5</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US24</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Personalização e Configuração</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR06</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
+      </tr>
+    </tbody>
+  </table>
+<p>Tabela 23: RF22, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+<details>
+
+
+<details>
+   <summary>RF23 - Ser possível baixar as gravações das reuniões</summary>
 <table>
     <thead>
       <tr>
@@ -750,41 +1100,39 @@
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US04</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Funcionalidade de Comunicação e Colaboração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR08</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C04</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 24: RF23, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
-
-<center>
+</p>
 <details>
-   <summary>RF16 - Enviar mensagem de texto durante a videochamada</summary>
+
+<details>
+   <summary>RF24 - Fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente</summary>
 <table>
     <thead>
       <tr>
@@ -795,45 +1143,43 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E6</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US25</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Personalização e Configuração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR10</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 25: RF24, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
-
-<center>
+</p>
 <details>
-   <summary>RF17 - Compartilhar arquivos durante as reuniões</summary>
+
+<details>
+   <summary>RF25 - Ser capaz de controlar a entrada em uma sala por meio de senha de acesso</summary>
 <table>
     <thead>
       <tr>
@@ -844,45 +1190,43 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E5</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US26</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Personalização e Configuração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR11</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">-</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 26: RF25, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
-
-<center>
+</p>
 <details>
-   <summary>RF18 - O anfitrião deve conseguir, através do compartilhamento de tela, interagir no celular de outro usuário</summary>
+
+<details>
+   <summary>RF26 - O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião</summary>
 <table>
     <thead>
       <tr>
@@ -893,24 +1237,21 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E5</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US05</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>NPersonalização e Configuração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR13</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -922,16 +1263,18 @@
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C05</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 27: RF26, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
-
-<center>
+</p>
 <details>
-   <summary>RF19 - O usuário configure seu perfil, com nome de usuário e foto</summary>
+
+
+<details>
+   <summary>RF27 - Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade</summary>
 <table>
     <thead>
       <tr>
@@ -942,482 +1285,40 @@
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E3</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US07</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Personalização e Configuração</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR16</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C07</a></td>
       </tr>
     </tbody>
   </table>
-</details>
+<p>Tabela 28: RF27, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
-
-<center>
+</p>
 <details>
-   <summary>RF20 - Possuir um calendário com chamadas agendadas</summary>
-<table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Notas</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-</center>
-
-<center>
-<details>
-   <summary>RF21 - O calendário de um usuário seja sincronizado ao de outros</summary>
-<table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Notas</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-</center>
-
-<center>
-<details>
-   <summary>RF22 - Agendar reuniões com outros usuários através do calendário</summary>
-<table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Notas</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-</center>
-
-<center>
-<details>
-   <summary>RF23 - O anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante</summary>
-<table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Notas</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-</center>
-
-<center>
-<details>
-   <summary>RF24 - Ser possível baixar as gravações das reuniões</summary>
-<table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Notas</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-</center>
-
-<center>
-<details>
-   <summary>RF25 - Fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente</summary>
-<table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Notas</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-</center>
-
-<center>
-<details>
-   <summary>RF26 - Ser capaz de controlar a entrada em uma sala por meio de senha de acesso</summary>
-<table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Notas</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-</center>
-
-<center>
-<details>
-   <summary>RF27 - O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião</summary>
-<table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Notas</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-</center>
-
-<center>
-<details>
-   <summary>RF29 - Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade</summary>
-<table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">E1</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">US01</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Notas</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB02</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">L06</a></td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">UC01</a></td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">C01</a></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-</center>
 
 
 ## **Histórico de Versão**
