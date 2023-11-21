@@ -28,17 +28,16 @@
 
 | Legenda | Artefato                   |
 |---------|----------------------------|
-| B       | Brainstorming              |
+| BR      | Brainstorming              |
 | UC      | Casos de Uso               |
 | C       | Cénarios                   |
 | EN      | Entrevista                 |
 | ES      | Especificação Suplementar  |
 | EP      | Épico                      |
 | US      | Historia de Usuário        |
-| IN       | Introspecção               |
+| IN      | Introspecção               |
 | L       | Léxico                     |
 | O       | Observação                 |
-| P       | Personas                   |
 | Q       | Questionário               |
 | RF      | Requisitos Funcionais      |
 | RNF     | Requisistos Não Funcionais |
@@ -84,7 +83,7 @@
         <td>Elicitação</td>
         <td><a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">IN02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B02</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR02</a>/<a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN01</a>/<a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB07</a></td>
       </tr>
@@ -232,7 +231,7 @@
         <td>Elicitação</td>
         <td><a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">IN03</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B03</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR03</a>/<a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN04</a>/<a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">OB05</a></td>
       </tr>
@@ -250,6 +249,9 @@
       </tr>
     </tbody>
   </table>
+  <p>Tabela 05: RF04, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
 </details>
 
 <details>
@@ -278,7 +280,7 @@
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B05</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR05</a>/<a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN05</a></td>
       </tr>
       <tr>
@@ -295,6 +297,9 @@
       </tr>
     </tbody>
   </table>
+  <p>Tabela 06: RF05, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
 </details>
 
 <details>
@@ -324,7 +329,7 @@
         <td>Elicitação</td>
         <td><a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">IN04</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B01</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR01</a>/<a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN06</a></td>
       </tr>
       <tr>
@@ -341,6 +346,9 @@
       </tr>
     </tbody>
   </table>
+  <p>Tabela 07: RF06, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
 </details>
 
 <details>
@@ -369,7 +377,7 @@
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B04</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR04</a>/<a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">EN07</a></td>
       </tr>
       <tr>
@@ -512,7 +520,7 @@
         <td>Elicitação</td>
         <td><a
             href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados/">IN09</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">B09</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">BR09</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1642,6 +1650,7 @@
 </center>
 
 ## **Bibliografia**
-> <a href="https://Link_da_fonte">[1]</a> Fonte 1
+> <a href="https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf">[1]</a> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 24. Aprender 3. Distrito Federal, 2016. 
 
-> <a href="https://Link_da_fonte">[2]</a> Fonte 2
+
+
