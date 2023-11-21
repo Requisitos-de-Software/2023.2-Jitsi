@@ -43,11 +43,10 @@
 | US      | Historia de Usuário        |
 | IN      | Introspecção               |
 | L       | Léxico                     |
-| O       | Observação                 |
+| OB      | Observação                 |
 | Q       | Questionário               |
 | RF      | Requisitos Funcionais      |
 | RNF     | Requisistos Não Funcionais |
-| T       | Tema                       |
 
 </center>
 
