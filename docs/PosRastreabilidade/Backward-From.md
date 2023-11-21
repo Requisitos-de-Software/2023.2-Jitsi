@@ -74,24 +74,16 @@ Para Desenvolver os elos, foi levado em consideração os principais elos de ras
 
 ### **Elos Não Funcionais**
 <p align="justify">
-&emsp;&emsp; Todos os requisitos não funcionais são classificados no nível de desenvolvimento dentro do meta-modelo de Toranzo. Os requisitos, são parte dos artefatos gerados durante o processo de desenvolvimento do sistema.
+&emsp;&emsp; Todos os requisitos não funcionais são classificados no nível de desenvolvimento dentro do meta-modelo de Toranzo. Os requisitos são parte dos artefatos gerados durante o processo de desenvolvimento do sistema.
 </p>
 
 <p align="justify">
 &emsp;&emsp; A tabela 4 a seguir representa os elos dos requisitos não funcionais.
 </p>
-| ID    | Tipo de Elo |
-|-------|-------------|
-| ENF01 |             |
-| ENF02 |             |
-| ENF03 |             |
-| ENF04 |             |
-| ENF05 |             |
-| ENF06 |             |
-| ENF07 |             |
-| ENF08 |             |
-| ENF09 |             |
-| ENF10 |             |
+| ID    | Tipo de Elo      |
+|-------|-------------------|
+| ENF01 | Agregação: [ENT08](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados) agrega [OB17](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) e [BR17](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)     |
+| ENF05 | Agregação: [IN11](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) agrega [OB12](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados)         |
 
 
 
