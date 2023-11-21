@@ -24,7 +24,7 @@
 | 1  | O artefato possui introdução? | Sim | |
 | 2  | O artefato possui uma bibliografia/referência bibliográfica? | Sim | |
 | 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | Não há legenda e fonte no histórico de versão |
 | 5  | Todos os textos estão na norma padrão? | Sim | |
 
 <center>
@@ -56,6 +56,7 @@
 &emsp;&emsp;Após verificar o artefato, concluímos que o mesmo está em um bom nível de estruturação, especificação da entrega e cumprimento das pedidas, sendo recomendados os tópicos abaixo: 
 <ul>
 <li>Validação dos gráficos SIG com fontes externas;</li>
+<li>Inserir legenda e fonte no histórico de versão;</li>
 <li>Inserir ultralinks para os requisitos citados durante o artefato nos cartões.</li>
 </ul>
 </p>

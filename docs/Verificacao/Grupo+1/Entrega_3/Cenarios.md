@@ -32,7 +32,7 @@
 <br/> Autor(es): <a href="https://github.com/Juhvitoria4">Julia Vitória</a></h6>
 </center>
 
-## **Verificações específicas**
+## **Verificações Específicas**
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
 | 6  | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções e episódios? | sim | - |
@@ -57,14 +57,14 @@
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 7 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 3 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es)| Revisor(es)|
 |--------|------|-----------|----------|------------|
-|`1.0`   |13/11/2023| Criação do artefato |  [Júlia Vitória](https://github.com/Juhvitoria4) | - |
-|`1.1` | 13/11/2023 | inicio do processo de verificação |[Júlia Vitória](https://github.com/Juhvitoria4)|-|
-|`1.2` | 13/11/2023 | finalização do processo de verificação |[Júlia Vitória](https://github.com/Juhvitoria4)|-|
+|`1.0`   |13/11/2023| Criação do artefato |  [Júlia Vitória](https://github.com/Juhvitoria4) | [Pedro Siqueira](https://github.com/PedroSiq) |
+|`1.1` | 13/11/2023 | inicio do processo de verificação |[Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
+|`1.2` | 13/11/2023 | finalização do processo de verificação |[Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
 
 <center>
 <h6> Tabela 3: Histórico de Versão.

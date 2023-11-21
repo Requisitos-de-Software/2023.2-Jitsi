@@ -58,9 +58,9 @@
 
 | Versão | Data | Descrição | Autor(es)| Revisor(es)|
 |--------|------|-----------|----------|------------|
-|`1.0`   |13/11/2023| Criação do artefato |  [Júlia Vitória](https://github.com/Juhvitoria4) | - |
-|`1.1` | 13/11/2023 | inicio do processo de verificação |[Júlia Vitória](https://github.com/Juhvitoria4)|-|
-|`1.2` | 13/11/2023 | finalização do processo de verificação |[Júlia Vitória](https://github.com/Juhvitoria4)|-|
+|`1.0`   |13/11/2023| Criação do artefato |  [Júlia Vitória](https://github.com/Juhvitoria4) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+|`1.1` | 13/11/2023 | inicio do processo de verificação |[Júlia Vitória](https://github.com/Juhvitoria4)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
+|`1.2` | 13/11/2023 | finalização do processo de verificação |[Júlia Vitória](https://github.com/Juhvitoria4)|[Bruno Henrique](https://github.com/BrunoHenrique00) |
 
 <center>
 <h6> Tabela 3: Histórico de versão.

@@ -12,7 +12,7 @@
 
 ## **Metodologia**
 <p align="justify"> 
-&emsp;&emsp;A verificação será realizada por meio de inspeção, seguindo os seis passos principais conforme proposto por Fagan: planejamento, visão geral, preparação, inspeção, correção e acompanhamento. Para a elaboração do modelo de critérios, os membros do grupo considerarão elementos relevantes da disciplina, bem como as informações compartilhadas pelo professor em sala de aula. Na definição dos critérios específicos, o responsável pelo artefato deve se basear no plano de ensino da disciplina e nas correções disponibilizadas pelo monitor. Além disso, trabalhos de semestres anteriores podem servir como fonte de inspiração na criação dos critérios.
+&emsp;&emsp;A verificação será realizada por meio de inspeção, seguindo os seis passos principais conforme proposto por Fagan na IBM em 1976: planejamento, visão geral, preparação, inspeção, correção e acompanhamento. Para a elaboração do modelo de critérios, os membros do grupo considerarão elementos relevantes da disciplina, bem como as informações compartilhadas pelo professor em sala de aula. Na definição dos critérios específicos, o responsável pelo artefato deve se basear no plano de ensino da disciplina e nas correções disponibilizadas pelo monitor. Além disso, trabalhos de semestres anteriores podem servir como fonte de inspiração na criação dos critérios.
 </p>
 
 

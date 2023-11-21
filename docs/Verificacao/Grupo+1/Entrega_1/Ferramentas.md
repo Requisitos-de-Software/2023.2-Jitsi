@@ -1,4 +1,4 @@
-## ***Verificação do Backlog do Grupo 06 - Skoob***
+## ***Verificação de Ferramentas do Grupo 06 - Skoob***
 
 ## **Introdução**
 <p align="justify"> 
@@ -24,7 +24,7 @@
 | 1  | O artefato possui introdução? | Sim | |
 | 2  | O artefato possui uma bibliografia/referência bibliográfica? | Sim | |
 | 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | Não há legenda e fonte no histórico de versão |
 | 5  | Todos os textos estão na norma padrão? | Sim | |
 
 <center>
@@ -32,16 +32,18 @@
 <br/> Autor(es): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 </center>
 
-## **Verificação do Backlog**
+## **Verificação das Ferramentas**
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 6  | A participação do cliente e/ou persona na elicitação de requisitos? | Não | Não citado |
-| 7  | São apresentados os requisitos priorizados? | Sim | |
-| 8  | Os requisitos listados estão vinculados a uma história de usuário? | Sim | |
-| 9  | Os requisitos listados apresentam uma história de usuário condizente ao épico definido e vice-versa? | Sim | |
-| 10 | O backlog possui épicos e temas bem definidos e descritos? | Sim | |
-| 11 | O backlog possui validação de um PO (Product Owner)? | Não | Não citado |
-| 12 | O backlog possui ligação com o artefato História de Usuário? | Sim | Porém, apenas no artefato História de Usuário |
+| 6  | Os gráficos SIG foram validados por Fontes Externas? | Não | |
+| 7  | Cada SIG possui sua respectiva propagação de Impacto? | Sim | |
+| 8  | Os softgoals se refinam até um nível de especificação bem definido? | Sim | |
+| 9  | Os cartões de especificação representam requisitos não-funcionais verificáveis? | Sim | |
+| 10 | Os cartões de especificação possuem: Classificação, Descrição, Justificativa, Origem, Critério de Aceitação, Dependências, Prioridade, Conflitos e História? | Sim | |
+| 11 | Os Softgoals NFR estão representados apropriadamente dada a sua definição? | Sim | |
+| 12 | Os Softgoals de Operacionalização estão representados apropriadamente dada a sua definição? | Sim | |
+| 13 | Os Softgoals de Afirmação estão representados apropriadamente dada a sua definição? | Sim | |
+| 14 | Os requisitos não-funcionais apresentados nos cartões foram priorizados com algum método? | Sim | |
 
 <center>
 <h6> Tabela 2: Verificações Específicas.
@@ -51,11 +53,11 @@
 
 ## **Conclusão**
 <p align="justify"> 
-&emsp;&emsp;Após verificar o artefato, concluímos que o mesmo não deixa a desejar em relação à estruturação, rastreabilidade e ao backlog em si, porém recomendamos os tópicos abaixo: 
+&emsp;&emsp;Após verificar o artefato, concluímos que o mesmo está em um bom nível de estruturação, especificação da entrega e cumprimento das pedidas, sendo recomendados os tópicos abaixo: 
 <ul>
-<li>Especificação da participação de usuários ou uso de personas;</li>
+<li>Validação dos gráficos SIG com fontes externas;</li>
 <li>Inserir legenda e fonte no histórico de versão;</li>
-<li>Especificação da participação do Product Owner (PO).</li>
+<li>Inserir ultralinks para os requisitos citados durante o artefato nos cartões.</li>
 </ul>
 </p>
 
@@ -75,4 +77,4 @@
 
 ## **Bibliografia**
 
-> <a href="https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/backlog/">[1]</a> Repositório Skoob. Disciplina Requisitos de Software. Universidade de Brasília. 2023.
+> <a href="https://requisitos-de-software.github.io/2023.2-Skoob/modelagem/nfr_framework/">[1]</a> Repositório Skoob. Disciplina Requisitos de Software. Universidade de Brasília. 2023.

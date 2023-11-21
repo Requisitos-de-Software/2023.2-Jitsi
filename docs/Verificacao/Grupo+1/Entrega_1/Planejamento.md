@@ -12,7 +12,7 @@
 
 ## **Metodologia**
 <p align="justify"> 
-&emsp;&emsp;A verificação será realizada por meio de inspeção, seguindo os seis passos principais conforme proposto por Fagan: planejamento, visão geral, preparação, inspeção, correção e acompanhamento. Para a elaboração do modelo de critérios, os membros do grupo considerarão elementos relevantes da disciplina, bem como as informações compartilhadas pelo professor em sala de aula. Na definição dos critérios específicos, o responsável pelo artefato deve se basear no plano de ensino da disciplina e nas correções disponibilizadas pelo monitor. Além disso, trabalhos de semestres anteriores podem servir como fonte de inspiração na criação dos critérios.
+&emsp;&emsp;A verificação será realizada por meio de inspeção, seguindo os seis passos principais conforme proposto por Fagan na IBM em 1976: planejamento, visão geral, preparação, inspeção, correção e acompanhamento. Para a elaboração do modelo de critérios, os membros do grupo considerarão elementos relevantes da disciplina, bem como as informações compartilhadas pelo professor em sala de aula. Na definição dos critérios específicos, o responsável pelo artefato deve se basear no plano de ensino da disciplina e nas correções disponibilizadas pelo monitor. Além disso, trabalhos de semestres anteriores podem servir como fonte de inspiração na criação dos critérios.
 </p>
 
 
@@ -42,8 +42,6 @@
 | 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
 | 5  | Todos os textos estão na norma padrão? | | |
 
-
-
 ## **Verificação do Rich Picture**
 | Id | Descrição |Avaliação | Observações |
 |-----------|-----------|------------|---------|
@@ -70,4 +68,9 @@
 
 ## *Bibliografia*
 
-> <a href="https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf">[2]</a>  SALES, ANDRÉ B. Plano de ensino da disciplina de Requisitos de Software. Universidade de Brasília. 2023.
+> <a href="https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf">[1]</a>  SALES, ANDRÉ B. Plano de ensino da disciplina de Requisitos de Software. Universidade de Brasília. 2023.
+
+> <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/">[2]</a> Repositório Bilheteria Digital. Disciplina de Requisitos de Software. Universidade de Brasília. 2023.
+
+
+
