@@ -16,7 +16,7 @@
 </p>
 
 <p align="justify">
-&emsp;&emsp;No caso dos requisitos não funcionais, cada requisito foi vinculado ao seu respectivo NFR (Requisito Não Funcional), Especificação Suplementar e à fonte onde foi elicitado. Essa abordagem visa garantir uma análise abrangente e transparente da relação entre os requisitos estabelecidos e as decisões de implementação, promovendo assim uma pós-rastreabilidade eficaz ao longo do ciclo de desenvolvimento do software.
+&emsp;&emsp;No caso dos requisitos não funcionais, cada requisito foi vinculado ao seu respectivo NFR, Especificação Suplementar e à fonte onde foi elicitado. Essa abordagem visa garantir uma análise abrangente e transparente da relação entre os requisitos estabelecidos e as decisões de implementação, promovendo assim uma pós-rastreabilidade eficaz ao longo do ciclo de desenvolvimento do software.
 </p>
 
 ## **Mapeamento**
