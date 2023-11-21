@@ -113,11 +113,11 @@ Para Desenvolver os elos, foi levado em consideração os principais elos de ras
 
 | Versão | Data       | Descrição                       | Autor(es)                                            | Revisor(es)                                         |
 |--------|------------|---------------------------------|------------------------------------------------------|-----------------------------------------------------|
-| `1.0`  | 19/11/2023 | Criação do artefato             | [Júlia Souza](https://github.com/JuliaSSouza)        | [Carolina Barbosa](https://github.com/CarolinaBarb) |
-| `1.1`  | 20/11/2023 | Adição Introdução e Metodologia | [Júlia Souza](https://github.com/JuliaSSouza)        | [Carolina Barbosa](https://github.com/CarolinaBarb) |
-| `1.2`  | 20/11/2023 | Tabela Requisitos Funcionais    | [Bruno Henrique](https://github.com/BrunoHenrique00) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
-| `1.3`  | 20/11/2023 | Adição dos elos não-funcionais | [Júlia Souza](https://github.com/JuliaSSouza)        | [Carolina Barbosa](https://github.com/CarolinaBarb) |
-| `1.4`  | 21/11/2023 | Adição dos elos funcionais | [Júlia Souza](https://github.com/JuliaSSouza)        | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+| `1.0`  | 19/11/2023 | Criação do artefato             | [Júlia Souza](https://github.com/JuliaSSouza)        | [Pedro Siqueira](https://github.com/PedroSiq) |
+| `1.1`  | 20/11/2023 | Adição Introdução e Metodologia | [Júlia Souza](https://github.com/JuliaSSouza)        | [Pedro Siqueira](https://github.com/PedroSiq) |
+| `1.2`  | 20/11/2023 | Tabela Requisitos Funcionais    | [Bruno Henrique](https://github.com/BrunoHenrique00) | [Pedro Siqueira](https://github.com/PedroSiq) |
+| `1.3`  | 20/11/2023 | Adição dos elos não-funcionais | [Júlia Souza](https://github.com/JuliaSSouza)        | [Pedro Siqueira](https://github.com/PedroSiq)|
+| `1.4`  | 21/11/2023 | Adição dos elos funcionais | [Júlia Souza](https://github.com/JuliaSSouza)        | [Pedro Siqueira](https://github.com/PedroSiq) |
 
 
 
