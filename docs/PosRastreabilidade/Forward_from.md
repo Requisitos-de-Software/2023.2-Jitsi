@@ -38,7 +38,6 @@
 | IN      | Introspecção               |
 | L       | Léxico                     |
 | OB      | Observação                 |
-| Q       | Questionário               |
 | RF      | Requisitos Funcionais      |
 | RNF     | Requisistos Não Funcionais |
 | T       | Tema                       |
