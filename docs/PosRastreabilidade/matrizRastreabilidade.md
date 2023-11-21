@@ -56,7 +56,7 @@
 
 ## **Matriz Geral**
 <p align="justify">
-A tabela 02 abaixo representa todos os <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/">Requisitos Elicitados></a> e suas respectivas descrições, rastreabilidades e se os requisitos estão implementados ou não implementados.
+A tabela 02 abaixo representa todos os <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/">Requisitos Elicitados</a> e suas respectivas descrições, rastreabilidades e se os requisitos estão implementados ou não implementados.
 </p>
 
 | ID | Descrição | Elicitação | Artefatos | Implementação |
