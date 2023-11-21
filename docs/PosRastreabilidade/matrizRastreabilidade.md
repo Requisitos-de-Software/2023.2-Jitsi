@@ -117,3 +117,5 @@ A tabela 02 abaixo representa todos os <a href="https://requisitos-de-software.g
 
 ## **Bibliografia**
 > <a href="https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf">[1]</a> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 24. Aprender 3. Distrito Federal, 2016. 
+
+> <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/matriz_rastreabilidade">[2]</a> Repositório VLC. Requisitos de Software. Universidade de Brasília.
