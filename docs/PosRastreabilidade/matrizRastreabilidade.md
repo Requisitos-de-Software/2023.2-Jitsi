@@ -18,28 +18,57 @@
 &emsp;&emsp;Será utilizada uma tabela com 5 colunas, para que seja possível apresentar os dados de maneira direta e organizada. São elas:
 
 <ul>
-<li><b>ID:</b>identificador do requisito;</li>
-<li><b>Descrição:</b>breve descrição do requisito;</li>
-<li><b>Elicitação:</b>método pelo qual o requisito foi elicitado;</li>
-<li><b>Artefatos:</b>artefatos desenvolvidos a partir deste requisito;</li>
-<li><b>Implementação:</b>responde se o requisito está implementado na aplicação.</li>
+<li><b>ID:</b> identificador do requisito;</li>
+<li><b>Descrição:</b> breve descrição do requisito;</li>
+<li><b>Elicitação:</b> método pelo qual o requisito foi elicitado;</li>
+<li><b>Artefatos:</b> artefatos desenvolvidos a partir deste requisito;</li>
+<li><b>Implementação:</b> responde se o requisito está implementado na aplicação.</li>
 </ul>
 </p>
+
+## **Mapeamento**
+<p align="justify">
+&emsp;&emsp;A tabela 01 apresenta a legenda dos artefatos que foram produzidos e estarão presentes na matriz geral.
+</p>
+<center>
+
+| Legenda | Artefato                   |
+|---------|----------------------------|
+| BR      | Brainstorming              |
+| UC      | Casos de Uso               |
+| C       | Cénarios                   |
+| EN      | Entrevista                 |
+| ES      | Especificação Suplementar  |
+| E       | Épico                      |
+| US      | Historia de Usuário        |
+| IN      | Introspecção               |
+| L       | Léxico                     |
+| O       | Observação                 |
+| Q       | Questionário               |
+| RF      | Requisitos Funcionais      |
+| RNF     | Requisistos Não Funcionais |
+| T       | Tema                       |
+
+</center>
+
+<h6 align = "center"> Tabela 02: Legenda de Artefatos.
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
+
 
 
 ## **Matriz Geral**
 <p align="justify">
-A Tabela 1 abaixo representa todos os <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/">Requisitos Elicitados></a> e suas respectivas descrições, rastreabilidades e se os requisitos estão implementados ou não implementados.
+A tabela 02 abaixo representa todos os <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/">Requisitos Elicitados></a> e suas respectivas descrições, rastreabilidades e se os requisitos estão implementados ou não implementados.
 </p>
 
 | ID | Descrição | Elicitação | Artefatos | Implementação |
 | ----------- | ---------- | --------- | --------- | --------- |
-| RF01 | Os usuários devem poder compartilhar suas telas durante as chamadas | [ENT01](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN02](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB07](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados), [BR02](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | [C02](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/#c02-compartilhar-telas-durante-chamadas),[L05](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/#l05-compartilhar-a-tela), [US02](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/) e [E01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/)| Sim |
-| RF02 | Os usuários devem ser capazes de criar uma videoconferência | [ENT02](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados) | [C08](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/#c08-criar-uma-videoconferencia), [L02](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/#l02-realizar-videochamada), [UC01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/) [US08](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/) e [E01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/) | Sim |
+| RF01 | Os usuários devem poder compartilhar suas telas durante as chamadas | [ENT01](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN02](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB07](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados), [BR02](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | [C02](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/#c02-compartilhar-telas-durante-chamadas), [L05](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/#l05-compartilhar-a-tela), [US02](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/) e [E01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/)| Sim |
+| RF02 | Os usuários devem ser capazes de criar uma videoconferência | [ENT02](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados) | [C08](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/#c08-criar-uma-videoconferencia), [L02](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/#l02-realizar-videochamada), [UC01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/), [US08](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/) e [E01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/) | Sim |
 | RF03 | Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | [ENT03](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [OB09](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | [C06](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/#c06-compartilhar-arquivos-durante-reunioes), [L10](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/#l10-configuracoes), [UC03](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/), [US11](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/) e [E02](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/) | Sim |
 | RF04 | Deve permitir a gravação de chamadas | [ENT04](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN03](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB05](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#requisitos-elicitados), [BR03](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | [C01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/#c01-gravacao-de-chamadas), [L04](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/#l04-gravar-a-reuniao), [UC02](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/), [US01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/) e [E01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/) | Não |
 | RF05 | Deve permitir a transcrição do áudio da chamada | [ENT05](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [BR05](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | [C01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/#c01-gravacao-de-chamadas), [L06](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/#l06-calendario), [UC01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/), [US01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/) e [E01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/) | Não |
-| RF06 | Deve permitir a utilização de quadro de anotação durante a chamada | [ENT06](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN04](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [BR01](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | [C01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/#c01-gravacao-de-chamadas), [L06](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/#l06-calendario),[UC01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/), [US01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/) e [E01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/) | Não |
+| RF06 | Deve permitir a utilização de quadro de anotação durante a chamada | [ENT06](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN04](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [BR01](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | [C01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/#c01-gravacao-de-chamadas), [L06](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/#l06-calendario), [UC01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/), [US01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/) e [E01](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/) | Não |
 | RF07 | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | [ENT07](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [BR04](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | [US14](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/) e [E03](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/) | Não |
 | RF08 | Deve permitir a configuração de controles de acesso | [IN01](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | [US15](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/) e [E05](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/) | Sim |
 | RF09 | Deve ser possível deletar reuniões armazenadas | [IN08](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | [US16](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/) e [E06](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/) | Sim |
@@ -72,18 +101,18 @@ A Tabela 1 abaixo representa todos os <a href="https://requisitos-de-software.gi
 | RNF09 | Deve ser possível ingressar em uma reunião sem a necessidade de um login | [BR12](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) |[NFR de Usabilidade](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/#nfr-02-usabilidade) e [ES de Usabilidade](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/#usabilidade) | Sim |
 | RNF10 | Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade | [BR18](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) |[NFR de Usabilidade](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/#nfr-02-usabilidade) e [ES de Usabilidade](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/#usabilidade)| Sim |
 
-<h6 align = "center"> Tabela 01: Matriz Geral.
+<h6 align = "center"> Tabela 02: Matriz Geral.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 02 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 03 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 20/11/2023 | Criação do artefato | [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
-<h6> Tabela 02: Histórico de Versão.
+<h6> Tabela 03: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Bibliografia**
