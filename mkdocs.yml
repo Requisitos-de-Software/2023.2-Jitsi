@@ -101,8 +101,12 @@ nav:
         - Introspecção: Verificacao/Grupo/Entrega_2/Introspecção.md
       - Entrega 03: 
         - Cenários: Verificacao/Grupo/Entrega_3/Cenarios.md
+        - Especificação Suplementar: Verificacao/Grupo/Entrega_3/EspecificaçãoSuplementar.md
       - Entrega 04: 
         - História de Usuário: Verificacao/Grupo/Entrega_4/HistoriaDeUsuario.md
+  - Validação:
+    - Protótipo: Validação/Prototipo.md
+    - Comprovação Informal: Validação/ComprovacaoInformal.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md
