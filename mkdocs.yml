@@ -94,9 +94,14 @@ nav:
       - Entrega 01:
         - Cronograma: Verificacao/Grupo/Entrega_1/Cronograma.md
         - Ferramentas: Verificacao/Grupo/Entrega_1/Ferramentas.md
+        - Metódologias: Verificacao/Grupo/Entrega_1/Metodologias.md
       - Entrega 02:
         - Moscow: Verificacao/Grupo/Entrega_2/Moscow.md
         - Entrevista: Verificacao/Grupo/Entrega_2/Entrevista.md
+      - Entrega 03: 
+        - Cenários: Verificacao/Grupo/Entrega_3/Cenarios.md
+      - Entrega 04: 
+        - História de Usuário: Verificacao/Grupo/Entrega_4/HistoriaDeUsuario.md
   - Pré-Rastreabilidade:
     - Escolha do Aplicativo: PreRastreabilidade/AppEscolhido.md  
     - Rich Picture: PreRastreabilidade/RichPicture.md
