@@ -36,19 +36,25 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 | ID  | Descrição  | Avaliação | Observação  |
 | --  | -----------|-----------|------------ |
-| 6   |  |       |      |
-| 7   |  |       |      |
-| 8   | |       |      |
-| 9   |  |       |      |
-| 10  |   |       |      |
-| 11  | |  |  |      
-| 12  |  |  |  |   
-| 13  | | | |     
-| 14  |  | | |
-| 15  |  |  |  |                                                                                    
+| 6   | O artefato possui uma lista com todos os requisitos não funcionais? |       |      |
+| 7   | É utilizado o padrão de classificação de requisitos FURPS+? |       |      |
+| 8   | Os requisitos são classificados em funcionalidade, usabilidade, confiabilidade, desempenho e suportabilidade? |       |      |
+| 9   | É representado o significado do "+" na sigla FURPS+?  |       |      |
+| 10  |  Os requisitos classificados em usabilidade tratam da facilidade de uso do software? |       |      |
+| 11  |  Os requisitos classificados em confiabilidade tratam da integridade, conformidade e interoperabilidade do software? |  |  |      
+| 12  | Os requisitos classificados em desempenho são relacionados à velocidade, eficiência, taxa de transferência, tempo de resposta ou uso de recursos? |  |  |   
+| 13  | Os requisitos classificados em suportabilidade tratam de tensibilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, escalabilidade, instalabilidade, localizabilidade ou testabilidade? | | |    
+                                                                                   
 
 <h6 align="center"> Tabela 2: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
+## **Fonte Checklist**
+<p align="justify">
+&emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado o livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Engenharia de Requisitos: Software Orientado ao Negócio"</a> para um embasamento teórico.
+</p>
+
+
 
 ## **Conclusão**
 <p align="justify">
@@ -76,5 +82,8 @@ Em resumo, enquanto o artefato apresenta pontos fortes, ajustes são necessário
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 ## **Bibliografia**
 
-> <a href="https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf">[1]</a> WIEGERS, Karl, BEATTY, Joy. Software Requirements, Third Edition. Microsoft Press, Agosto, 2013. Disponível em:
+> <a href="https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf">[1]</a> WIEGERS, Karl, BEATTY, Joy. Software Requirements, Third Edition. Microsoft Press, Agosto, 2013. 
+
+> <a >[2]</a> Vazquez, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Brasport, 2016.
+
 
