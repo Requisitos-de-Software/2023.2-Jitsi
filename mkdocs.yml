@@ -66,6 +66,22 @@ nav:
         - Histórias de usuário: Modelagem/Agil/historias.md
         - NFR Framework: Modelagem/Agil/nfr-framework.md
   - Verificação:
+    - Grupo:
+      - Entrega 01:
+        - Cronograma: Verificacao/Grupo/Entrega_1/Cronograma.md
+        - Ferramentas: Verificacao/Grupo/Entrega_1/Ferramentas.md
+        - Metodologias: Verificacao/Grupo/Entrega_1/Metodologias.md
+      - Entrega 02:
+        - Moscow: Verificacao/Grupo/Entrega_2/Moscow.md
+        - Entrevista: Verificacao/Grupo/Entrega_2/Entrevista.md
+        - Introspecção: Verificacao/Grupo/Entrega_2/Introspecção.md
+        - Observação: Verificacao/Grupo/Entrega_2/Observacao.md
+      - Entrega 03: 
+        - Cenários: Verificacao/Grupo/Entrega_3/Cenarios.md
+        - Especificação Suplementar: Verificacao/Grupo/Entrega_3/EspecificaçãoSuplementar.md
+      - Entrega 04: 
+        - História de Usuário: Verificacao/Grupo/Entrega_4/HistoriaDeUsuario.md
+        - NRF: Verificacao/Grupo/Entrega_4/nfr.md
     - Grupo +1:
       - Entrega 01: 
         - Cronograma: Verificacao/Grupo+1/Entrega_1/Cronograma.md
@@ -90,21 +106,6 @@ nav:
         - NFR: Verificacao/Grupo+1/Entrega_4/NFR.md
         - Backlog: Verificacao/Grupo+1/Entrega_4/Backlog.md
         - Histórias de Usuário: Verificacao/Grupo+1/Entrega_4/HistoriaDeUsuario.md
-    - Grupo:
-      - Entrega 01:
-        - Cronograma: Verificacao/Grupo/Entrega_1/Cronograma.md
-        - Ferramentas: Verificacao/Grupo/Entrega_1/Ferramentas.md
-        - Metodologias: Verificacao/Grupo/Entrega_1/Metodologias.md
-      - Entrega 02:
-        - Moscow: Verificacao/Grupo/Entrega_2/Moscow.md
-        - Entrevista: Verificacao/Grupo/Entrega_2/Entrevista.md
-        - Introspecção: Verificacao/Grupo/Entrega_2/Introspecção.md
-      - Entrega 03: 
-        - Cenários: Verificacao/Grupo/Entrega_3/Cenarios.md
-        - Especificação Suplementar: Verificacao/Grupo/Entrega_3/EspecificaçãoSuplementar.md
-      - Entrega 04: 
-        - História de Usuário: Verificacao/Grupo/Entrega_4/HistoriaDeUsuario.md
-        - NRF: Verificacao/Grupo/Entrega_4/nfr.md
   - Validação:
     - Protótipo: Validação/Prototipo.md
     - Comprovação Informal: Validação/ComprovacaoInformal.md
