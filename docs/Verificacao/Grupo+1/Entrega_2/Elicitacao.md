@@ -68,7 +68,7 @@
 <br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
-##**Conclusão**
+## **Conclusão**
 <p align="justify">
 &emsp;&emsp;O artefato, avaliado pelos IDs, atende bem a critérios como introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3) e norma padrão (ID 5). No entanto, há oportunidades de melhoria nas chamadas para tabelas/imagens (ID 4), na especificação dos papéis dos participantes (ID 10), na abordagem do brainstorming no vídeo (ID 10), na documentação de ideias (ID 11) e no uso de técnicas de estímulo (ID 12). Além disso, a classificação correta dos requisitos (ID 14) e a inclusão de todas as referências ao texto (ID 15) necessitam de ajustes. Em resumo, o artefato possui aspectos positivos, mas é recomendável revisar áreas específicas para garantir integralidade e clareza.
 </p>
@@ -124,7 +124,7 @@
 <br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
-##**Conclusão**
+## **Conclusão**
 <p align="justify">
 &emsp;&emsp;
 O artefato exibe pontos fortes, incluindo introdução (ID 1), bibliografia (ID 2) e histórico de versões (ID 3). No entanto, lacunas foram identificadas, como chamadas incompletas para tabelas/imagens (ID 4) e falta de metodologia (ID 5). Observa-se também duplicação de perguntas de 6 a 13. A necessidade de um cronograma (ID 7), a definição adequada das metodologias (ID 8) e a especificação dos papéis dos participantes (ID 9) requerem atenção. Falhas, como a ausência de um ambiente de observação apropriado (ID 16), condução não intrusiva das observações (ID 17), registro preciso dos requisitos (ID 18) e classificação adequada (ID 19), foram identificadas. Em resumo, embora o artefato tenha pontos positivos, há lacunas significativas que precisam ser revisadas e aprimoradas.
