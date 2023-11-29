@@ -104,6 +104,7 @@ nav:
         - Especificação Suplementar: Verificacao/Grupo/Entrega_3/EspecificaçãoSuplementar.md
       - Entrega 04: 
         - História de Usuário: Verificacao/Grupo/Entrega_4/HistoriaDeUsuario.md
+        - NRF: Verificacao/Grupo/Entrega_4/nfr.md
   - Validação:
     - Protótipo: Validação/Prototipo.md
     - Comprovação Informal: Validação/ComprovacaoInformal.md
