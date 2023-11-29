@@ -51,22 +51,34 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 ## **Fonte Checklist**
 <p align="justify">
-&emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado o livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Engenharia de Requisitos: Software Orientado ao Negócio"</a> para um embasamento teórico.
+&emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado o livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Engenharia de Requisitos: Software Orientado ao Negócio"</a> capítulo 5.10.3 para um embasamento teórico.
 </p>
+<li> Fonte checklist ID 6 e 7 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-Intro.png" alt="Setas" width=500px>
 
+<li> Fonte checklist ID 8 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-ItensFURPS.png" alt="Setas" width=500px>
+
+<li> Fonte checklist ID 9 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-+.png" alt="Setas" width=500px>
+
+<li> Fonte checklist ID 10 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-Usabilidade.png" alt="Setas" width=500px>
+
+<li> Fonte checklist ID 11 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-confiabilidade.png" alt="Setas" width=500px>
+
+<li> Fonte checklist ID 12 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-desempenho.png" alt="Setas" width=500px>
+
+<li> Fonte checklist ID 13 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-suportabilidade.png" alt="Setas" width=500px>
 
 
 ## **Conclusão**
 <p align="justify">
-&emsp;&emsp;Com base na avaliação dos IDs fornecidos, o artefato demonstra pontos positivos, como introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3) e conformidade com a norma padrão (ID 5). Contudo, há oportunidades de melhoria, especialmente na chamada de tabelas e imagens, onde o Histórico de Versão não possui legenda nem fonte (ID 4).
-
-No processo de priorização, embora a atividade seja registrada (ID 7) e os requisitos sejam classificados (ID 8), existem lacunas significativas. A ausência de um cronograma (ID 6), justificativas documentadas para a classificação dos requisitos (ID 9), participação do cliente/persona (ID 10) e gravação da reunião correspondente (ID 11) comprometem a completude e a transparência do artefato.
-
-Em resumo, enquanto o artefato apresenta pontos fortes, ajustes são necessários para aprimorar a representação da atividade de priorização e preencher as lacunas identificadas.
+&emsp;&emsp;
 </p>
-
-
-
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -76,6 +88,7 @@ Em resumo, enquanto o artefato apresenta pontos fortes, ajustes são necessário
 | Versão | Data       | Descrição           | Autor(es)                                                                                           | Revisor(es)                                     |
 |--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | `1.0`  | 28/11/2023 | Criação do artefato |  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
+| `1.1`  | 28/11/2023 | Adição do checklist e suas fontes |  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
 
 
 <h6 align="center"> Tabela 3: Histórico de Versão.

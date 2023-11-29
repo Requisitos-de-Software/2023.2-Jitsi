@@ -23,8 +23,6 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 | 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?  |           |                                          |
 | 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                            |           |                                          |
 | 5  | Todos os textos estão na norma padrão?                                                                  |           |                                          
-
-
 <h6 align="center"> Tabela 1: Checklist Geral de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
@@ -36,31 +34,32 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 | ID  | Descrição  | Avaliação | Observação  |
 | --  | -----------|-----------|------------ |
-| 6   |  |       |      |
-| 7   |  |       |      |
-| 8   | |       |      |
-| 9   |  |       |      |
-| 10  |   |       |      |
-| 11  | |  |  |      
-| 12  |  |  |  |   
-| 13  | | | |     
-| 14  |  | | |
-| 15  |  |  |  |                                                                                    
-
+| 6   | O artefato possui uma situação hipotética em que o desenvolvedor "imagina" o que ele gostaria de ver no sistema? |       |      |
+| 7  |  Possui um relato com quais propriedades o sistema deve possuir para que seja um sucesso na percepção do autor do artefato? |       |      |
+| 8   | O artefato possui os requisitos elicitados? |       |      |
+| 9   | Os requisitos elicitados estão dividos em funcionais e não funcionais? |       |      |
+| 10   | Foi relatado que essa técnica pode não ser adequada para representar fielmente os interesses reais dos interessados? |       |      |
+                                                                                
 <h6 align="center"> Tabela 2: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
-## **Conclusão**
+
+## **Fonte Checklist**
 <p align="justify">
-&emsp;&emsp;Com base na avaliação dos IDs fornecidos, o artefato demonstra pontos positivos, como introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3) e conformidade com a norma padrão (ID 5). Contudo, há oportunidades de melhoria, especialmente na chamada de tabelas e imagens, onde o Histórico de Versão não possui legenda nem fonte (ID 4).
-
-No processo de priorização, embora a atividade seja registrada (ID 7) e os requisitos sejam classificados (ID 8), existem lacunas significativas. A ausência de um cronograma (ID 6), justificativas documentadas para a classificação dos requisitos (ID 9), participação do cliente/persona (ID 10) e gravação da reunião correspondente (ID 11) comprometem a completude e a transparência do artefato.
-
-Em resumo, enquanto o artefato apresenta pontos fortes, ajustes são necessários para aprimorar a representação da atividade de priorização e preencher as lacunas identificadas.
+&emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado os slides da <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Introspec%C3%A7%C3%A3o/#bibliografia">"aula 07"</a> dos professores Milene Serrano e Maurício Serrano.
 </p>
 
+<li> Fonte checklist ID 6 e 7 </li>
+<img src="" alt="Setas" width=500px>
+
+<li> Fonte checklist ID 10 </li>
+<img src="" alt="Setas" width=500px>
 
 
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp;
+</p>
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -76,5 +75,6 @@ Em resumo, enquanto o artefato apresenta pontos fortes, ajustes são necessário
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 ## **Bibliografia**
 
-> <a href="https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf">[1]</a> WIEGERS, Karl, BEATTY, Joy. Software Requirements, Third Edition. Microsoft Press, Agosto, 2013. Disponível em:
+> <a href="https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf">[1]</a> WIEGERS, Karl, BEATTY, Joy. Software Requirements, Third Edition. Microsoft Press, Agosto, 2013. 
 
+> <a href="https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf">[2]</a> Requisitos - Aula 07. Acesso em 02 de Outubro de 2023.
