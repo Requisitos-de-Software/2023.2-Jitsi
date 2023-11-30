@@ -1,4 +1,4 @@
-# ***Verificação do NFR Framework***
+# **Verificação do NFR Framework**
 
 ## **Introdução**
 <p align="justify">
@@ -54,6 +54,32 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 <br/> Autor(es): <a href="https://github.com/Juhvitoria4">Julia Vitoria</a></h6>
 </center>
 
+## **Fonte Checklist**
+<p align="justify">
+&emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado a dissertação de mestrado <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/#bibliografia">"NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados"</a> de Reinaldo Antônio da Silva, 2019.
+</p>
+
+<li> Fonte checklist ID 7 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-impacto.png" alt="Setas" width=500px>
+
+<li> Fonte checklist ID 8 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-refinamento.png" alt="Setas" width=500px>
+
+<li> Fonte checklist ID 9 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-introCartoes.png" alt="Setas" width=500px>
+
+<li> Fonte checklist ID 10 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-cartoes.png" alt="Setas" width=500px>
+
+<li> Fonte checklist ID 11 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-nfr.png" alt="Setas" width=500px>
+
+<li> Fonte checklist ID 12 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-operacionalizacao.png" alt="Setas" width=500px>
+
+<li> Fonte checklist ID 13 </li>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-afirmacao.png" alt="Setas" width=500px>
+
 ## **Histórico de Versão**
 <p align="justify">
 &emsp;&emsp;A tabela 3 representa o histórico de versão do documento.
@@ -62,9 +88,10 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 28/11/2023 | Iniciando Artefato |[Júlia Vitória](https://github.com/Juhvitoria4) |[Carolina Barbosa](https://github.com/CarolinaBarb) |
+| `1.1`  | 28/11/2023 | Adição das fontes e ajustes |  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
 
 
 ## **Bibliografia**
-> <a href="https://Link_da_fonte">[1]</a> Fonte 1
+> <a href="https://aprender3.unb.br/pluginfile.php/2692835/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf">[1]</a> Silva, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 155 f. Dissertação (Mestrado em Ciência da Computação) - UFPE, Recife.
 
-> <a href="https://Link_da_fonte">[2]</a> Fonte 2
+> <a href="https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf">[1]</a> WIEGERS, Karl, BEATTY, Joy. Software Requirements, Third Edition. Microsoft Press, Agosto, 2013. 
