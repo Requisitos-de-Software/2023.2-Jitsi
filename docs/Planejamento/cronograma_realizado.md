@@ -130,6 +130,39 @@ e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 <h6 align="center"> Tabela 4: Modelagem de Requisitos Ágil.
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6> 
 
+## **Entrega 5.2 - Análise de Requisitos: Verificação e Validação 2**
+<p align="justify">
+&emsp;&emsp;A tabela 7 apresenta as entregas da quinta etapa.
+</p>
+
+| Atividade | Período de Desenvolvimento  | Responsáveis | Revisor |
+|-----------------------------------|------------------------------|-------------------------------|------------------------|
+| Verificação - Forward, Lexicos, Rich picture| Início: 11/11 <br>Fim: 13/11 | [Bruno Henrique](https://github.com/BrunoHenrique00)| [Júlia Souza](https://github.com/JuliaSSouza) |
+| Verificação - Entrevista, Caso de uso| Início: 11/11 <br>Fim: 13/11 | [Catlen Cleane](https://github.com/catlenc)|  [Júlia Vitória](https://github.com/Juhvitoria4) |
+| Verificação - Cenários, História de U.| Início: 11/11 <br>Fim: 13/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
+| Verificação - Moscow, Introspecção, Especificação, Cronograma| Início: 11/11 <br>Fim: 13/11 |  [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq) |
+| Verificação - Backward, Metodologias| Início: 11/11 <br>Fim: 13/11 | [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+| Verificação - Ftf, TLS, Observação, Backlog| Início: 11/11 <br>Fim: 13/11 | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
+| Verificação - Brainstorming| Início: 11/11 <br>Fim: 13/11 | [Pedro Siqueira](https://github.com/PedroSiq) e [Bruno Henrique](https://github.com/BrunoHenrique00) |[Júlia Vitória](https://github.com/Juhvitoria4)| 
+| Verificação - NFR| Início: 11/11 <br>Fim: 13/11 | [Júlia Vitória](https://github.com/Juhvitoria4) e  [Júlia Souza](https://github.com/JuliaSSouza) |[Pedro Siqueira](https://github.com/PedroSiq)| 
+| Verificação - Matriz e Ferramentas| Início: 11/11 <br>Fim: 13/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc)  | [Júlia Souza](https://github.com/JuliaSSouza)| 
+| Validação - Protótipo RF 01| Início: 11/11 <br>Fim: 13/11 | [Júlia Vitória](https://github.com/Juhvitoria4)  | [Júlia Souza](https://github.com/JuliaSSouza)| 
+| Validação - Protótipo RF 02| Início: 11/11 <br>Fim: 13/11 |[Bruno Henrique](https://github.com/BrunoHenrique00)  | [Júlia Vitória](https://github.com/Juhvitoria4)| 
+| Validação - Protótipo RF 03| Início: 11/11 <br>Fim: 13/11 | [Júlia Souza](https://github.com/JuliaSSouza) | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
+| Validação - Protótipo RF 04| Início: 11/11 <br>Fim: 13/11 | [Júlia Souza](https://github.com/JuliaSSouza) e [Catlen Cleane](https://github.com/catlenc)  | [Carolina Barbosa](https://github.com/CarolinaBarb)| 
+| Validação - Protótipo RF 05| Início: 11/11 <br>Fim: 13/11 | [Carolina Barbosa](https://github.com/CarolinaBarb)  | [Pedro Siqueira](https://github.com/PedroSiq)| 
+| Validação - Protótipo RF 06| Início: 11/11 <br>Fim: 13/11 | [Pedro Siqueira](https://github.com/PedroSiq) e [Júlia Vitória](https://github.com/Juhvitoria4)  | [Júlia Souza](https://github.com/JuliaSSouza)| 
+| Validação - Protótipo RF 07| Início: 11/11 <br>Fim: 13/11 | [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc)| 
+| Validação - Protótipo RF 08| Início: 11/11 <br>Fim: 13/11 |[Catlen Cleane](https://github.com/catlenc)  | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
+| Validação - Protótipo RF 09| Início: 11/11 <br>Fim: 13/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Bruno Henrique](https://github.com/BrunoHenrique00)  | [Catlen Cleane](https://github.com/catlenc)| 
+| Validação - Comprovação informal| Início: 12/11 <br>Fim: 13/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Gravação do vídeo de apresentação | Início: 12/11 <br>Fim: 13/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+
+<center>
+<h6> Tabela 5: Verificação e Validação 2.
+<br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6> 
+</center>
+
 ## **Histórico de Versão**
 <p align="justify">
 &emsp;&emsp;A tabela 6 representa o histórico de versão do documento.
@@ -144,6 +177,7 @@ e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 | `1.4`  | 18/10/2023 | Atualização da entrega 4|  [Júlia Souza](https://github.com/JuliaSSouza)|[Catlen Cleane](https://github.com/catlenc)|
 | `1.5`  | 18/10/2023 | Atualização da entrega 5|  [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Vitória](https://github.com/Juhvitoria4)|
 | `1.6`  | 21/11/2023 | Atualização da entrega 6|  [Júlia Souza](https://github.com/JuliaSSouza)|[Catlen Cleane](https://github.com/catlenc)|
+| `1.7`  | 30/11/2023 | Atualização da entrega 5.2|  [Júlia Souza](https://github.com/JuliaSSouza)|[Catlen Cleane](https://github.com/catlenc)|
 
 <center>
 <h6> Tabela 6: Histórico de Versão.
