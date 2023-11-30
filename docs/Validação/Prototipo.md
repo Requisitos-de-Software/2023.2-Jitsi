@@ -2,17 +2,17 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp; 
+&emsp;&emsp; Neste documento, será apresentado o artefato de desenvolvimento do protótipo que é uma representação tangível e interativa da solução proposta, que permite testar ideias, obter feedback dos usuários, comunicar conceitos e reduzir riscos e custos
 </p>
 
 ## **Objetivo**
 <p align="justify">
-&emsp;&emsp; 
+&emsp;&emsp; Protótipar funcionalidades não implementadas ajuda a validar conceitos, para garantir que as funcionalidades atendam às necessidades e expectativas dos usuários antes de serem totalmente implementadas.
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp; 
+&emsp;&emsp; Para iniciarmos a protótipação, nós nos reunimos em uma reunião online disponivel em <a href=".https://requisitos-de-software.github.io/2023.2-Jitsi/atas/reuniao-05/#gravacao-da-reuniao">ata da reunião 05 </a>, onde definimos que cada integrante do grupo ficaria reponsável por protótipar 1 dos requisitos eleicitados que ainda não estava implementados, assim como mostra na tabela 01, nessa divisão sobraram 3 requisitos que nos dividimos em duplas para cada dupla ficar com 1 desses 3 que sobram. Para realizar a protótipação foi utilizada a ferramenta <a href="https://www.figma.com">figma</a>.
 </p>
 
 ## **Requisitos implementados**
@@ -38,10 +38,70 @@
 
 ## **Protótipo**
 <p align="justify"> 
-&emsp;&emsp;
+&emsp;&emsp; Logo abaixo é posível encontrar videos dos protótipos que mostram cada funcionalidade que foi implementada.
 </p>
 
+<center>
+<details>
+   <summary>Protótipo RF04</summary>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/NNNkbOgrFVQ?si=PU8Vt0nw5PeoIh_1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p>Protótipo RF04, Autor(a): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
+</details>
+</center>
+
+<center>
+<details>
+   <summary>Protótipo RF05</summary>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/GqaQNxg7Wn4?si=LqivsSS4CZ9Yjv1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p>Protótipo RF05, Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+</details>
+</center>
+
+<center>
+<details>
+   <summary>Protótipo RF06</summary>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/cIquUK1jxFE?si=E-CpNRAV5VaXNqbb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p>Protótipo RF06, Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+</details>
+</center>
+
+<center>
+<details>
+   <summary>Protótipo RF07</summary>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/OWnalYve89U?si=Ji2T-DZqnP5EKgW5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p>Protótipo RF07, Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</details>
+</center>
+
+<center>
+<details>
+   <summary>Protótipo RF21</summary>
+      <<iframe width="560" height="315" src="https://www.youtube.com/embed/vASOyIFCqgI?si=eYSo7kCvRc6-bn4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <p>Protótipo RF21, Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</details>
+</center>
+
+<center>
+<details>
+   <summary>Protótipo RF22</summary>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/eT3ywXkt-JM?si=Mc33QMxtNJlFep6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p>Protótipo RF22, Autor(a): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
+</details>
+</center>
+
+<center>
+<details>
+   <summary>Protótipo RF23</summary>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/fQa5R6xDI7U?si=RTd7iZU11w-31Emi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p>Protótipo RF23, Autor(a): <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+</details>
+</center>
+
 ## **Gravação**
+<p align="justify">
+&emsp;&emsp; Convidados uma usuária frequente do Jitsi que também participou das entrevistas de elicitação de requisitos para validar os protótipos implementados referente aos requisitos que não estavam implementados. 
+</p>
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QHYEzxZf4eo?si=GawFi65jiBxV9hol" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -50,7 +110,7 @@
 
 ## **Resultados**
 <p align="justify">
-&emsp;&emsp; 
+&emsp;&emsp; Após a validação dos protótipos com a Leticia, chegamos a conclusão que os protótipos atenderam as suas expectativas e necessidades como usuária do aplicativo Jitsi.
 </p>
 
 
@@ -63,6 +123,8 @@
 |--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | `1.0`  | 28/11/2023 | Criação do artefato |  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 | `1.1`  | 30/11/2023 | Adição da Gravação e Tabela atualizada | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza) |
+| `1.2`  | 30/11/2023 | Adição dos Protótipos | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza) |
+| `1.3`  | 30/11/2023 | Finalização do Documento| [Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza) |
 
 <h6 align="center"> Tabela 02: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
