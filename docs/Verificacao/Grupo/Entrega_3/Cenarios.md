@@ -56,16 +56,15 @@
 <center>
 <details>
    <summary>Fonte checklist ID 6, 7 e 8</summary>
-      <img src="" alt="checklist" width=500px>
-      <img src="" alt="checklist" width=500px>
-      <img src="" alt="checklist" width=500px>
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/Cenario%20ID06%2C%2007%2C08.png" alt="checklist" width=500px>
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/Cenario%20ID06%2C%2007%2C08%20cont.png" alt="checklist" width=500px>
 </details>
 </center>
 
 <center>
 <details>
    <summary>Fonte checklist ID 9</summary>
-      <img src="" alt="checklist" width=500px>
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/Cenario%20ID09.png" alt="checklist" width=500px>
 </details>
 </center>
 
@@ -73,14 +72,14 @@
 <center>
 <details>
    <summary>Fonte checklist ID 10</summary>
-      <img src="" alt="checklist" width=500px>
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/Cenario%20ID10.png" alt="checklist" width=500px>
 </details>
 </center>
 
 <center>
 <details>
    <summary>Fonte checklist ID 11</summary>
-      <img src="" alt="checklist" width=500px>
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/Cenario%20ID11.png" alt="checklist" width=500px>
 </details>
 </center>
 
