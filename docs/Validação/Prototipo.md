@@ -99,7 +99,7 @@
 
 ## **Gravação**
 <p align="justify">
-&emsp;&emsp; Convidados uma usuária frequente do Jitsi que também participou das entrevistas de elicitação de requisitos para validar os protótipos implementados referente aos requisitos que não estavam implementados. 
+&emsp;&emsp; Convidamos uma usuária frequente do Jitsi que também participou das entrevistas de elicitação de requisitos para validar os protótipos implementados referente aos requisitos que não estavam implementados. 
 </p>
 
 <center>

@@ -7,7 +7,7 @@
 
 ## **Objetivo**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;O objetivo deste documento é apresentar os resultados das verificações realizadas no artefato de Cenários. Isso inclui a identificação de áreas fortes e oportunidades de melhoria no artefato, bem como a proposição de ações corretivas quando necessário, visando aprimorar a qualidade do trabalho desenvolvido pelo grupo.
 </p>
 
 ## **Metodologia**
@@ -28,26 +28,66 @@
 | 5  | Todos os textos estão na norma padrão? |  |  |
 
 <center>
-<h6> Tabela 1: Critérios Gerais.
+<h6> Tabela 1: Checklist Geral de Verificação.
 <br/> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </center>
 
 ## **Verificações Específicas**
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 6  | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções e episódios? |  |  |
-| 7  | O título do cenário é autoexplicativo? |  |  |
-| 8  | O objetivo do cenário é condizente com seu título? |  |  |
+| 6  | O cenário possui: título, objetivos, contexto, ator, recursos, exceções e episódios? |  |  |
+| 7  | O título do cenário identifica o cenário? |  |  |
+| 8  | O objetivo do cenário descrever de que modo deve ser alcançado? |  |  |
 | 9  | O contexto é descrito em função de local, tempo e pré-condições? |  |  |
-| 10 | O cenário descreve situações realistas e relevantes de interação do sistema? |  |- |
-| 11 | Os atores são condizentes com o contexto do cenário? |  |  |
-| 12 | Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo? |  |  |
-| 13 | A exceção é condizente com a realidade? |  |  |
+| 10 | Na descrição dos cenários é utilizado o Léxico Ampliado da Linguagem(LAL)? |  |  |
+| 11 | O cenário possui evolução? |  |  |
+
 
 <center>
-<h6> Tabela 2: Verificações Específicas.
+<h6> Tabela 2: Checklist de Verificação.
 <br/> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </center>
+
+## **Fonte Checklist**
+<p align="justify">
+&emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado o livro <a href="https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf">"Rastreamento de Cenários"</a> capítulo 3 para um embasamento teórico.
+</p>
+
+<center>
+<details>
+   <summary>Fonte checklist ID 6, 7 e 8</summary>
+      <img src="" alt="checklist" width=500px>
+      <img src="" alt="checklist" width=500px>
+      <img src="" alt="checklist" width=500px>
+</details>
+</center>
+
+<center>
+<details>
+   <summary>Fonte checklist ID 9</summary>
+      <img src="" alt="checklist" width=500px>
+</details>
+</center>
+
+
+<center>
+<details>
+   <summary>Fonte checklist ID 10</summary>
+      <img src="" alt="checklist" width=500px>
+</details>
+</center>
+
+<center>
+<details>
+   <summary>Fonte checklist ID 11</summary>
+      <img src="" alt="checklist" width=500px>
+</details>
+</center>
+
+## **Gravação**
+<p align="justify">
+&emsp;&emsp; O vídeo a seguir apresenta a atividade de inspeção realizada pela <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> do artefato de cenários desenvolvido pelo grupo.
+</p>
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -56,7 +96,8 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 28/11/2023 | Iniciando Artefato |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Pedro Siqueira](https://github.com/PedroSiq)|
+| `1.0`  | 28/11/2023 | Iniciando Artefato |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)|
+| `1.1`  | 30/11/2023 | Adição de Fonte do Checklist |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)|
 <h6> Tabela n: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
