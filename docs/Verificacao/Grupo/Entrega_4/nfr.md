@@ -13,7 +13,10 @@ A verificação visa garantir que todos os critérios de avaliação tenham sido
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;Foram listadas questões nas checklists que serão respondidas pelo avaliador, utilizando opções como "Sim", "Não", "Incompleto" ou "Não se aplica". Além disso, o avaliador terá a oportunidade de incluir observações detalhadas para cada pergunta, destacando aspectos relevantes que demandem maior esclarecimento ou atenção especial.
+&emsp;&emsp;A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
+
+Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">NFR framework</a>, que trata de uma técnica de modelagem àgil no desenvolvimento do aplicativo <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/">Jitsi</a>.
+</p>
 </p>
 
 ## **Verificações gerais**
