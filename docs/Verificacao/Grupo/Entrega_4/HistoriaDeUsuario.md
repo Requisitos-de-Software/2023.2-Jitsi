@@ -7,7 +7,7 @@
 
 ## **Objetivo**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;O objetivo deste documento é apresentar os resultados das verificações realizadas no artefato de Cenários. Isso inclui a identificação de áreas fortes e oportunidades de melhoria no artefato, bem como a proposição de ações corretivas quando necessário, visando aprimorar a qualidade do trabalho desenvolvido pelo grupo.
 </p>
 
 ## **Metodologia**
@@ -28,22 +28,41 @@
 | 5  | Todos os textos estão na norma padrão? |  |  |
 
 <center>
-<h6> Tabela 1: Critérios Gerais.
+<h6> Tabela 1: Checklist Geral de Verificação.
 <br/> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </center>
 
 ## **Verificações específicas**
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 6  | As histórias de usuários estão escritas de forma clara e concisa, com descrição do "quem", "o que" e "por que"? |  | |
-| 7  | Cada história de usuário possui um título auto-explicativo, isto é, que resume o objetivo principal da história? |  |  |
-| 8 | As histórias de usuário incluem critérios de aceitação que definam o que é necessário para que a história seja considerada concluída? |  |  |
-| 9 | As histórias de usuário são testáveis, possibilitando a verificação e validação do sistema com base nos critérios de aceitação definidos? |  |  |
+| 6  | As histórias de usuários estão escritas seguindo um padrão do "Como um[quem?], Quero[O que?] e o Porque?" |  | |
+| 7  | As histórias de usuários são pequenas, específicas e detalhadas? |  |  |
+| 8  | As histórias de usuarios foram escrita por um cliente ou usuário? |  |  |
 
 <center>
-<h6> Tabela 2: Veríficações específicas.
+<h6> Tabela 2: Checklist de Verificação.
 <br/> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </center>
+
+## **Fonte Checklist**
+<p align="justify">
+&emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado o Slide  <a href="https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf">"Aula 15 - Requisitos, Professores: Milene Serrano e Maurício Serrano"</a> página 12 e o livro <a href="https://aprender3.unb.br/pluginfile.php/2692825/mod_resource/content/3/Engenharia_de_Software_Uma_Abordagem_Pro.pdf">"Desenvolvimento Ágil - Engenharia de Software Pressman"</a> Tópico 3.4.2 para um embasamento teórico.
+</p>
+
+<center>
+<details>
+   <summary>Fonte checklist ID 6 e 7</summary>
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/US-ID%2006%20e%2007.png" alt="checklist" width=500px>
+</details>
+</center>
+
+<center>
+<details>
+   <summary>Fonte checklist ID 8</summary>
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/US-ID%2008.png" alt="checklist" width=500px>
+</details>
+</center>
+
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -52,7 +71,8 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 28/11/2023 | Iniciando Artefato |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Vitória](https://github.com/Juhvitoria4)|
+| `1.0`  | 28/11/2023 | Iniciando Artefato |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)||
+| `1.1`  | 30/11/2023 | Adição de Fonte do Checklist |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)|
 <h6> Tabela n: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
