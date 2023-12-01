@@ -52,15 +52,14 @@
 <center>
 <details>
    <summary>Fonte checklist ID 6 e 7</summary>
-      <img src="" alt="checklist" width=500px>
-      <img src="" alt="checklist" width=500px>
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/US-ID%2006%20e%2007.png" alt="checklist" width=500px>
 </details>
 </center>
 
 <center>
 <details>
    <summary>Fonte checklist ID 8</summary>
-      <img src="" alt="checklist" width=500px>
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/US-ID%2008.png" alt="checklist" width=500px>
 </details>
 </center>
 
