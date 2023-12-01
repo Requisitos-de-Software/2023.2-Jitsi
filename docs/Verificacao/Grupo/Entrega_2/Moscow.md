@@ -28,6 +28,7 @@
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 
 
+
 ## **Verificações Específicas**
 <p align="justify">
 &emsp;&emsp; A tabela 2 representa o Checklist para a Verificação do Moscow.
@@ -46,17 +47,38 @@
 <h6 align="center"> Tabela 2: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 
-## **Conclusão**
+## **Fonte Checklist**
 <p align="justify">
-&emsp;&emsp;Com base na avaliação dos IDs fornecidos, o artefato demonstra pontos positivos, como introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3) e conformidade com a norma padrão (ID 5). Contudo, há oportunidades de melhoria, especialmente na chamada de tabelas e imagens, onde o Histórico de Versão não possui legenda nem fonte (ID 4).
-
-No processo de priorização, embora a atividade seja registrada (ID 7) e os requisitos sejam classificados (ID 8), existem lacunas significativas. A ausência de um cronograma (ID 6), justificativas documentadas para a classificação dos requisitos (ID 9), participação do cliente/persona (ID 10) e gravação da reunião correspondente (ID 11) comprometem a completude e a transparência do artefato.
-
-Em resumo, enquanto o artefato apresenta pontos fortes, ajustes são necessários para aprimorar a representação da atividade de priorização e preencher as lacunas identificadas.
+&emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado o livro <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Moscow/#bibliografia">"Software Requirements, Third Edition"</a> de Karl Wiegers e Joy Beatty , 2019.
 </p>
 
+<center>
+<details>
+   <summary>Fonte checklist ID 7</summary>
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/M-PT1.png" alt="checklist" width=500px>
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/M-PT2.png" alt="checklist" width=500px>
+    
+        <h6> Figura 1: Fonte checklist ID 7.
+        <br> Fonte: <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Moscow/#bibliografia">"Software Requirements, Third Edition"</a></h6>
+</details>
+</center>
+
+<center>
+<details>
+   <summary>Fonte checklist ID 9 e 10</summary>
+      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/M-cliente.png" alt="checklist" width=500px>
+    
+        <h6> Figura 2: Fonte checklist ID 9 e 10.
+        <br> Fonte: <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Moscow/#bibliografia">"Software Requirements, Third Edition"</a></h6>
+</details>
+</center>
 
 
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp;
+
+</p>
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -66,11 +88,13 @@ Em resumo, enquanto o artefato apresenta pontos fortes, ajustes são necessário
 | Versão | Data       | Descrição           | Autor(es)                                                                                           | Revisor(es)                                     |
 |--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | `1.0`  | 27/11/2023 | Criação do artefato | [Catlen Cleane](https://github.com/catlenc) | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
-
+| `1.1`  | 01/11/2023 | Ajustes e adição de fontes | [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
 
 <h6 align="center"> Tabela 3: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+
 ## **Bibliografia**
 
-> <a href="https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf">[1]</a> WIEGERS, Karl, BEATTY, Joy. Software Requirements, Third Edition. Microsoft Press, Agosto, 2013. Disponível em:
+> <a href="https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf">[1]</a> WIEGERS, Karl, BEATTY, Joy. Software Requirements, Third Edition. Microsoft Press, Agosto, 2013.
+
 

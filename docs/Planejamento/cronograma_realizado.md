@@ -143,6 +143,7 @@ e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 | Verificação - Moscow, Introspecção, Especificação, Cronograma| Início: 11/11 <br>Fim: 13/11 |  [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq) |
 | Verificação - Backward, Metodologias| Início: 11/11 <br>Fim: 13/11 | [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 | Verificação - Ftf, TLS, Observação, Backlog| Início: 11/11 <br>Fim: 13/11 | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
+| Verificação - Moscow e Cronograma| Início: 11/11 <br>Fim: 13/11 |  [Júlia Souza](https://github.com/JuliaSSouza) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq) |
 | Verificação - Brainstorming| Início: 11/11 <br>Fim: 13/11 | [Pedro Siqueira](https://github.com/PedroSiq) e [Bruno Henrique](https://github.com/BrunoHenrique00) |[Júlia Vitória](https://github.com/Juhvitoria4)| 
 | Verificação - NFR| Início: 11/11 <br>Fim: 13/11 | [Júlia Vitória](https://github.com/Juhvitoria4) e  [Júlia Souza](https://github.com/JuliaSSouza) |[Pedro Siqueira](https://github.com/PedroSiq)| 
 | Verificação - Matriz e Ferramentas| Início: 11/11 <br>Fim: 13/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc)  | [Júlia Souza](https://github.com/JuliaSSouza)| 

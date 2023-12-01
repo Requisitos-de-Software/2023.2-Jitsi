@@ -2,17 +2,19 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp;Neste documento será realizado a verificação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/">Cronograma</a> referente ao aplicativo Jitsi.
+&emsp;&emsp;O objetivo deste documento é apresentar os resultados das verificações realizadas no artefato de NFR Framework. Isso inclui a identificação de áreas fortes e oportunidades de melhoria no artefato, bem como a proposição de ações corretivas quando necessário, visando aprimorar a qualidade do trabalho desenvolvido pelo grupo..
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp; Para realizar a verificação do artefato, foi feito uma tabela que apresenta um id, descrição um checklist denominado de avaliação e um campo para observações, onde na descrição contém as especificações ideais para o artefato e na avalição pode receber um sim ou não como resposta para cada especificação levando em conta que a avaliação só recebera um sim se a especificação for atendida.
+&emsp;&emsp; A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
+
+Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/">Cronograma</a>, que trata das atividades relaizdas no desenvolvimento do aplicativo <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/">Jitsi</a>.
 </p>
 
 ## **Verificação Cronograma**
-<p align="justify">
-&emsp;&emsp;A tabela 01 apresenta a Lista de Verificação do Cronograma
+<p align="justify">>
+&emsp;&emsp;A tabela 01 apresenta a Lista de Verificação do Cronograma que foi elaborada com base no plano de ensino da disciplina
 </p>
 
 | Id | Descrição                                                                                    | Avaliação | Observações |
@@ -46,6 +48,8 @@
 | Versão | Data       | Descrição            | Autor(es)                                            | Revisor(es)                                   |
 |--------|------------|----------------------|------------------------------------------------------|-----------------------------------------------|
 | `1.0`  | 25/11/2023 | Criação do Documento e Lista de Verificação | [Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza) |
+| `1.1`  | 25/11/2023 | Ajustes | [Júlia Souza](https://github.com/JuliaSSouza) | [Catlen Cleane](https://github.com/catlenc) |
+
 <h6  align = "center"> Tabela 02: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 

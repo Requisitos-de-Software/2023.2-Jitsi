@@ -48,13 +48,25 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 <p align="justify">
 &emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado os slides da <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Introspec%C3%A7%C3%A3o/#bibliografia">aula 07</a> dos professores Milene Serrano e Maurício Serrano.
 </p>
+<center>
+<details>
+   <summary>Fonte checklist ID 6 e 7 </summary>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/Introspeccao.png" alt="Setas" width=300px>
+    
+        <h6> Figura 1: Fonte checklist ID 6 e 7.
+        <br> Fonte:  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Introspec%C3%A7%C3%A3o/#bibliografia">aula 07</a></h6>
+</details>
+</center>
 
-<li> Fonte checklist ID 6 e 7 </li>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/Introspeccao.png" alt="Setas" width=300px>
-
-<li> Fonte checklist ID 10 </li>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ProblemasIntro.png" alt="Setas" width=300px>
-
+<center>
+<details>
+   <summary>Fonte checklist ID 10 </summary>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ProblemasIntro.png" alt="Setas" width=300px>
+    
+        <h6> Figura 2: Fonte checklist ID 10.
+        <br> Fonte:  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Introspec%C3%A7%C3%A3o/#bibliografia">aula 07</a></h6>
+</details>
+</center>
 
 ## **Conclusão**
 <p align="justify">
@@ -70,6 +82,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 |--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | `1.0`  | 28/11/2023 | Criação do artefato |  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
 | `1.1`  | 28/11/2023 | Adição do checklist e suas fontes |  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
+| `1.2`  | 01/12/2023 | Ajustes nas fontes e adição de legenda|  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
 
 
 <h6 align="center"> Tabela 3: Histórico de Versão.

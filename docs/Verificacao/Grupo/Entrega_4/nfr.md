@@ -59,26 +59,75 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 &emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado a dissertação de mestrado <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/#bibliografia">"NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados"</a> de Reinaldo Antônio da Silva, 2019.
 </p>
 
-<li> Fonte checklist ID 7 </li>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-impacto.png" alt="Setas" width=500px>
+<center>
+<details>
+   <summary>Fonte checklist ID 7</summary>
+     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-impacto.png" alt="Setas" width=500px>
+    
+        <h6> Figura 1: Fonte checklist ID 7.
+        <br> Fonte:  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/#bibliografia">"NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados"</a></h6>
+</details>
+</center>
 
-<li> Fonte checklist ID 8 </li>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-refinamento.png" alt="Setas" width=500px>
+<center>
+<details>
+   <summary>Fonte checklist ID 8</summary>
+     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-refinamento.png" alt="Setas" width=500px>
+    
+        <h6> Figura 2: Fonte checklist ID 8.
+        <br> Fonte:  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/#bibliografia">"NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados"</a></h6>
+</details>
+</center>
 
-<li> Fonte checklist ID 9 </li>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-introCartoes.png" alt="Setas" width=500px>
+<center>
+<details>
+   <summary>Fonte checklist ID 9</summary>
+     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-introCartoes.png" alt="Setas" width=500px>
+    
+        <h6> Figura 3: Fonte checklist ID 9.
+        <br> Fonte:  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/#bibliografia">"NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados"</a></h6>
+</details>
+</center>
 
-<li> Fonte checklist ID 10 </li>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-cartoes.png" alt="Setas" width=500px>
+<center>
+<details>
+   <summary>Fonte checklist ID 10</summary>
+     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-cartoes.png" alt="Setas" width=500px>
+    
+        <h6> Figura 4: Fonte checklist ID 10.
+        <br> Fonte:  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/#bibliografia">"NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados"</a></h6>
+</details>
+</center>
 
-<li> Fonte checklist ID 11 </li>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-nfr.png" alt="Setas" width=500px>
+<center>
+<details>
+   <summary>Fonte checklist ID 11</summary>
+     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-nfr.png" alt="Setas" width=500px>
+    
+        <h6> Figura 5: Fonte checklist ID 11.
+        <br> Fonte:  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/#bibliografia">"NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados"</a></h6>
+</details>
+</center>
 
-<li> Fonte checklist ID 12 </li>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-operacionalizacao.png" alt="Setas" width=500px>
+<center>
+<details>
+   <summary>Fonte checklist ID 12</summary>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-operacionalizacao.png" alt="Setas" width=500px>
+    
+        <h6> Figura 6: Fonte checklist ID 12.
+        <br> Fonte:  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/#bibliografia">"NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados"</a></h6>
+</details>
+</center>
 
-<li> Fonte checklist ID 13 </li>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-afirmacao.png" alt="Setas" width=500px>
+<center>
+<details>
+   <summary>Fonte checklist ID 13</summary>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-afirmacao.png" alt="Setas" width=500px>
+    
+        <h6> Figura 7: Fonte checklist ID 13.
+        <br> Fonte:  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/#bibliografia">"NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados"</a></h6>
+</details>
+</center>
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -88,7 +137,8 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 28/11/2023 | Iniciando Artefato |[Júlia Vitória](https://github.com/Juhvitoria4) |[Carolina Barbosa](https://github.com/CarolinaBarb) |
-| `1.1`  | 28/11/2023 | Adição das fontes e ajustes |  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
+| `1.1`  | 30/11/2023 | Adição das fontes e ajustes |  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
+| `1.2`  | 01/12/2023 | Ajustes nas fontes e adição de legenda|  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
 
 
 ## **Bibliografia**
