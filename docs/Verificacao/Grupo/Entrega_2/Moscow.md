@@ -2,12 +2,13 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp; A verificação tem como finalidade assegurar que todos os critérios de avaliação tenham sido devidamente atendidos. Isso é realizado por meio de uma análise do conteúdo e da estrutura do artefato, visando aprimorar sua qualidade.
+&emsp;&emsp; A verificação visa garantir que todos os critérios de avaliação tenham sido devidamente atendidos, realizando uma análise do conteúdo e da estrutura do artefato para aprimorar sua qualidade. Após essa etapa, segue-se à execução da inspeção. Neste documento, são apresentados os propósitos da inspeção, a metodologia utilizada e os dados derivados do processo de verificação. A análise dos principais problemas identificados fornece informações importantes para a formulação de ações corretivas adequadas.
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp; Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/">Moscow</a>, que trata das priorizações no desenvolvimento do aplicativo <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/">Jitsi</a>.
+&emsp;&emsp;A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
+ Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/">Moscow</a>, que trata das priorizações no desenvolvimento do aplicativo <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/">Jitsi</a>.
 </p>
 
 ## **Verificações Gerais**
@@ -40,8 +41,7 @@
 | 9   | A participação do cliente e/ou persona no processo de priorização? |       |      |
 | 10  | Existe uma gravação da reunião com a participação do cliente/persona?  |       |      |
 | 11  | Todos os requisitos funcionais estão documentados? |  |  |      
-| 12  | A divisão dos requisitos está coerente?  |  |  |   
-| 13  | O artefato apresenta um backlog com os requisitos? | | |                                                                                          
+| 12  | O artefato apresenta um backlog com os requisitos? | | |                                                                                          
 
 <h6 align="center"> Tabela 2: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
