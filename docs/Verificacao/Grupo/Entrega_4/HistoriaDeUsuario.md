@@ -2,17 +2,19 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;A verificação tem como finalidade assegurar que todos os critérios de avaliação tenham sido devidamente atendidos. Isso é realizado por meio de uma análise do conteúdo e da estrutura do artefato, visando aprimorar sua qualidade.
 </p>
 
 ## **Objetivo**
 <p align="justify">
-&emsp;&emsp;O objetivo deste documento é apresentar os resultados das verificações realizadas no artefato de Cenários. Isso inclui a identificação de áreas fortes e oportunidades de melhoria no artefato, bem como a proposição de ações corretivas quando necessário, visando aprimorar a qualidade do trabalho desenvolvido pelo grupo.
+&emsp;&emsp;O objetivo deste documento é apresentar os resultados das verificações realizadas no artefato de Histórias de Usuário. Isso inclui a identificação de áreas fortes e oportunidades de melhoria no artefato, bem como a proposição de ações corretivas quando necessário, visando aprimorar a qualidade do trabalho desenvolvido pelo grupo.
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
+
+Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">Histórias de Usuário</a>, que trata de uma das modelagens usada, no desenvolvimento do aplicativo <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/">Jitsi</a>.
 </p>
 
 ## **Verificações gerais**
@@ -38,9 +40,9 @@
 </p>
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 6  | As histórias de usuários estão escritas seguindo um padrão do "Como um[quem?], Quero[O que?] e o Porque?" | Sim | |
-| 7  | As histórias de usuários são pequenas, específicas e detalhadas? | Sim |  |
-| 8  | As histórias de usuarios foram escrita por um cliente ou usuário? | Sim |  As histórias de usuário não foram escritas pelo usuário mas foram validadas por um usuário |
+| 6  | As histórias de usuário estão escritas seguindo um padrão do "Como um[quem?], Quero[O que?] e o Porque?" | Sim | |
+| 7  | As histórias de usuário são pequenas, específicas e detalhadas? | Sim |  |
+| 8  | As histórias de usuario foram escrita por um cliente ou usuário? | Sim |  As histórias de usuário não foram escritas pelo usuário mas foram validadas por um usuário |
 | 9  | O artefato possui uma gravação com um usuário ou cliente de validação? | Sim |  |
 
 <center>
@@ -57,6 +59,10 @@
 <details>
    <summary>Fonte checklist ID 6 e 7</summary>
       <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/US-ID%2006%20e%2007.png" alt="checklist" width=500px>
+
+      <h6> Figura 01: Fonte checklist ID 6 e 7.
+      <br> Fonte:  <a href="https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf">"Aula 15 - Requisitos, Professores: Milene Serrano e Maurício Serrano"</a></h6>
+
 </details>
 </center>
 
@@ -64,6 +70,10 @@
 <details>
    <summary>Fonte checklist ID 8</summary>
       <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/US-ID%2008.png" alt="checklist" width=500px>
+
+      <h6> Figura 02: Fonte checklist ID 8.
+      <br> Fonte:  <a href="https://aprender3.unb.br/pluginfile.php/2692825/mod_resource/content/3/Engenharia_de_Software_Uma_Abordagem_Pro.pdf">"Desenvolvimento Ágil - Engenharia de Software Pressman"</a></h6>
+
 </details>
 </center>
 
@@ -88,6 +98,7 @@
 | `1.0`  | 28/11/2023 | Iniciando Artefato |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)||
 | `1.1`  | 30/11/2023 | Adição de Fonte do Checklist |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)|
 | `1.2`  | 01/12/2023 | Gravacão da Inspeção |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)|
+| `1.3`  | 01/12/2023 | Ajustes nas fontes |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)|
 <h6 align="center"> Tabela 03: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 

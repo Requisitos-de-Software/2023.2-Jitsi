@@ -2,7 +2,7 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;A verificação tem como finalidade assegurar que todos os critérios de avaliação tenham sido devidamente atendidos. Isso é realizado por meio de uma análise do conteúdo e da estrutura do artefato, visando aprimorar sua qualidade.
 </p>
 
 ## **Objetivo**
@@ -12,7 +12,9 @@
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
+
+Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">Cenários</a>, que trata de uma das modelagens usada, no desenvolvimento do aplicativo <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/">Jitsi</a>.
 </p>
 
 ## **Verificações gerais**
@@ -61,6 +63,10 @@
    <summary>Fonte checklist ID 6, 7 e 8</summary>
       <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/Cenario%20ID06%2C%2007%2C08.png" alt="checklist" width=500px>
       <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/Cenario%20ID06%2C%2007%2C08%20cont.png" alt="checklist" width=500px>
+
+      <h6> Figura 01: Fonte checklist ID 6, 7 e 8.
+      <br> Fonte:  <a href="https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf">"Rastreamento de Cenários"</a></h6>
+
 </details>
 </center>
 
@@ -68,6 +74,10 @@
 <details>
    <summary>Fonte checklist ID 9</summary>
       <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/Cenario%20ID09.png" alt="checklist" width=500px>
+
+      <h6> Figura 02: Fonte checklist ID 9.
+      <br> Fonte:  <a href="https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf">"Rastreamento de Cenários"</a></h6>
+
 </details>
 </center>
 
@@ -76,6 +86,10 @@
 <details>
    <summary>Fonte checklist ID 10</summary>
       <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/Cenario%20ID10.png" alt="checklist" width=500px>
+
+      <h6> Figura 03: Fonte checklist ID 10.
+      <br> Fonte:  <a href="https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf">"Rastreamento de Cenários"</a></h6>
+
 </details>
 </center>
 
@@ -83,6 +97,10 @@
 <details>
    <summary>Fonte checklist ID 11</summary>
       <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/Cenario%20ID11.png" alt="checklist" width=500px>
+
+      <h6> Figura 04: Fonte checklist ID 11.
+      <br> Fonte:  <a href="https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf">"Rastreamento de Cenários"</a></h6>
+
 </details>
 </center>
 
@@ -107,6 +125,7 @@
 | `1.0`  | 28/11/2023 | Iniciando Artefato |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)|
 | `1.1`  | 30/11/2023 | Adição de Fonte do Checklist |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)|
 | `1.2`  | 01/12/2023 | Gravacão da Inspeção |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)|
+| `1.3`  | 01/12/2023 | Ajustes nas fontes |[Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)|
 <h6 align="center"> Tabela 03: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
