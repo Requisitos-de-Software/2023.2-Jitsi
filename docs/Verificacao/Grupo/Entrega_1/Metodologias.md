@@ -23,11 +23,11 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 1  | O artefato possui introdução? |  |  |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica? | | |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |  |  |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |  |  |
-| 5  | Todos os textos estão na norma padrão? |  |  |
+| 1  | O artefato possui introdução? | Sim |  |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica? | Sim | |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim |  |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | sim |  |
+| 5  | Todos os textos estão na norma padrão? | sim |  |
 
 <center>
 <h6> Tabela 1: Critérios Gerais.
@@ -40,12 +40,12 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição | Avaliação | Observações |
 |--------|----------|--------|------------|
-| 6     | Os objetivos das metodologias estão alinhados com os objetivos gerais do projeto? |  | |
-| 7      | As metodologias utilizadas estão descritas de forma detalhada? |  | |
-| 8     | Cada metodologia possui uma explicação clara de como será implementada? |  | |
-| 9     | Existe uma justificativa para a escolha das metodologias utilizadas? | | | | 
-| 10    | Os recursos necessários para a implementação das metodologias estão listados? | | 
-| 11 | O artefato descreve as políticas de forma concisa e de fácil entendimento? | | |
+| 6     | Os objetivos das metodologias estão alinhados com os objetivos gerais do projeto? | sim | |
+| 7      | As metodologias utilizadas estão descritas de forma detalhada? | sim | |
+| 8     | Cada metodologia possui uma explicação clara de como será implementada? | sim  | |
+| 9     | Existe uma justificativa para a escolha das metodologias utilizadas? |sim | | | 
+| 10    | Os recursos necessários para a implementação das metodologias estão listados? |sim | |
+| 11 | O artefato descreve as políticas de forma concisa e de fácil entendimento? | sim | |
 
 
 <center>

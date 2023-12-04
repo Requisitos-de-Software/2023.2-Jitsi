@@ -23,11 +23,11 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 1  | O artefato possui introdução? |  |  |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica? |  |  |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |  |  |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |  |  |
-| 5  | Todos os textos estão na norma padrão? |  |  |
+| 1  | O artefato possui introdução? | sim |  |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica? | sim |  |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | sim  |  |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | sim  |  |
+| 5  | Todos os textos estão na norma padrão? | sim |  |
 
 <center>
 <h6> Tabela 1: Critérios Gerais.
@@ -37,13 +37,12 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 ## **Verificações específicas**
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|-------------|
-|  6  | Cada requisito está claramente definido e compreendido?   |           |             |
-| 7 | A origem dos requisitos é consistente e bem documentada? | | |
-| 8|  Os requisitos estão representados em níveis ambientais, organizacionais, gerenciais ou de desenvolvimento? | | |
-| 9 | Os elos foram adequadamente identificados e documentados para requisitos funcionais e não funcionais? | | |
-| 10 | Os elementos visuais, como tabelas e elos, são formatados de maneira clara? | | |
-| 11 | A origem de cada requisito foi rastreada até seu ponto de origem | | |
-| 12 | Cada nível do Meta-modelo é explorado e aplicado de maneira eficaz? | | |
+|  6  | Cada requisito está claramente definido e compreendido?   |   sim        |             |
+| 7 | A origem dos requisitos é consistente e bem documentada? |sim | |
+| 8 | Os elos foram adequadamente identificados e documentados para requisitos funcionais e não funcionais? | sim | |
+| 9 | Os elementos visuais, como tabelas e elos, são formatados de maneira clara? | sim | |
+| 10 | A origem de cada requisito foi rastreada até seu ponto de origem | sim | |
+| 11 | Cada nível do Meta-modelo é explorado e aplicado de maneira eficaz? | sim | |
 
 <center>
 <h6> Tabela 2: Veríficações específicas.
@@ -63,6 +62,5 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
 ## **Bibliografia**
-> <a href="https://Link_da_fonte">[1]</a> Fonte 1
-
-> <a href="https://Link_da_fonte">[2]</a> Fonte 2
+> <a href="https://aprender3.unb.br/pluginfile.php/2692771/mod_resource/content/3/Elicitacao%20de%20Req%202.pdf">[1]</a> VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia de requisitos. Editora Brasport, 10 ago. 2016. </a> 
+> <a href="https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf">[2] Slides aula 26 Professora Milene Serrano Acesso em: 20/11/23. 2023. </a> 
