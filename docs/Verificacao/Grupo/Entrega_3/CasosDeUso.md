@@ -23,11 +23,11 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 1  | O artefato possui introdução? |  |  |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica? | | |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |  |  |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | |  |
-| 5  | Todos os textos estão na norma padrão? | |  |
+| 1  | O artefato possui introdução? | Sim | Falta fazer o objetivo |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica? | Sim | |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim |  |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |Sim |  |
+| 5  | Todos os textos estão na norma padrão? | Sim |  |
 
 <center>
 <h6> Tabela 01: Checklist Geral de Verificação.
@@ -40,17 +40,17 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 6  | A especificação do caso de uso está completa e detalhada?|  |  |
-| 7  | Inclui informações como Nome, Descrição, Atores, Pré-Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção? |  |  |
-| 8  | Os atores principais e secundários foram identificados no diagrama de caso de uso?|  |  |
-| 9  | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? |  |  |
-| 10 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? |  |  |
-| 11 | A representação gráfica está de acordo com as convenções de modelagem? | |  |
-| 12 | A participação do cliente e/ou persona na validação do Diagrama de Caso de Uso foi considerada? |  |  |
-| 13 | Há o uso de verbos no infinitivo e não substantivos?|  |  |
-| 14 | O caso de uso representa o usuário e suas interações com o sistema? |  |  |
-| 15 | Os casos de uso são de requisitos funcionais? |  |  |
-| 16 | A fronteira do sistema é apresentada? |  |  |
+| 6  | A especificação do caso de uso está completa e detalhada?| Sim |  |
+| 7  | Inclui informações como Nome, Descrição, Atores, Pré-Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção? | Sim |  |
+| 8  | Os atores principais e secundários foram identificados no diagrama de caso de uso?| Sim |  |
+| 9  | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? | Sim |  |
+| 10 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? | Sim |  |
+| 11 | A representação gráfica está de acordo com as convenções de modelagem? | Sim |  |
+| 12 | A participação do cliente e/ou persona na validação do Diagrama de Caso de Uso foi considerada? | Não |  |
+| 13 | Há o uso de verbos no infinitivo e não substantivos?| Sim |  |
+| 14 | O caso de uso representa o usuário e suas interações com o sistema? | Sim |  |
+| 15 | Os casos de uso são de requisitos funcionais? | Sim |  |
+| 16 | A fronteira do sistema é apresentada? | Sim |  |
 
 
 <center>
@@ -65,11 +65,10 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 ## **Conclusão**
 <p align="justify">
-&emsp;&emsp;Com base na avaliação dos IDs fornecidos, o artefato demonstra pontos positivos, como introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3) e conformidade com a norma padrão (ID 5). Contudo, há oportunidades de melhoria, especialmente na chamada de tabelas e vídeos, onde alguns itens não possui legenda nem fonte (ID 4).
+&emsp;&emsp;Com base na avaliação dos IDs fornecidos, o artefato demonstra pontos positivos, como introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3), as tabelas e imagens são chamadas no texto, possuem legendas e fontes(ID 4),  e existe conformidade com a norma padrão (ID 5). 
 
-Seria melhor se os autores fizessem um cronograma para cada entrevista e corrigir o erro na descrição do Requisito 08.
+A única falha que verifiquei foi a não participação de um usuário ou persona na criação do artefato.
 
-Em resumo, enquanto o artefato apresenta pontos fortes, ajustes são necessários para aprimorar a representação da atividade de priorização e preencher as lacunas identificadas.
 </p>
 
 
@@ -81,6 +80,7 @@ Em resumo, enquanto o artefato apresenta pontos fortes, ajustes são necessário
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 04/12/2023 | Iniciando Artefato |[Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza)|
+| `1.1`  | 04/12/2023 | Lista de verificação e Inspeção |[Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza)|
 
 
 <h6 align="center"> Tabela 03: Histórico de Versão.
