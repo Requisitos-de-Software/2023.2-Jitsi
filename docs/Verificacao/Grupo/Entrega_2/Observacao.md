@@ -55,7 +55,12 @@
 ## **Conclusão**
 
 <p align="justify">
-&emsp;&emsp;Em relação à estrutura, existem apenas alguns erros gramaticais a serem corrigidos. Quanto aos conteúdos específicos do artefato, é necessário introduzir melhor a técnica de observação e suas nuances, inserir um cronograma para a realização das atividades na observação e referenciar cada texto retirado de materiais externos. No mais, não existem outros pontos de melhoria que foram identificados pela inspeção no artefato.
+&emsp;&emsp;Em relação à estrutura, existem apenas alguns erros gramaticais a serem corrigidos. Quanto aos conteúdos específicos do artefato, recomenda-se a aplicação dos seguintes tópicos:
+<ul>
+<li>Introduzir melhor a técnica de observação e suas nuances;</li>
+<li>Inserção do cronograma utilizado para realização das atividades na observação</li>
+<li>Referenciar cada texto retirado de materiais externos.</li>
+</ul>
 </p>
 
 ## **Histórico de Versão**
