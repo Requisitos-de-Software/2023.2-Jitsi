@@ -23,7 +23,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 1  | O artefato possui introdução? | |  |
+| 1  | O artefato possui introdução? |  |  |
 | 2  | O artefato possui uma bibliografia/referência bibliográfica? | | |
 | 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |  |  |
 | 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | |  |
@@ -61,6 +61,15 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 ## **Fonte Checklist**
 <p align="justify">
 &emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado a apostila  <a href="https://www.inf.ufpr.br/andrey/ci167/apostilaUml.pdf">"Projeto de Software Usando a UML"</a>.
+</p>
+
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp;Com base na avaliação dos IDs fornecidos, o artefato demonstra pontos positivos, como introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3) e conformidade com a norma padrão (ID 5). Contudo, há oportunidades de melhoria, especialmente na chamada de tabelas e vídeos, onde alguns itens não possui legenda nem fonte (ID 4).
+
+Seria melhor se os autores fizessem um cronograma para cada entrevista e corrigir o erro na descrição do Requisito 08.
+
+Em resumo, enquanto o artefato apresenta pontos fortes, ajustes são necessários para aprimorar a representação da atividade de priorização e preencher as lacunas identificadas.
 </p>
 
 
