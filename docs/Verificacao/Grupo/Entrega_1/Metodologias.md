@@ -45,6 +45,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 | 8     | Cada metodologia possui uma explicação clara de como será implementada? |  | |
 | 9     | Existe uma justificativa para a escolha das metodologias utilizadas? | | | | 
 | 10    | Os recursos necessários para a implementação das metodologias estão listados? | | 
+| 11 | O artefato descreve as políticas de forma concisa e de fácil entendimento? | | |
 
 
 <center>

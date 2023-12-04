@@ -12,7 +12,7 @@
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
+&emsp;&emsp;A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
 
 Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PosRastreabilidade/Backward-From/">Backward-From</a>.Este método de rastreabilidade desempenha um papel crucial ao estabelecer conexões entre os requisitos do projeto e suas respectivas fontes, proporcionando uma compreensão abrangente das origens e do contexto por trás de cada requisito.
 </p>
@@ -37,7 +37,13 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 ## **Verificações específicas**
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|-------------|
-|  6  |           |           |             |
+|  6  | Cada requisito está claramente definido e compreendido?   |           |             |
+| 7 | A origem dos requisitos é consistente e bem documentada? | | |
+| 8|  Os requisitos estão representados em níveis ambientais, organizacionais, gerenciais ou de desenvolvimento? | | |
+| 9 | Os elos foram adequadamente identificados e documentados para requisitos funcionais e não funcionais? | | |
+| 10 | Os elementos visuais, como tabelas e elos, são formatados de maneira clara? | | |
+| 11 | A origem de cada requisito foi rastreada até seu ponto de origem | | |
+| 12 | Cada nível do Meta-modelo é explorado e aplicado de maneira eficaz? | | |
 
 <center>
 <h6> Tabela 2: Veríficações específicas.
@@ -52,6 +58,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 28/11/2023 | Iniciando Artefato |[Júlia Vitória](https://github.com/Juhvitoria4)| [Carolina Barbosa](https://github.com/CarolinaBarb) |
+| `1.0` | 04/12/2023 | Adição das tabelas | [Júlia Vitória](https://github.com/Juhvitoria4) |  [Carolina Barbosa](https://github.com/CarolinaBarb) |
 <h6> Tabela n: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
