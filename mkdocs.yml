@@ -63,7 +63,7 @@ nav:
       - Casos de Uso: Modelagem/casosDeUso.md
       - Especificação Suplementar: Modelagem/especificacaoSuplementar.md
       - Agil:
-        - Backlog: Modelagem/Agil/backlog.md
+        - Product Backlog: Modelagem/Agil/backlog.md
         - Histórias de usuário: Modelagem/Agil/historias.md
         - NFR Framework: Modelagem/Agil/nfr-framework.md
   - Verificação:
@@ -85,6 +85,7 @@ nav:
         - Especificação Suplementar: Verificacao/Grupo/Entrega_3/EspecificaçãoSuplementar.md
         - Lexicos: Verificacao/Grupo/Entrega_3/lexicos.md
       - Entrega 04: 
+        - Product Backlog: Verificacao/Grupo/Entrega_4/Backlog.md
         - História de Usuário: Verificacao/Grupo/Entrega_4/HistoriaDeUsuario.md
         - NRF: Verificacao/Grupo/Entrega_4/nfr.md
       - Entrega 05:
