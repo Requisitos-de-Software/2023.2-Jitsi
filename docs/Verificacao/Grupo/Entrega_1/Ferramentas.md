@@ -34,13 +34,7 @@
 
 ## **Conclusão**
 <p align="justify"> 
-&emsp;&emsp;Após verificar o artefato, concluímos que o mesmo está em um bom nível de estruturação, especificação da entrega e cumprimento das pedidas, sendo recomendados os tópicos abaixo: 
-<ul>
-<li>Validação dos gráficos SIG com fontes externas;</li>
-<li>Inserir legenda e fonte no histórico de versão;</li>
-<li>Inserir ultralinks para os requisitos citados durante o artefato nos cartões.</li>
-</ul>
-</p>
+&emsp;&emsp;Após verificar o artefato, concluímos que o mesmo está em um bom nível de estruturação, especificação da entrega e cumprimento dos itens listados na losta de verificação.
 
 ## **Histórico de Versão**
 <p align="justify">
