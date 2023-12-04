@@ -1,4 +1,4 @@
-# ***Three Level Scale***
+# ***Three-Level Scale***
 
 ## **Introdução**
 <p align="justify">

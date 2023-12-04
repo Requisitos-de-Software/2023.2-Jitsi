@@ -76,7 +76,7 @@
 
 
 <p align="justify">
-<h6 align = "center"> Figura/Tabela 2: Requisitos avaliados.
+<h6 align = "center"> Tabela 2: Requisitos Avaliados.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
 

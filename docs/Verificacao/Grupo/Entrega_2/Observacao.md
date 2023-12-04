@@ -1,4 +1,4 @@
-# **Verificação - Observação**
+# **Verificação da Observação**
 
 ## **Introdução**
 
@@ -66,7 +66,7 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 29/11/2023 | Criação do artefato| [Pedro Siqueira](https://github.com/catlenc) | [Júlia Vitória](https://github.com/Juhvitoria4)|
+| `1.0`  | 29/11/2023 | Criação do artefato| [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Vitória](https://github.com/Juhvitoria4)|
 <h6 align = "center"> Tabela 03: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
