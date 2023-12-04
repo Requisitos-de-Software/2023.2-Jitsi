@@ -24,7 +24,7 @@
 | 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Sim | |
 | 3 | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim |  |
 | 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | |
-| 5 |  Todos os textos estão na norma padrão? | Não | Presença de alguns erros gramaticais. |
+| 5 | Todos os textos estão na norma padrão? | Não | Presença de alguns erros gramaticais. |
 
 <h6 align="center"> Tabela 01: Checklist Geral de Verificação.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
@@ -49,13 +49,13 @@
 | 14 | Os requisitos elicitados durante a observação foram registrados de forma precisa e completa?| Sim | |
 | 15 | Os requisitos foram classificados de forma correta?| Sim | |
 
-<h6 align="center"> Tabela 02: Checklist Geral de Verificação.
+<h6 align="center"> Tabela 02: Checklist Específico de Verificação.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Conclusão**
 
 <p align="justify">
-&emsp;&emsp;Em relação à estrutura, existem erros gramaticais a serem corrigidos. Quanto aos conteúdos específicos do artefato, é necessário introduzir melhor a técnica de observação e suas nuances, inserir um cronograma para a realização das atividades na observação e referenciar cada texto retirado de materiais externos. No mais, não existem outros pontos de melhoria que foram identificados pela inspeção no artefato.
+&emsp;&emsp;Em relação à estrutura, existem apenas alguns erros gramaticais a serem corrigidos. Quanto aos conteúdos específicos do artefato, é necessário introduzir melhor a técnica de observação e suas nuances, inserir um cronograma para a realização das atividades na observação e referenciar cada texto retirado de materiais externos. No mais, não existem outros pontos de melhoria que foram identificados pela inspeção no artefato.
 </p>
 
 ## **Histórico de Versão**

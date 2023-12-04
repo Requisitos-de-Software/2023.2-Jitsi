@@ -24,7 +24,7 @@
 | 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Sim | |
 | 3 | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim |  |
 | 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | |
-| 5 |  Todos os textos estão na norma padrão? | Sim | |
+| 5 | Todos os textos estão na norma padrão? | Sim | |
 
 <h6 align="center"> Tabela 01: Checklist Geral de Verificação.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
@@ -49,8 +49,11 @@
 | 14 | Os participantes e suas funções são apresentados? | Sim | |
 | 15 | A priorização foi feita com a participação de um cliente/persona? | Sim |  |
 | 16 | Existe uma gravação da reunião com a participação do cliente/persona? | Sim |  |
+| 17 | Os revisores são pessoas diferentes dos autores?| Sim | |
+| 18 | Foi determinado um cronograma para a realização dessa priorização?| Não | |
+| 19 | São utilizados hyperlinks para rastrear os requisitos? | Não |  |
 
-<h6 align="center"> Tabela 02: Checklist Geral de Verificação.
+<h6 align="center"> Tabela 02: Checklist Específico de Verificação.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Conclusão**
@@ -61,6 +64,8 @@
 <li>Apresentação das fórmulas que foram utilizadas;</li>
 <li>Exibição dos pesos relativos;</li>
 <li>Cálculo do valor total;</li>
+<li>Inserção de cronograma referente à execução da técnica;</li>
+<li>Utilização de hyperlinks para permitir rastreamento dos requisitos que foram priorizados;</li>
 <li>Exposição dos requisitos em ordem de prioridade.</li>
 </ul>
 </p>

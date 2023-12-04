@@ -14,7 +14,7 @@
 
 ## **Verificações Gerais**
 <p align="justify"> 
-&emsp;&emsp;A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
+&emsp;&emsp;A tabela 1 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
 </p>
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
@@ -26,12 +26,12 @@
 
 
 
-<h6 align="center"> Tabela 2: Checklist de Verificação.
+<h6 align="center"> Tabela 1: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ## **Verificações Específicas**
 <p align="justify">
-&emsp;&emsp; A tabela 1 representa o Checklist para a Verificação do Three-Level Scale.
+&emsp;&emsp; A tabela 2 representa o Checklist para a Verificação do Three-Level Scale.
 </p>
 
 | ID  | Descrição                                                                                                                                                                                                                                            | Avaliação | Observação |
@@ -44,7 +44,7 @@
 | 11  | Dentre os Requisitos Priorizados estão os Funcionais e Não-Funcionais?    |     Sim     |         |     -      |
 
 
-<h6 align="center"> Tabela 1: Checklist de Verificação.
+<h6 align="center"> Tabela 2: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 
@@ -62,7 +62,7 @@ Em síntese, o artefato está sólido, com ajustes necessários na chamada de ta
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 3  representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 3 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data       | Descrição           | Autor(es)                                                                                           | Revisor(es)                                     |

@@ -55,7 +55,7 @@ nav:
     - Priorização: 
       - First Things First : Elicitacao/priorizacao/ftf.md
       - MoSCoW: Elicitacao/priorizacao/MoSCoW.md
-      - Three Level Scale:  Elicitacao/priorizacao/TLS.md
+      - Three-Level Scale:  Elicitacao/priorizacao/TLS.md
     - Requisitos Elicitados: Elicitacao/requisitos-elicitados.md
   - Modelagem:
       - Cenários: Modelagem/cenarios.md
@@ -79,6 +79,7 @@ nav:
         - Introspecção: Verificacao/Grupo/Entrega_2/Introspecção.md
         - Observação: Verificacao/Grupo/Entrega_2/Observacao.md
         - First Things First: Verificacao/Grupo/Entrega_2/Ftf.md
+        - Three-Level Scale: Verificacao/Grupo/Entrega_2/Tls.md
       - Entrega 03: 
         - Cenários: Verificacao/Grupo/Entrega_3/Cenarios.md
         - Especificação Suplementar: Verificacao/Grupo/Entrega_3/EspecificaçãoSuplementar.md

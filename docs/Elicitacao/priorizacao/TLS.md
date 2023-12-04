@@ -177,9 +177,7 @@
 | `1.0`  | 06/10/2023 | Elaboração do artefato | [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 | `1.1`  | 23/10/2023 |Tabelas com requisitos junto com um usuário | [Catlen Cleane](https://https://github.com/catlenc) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 
-
-
-<h6> Tabela 4: Histórico de Versão.
+<h6 align="center"> Tabela 4: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/Juhvitoria4">Júlia Vitória</a> </h6>
 
 ## **Bibliografia**

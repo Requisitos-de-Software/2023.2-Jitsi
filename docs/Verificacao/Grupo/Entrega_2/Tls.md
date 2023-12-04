@@ -24,7 +24,7 @@
 | 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Sim | |
 | 3 | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim |  |
 | 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | |
-| 5 |  Todos os textos estão na norma padrão? | Não | Presença de alguns erros gramaticais. |
+| 5 | Todos os textos estão na norma padrão? | Sim | Porém, há a presença de alguns erros gramaticais |
 
 <h6 align="center"> Tabela 01: Checklist Geral de Verificação.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
@@ -38,24 +38,29 @@
 
 |ID|Descrição|Resposta|Observações|
 |----|----|-----|-----|
-| 6 | O artefato possui uma introdução condizente com o conteúdo do texto?| Sim | Porém, poderia introduzir melhor a técnica |
-| 7 | Um cronograma (data e horário) para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?| Não | |
-| 8 | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?| Sim | |
+| 6 | A priorização usando Three Level Scale levou em consideração as duas dimensões '_Importância_' e '_Urgência_'? | Sim |  |
+| 7 | Os níveis de priorização foram divididos em 3? ('Alta', 'Média' e 'Baixa')| Sim | |
+| 8 | Foi determinado um cronograma para a realização dessa priorização?| Não | |
 | 9 | Está especificado o papel de cada participante?| Sim | |
 | 10 | Os revisores são pessoas diferentes dos autores?| Sim | |
 | 11 | Todas as bibliografias/referências bibliográficas são utilizadas no texto?| Sim | |
 | 12 | O ambiente de observação foi adequado para capturar os dados relevantes, como a interação dos usuários com o sistema?| Sim | |
-| 13 | As observações foram conduzidas de forma não intrusiva, minimizando o impacto na rotina dos usuários?| Sim | |
-| 14 | Os requisitos elicitados durante a observação foram registrados de forma precisa e completa?| Sim | |
-| 15 | Os requisitos foram classificados de forma correta?| Sim | |
+| 13 | A priorização foi feita com a participação de um cliente/persona? | Sim |  |
+| 14 | Existe uma gravação da reunião com a participação do cliente/persona? | Sim |  |
+| 15 | Dentre os Requisitos Priorizados estão os Funcionais e Não-Funcionais?| Sim | |
+| 16 | São utilizados hyperlinks para rastrear os requisitos? | Não |  |
 
-<h6 align="center"> Tabela 02: Checklist Geral de Verificação.
+<h6 align="center"> Tabela 02: Checklist Específico de Verificação.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Conclusão**
 
 <p align="justify">
-&emsp;&emsp;Em relação à estrutura, existem erros gramaticais a serem corrigidos. Quanto aos conteúdos específicos do artefato, é necessário introduzir melhor a técnica de observação e suas nuances, inserir um cronograma para a realização das atividades na observação e referenciar cada texto retirado de materiais externos. No mais, não existem outros pontos de melhoria que foram identificados pela inspeção no artefato.
+&emsp;&emsp;Em relação à estrutura, existem apenas alguns erros gramaticais a serem corrigidos. Quanto aos conteúdos específicos do artefato, recomenda-se a aplicação dos seguintes tópicos: 
+<ul>
+<li>Inserção de cronograma referente à execução da técnica;</li>
+<li>Utilização de hyperlinks para permitir rastreamento dos requisitos que foram priorizados.</li>
+</ul>
 </p>
 
 ## **Histórico de Versão**
@@ -66,7 +71,7 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 29/11/2023 | Criação do artefato| [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Vitória](https://github.com/Juhvitoria4)|
+| `1.0`  | 04/12/2023 | Criação do artefato| [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/Catlenc)|
 <h6 align = "center"> Tabela 03: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
