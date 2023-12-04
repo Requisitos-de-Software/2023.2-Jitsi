@@ -23,11 +23,11 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 1  | O artefato possui introdução? |  |  |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica? | | |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |  |  |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |  |  |
-| 5  | Todos os textos estão na norma padrão? |  |  |
+| 1  | O artefato possui introdução? | Sim |  |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica? | Sim | |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim |  |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Incompleto | A legenda da tabela 01 esta incorreta |
+| 5  | Todos os textos estão na norma padrão? | Sim |  |
 
 <center>
 <h6> Tabela 01: Checklist Geral de Verificação.
@@ -40,11 +40,11 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 6  | É claro de onde cada requisito se origina, qual técnica foi usada para elicitar? |  |  |
-| 7  | A rastreabilidade é feita com todos os requisitos funcionais e requisitos não funcionais? |  |  |
-| 8  | As dependências entre os requisitos são rastreáveis? |  |  |
-| 9  | No artefato há uma tabela com ID, Descrição, Artefatos relacionados (Origem), Pré-Rastreabilidade, Implementado e os ELOS ? |  |  |
-| 10 | Os requisitos são testáveis? Podem ser verificados para garantir que foram atendidos? |  |  |
+| 6  | É claro de onde cada requisito se origina, qual técnica foi usada para elicitar? | Sim |  |
+| 7  | A rastreabilidade é feita com todos os requisitos funcionais e requisitos não funcionais? | Sim |  |
+| 8  | As dependências entre os requisitos são rastreáveis? | Sim |  |
+| 9  | No artefato há uma tabela com ID, Descrição, Artefatos relacionados (Origem), Pré-Rastreabilidade, Implementado e os ELOS ? | Incompleto | Faltou os elos |
+| 10 | Os requisitos são testáveis? Podem ser verificados para garantir que foram atendidos? | Incompletos | Os RNF 01 e 02 precisam serem corrigidos |
 
 
 <center>
@@ -68,6 +68,13 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GehZ5QbWwyw?si=LaQcsHzQ5lPExbpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </center>
+
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp;Com base na avaliação dos IDs fornecidos, o artefato demonstra pontos positivos, como introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3) e conformidade com a norma padrão (ID 5). Contudo, há oportunidades de melhoria, precisa fazer a correção da legenda na tabela 01(ID 4).
+
+Na inspeção específica está incompleto o (ID 9) onde faltam os elos, e dois requisitos não funcionais precisam serem corrigidos os de nº 01 e 02. Os outros itens estão corretos. 
+</p>
 
 ## **Histórico de Versão**
 <p align="justify">
