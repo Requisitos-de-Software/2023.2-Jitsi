@@ -40,12 +40,11 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 6  |  |  |  |
-| 7  |  |  |  |
-| 8  |  |  |  |
-| 9  |  |  |  |
-| 10 |  |  |  |
-| 11 |  |  |  |
+| 6  | É claro de onde cada requisito se origina, qual técnica foi usada para elicitar? |  |  |
+| 7  | A rastreabilidade é feita com todos os requisitos funcionais e requisitos não funcionais? |  |  |
+| 8  | As dependências entre os requisitos são rastreáveis? |  |  |
+| 9  | No artefato há uma tabela com ID, Descrição, Artefatos relacionados (Origem), Pré-Rastreabilidade, Implementado e os ELOS ? |  |  |
+| 10 | Os requisitos são testáveis? Podem ser verificados para garantir que foram atendidos? |  |  |
 
 
 <center>
@@ -55,19 +54,8 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 ## **Fonte Checklist**
 <p align="justify">
-&emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado o livro <a href="">""</a>  para um embasamento teórico.
+&emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado o livro <a href="https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf">"Requisitos - Aula 26"</a>  para um embasamento teórico.
 </p>
-
-<center>
-<details>
-   <summary>Fonte checklist ID X</summary>
-      <img src="https://.png" alt="checklist" width=500px>
-      
-      <h6> Figura 01: Fonte checklist ID X.
-      <br> Fonte:  <a href="https://www">"Fonte"</a></h6>
-
-</details>
-</center>
 
 
 ## **Gravação**
@@ -87,8 +75,9 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 01/12/2023 | Iniciando Artefato |[Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza)|
+ `1.1`  | 04/12/2023 | Elaboração da Lista de Verificação |[Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza)|
 <h6 align="center"> Tabela 03: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
 ## **Bibliografia**
-> <a href="">[1]</a> Fonte 1
+> <a href="https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf">[1]</a> Requisitos - Aula 26. Professores: Milene Serrano e Maurício Serrano

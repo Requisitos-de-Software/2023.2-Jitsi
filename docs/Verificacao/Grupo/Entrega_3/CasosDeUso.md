@@ -67,7 +67,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 <p align="justify">
 &emsp;&emsp;Com base na avaliação dos IDs fornecidos, o artefato demonstra pontos positivos, como introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3), as tabelas e imagens são chamadas no texto, possuem legendas e fontes(ID 4),  e existe conformidade com a norma padrão (ID 5). 
 
-A única falha que verifiquei foi a não participação de um usuário ou persona na criação do artefato.
+A única falha que verifiquei foi a não participação de um usuário ou persona na criação do artefato e elaborar o objetivo para ficar no padrão dos outros artefatos do documento.
 
 </p>
 
