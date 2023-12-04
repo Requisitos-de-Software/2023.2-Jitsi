@@ -6,7 +6,7 @@ Realizado o planejamento do que verificar, é o momento de realizar a inspeção
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Léxicos](/PreRastreabilidade/RichPicture/) da Etapa 1 do [grupo](/).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Léxicos](/Modelagem/lexico/) da Etapa 1 do [grupo](/).
 
 <center>
 
