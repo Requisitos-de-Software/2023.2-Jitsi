@@ -67,11 +67,16 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 <p align="justify">
 &emsp;&emsp;Com base na avaliação dos IDs fornecidos, o artefato demonstra pontos positivos, como introdução (ID 1), bibliografia (ID 2), histórico de versões (ID 3), as tabelas e imagens são chamadas no texto, possuem legendas e fontes(ID 4),  e existe conformidade com a norma padrão (ID 5). 
 
-A única falha que verifiquei foi a não participação de um usuário ou persona na criação do artefato.
+A única falha que verifiquei foi a não participação de um usuário ou persona na criação do artefato e elaborar o objetivo para ficar no padrão dos outros artefatos do documento.
 
 </p>
 
+## **Vídeo da Correção junto aos autores**
+<p align="justify">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IzRM78kA9Jw?si=xbH7iqhYYa7solOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</p>
 ## **Histórico de Versão**
 <p align="justify">
 &emsp;&emsp;A tabela 03 representa o histórico de versão do documento.
@@ -81,7 +86,7 @@ A única falha que verifiquei foi a não participação de um usuário ou person
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 04/12/2023 | Iniciando Artefato |[Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza)|
 | `1.1`  | 04/12/2023 | Lista de verificação e Inspeção |[Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza)|
-
+| `1.2`  | 04/12/2023 | Vídeo da correção |[Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza)|
 
 <h6 align="center"> Tabela 03: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>

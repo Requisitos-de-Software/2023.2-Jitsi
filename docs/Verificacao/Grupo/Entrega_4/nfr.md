@@ -25,11 +25,11 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 1  | O artefato possui introdução? |  |  |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica? |  |  |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |  |  |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |  |  |
-| 5  | Todos os textos estão na norma padrão? |  |  |
+| 1  | O artefato possui introdução? | Sim   |  |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica? | Sim   |  |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim   |  |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Incompleto | As imagens possuem legendas e fontes porem não são chamdas no texto. Bibliográfia não possui fonte |
+| 5  | Todos os textos estão na norma padrão? | Sim |  |
 
 <center>
 <h6> Tabela 1: Critérios Gerais.
@@ -39,20 +39,31 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 ## **Verificações específicas**
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 6  | Os gráficos SIG foram validados por Fontes Externas? | | |
-| 7  | Cada SIG possui sua respectiva propagação de Impacto? | | |
-| 8  | Os softgoals se refinam até um nível de especificação bem definido? | | |
-| 9  | Os cartões de especificação representam requisitos não-funcionais verificáveis? | | |
-| 10 | Os cartões de especificação possuem: Identificador, Classificação, Descrição, Justificativa, Origem, Critério de Aceitação, Dependências, Prioridade, Conflitos e História? | | |
-| 11 | Os Softgoals NFR estão representados apropriadamente dada a sua definição? | | |
-| 12 | Os Softgoals de Operacionalização estão representados apropriadamente dada a sua definição? | | |
-| 13 | Os Softgoals de Afirmação estão representados apropriadamente dada a sua definição? | | |
-| 14 | Os requisitos não-funcionais apresentados nos cartões foram priorizados com algum método? | | |
+| 6  | Os gráficos SIG foram validados por Fontes Externas? | Não | Não tem emnção de envolvimento de fontes externas no artefato|
+| 7  | Cada SIG possui sua respectiva propagação de Impacto? | Sim | |
+| 8  | Os cartões de especificação representam requisitos não-funcionais verificáveis? | Não | Não possui cartões de especificação |
+| 9 | Os cartões de especificação possuem: Identificador, Classificação, Descrição, Justificativa, Origem, Critério de Aceitação, Dependências, Prioridade, Conflitos e História? | Não | Não possui cartões de especificação |
+| 10 | Os Softgoals NFR estão representados apropriadamente dada a sua definição? | Sim| |
+| 11 | Os Softgoals de Operacionalização estão representados apropriadamente dada a sua definição? | Não | Não possui Softgoals de Operacionalização|
+| 12 | Os Softgoals de Afirmação estão representados apropriadamente dada a sua definição? | Não | Não possui Softgoals de Afirmação|
+| 13 | Os requisitos não-funcionais apresentados nos cartões foram priorizados com algum método? | Não | A priorização não é representada no artefato|
 
 <center>
 <h6> Tabela 2: Veríficações específicas.
 <br/> Autor(es): <a href="https://github.com/Juhvitoria4">Julia Vitoria</a></h6>
 </center>
+
+## **Gravação**
+<p align="justify">
+&emsp;&emsp; O vídeo a seguir apresenta a atividade de inspeção realizada pela <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a></h6> do artefato de NFR desenvolvido pelo grupo.
+</p>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IDmq0kkXKDw?si=SkoVFiSYQ5JCGiNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 
 ## **Fonte Checklist**
 <p align="justify">
@@ -65,16 +76,6 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-impacto.png" alt="Setas" width=500px>
     
         <h6> Figura 1: Fonte checklist ID 7.
-        <br> Fonte:  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/#bibliografia">"NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados"</a></h6>
-</details>
-</center>
-
-<center>
-<details>
-   <summary>Fonte checklist ID 8</summary>
-     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/NFR-refinamento.png" alt="Setas" width=500px>
-    
-        <h6> Figura 2: Fonte checklist ID 8.
         <br> Fonte:  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/#bibliografia">"NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados"</a></h6>
 </details>
 </center>

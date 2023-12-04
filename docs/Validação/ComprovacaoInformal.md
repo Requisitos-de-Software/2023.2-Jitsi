@@ -2,7 +2,7 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp; 
+&emsp;&emsp;A validação de requisitos de software é importante para garantir que as especificações atendam às necessidades do usuário. Este processo reduz riscos e custos, promovendo um desenvolvimento eficiente e de alta qualidade. Sua importância reside na prevenção de ambiguidades desde o início do projeto.
 </p>
 
 ## **Metodologia**
@@ -23,7 +23,8 @@
 
 | Versão | Data       | Descrição           | Autor(es)                                                                                           | Revisor(es)                                     |
 |--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| `1.0`  | 28/11/2023 | Criação do artefato |  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
+| `1.0`  | 28/11/2023 | Criação do artefato |  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) ||
+| `1.1`  | 28/11/2023 | Criação da introdução |  [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc)  | [Júlia Souza](https://github.com/JuliaSSouza)|| 
 
 
 <h6 align="center"> Tabela 3: Histórico de Versão.
