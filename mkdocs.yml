@@ -92,6 +92,7 @@ nav:
       - Entrega 05:
         - Matriz: Verificacao/Grupo/Entrega_5/Matriz.md
         - Backward-From: Verificacao/Grupo/Entrega_5/backward.md
+        - Forward-From: Verificacao/Grupo/Entrega_5/forward.md
     - Grupo +1:
       - Entrega 01: 
         - Cronograma: Verificacao/Grupo+1/Entrega_1/Cronograma.md
