@@ -52,7 +52,6 @@ nav:
       - Entrevista: Elicitacao/tecnicas/entrevista.md
       - Introspecção: Elicitacao/tecnicas/introspecção.md
       - Observação: Elicitacao/tecnicas/observacao.md
-      - Personas: Elicitacao/tecnicas/Personas.md
     - Priorização: 
       - First Things First : Elicitacao/priorizacao/ftf.md
       - MoSCoW: Elicitacao/priorizacao/MoSCoW.md
@@ -82,6 +81,7 @@ nav:
         - First Things First: Verificacao/Grupo/Entrega_2/Ftf.md
         - Moscow: Verificacao/Grupo/Entrega_2/Moscow.md
         - Three-Level Scale: Verificacao/Grupo/Entrega_2/Tls.md
+        - Personas: Verificacao/Grupo/Entrega_2/Personas.md
       - Entrega 03: 
         - Cenários: Verificacao/Grupo/Entrega_3/Cenarios.md
         - Especificação Suplementar: Verificacao/Grupo/Entrega_3/EspecificaçãoSuplementar.md

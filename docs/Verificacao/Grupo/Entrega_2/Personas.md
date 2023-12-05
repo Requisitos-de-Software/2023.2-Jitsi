@@ -18,11 +18,11 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição                                                                                               | Avaliação | Observações                              |
 | -- | ------------------------------------------------------------------------------------------------------- | -------   | ---------------------------------------  |
-| 1  | O artefato possui introdução?                                                                           |   Sim         |                                          |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica?                                            |   Sim          |                                          |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?  |    Sim        |                                          |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                            |    Sim        |                                          |
-| 5  | Todos os textos estão na norma padrão?                                                                  |   Sim          |                                          
+| 1  | O artefato possui introdução?                                                                           |           |                                          |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica?                                            |             |                                          |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?  |            |                                          |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                            |            |                                          |
+| 5  | Todos os textos estão na norma padrão?                                                                  |            |                                          
 
 
 <h6 align="center"> Tabela 1: Checklist Geral de Verificação.
@@ -38,18 +38,14 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 | --  | -----------|-----------|------------ |
 | 6   |  As personas foram feitas com base nos dados coletados dos usuários reais do aplicativo?          |           |             | 
 | 7   |   As personas possuem motivações (objetivos)?         |           |             |
-| 8   |  São representadas as diferentes s polaridades
-de características das personas?         |           |             |
+| 8   |  São representadas as diferentes polaridades de características das personas?         |           |             |
 | 9   | As caracteristicas de cada persona são significamente diferentes?           |           |             |
 | 10   |  Cada persona possui uma identidade com nome, sobrenome, idade, foto e outros dados demográficos que seriam representaticos do perfeil?          |           |             |
 | 11   |  Cada persona possui um status, indicando se ela é primária, secundária, outro stakeholder ou representa um antiusuário?          |           |             |
-| 12   |   A habilidade de cada persona é representada? Como educação, treinamento e competências
-específicas        |           |             |
+| 12   |   A habilidade de cada persona é representada? Como educação, treinamento e competências específicas        |           |             |
 | 13  |  Cada persona possui uma descrição das suas tarefas?           |           |             |
-| 14  |  Cada persona possui uma descrição das suas tarefas?           |           |             |
-| 15  |  As antipersonas são representadas?          |           |             |
-| 16  |  As antipersonas são representadas?          |           |             |
-| 16  |  Possui ao menos uma persona primária?          |           |             |
+| 14  |  As antipersonas são representadas?          |           |             |
+| 15 |  Possui ao menos uma persona primária?          |           |             |
 
   
                                                                                    
@@ -70,79 +66,108 @@ específicas        |           |             |
 
 ## **Fonte Checklist**
 <p align="justify">
-&emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado o livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Engenharia de Requisitos: Software Orientado ao Negócio"</a> capítulo 5.10.3 para um embasamento teórico.
+&emsp;&emsp; Para produzir o checklist de verificações específicas, foi utilizado os livros Interação Humano-Computador e Experiência do usuário,  Design Thinking: Inovação em Negócios e About Face 3: The Essentials of Interaction Design, presentes na <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">bibliografia</a> do artefato. 
 </p>
 
 <center>
 <details>
-   <summary>Fonte checklist ID 6 e 7 </summary>
-    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-Intro.png" alt="Setas" width=500px>
+   <summary>Fonte checklist ID 6 </summary>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/P-usuarios.png" alt="Setas" width=500px>
     
-        <h6> Figura 1: Fonte checklist ID 6 e 7.
-        <br> Fonte:  <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Engenharia de Requisitos: Software Orientado ao Negócio"</a></h6>
+        <h6> Figura 1: Fonte checklist ID 6.
+        <br> Fonte: Livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"About Face 3: The Essentials of Interaction Design"</a></h6>
+</details>
+</center>
+
+<center>
+<details>
+   <summary>Fonte checklist ID 7 </summary>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/P-motivacao.png" alt="Setas" width=500px>
+    
+        <h6> Figura 2: Fonte checklist ID 7.
+         <br> Fonte: Livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"About Face 3: The Essentials of Interaction Design"</a></h6>
 </details>
 </center>
 
 <center>
 <details>
    <summary>Fonte checklist ID 8 </summary>
-    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-ItensFURPS.png" alt="Setas" width=500px>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/P-polaridades.png" alt="Setas" width=500px>
     
-        <h6> Figura 2: Fonte checklist ID 8.
-        <br> Fonte:  <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Engenharia de Requisitos: Software Orientado ao Negócio"</a></h6>
+        <h6> Figura 3: Fonte checklist ID 8.
+         <br> Fonte: Livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Design Thinking: Inovação em Negócios"</a></h6>
 </details>
 </center>
 
 <center>
 <details>
    <summary>Fonte checklist ID 9 </summary>
-    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-+.png" alt="Setas" width=500px>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/P-diferentes.png" alt="Setas" width=500px>
     
-        <h6> Figura 3: Fonte checklist ID 9.
-        <br> Fonte:  <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Engenharia de Requisitos: Software Orientado ao Negócio"</a></h6>
+        <h6> Figura 4: Fonte checklist ID 9.
+         <br> Fonte: Livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Design Thinking: Inovação em Negócios"</a></h6>
 </details>
 </center>
 
 <center>
 <details>
    <summary>Fonte checklist ID 10 </summary>
-    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-Usabilidade.png" alt="Setas" width=500px>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/P-identidade.png" alt="Setas" width=500px>
     
-        <h6> Figura 4: Fonte checklist ID 10.
-        <br> Fonte:  <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Engenharia de Requisitos: Software Orientado ao Negócio"</a></h6>
+        <h6> Figura 5: Fonte checklist ID 10.
+         <br> Fonte: Livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Interação Humano-Computador e Experiência do usuário"</a></h6>
 </details>
 </center>
 
 <center>
 <details>
    <summary>Fonte checklist ID 11 </summary>
-    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-confiabilidade.png" alt="Setas" width=500px>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/P-status.png" alt="Setas" width=500px>
     
-        <h6> Figura 5: Fonte checklist ID 11.
-        <br> Fonte:  <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Engenharia de Requisitos: Software Orientado ao Negócio"</a></h6>
+        <h6> Figura 6: Fonte checklist ID 11.
+         <br> Fonte: Livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Interação Humano-Computador e Experiência do usuário"</a></h6>
 </details>
 </center>
 
 <center>
 <details>
    <summary>Fonte checklist ID 12 </summary>
-    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-desempenho.png" alt="Setas" width=500px>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/P-habilidade.png" alt="Setas" width=500px>
     
-        <h6> Figura 6: Fonte checklist ID 12.
-        <br> Fonte:  <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Engenharia de Requisitos: Software Orientado ao Negócio"</a></h6>
+        <h6> Figura 7: Fonte checklist ID 12.
+         <br> Fonte: Livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Interação Humano-Computador e Experiência do usuário"</a></h6>
 </details>
 </center>
 
 <center>
 <details>
    <summary>Fonte checklist ID 13 </summary>
-    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/ES-suportabilidade.png" alt="Setas" width=500px>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/P-tarefas.png" alt="Setas" width=500px>
     
-        <h6> Figura 7: Fonte checklist ID 13.
-        <br> Fonte:  <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Engenharia de Requisitos: Software Orientado ao Negócio"</a></h6>
+        <h6> Figura 8: Fonte checklist ID 13.
+         <br> Fonte: Livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Interação Humano-Computador e Experiência do usuário"</a></h6>
 </details>
 </center>
 
+<center>
+<details>
+   <summary>Fonte checklist ID 14 </summary>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/P-antipersona.png" alt="Setas" width=500px>
+    
+        <h6> Figura 9: Fonte checklist ID 14.
+         <br> Fonte: Livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Interação Humano-Computador e Experiência do usuário"</a></h6>
+</details>
+</center>
+
+<center>
+<details>
+   <summary>Fonte checklist ID 15 </summary>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/fontesChecklist/P-primaria.png" alt="Setas" width=500px>
+    
+        <h6> Figura 10: Fonte checklist ID 15.
+         <br> Fonte: Livro <a href="http://127.0.0.1:8000/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/#bibliografia">"Interação Humano-Computador e Experiência do usuário"</a></h6>
+</details>
+</center>
 
 ## **Conclusão**
 <p align="justify">
