@@ -21,26 +21,16 @@
 </p>
 | ID | Descrição | Avaliação | Observações |
 |----|-----------|-----------|------------|
-| 1  | O artefato possui introdução? | | |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica? | | |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |  | |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |  |  |
-| 5  | Todos os textos estão na norma padrão? | | |
+| 1  | O artefato possui introdução? | Sim| |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica? | Sim| |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim  | A versão 1.1 não possui um revisor|
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim| |  |  |
+| 5  | Todos os textos estão na norma padrão? |Sim | |
 
 <center>
 <h6> Tabela 1: Critérios Gerais.
 <br/> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
-
-## **Verificação das Ferramentas**
-| ID | Descrição | Avaliação | Observações |
-|----|-----------|-----------|------------|
-
-<center>
-<h6> Tabela 2: Verificações Específicas.
-<br/> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
-</center>
-
 
 ## **Conclusão**
 <p align="justify"> 
@@ -60,6 +50,7 @@
 | Versão | Data | Descrição | Autor(es)| Revisor(es)|
 |--------|------|-----------|----------|------------|
 |`1.0` | 27/11/2023 | Criação do artefato | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+|`1.1` | 04/12/2023 | Verificação | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
 
 <center>
 <h6> Tabela 3: Histórico de Versão.
@@ -68,4 +59,4 @@
 
 ## **Bibliografia**
 
-> 
+> <a href="https://github.com/Requisitos-de-Software/2023.2-Jitsi">[1]</a> Repositório Requisitos - Cronograma - Ferramentas. Acesso em: 04 de dezembro de 2023.
