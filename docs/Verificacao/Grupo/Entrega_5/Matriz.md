@@ -65,6 +65,8 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 <center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GehZ5QbWwyw?si=LaQcsHzQ5lPExbpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </center>
 
 ## **Histórico de Versão**
@@ -75,7 +77,8 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 01/12/2023 | Iniciando Artefato |[Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza)|
- `1.1`  | 04/12/2023 | Elaboração da Lista de Verificação |[Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza)|
+| `1.1`  | 04/12/2023 | Elaboração da Lista de Verificação |[Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza)|
+| `1.1`  | 04/12/2023 | Gravação da Inspeção |[Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza)|
 <h6 align="center"> Tabela 03: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
