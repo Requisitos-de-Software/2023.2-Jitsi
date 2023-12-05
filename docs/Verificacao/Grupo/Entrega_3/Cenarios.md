@@ -115,6 +115,11 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 </center>
 
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp; O artefato está bem feito e atende a todos os critérios de avaliação.
+</p>
+
 ## **Histórico de Versão**
 <p align="justify">
 &emsp;&emsp;A tabela 03 representa o histórico de versão do documento.

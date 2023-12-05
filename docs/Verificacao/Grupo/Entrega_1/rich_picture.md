@@ -32,6 +32,9 @@ A tabela 1 a seguir apresenta a checklist com os dados obtidos a partir da verif
 <br/> Autor(es): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 </center>
 
+# Gravação
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/4e481a298bfc4e39b617259748a50732?sid=36dcd5ac-8569-4793-a2f0-89ae87ea6f0b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Verificações Específicas
 
@@ -40,16 +43,16 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 
 **Tabela 2** - Checklist de Verificação.
 
-| **ID** | -                            Descrição                                                                           | Avaliação | Avaliação |
-|:------:|------------------------------------------------------------------------------------------------------------------|:---------:|:---------:|
-|   6    | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema?                    |    Sim    |     -     |
-|   7    | Contém a explicação dos componentes?                                                                             |    Sim    |     -     |
-|   8    | Rich Picture possui legenda dos componentes?                                                                     |    Sim    |     -     |
-|   10   | Ele conta uma história?                                                                                          |    Sim    |     -     |
-|   11   | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo? |    Sim    |     -     |
-|   12   | O rich picture dá uma ideia do que realmente está acontecendo?                                                   |    Sim    |     -     |
-|   13   | Contém palavras-chave relevantes?                                                                                |    Sim    |     -     |
-|   14   | Comunica mais ideias do que palavras?                                                                            |    Sim    |     -     |
+| **ID** | -                            Descrição                                                                           | Avaliação | Observação |
+|:------:|------------------------------------------------------------------------------------------------------------------|:---------:|:----------:|
+|   6    | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema?                    |    Sim    |     -      |
+|   7    | Contém a explicação dos componentes?                                                                             |    Sim    |     -      |
+|   8    | Rich Picture possui legenda dos componentes?                                                                     |    Sim    |     -      |
+|   10   | Ele conta uma história?                                                                                          |    Não    |     -      |
+|   11   | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo? |    Sim    |     -      |
+|   12   | O rich picture dá uma ideia do que realmente está acontecendo?                                                   |    Sim    |     -      |
+|   13   | Contém palavras-chave relevantes?                                                                                |    Sim    |     -      |
+|   14   | Comunica mais ideias do que palavras?                                                                            |    Sim    |     -      |
 
 <center>
 <h6> Tabela 2: Checklist Verificações Específicas.
@@ -62,6 +65,7 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 | Versão | Data       | Descrição            | Autor(es)                                            | Revisor(es)                                            |
 |--------|------------|----------------------|------------------------------------------------------|--------------------------------------------------------|
 | `1.0`  | 02/12/2023 | Criação do documento | [Bruno Henrique](https://github.com/BrunoHenrique00) | [Carolina Barbosa](https://github.com/BrunoHenrique00) |
+| `1.1`  | 04/12/2023 | Adiciona Gravação    | [Bruno Henrique](https://github.com/BrunoHenrique00) | [Carolina Barbosa](https://github.com/BrunoHenrique00) |
 
 ## **Bibliografia**
 >[1] Benyon, D. (2011). Interação Humano-Computador. São Paulo: Pearson Prentice Hall. (2ª edição).

@@ -1,4 +1,4 @@
-# Verificação dos Léxicos
+# Verificação dos Forward
 
 ## Introdução
 
@@ -6,7 +6,7 @@ Realizado o planejamento do que verificar, é o momento de realizar a inspeção
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Léxicos](/Modelagem/lexico/) da Etapa 1 do [grupo](/).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Forward](/PosRastreabilidade/Forward_from/) da Etapa 5 do [grupo](/).
 
 <center>
 
@@ -41,18 +41,13 @@ A tabela 2 a seguir apresenta a checklist com os dados obtidos a partir da verif
 
 **Tabela 2** - Checklist de Verificação.
 
-| **ID** | Descrição                                                                                       | Avaliação | Observações |
-|:------:|-------------------------------------------------------------------------------------------------|:---------:|:-----------:|
-|   6    | Cada símbolo possui classificação, sinônimo, noção e impacto?                                   |    Sim    |             |
-|   7    | Cada símbolo apresenta sua noção de forma breve e compreensível?                                |    Sim    |             |
-|   8    | Cada símbolo apresenta seu impacto de forma breve e compreensível?                              |    Sim    |             |
-|   9    | Caso seja do tipo Estado, as definições de noção e de impacto se encaixam com o que é descrito? |    Sim    |             |
-|   10   | Caso seja do tipo Verbo, as definições de noção e de impacto se encaixam com o que é descrito?  |    Sim    |             |
-|   11   | Caso seja do tipo Objeto, as definições de noção e de impacto se encaixam com o que é descrito? |    Sim    |             |
-|   12   | O princípio circular foi devidamente propagado?                                                 |    Sim    |             |
-|   13   | A descrição dos léxicos é coerente e esclarecedora?                                             |    Sim    |             |
-|   14   | O vocabulário mínimo foi apropriadamente adotado nas descrições?                                |    Sim    |             |
-|   15   | Quanto à organização dos léxicos, eles respeitam sua ordem numérica?                            |    Sim    |             |
+| **ID** | Descrição                                                            | Avaliação | Observações |
+|:------:|----------------------------------------------------------------------|:---------:|:-----------:|
+|   6    | Possui Mapeamento e sua legendas?                                    |    Sim    |             |
+|   7    | Possui todos os requisitos elicitados?                               |    Sim    |             |
+|   8    | Ficou claro de onde os requisitos vieram?                            |    Sim    |             |
+|   9    | Os requisitos avaliados possuem tópico e referência de suas origens? |    Sim    |             |
+|   9    | Os requisitos não funcionais são ligados aos seus respectivos NFRs?  |    Sim    |             |
 
 <center>
 <h6> Tabela 2: Checklist Verificações Específicas.

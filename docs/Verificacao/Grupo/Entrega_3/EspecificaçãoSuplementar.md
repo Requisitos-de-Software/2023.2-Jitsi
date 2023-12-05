@@ -18,11 +18,11 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição                                                                                               | Avaliação | Observações                              |
 | -- | ------------------------------------------------------------------------------------------------------- | -------   | ---------------------------------------  |
-| 1  | O artefato possui introdução?                                                                           |           |                                          |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica?                                            |           |                                          |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?  |           |                                          |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                            |           |                                          |
-| 5  | Todos os textos estão na norma padrão?                                                                  |           |                                          
+| 1  | O artefato possui introdução?                                                                           |   Sim         |                                          |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica?                                            |   Sim          |                                          |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?  |    Sim        |                                          |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                            |    Sim        |                                          |
+| 5  | Todos os textos estão na norma padrão?                                                                  |   Sim          |                                          
 
 
 <h6 align="center"> Tabela 1: Checklist Geral de Verificação.
@@ -36,18 +36,29 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 | ID  | Descrição  | Avaliação | Observação  |
 | --  | -----------|-----------|------------ |
-| 6   | O artefato possui uma lista com todos os requisitos não funcionais? |       |      |
-| 7   | É utilizado o padrão de classificação de requisitos FURPS+? |       |      |
-| 8   | Os requisitos são classificados em funcionalidade, usabilidade, confiabilidade, desempenho e suportabilidade? |       |      |
-| 9   | É representado o significado do "+" na sigla FURPS+?  |       |      |
-| 10  |  Os requisitos classificados em usabilidade tratam da facilidade de uso do software? |       |      |
-| 11  |  Os requisitos classificados em confiabilidade tratam da integridade, conformidade e interoperabilidade do software? |  |  |      
-| 12  | Os requisitos classificados em desempenho são relacionados à velocidade, eficiência, taxa de transferência, tempo de resposta ou uso de recursos? |  |  |   
-| 13  | Os requisitos classificados em suportabilidade tratam de tensibilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, escalabilidade, instalabilidade, localizabilidade ou testabilidade? | | |    
+| 6   | O artefato possui uma lista com todos os requisitos não funcionais? |  Não     |      |
+| 7   | É utilizado o padrão de classificação de requisitos FURPS+? |  Sim     |      |
+| 8   | Os requisitos são classificados em funcionalidade, usabilidade, confiabilidade, desempenho e suportabilidade? |  Sim     |      |
+| 9   | É representado o significado do "+" na sigla FURPS+?  |   Sim      |      |
+| 10  |  Os requisitos classificados em usabilidade tratam da facilidade de uso do software? |   Sim      |      |
+| 11  |  Os requisitos classificados em confiabilidade tratam da integridade, conformidade e interoperabilidade do software? | Sim   |  |      
+| 12  | Os requisitos classificados em desempenho são relacionados à velocidade, eficiência, taxa de transferência, tempo de resposta ou uso de recursos? |Sim    |  |   
+| 13  | Os requisitos classificados em suportabilidade tratam de tensibilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, escalabilidade, instalabilidade, localizabilidade ou testabilidade? | Sim  | |    
                                                                                    
 
 <h6 align="center"> Tabela 2: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
+## **Gravação**
+<p align="justify">
+&emsp;&emsp; O vídeo a seguir apresenta a atividade de inspeção realizada pela <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6> do artefato de Especificação Suplementar desenvolvido pelo grupo.
+</p>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g0afc2OMQMo?si=CRhsjIouHVt_vEpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 ## **Fonte Checklist**
 <p align="justify">
