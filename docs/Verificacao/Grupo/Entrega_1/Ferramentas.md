@@ -41,10 +41,10 @@
 &emsp;&emsp;A tabela 3 representa o histórico de versão do documento.
 </p>
 
-| Versão | Data | Descrição | Autor(es)| Revisor(es)|
-|--------|------|-----------|----------|------------|
-|`1.0` | 27/11/2023 | Criação do artefato | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
-|`1.1` | 04/12/2023 | Verificação | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| Versão | Data       | Descrição           | Autor(es)                                                                                         | Revisor(es)                                          |
+|--------|------------|---------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| `1.0`  | 27/11/2023 | Criação do artefato | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| `1.1`  | 04/12/2023 | Verificação         | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
 
 <center>
 <h6> Tabela 3: Histórico de Versão.
