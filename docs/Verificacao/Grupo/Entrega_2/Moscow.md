@@ -1,4 +1,4 @@
-# **Moscow**
+# **Verificação do Moscow**
 
 ## **Introdução**
 <p align="justify">
@@ -17,11 +17,11 @@
 </p>
 | ID | Descrição                                                                                               | Avaliação | Observações                              |
 | -- | ------------------------------------------------------------------------------------------------------- | -------   | ---------------------------------------  |
-| 1  | O artefato possui introdução?                                                                           |           |                                          |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica?                                            |           |                                          |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?  |           |                                          |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                            |           |                                          |
-| 5  | Todos os textos estão na norma padrão?                                                                  |           |                                          
+| 1  | O artefato possui introdução?                                                                           |  Sim        |                                          |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica?                                            |   Sim      |                                          |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?  |   Sim      |                                          |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                            |    Sim     |                                          |
+| 5  | Todos os textos estão na norma padrão?                                                                  |   Sim       |                                          
 
 
 <h6 align="center"> Tabela 1: Checklist Geral de Verificação.

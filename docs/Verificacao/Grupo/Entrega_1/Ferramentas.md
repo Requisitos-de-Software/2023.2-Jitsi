@@ -36,6 +36,7 @@
 <p align="justify"> 
 &emsp;&emsp;Após verificar o artefato, concluímos que o mesmo está em um bom nível de estruturação, especificação da entrega e cumprimento dos itens listados na losta de verificação.
 
+</p>
 ## **Histórico de Versão**
 <p align="justify">
 &emsp;&emsp;A tabela 3 representa o histórico de versão do documento.

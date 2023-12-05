@@ -19,15 +19,15 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 | Id | Descrição                                                                                    | Avaliação | Observações |
 |----|----------------------------------------------------------------------------------------------|-----------|-------------|
-| 01 | O cronograma possui todas as atividades de todas as etapas para cada integrante?             |           | -           |
-| 02 | Possui datas de início e fim das entrega dos artefatos e com o período da revisão deles?     |           | -           |
-| 03 | O artefato contem uma seção do cronograma executado?                                         |           | -           |
-| 04 | o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? |           | -           |
-| 05 | O artefato possui Introdução?                                                                |           | -           |
-| 06 | Possui um histórico de versão padronizado no artefato?                                       |           | -           |
-| 07 | Possui referências bibliográficas/bibliografia no artefatos?                                 |           | -           |
-| 08 | Possui um revisor diferente do que elaborou o cronograma?                                    |           | -           |
-| 09 | As tabelas estão padronizadas?                                                               |           | -           |
+| 01 | O cronograma possui todas as atividades de todas as etapas para cada integrante?             |   Sim        | -           |
+| 02 | Possui datas de início e fim das entrega dos artefatos e com o período da revisão deles?     |   Sim      | -           |
+| 03 | O artefato contem uma seção do cronograma executado?                                         |      Sim     | -           |
+| 04 | o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? |     Sim      | -           |
+| 05 | O artefato possui Introdução?                                                                |     Sim      | -           |
+| 06 | Possui um histórico de versão padronizado no artefato?                                       |     Sim      | -           |
+| 07 | Possui referências bibliográficas/bibliografia no artefatos?                                 |    Sim       | -           |
+| 08 | Possui um revisor diferente do que elaborou o cronograma?                                    |   Sim        | -           |
+| 09 | As tabelas estão padronizadas?                                                               |   Sim        | -           |
 
 <p align="justify">
 <h6 align = "center"> Tabela 01: Lista de Verificação do Cronograma
