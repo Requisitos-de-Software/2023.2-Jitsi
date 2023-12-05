@@ -2,7 +2,7 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp;O objetivo deste documento é apresentar os resultados das verificações realizadas no artefato de NFR Framework. Isso inclui a identificação de áreas fortes e oportunidades de melhoria no artefato, bem como a proposição de ações corretivas quando necessário, visando aprimorar a qualidade do trabalho desenvolvido pelo grupo..
+&emsp;&emsp;O objetivo deste documento é apresentar os resultados das verificações realizadas no artefato Cronograma. Isso inclui a identificação de áreas fortes e oportunidades de melhoria no artefato, bem como a proposição de ações corretivas quando necessário, visando aprimorar a qualidade do trabalho desenvolvido pelo grupo.
 </p>
 
 ## **Metodologia**
@@ -19,15 +19,15 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 | Id | Descrição                                                                                    | Avaliação | Observações |
 |----|----------------------------------------------------------------------------------------------|-----------|-------------|
-| 01 | O cronograma possui todas as atividades de todas as etapas para cada integrante?             |   Sim        | -           |
-| 02 | Possui datas de início e fim das entrega dos artefatos e com o período da revisão deles?     |   Sim      | -           |
-| 03 | O artefato contem uma seção do cronograma executado?                                         |      Sim     | -           |
-| 04 | o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? |     Sim      | -           |
-| 05 | O artefato possui Introdução?                                                                |     Sim      | -           |
-| 06 | Possui um histórico de versão padronizado no artefato?                                       |     Sim      | -           |
+| 01 | O cronograma possui todas as atividades de todas as etapas para cada integrante?             |    Sim       | -           |
+| 02 | Possui datas de início e fim das entrega dos artefatos e com o período da revisão deles?     |   Sim        | -           |
+| 03 | O artefato contem uma seção do cronograma executado?                                         |    Sim       | -           |
+| 04 | o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? |    Sim       | -           |
+| 05 | O artefato possui Introdução?                                                                |    Sim       | -           |
+| 06 | Possui um histórico de versão padronizado no artefato?                                       |  Sim         | -           |
 | 07 | Possui referências bibliográficas/bibliografia no artefatos?                                 |    Sim       | -           |
-| 08 | Possui um revisor diferente do que elaborou o cronograma?                                    |   Sim        | -           |
-| 09 | As tabelas estão padronizadas?                                                               |   Sim        | -           |
+| 08 | Possui um revisor diferente do que elaborou o cronograma?                                    |    Incompleto       | A versão 1.2 não possui revisor          |
+| 09 | As tabelas estão padronizadas?                                                               |    Sim       | -           |
 
 <p align="justify">
 <h6 align = "center"> Tabela 01: Lista de Verificação do Cronograma
@@ -36,7 +36,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 ## **Conclusão**
 <p align="justify">
-&emsp;&emsp;texto...
+&emsp;&emsp; No geral o artefato está muito bom. Entretanto,precisa de uma pequena melhoria como descrito no checklist de verificação ID 8.
 
 </p>
 
@@ -49,6 +49,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 |--------|------------|----------------------|------------------------------------------------------|-----------------------------------------------|
 | `1.0`  | 25/11/2023 | Criação do Documento e Lista de Verificação | [Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.1`  | 25/11/2023 | Ajustes | [Júlia Souza](https://github.com/JuliaSSouza) | [Catlen Cleane](https://github.com/catlenc) |
+| `1.2`  | 05/12/2023 | Adição da inspeção e da conclusão | [Júlia Souza](https://github.com/JuliaSSouza) | [Catlen Cleane](https://github.com/catlenc) |
 
 <h6  align = "center"> Tabela 02: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
