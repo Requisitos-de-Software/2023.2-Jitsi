@@ -37,7 +37,6 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 ## **Conclusão**
 <p align="justify">
 &emsp;&emsp; No geral o artefato está muito bom. Entretanto,precisa de uma pequena melhoria como descrito no checklist de verificação ID 8.
-
 </p>
 
 ## **Histórico de Versão**

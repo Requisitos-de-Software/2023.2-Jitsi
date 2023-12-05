@@ -64,6 +64,10 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 </center>
 
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp; O artefato possui pontos positivos, entretanto existem alguns itens cruciais que estão faltando. O artefato não apresenta a validação dos gráficos SIG por fontes externas, como descrito do item do checklist de verificação de ID 6, e ainda, não possui os cartões de especificação, mencionado nos itens de ID 8, 9 e 13. Outros aspectos que faltaram foram os softgoals de afirmação e operacionalização (ID 11 e 12).
+</p>
 
 ## **Fonte Checklist**
 <p align="justify">
@@ -140,7 +144,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 | `1.0`  | 28/11/2023 | Iniciando Artefato |[Júlia Vitória](https://github.com/Juhvitoria4) |[Carolina Barbosa](https://github.com/CarolinaBarb) |
 | `1.1`  | 30/11/2023 | Adição das fontes e ajustes |  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
 | `1.2`  | 01/12/2023 | Ajustes nas fontes e adição de legenda|  [Júlia Souza](https://github.com/JuliaSSouza)  | [Carolina Barbosa](https://github.com/CarolinaBarb) || 
-
+| `1.3`  | 05/12/2023 | Adição da conclusão | [Júlia Souza](https://github.com/JuliaSSouza) | [Catlen Cleane](https://github.com/catlenc) |
 
 ## **Bibliografia**
 > <a href="https://aprender3.unb.br/pluginfile.php/2692835/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf">[1]</a> Silva, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 155 f. Dissertação (Mestrado em Ciência da Computação) - UFPE, Recife.
