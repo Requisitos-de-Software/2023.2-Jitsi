@@ -39,17 +39,7 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 
 Para mais informações sobre a escolha do aplicativo acesse o artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/"><b><i>Escolha do Aplicativo</i></b></a>.
 
-## **Resultados Alcançados**
 
-No início do projeto, a equipe fez um planejamento para alinhar objetivos e escopo, definir metodologias, criar um cronograma detalhado e focar no aplicativo. Isso permitiu o alinhamento da equipe e a documentação das necessidades iniciais do projeto.
-
-Para entender as necessidades dos usuários, usamos as etapas de elicitação e modelagem. Essas etapas nos ajudaram a adotar perspectivas dos usuários e a documentar os requisitos de maneira adequada.
-
-Ao longo do projeto, usamos várias técnicas e artefatos para elicitar requisitos, aplicando rastreabilidade para entender suas conexões. No final, a rastreabilidade, incluindo artefatos de pós-Rastreabilidade e a matriz Geral, esclareceu as conexões entre requisitos e artefatos.
-
-Juntamente com a implementação de requisitos que não existiam dentro do Jitsi, feito a prototipação e validação junto com o usuário.
-
-Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a metodologia de Fagan, realizando reuniões de inspeção, retrabalho e acompanhamento para identificar áreas de melhoria.
 
 ## **Planejamento dos Recursos e das Entregas**
 <p align="justify">
@@ -81,6 +71,17 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 </center>
 </p>
 
+## **Resultados Alcançados**
+
+No início do projeto, a equipe fez um planejamento para alinhar objetivos e escopo, definir metodologias, criar um cronograma detalhado e focar no aplicativo. Isso permitiu o alinhamento da equipe e a documentação das necessidades iniciais do projeto.
+
+Para entender as necessidades dos usuários, usamos as etapas de elicitação e modelagem. Essas etapas nos ajudaram a adotar perspectivas dos usuários e a documentar os requisitos de maneira adequada.
+
+Ao longo do projeto, usamos várias técnicas e artefatos para elicitar requisitos, aplicando rastreabilidade para entender suas conexões. No final, a rastreabilidade, incluindo artefatos de pós-Rastreabilidade e a matriz Geral, esclareceu as conexões entre requisitos e artefatos.
+
+Juntamente com a implementação de requisitos que não existiam dentro do Jitsi, feito a prototipação e validação junto com o usuário.
+
+Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a metodologia de Fagan, realizando reuniões de inspeção, retrabalho e acompanhamento para identificar áreas de melhoria.
 
 ## **Técnicas Utilizadas**
 <p align="justify">
