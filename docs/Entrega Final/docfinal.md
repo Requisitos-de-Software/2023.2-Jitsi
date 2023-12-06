@@ -287,6 +287,8 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 | `1.2`  | 06/12/2023 | Introdução e Objetivos                     | [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.3`  | 06/12/2023 | Artefatos entregues | [Júlia Souza](https://github.com/JuliaSSouza)  | [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.4`  | 06/12/2023 | Inicio Verif e Validação | [Júlia Souza](https://github.com/JuliaSSouza)  | [Pedro Siqueira](https://github.com/PedroSiq) |
+| `1.5`  | 06/12/2023 | Tabela de Técnicas Utilizadas |[Catlen Cleane](https://github.com/catlenc)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
+
 <h6 align="center"> Tabela n: Histórico de Versão.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
