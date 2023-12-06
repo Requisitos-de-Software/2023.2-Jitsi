@@ -88,6 +88,101 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 </center>
 </p>
 
+## **Artefatos Criados por etapa**
+<p align="justify">
+&emsp;&emsp;Texto ....
+</p>
+
+### **Etapa 1**
+
+| Arteafato| Autor | Revisor|
+|----------| ------|--------|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/">Cronograma Planejado</a>| [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma_realizado/">Cronograma Realizado</a>| | |
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/">Ferramentas</a>| [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/heatmap/">Heatmap</a>| [Carolina Barbosa](https://github.com/CarolinaBarb)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/metodologias/">Metodologias</a>|[Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Escolha do Aplicativo</a>|[Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/">Rich Picture.</a>| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
+
+### **Etapa 2**
+
+| Arteafato| Autor | Revisor|
+|----------| ------|--------|
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/planejamento/">Planejamento</a>| [Pedro Siqueira](https://github.com/PedroSiq)| [Carolina Barbosa](https://github.com/CarolinaBarb)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/personas/">Personas</a>|[Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/">Questionário</a>|[Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">Brainstorming</a>|[Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Pedro Siqueira](https://github.com/PedroSiq)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">Entrevista</a>|[Pedro Siqueira](https://github.com/PedroSiq), [Júlia Vitória](https://github.com/Juhvitoria4) e [Júlia Souza](https://github.com/JuliaSSouza) | [Catlen Cleane](https://github.com/catlenc)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspecção/">Introspecção</a>|[Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/ßtecnicas/observacao/">Observação</a>| [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)| [Júlia Vitória](https://github.com/Juhvitoria4)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/">Moscow</a>| [Catlen Cleane](https://github.com/catlenc), [Júlia Vitória](https://github.com/Juhvitoria4) e [Bruno Henrique](https://github.com/BrunoHenrique00) | [Carolina Barbosa](https://github.com/CarolinaBarb)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/ftf/">First Things First</a>| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza) | [Júlia Vitória](https://github.com/Juhvitoria4)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/TLS/">Three-Level Scale</a>| [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4)|  [Carolina Barbosa](https://github.com/CarolinaBarb)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/">Requisitos Elicitados</a>| [Pedro Siqueira](https://github.com/PedroSiq)| [Bruno Henrique](https://github.com/BrunoHenrique00)|
+
+### **Etapa 3**
+
+| Arteafato| Autor | Revisor|
+|----------| ------|--------|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">Léxico</a>|[Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)| [Carolina Barbosa](https://github.com/CarolinaBarb) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">Casos de Uso</a>| [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Souza](https://github.com/JuliaSSouza)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">Especificação Suplementar</a>| [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">Cenários</a>| [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
+
+### **Etapa 4**
+
+| Arteafato| Autor | Revisor|
+|----------| ------|--------|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">Backlog</a>| [Catlen Cleane](https://github.com/catlenc) e  [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Souza](https://github.com/JuliaSSouza) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">Histórias de Usuário</a>| [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">NFR Framework</a> | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
+
+### **Etapa 5**
+
+| Arteafato| Autor | Revisor|
+|----------| ------|--------|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_1/Planejamento">Entrega 1</a>| [Bruno Henrique](https://github.com/BrunoHenrique00), [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq) |  [Júlia Souza](https://github.com/JuliaSSouza)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_2/Planejamento/">Entrega 2</a>| [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Vitória](https://github.com/Juhvitoria4) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_3/Planejamento/">Entrega 3</a>| [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|  [Catlen Cleane](https://github.com/catlenc), [Carolina Barbosa](https://github.com/CarolinaBarb), [Júlia Souza](https://github.com/JuliaSSouza) e [Pedro Siqueira](https://github.com/PedroSiq)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_4/Planejamento/">Entrega 4</a>| [Bruno Henrique](https://github.com/BrunoHenrique00), [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Bruno Henrique](https://github.com/BrunoHenrique00)|
+
+### **Etapa 6**
+
+| Arteafato| Autor | Revisor|
+|----------| ------|--------|
+|<a href="/PosRastreabilidade/Backward-From/">Backward-From</a>| [Bruno Henrique](https://github.com/BrunoHenrique00) e [Júlia Souza](https://github.com/JuliaSSouza)| [Pedro Siqueira](https://github.com/PedroSiq)|
+|<a href="/PosRastreabilidade/Forward-From">Forward-From</a>| [Catlen Cleane](https://github.com/catlenc) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Souza](https://github.com/JuliaSSouza)|
+|<a href="/PosRastreabilidade/matrizRastreabilidade/">Matriz de Rastreabilidade</a><|[Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc)|
+
+### **Etapa 7**
+
+| Arteafato | Autor | Revisor |
+|-----------|-------|---------|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Valida%C3%A7%C3%A3o/Prototipo/">Protótipo</a>| | |[Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Valida%C3%A7%C3%A3o/ComprovacaoInformal/">Comprovação Informal</a>|[Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_1/Cronograma/">Cronograma</a>|[Catlen Cleane](https://github.com/catlenc) e  [Júlia Souza](https://github.com/JuliaSSouza)| [Pedro Siqueira](https://github.com/PedroSiq) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_1/Ferramentas/">Ferramentas</a>| [Catlen Cleane](https://github.com/catlenc) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_1/Metodologias/">Metodologias</a>|[Júlia Vitória](https://github.com/Juhvitoria4) |[Carolina Barbosa](https://github.com/CarolinaBarb) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_1/rich_picture/">Rich Picture</a>| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Júlia Souza](https://github.com/JuliaSSouza)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Brainstorming/">Brainstorming</a>|[Bruno Henrique](https://github.com/BrunoHenrique00) e  [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Vitória](https://github.com/Juhvitoria4)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Entrevista/">Entrevista</a>|[Catlen Cleane](https://github.com/catlenc) | [Júlia Vitória](https://github.com/Juhvitoria4)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Introspec%C3%A7%C3%A3o/">Introspecção</a>| [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Observacao/">Observação</a>|[Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Ftf/">First Things First</a>|[Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Moscow/">Moscow</a>| [Júlia Souza](https://github.com/JuliaSSouza)  e  [Catlen Cleane](https://github.com/catlenc)| [Pedro Siqueira](https://github.com/PedroSiq)|
+|<a href="hhttps://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Tls/">Three Level Scale</a>| [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_3/Cenarios/">Cenários</a>|[Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/">Especificação Suplementar</a>| [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_3/lexicos/">Léxicos</a>| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Júlia Souza](https://github.com/JuliaSSouza) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_3/CasosDeUso/">Casos de Uso</a>| [Catlen Cleane](https://github.com/catlenc)|  [Júlia Vitória](https://github.com/Juhvitoria4) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/Backlog/">Product Backlog</a>| [Pedro Siqueira](https://github.com/PedroSiq)| [Bruno Henrique](https://github.com/BrunoHenrique00)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/HistoriaDeUsuario/">Histórias de Usuário</a>|[Carolina Barbosa](https://github.com/CarolinaBarb) |[Catlen Cleane](https://github.com/catlenc) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/">NFR Framework</a>|  [Júlia Vitória](https://github.com/Juhvitoria4) e  [Júlia Souza](https://github.com/JuliaSSouza) |[Pedro Siqueira](https://github.com/PedroSiq)| 
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/Matriz/">Matriz de Rastreabilidade</a>| [Catlen Cleane](https://github.com/catlenc) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Souza](https://github.com/JuliaSSouza)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/backward/">Backward-From</a>| [Júlia Vitória](https://github.com/Juhvitoria4)|[Carolina Barbosa](https://github.com/CarolinaBarb) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/forward/">Forward-From</a>| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Júlia Souza](https://github.com/JuliaSSouza) |
+
 
 ## **Histórico de Versão**
 <p align="justify">

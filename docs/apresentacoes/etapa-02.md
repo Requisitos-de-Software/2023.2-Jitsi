@@ -14,9 +14,9 @@
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">Brainstorming</a></li>  
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">Entrevista</a></li>
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspecção/">Introspecção</a></li>
-<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">Entrevista</a></li>
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/ßtecnicas/observacao/">Observação</a></li>
-<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/100Dolares/">100 Dolares</a></li>
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/ftf/">First Things First</a></li>
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/TLS/">Three-Level Scale</a></li>
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/">Moscow</a></li>
 <li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/">Requisitos Elicitados</a></li>
 </ul>
@@ -34,6 +34,7 @@
 | Versão | Data       | Descrição           | Autor(es)                                            | Revisor(es) |
 |--------|------------|---------------------|------------------------------------------------------|-------------|
 | `1.0`  | 04/10/2023 | Criação do artefato | [Bruno Henrique](https://github.com/BrunoHenrique00) | [Pedro Siqueira](https://github.com/PedroSiq) |
+| `1.1`  | 06/12/2023 | Correção entregas| [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq) |
 
 <center>
 <h6> Tabela 1: Histórico de Versão.
