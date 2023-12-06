@@ -46,7 +46,17 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 
 | Entrega | Artefato | Técnica | Autor |
 | --------| ---------| ------- | ------|
- 
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Planejamento</a> |  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Cronograma</a> | Não houve | Bruno e Catlen|
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Planejamento</a>| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma_realizado/">Cronograma Realizado</a>  | Não houve | Catlen, Julia Vitoria, Julia Souza e Pedro|
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Planejamento</a>| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/">Ferramentas</a> | Não houve | Julia Souza e Julia Vitoria |
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Planejamento</a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/heatmap/">Heatmap</a> | Não houve| Carolina |
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Planejamento</a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/metodologias/">Metodologias</a> | Kaban| Pedro |
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Planejamento</a> |  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Escolha do Aplicativo</a> | Não houve |Carolina e Julia Souza|
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Planejamento</a> |  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/">Rich Picture</a> | Rich Picture | Carolina e Julia Souza|
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/planejamento/">Elicitação </a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/personas/">Perfil de Usuário - Personas</a> | Personas| Bruno e Carolina |
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/planejamento/">Elicitação </a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/">Perfil de Usuário - Questionário</a> | Questionário| Bruno e Carolina |
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/planejamento/">Elicitação </a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">Técnicas - Brainstormig</a> | Brainstorming| Carolina, Catlen, Julia SOuza e Julia Vitoria |
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/planejamento/">Elicitação </a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">Técnicas - Brainstormig</a> | Brainstorming| Carolina, Catlen, Julia Souza e Julia Vitoria |
 
 
 
