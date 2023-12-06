@@ -2,7 +2,12 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp;No começo do projeto, todos os estudantes compartilharam os aplicativos que escolheram, depois analisaram qual aplicação seria <b>mais viável</b> para a realização do projeto durante o projeto.
+&emsp;&emsp;No começo do projeto, todos os estudantes compartilharam os aplicativos que escolheram, depois analisaram qual aplicação seria <b>mais viável</b> para a realização da documentação durante o projeto.
+</p>
+
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp;O objetivo da escolha de um aplicativo para a elicitação de requisitos é aprimorar a eficiência no desenvolvimento de software, promovendo uma compreensão precisa das necessidades dos usuários. A seleção de uma ferramenta especializada visa facilitar a coleta, documentação e gerenciamento de requisitos, melhorando a comunicação entre a equipe de desenvolvimento e os stakeholders. 
 </p>
 
 ## **Rich Pictures dos Apps Avaliados**
@@ -55,6 +60,7 @@
 | `1.0` | 18/09/2023 | Criação do documento da escolha do aplicativo | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
 | `1.1` | 20/09/2023 | Padronização do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 | `1.2` | 06/12/2023 | Add termo de uso |  [Carolina Barbosa](https://github.com/CarolinaBarb) |[Pedro Siqueira](https://github.com/PedroSiq) |
+| `1.3` | 06/12/2023 |Criação de objetivo | [Catlen Cleane](https://github.com/catlenc)| [Carolina Barbosa](https://github.com/CarolinaBarb)|
 
 
 <center>

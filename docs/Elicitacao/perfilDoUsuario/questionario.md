@@ -5,6 +5,11 @@
 &emsp;&emsp;Um questionário é uma técnica comum utilizada para a elicitação de requisitos, que envolve a criação de um conjunto de perguntas com o objetivo de coletar informações sobre as necessidades e expectativas de um grupo de pessoas. Ao utilizar um questionário, é possível obter dados de um grande número de pessoas de forma rápida e eficiente. Analisando as respostas dos questionários, é possível identificar padrões, tendências e preferências das partes interessadas, o que pode ajudar na tomada de decisões e no desenvolvimento de soluções que atendam às necessidades do projeto.
 </p>
 
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp;Desenvolver um questionário com o propósito de sistematizar a coleta de informações, identificar padrões e compreender as necessidades e expectativas das partes interessadas, proporcionando uma base sólida para a tomada de decisões informadas e orientando eficazmente o processo de elicitação de requisitos em projetos específicos.
+</p>
+
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp;A equipe compartilhou o link através de aplicativos de mensagens com potenciais usuários e o manteve disponível por um período de 4 dias, com o propósito de coletar informações e elaborar o perfil do usuário do Jitsi.
@@ -110,6 +115,8 @@ Perfil de usuário:
 | `1.0`  | 03/10/2023 | Criação do Documento  | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.1`  | 04/10/2023 | Adiciona Perguntas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.2`  | 06/11/2023 | Ajustes após a entrega 2|  [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
+| `1.3` | 06/12/2023 |Criação de objetivo | [Catlen Cleane](https://github.com/catlenc)| [Carolina Barbosa](https://github.com/CarolinaBarb)|
+
 <h6> Tabela 1: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </center>

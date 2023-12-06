@@ -5,6 +5,11 @@
 &emsp;&emsp; Neste documento você encontrará as personas criadas pelo grupo, juntamente com a metodologia empregada para defini-las. Ele oferece uma visão detalhada das personas desenvolvidas, incluindo suas características, motivações e necessidades. Através desse documento, você poderá compreender melhor o público-alvo, permitindo uma abordagem mais direcionada e eficaz para atender às necessidades dos usuários.
 </p>
 
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp; Este processo visa aprimorar a elicitação de requisitos ao criar personas detalhadas, destacando características, motivações e necessidades dos usuários. O documento resultante oferece uma compreensão do público-alvo, permitindo uma abordagem mais direcionada no desenvolvimento. O objetivo é fornecer insights para uma tomada de decisão embasada, garantindo soluções alinhadas às expectativas dos usuários e estabelecendo uma metodologia duradoura para futuras iterações.
+</p>
+
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp; Courage e Baxter, enfatizam a importância de ter um conjunto específico de personas para cada projeto. Recomenda-se ter de 3 a 12 personas. 
@@ -182,6 +187,8 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 | `1.3`  | 06/11/2023 | Ajustes após a entrega 2 | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.4`  | 06/11/2023 | Correção de imagem| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.5`  | 06/12/2023 | Descrição de tarefas| [Carolina Barbosa](https://github.com/CarolinaBarb) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| `1.6` | 06/12/2023 |Criação de objetivo | [Catlen Cleane](https://github.com/catlenc)| [Carolina Barbosa](https://github.com/CarolinaBarb)|
+
 <h6 align="center"> Tabela 05: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 

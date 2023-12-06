@@ -5,6 +5,12 @@
 &emsp;&emsp;A abordagem First Things First ressalta a necessidade de dar prioridade aos requisitos de maneira cuidadosa e estratégica, visando otimizar os ganhos e reduzir os riscos e custos associados ao desenvolvimento de software. Após a obtenção de vários requisitos por meio de técnicas como brainstorming, introspecção, entrevistas e observação, torna-se essencial utilizar métodos para estabelecer prioridades entre esses requisitos. Portanto, nesta seção, utiliza-se a técnica First Things First para a priorização dos requisitos.
 </p>
 
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp; Utilizar a técnica "First Things First" para a priorização de requisitos, visa otimizar a alocação de recursos e maximizar o impacto, ao identificar e focar nas atividades mais críticas ou essenciais no contexto do projeto.
+</p>
+
+
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp;Para aplicar a metodologia, é essencial desenvolver uma tabela contendo dados sobre os riscos, custos, benefícios e penalidades associadas a cada requisito do projeto. Esses aspectos devem ser avaliados em uma escala de pontuação, variando de 1 a 9, com o objetivo de equilibrar as perspectivas do cliente e do desenvolvedor. Todos os requisitos devem ser incluídos na tabela, e é necessário estimar o benefício relativo e a penalidade relativa de cada um, calcular o valor total, estimar o custo relativo e o nível de risco, e, por fim, determinar a prioridade de cada requisito.
@@ -110,6 +116,8 @@
 | `1.1`  | 17/10/2023 | Refatoração do documento |[Carolina Barbosa](https://github.com/CarolinaBarb) e  [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
 | `1.2`  | 06/12/2023 | Adição de pesos |[Carolina Barbosa](https://github.com/CarolinaBarb)  |   [Júlia Souza](https://github.com/JuliaSSouza)|
 | `1.3`  | 06/12/2023 | Ordenação de priorização e adição de hiperlinks |[Carolina Barbosa](https://github.com/CarolinaBarb)  |   [Júlia Souza](https://github.com/JuliaSSouza)|
+| `1.4` | 06/12/2023 |Criação de objetivo | [Catlen Cleane](https://github.com/catlenc)| [Carolina Barbosa](https://github.com/CarolinaBarb)|
+
 
 
 <h6 align="center"> Tabela 3: Histórico de Versão.
