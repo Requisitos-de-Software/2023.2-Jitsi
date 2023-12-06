@@ -86,10 +86,10 @@
 |[BR13](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião |Alta|
 |[BR15](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Os usuários devem poder compartilhar arquivos durante as reuniões |Alta|
 |[BR16](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade |Alta|
-|[BR17](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados), [ENT08](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [OB17](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve ter uma interface objetiva e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques |Alta|
+|[BR17](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados), [ENT08](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [OB17](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve permitir que o usuário consiga realizar qualquer atividade com menos de 5 cliques |Alta|
 | [ENT02](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados) | Os usuários devem ser capazes de criar uma videoconferência |Alta|
 |[IN01](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve permitir a configuração de controles de acesso |Alta|
-|[IN05](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Ser compatível com sistemas operacionais Android e IOS |Alta|
+|[IN05](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Ser compatível com sistemas operacionais Android (7.0 ou mais recente) e IOS (12.4 ou mais recente) |Alta|
 |[IN07](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve ser de código aberto e gratuito |Alta|
 |[IN10](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião |Alta|
 |[IN11](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB12](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência |Alta|
@@ -119,7 +119,7 @@
 |[IN06](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos |Média|
 |[IN13](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela |Média|
 |[OB01](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook|Média|
-[|BR05](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados), [ENT05](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados)| Deve permitir a transcrição do áudio da chamada |Média|
+[BR05](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados), [ENT05](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados)| Deve permitir a transcrição do áudio da chamada |Média|
 |[OB06](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve permitir enviar mensagem de texto durante a videochamada |Média|
 |[OB13](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve possuir um calendário com chamadas agendadas |Média|
 |[OB14](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve permitir que o calendário de um usuário seja sincronizado ao de outros |Média|
