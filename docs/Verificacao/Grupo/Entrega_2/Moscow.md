@@ -36,13 +36,12 @@
 
 | ID  | Descrição  | Avaliação | Observação  |
 | --  | -----------|-----------|------------ |
-| 6   | Foi determinado um cronograma para a realização dessa priorização? |   Não    |      |
-| 7   | Todos os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? |   Sim    |      |
-| 8   | As justificativas para a classificação dos requisito estão documentadas e são coerentes com as necessidades do projeto?|   Sim    |      |
-| 9   | A participação do cliente e/ou persona no processo de priorização? |  Não     |      |
-| 10  | Existe uma gravação da reunião com a participação do cliente/persona?  |   Não      |      |
-| 11  | Todos os requisitos funcionais estão documentados? | Sim |  |      
-| 12  | O artefato apresenta um backlog com os requisitos? | Não | |                                                                                          
+| 6  | Todos os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? |   Sim    |      |
+| 7   | As justificativas para a classificação dos requisito estão documentadas e são coerentes com as necessidades do projeto?|   Sim    |      |
+| 8   | A participação do cliente e/ou persona no processo de priorização? |  Não     |      |
+| 9  | Existe uma gravação da reunião com a participação do cliente/persona?  |   Não      |      |
+| 10  | Todos os requisitos funcionais estão documentados? | Sim |  |      
+                                      
 
 <h6 align="center"> Tabela 2: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
