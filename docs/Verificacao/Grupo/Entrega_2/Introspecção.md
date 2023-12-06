@@ -2,12 +2,17 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp; A verificação tem como finalidade assegurar que todos os critérios de avaliação tenham sido devidamente atendidos. Isso é realizado por meio de uma análise do conteúdo e da estrutura do artefato, visando aprimorar sua qualidade.
+&emsp;&emsp; Esse artefato contém os checklists usados na inspeção do artefato de elicitação de requisitos: introspecção. Ao final foi detalhado os resultados obtidos através da inspeção.
 </p>
 
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp; A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
+
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp; A verificação tem como finalidade assegurar que todos os critérios de avaliação tenham sido devidamente atendidos. Isso é realizado por meio de uma análise do conteúdo e da estrutura do artefato, visando aprimorar sua qualidade.
+</p>
 
 Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/">Introspecção</a>, que trata de uma técnica de elicitação de requisitos no desenvolvimento do aplicativo <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/">Jitsi</a>.
 </p>
@@ -18,31 +23,34 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>
 | ID | Descrição                                                                                               | Avaliação | Observações                              |
 | -- | ------------------------------------------------------------------------------------------------------- | -------   | ---------------------------------------  |
-| 1  | O artefato possui introdução?                                                                           |           |                                          |
-| 2  | O artefato possui uma bibliografia/referência bibliográfica?                                            |           |                                          |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?  |           |                                          |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                            |           |                                          |
-| 5  | Todos os textos estão na norma padrão?                                                                  |           |                                          
+| 1  | O artefato possui introdução?                                                                           |     Sim      |                                          |
+| 2  | O artefato possui uma bibliografia/referência bibliográfica?                                            |   Sim         |                                          |
+| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?  |      Sim      |                                          |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                            |   Sim         |                                          |
+| 5  | Todos os textos estão na norma padrão?                                                                  |       Sim     |                                          
 <h6 align="center"> Tabela 1: Checklist Geral de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 
 ## **Verificações Específicas**
 <p align="justify">
-&emsp;&emsp; A tabela 2 representa o Checklist para a Verificação da Entrevista
+&emsp;&emsp; A tabela 2 representa o Checklist para a Verificação da Introspecção.
 </p>
 
 | ID  | Descrição  | Avaliação | Observação  |
 | --  | -----------|-----------|------------ |
-| 6   | O artefato possui uma situação hipotética em que o desenvolvedor "imagina" o que ele gostaria de ver no sistema? |       |      |
-| 7  |  Possui um relato com quais propriedades o sistema deve possuir para que seja um sucesso na percepção do autor do artefato? |       |      |
-| 8   | O artefato possui os requisitos elicitados? |       |      |
-| 9   | Os requisitos elicitados estão dividos em funcionais e não funcionais? |       |      |
-| 10   | Foi relatado que essa técnica pode não ser adequada para representar fielmente os interesses reais dos interessados? |       |      |
+| 6   | O artefato possui uma situação hipotética em que o desenvolvedor "imagina" o que ele gostaria de ver no sistema? |    Sim    |      |
+| 7  |  Possui um relato com quais propriedades o sistema deve possuir para que seja um sucesso na percepção do autor do artefato? |  Sim      |      |
+| 8   | O artefato possui os requisitos elicitados? |   Sim     |      |
+| 9   | Os requisitos elicitados estão dividos em funcionais e não funcionais? |   Sim     |      |
+| 10   | Foi relatado que essa técnica pode não ser adequada para representar fielmente os interesses reais dos interessados? |  Não     |   Não foi mencionado   |
                                                                                 
 <h6 align="center"> Tabela 2: Checklist de Verificação.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
+## **Gravação**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z2q_tCF9glM?si=FKo9v5q0rfNGVRAy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Fonte Checklist**
 <p align="justify">
@@ -70,7 +78,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 ## **Conclusão**
 <p align="justify">
-&emsp;&emsp;
+&emsp;&emsp; O artefato estava excelente, precisando apenas de um pequeno ajuste descrito no item do checklist ID 10, mencionar no artefato que essa técnica pode não ser adequada para representar fielmente os interesses reais dos interessados.
 </p>
 
 ## **Histórico de Versão**
