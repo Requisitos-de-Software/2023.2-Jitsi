@@ -38,7 +38,7 @@
 | Versão |    Data    |                   Descrição                   |                                            Autor(es)                                            |                     Revisor(es)                     |
 |:------:|:----------:|:---------------------------------------------:|:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
 | `1.0`  | 18/09/2023 | Criação do documento e adição das ferramentas | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
-| `1.1`  | 20/09/2023 |           Padronização do artefato            |                          [Pedro Siqueira](https://github.com/PedroSiq)                          |                                                     |
+| `1.1`  | 20/09/2023 | Padronização do artefato   | [Pedro Siqueira](https://github. comPedroSiq)                          |   [Júlia Vitória](https://github.com/Juhvitoria4)|                                                   |
 | `1.2`  | 30/09/2023 | Detalhamento das ferramentas | [Júlia Vitória](https://github.com/Juhvitoria4) |[Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.3`  | 30/09/2023 | Adição de ferramentas | [Júlia Souza](https://github.com/JuliaSSouza) |[Júlia Vitória](https://github.com/Juhvitoria4) |
 

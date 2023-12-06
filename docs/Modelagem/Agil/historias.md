@@ -5,6 +5,11 @@
 &emsp;&emsp;Neste artefato, serão desenvolvidas as histórias de usuário do aplicativo Jitsi. As histórias de usuário representam uma <b>técnica de modelagem ágil</b> que possibilita à equipe <b>compreender as necessidades do usuário de forma eficiente</b> e, assim, trabalhar de maneira mais eficaz no desenvolvimento do software. Essa abordagem ajuda a estabelecer uma ligação valiosa entre as aspirações do usuário e a entrega de valor por meio do software.
 </p>
 
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp;Esse artefato tem como objetivo apresentar as histórias de usuário desenvolvidas, elas auxiliam na comunicação das necessidades do cliente, através de uma linguagem de fácil entendimento.
+</p>
+
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp; Para a criação das histórias de usuário, foram utilizados os <b>requisitos funcionais</b> como base. Para representar as histórias, estabelecemos um modelo padrão, detalhado na Tabela 1. A validação das Histórias de Usuário foi realizada por meio de um processo de verificação com a participação de uma <b>usuária</b> do aplicativo Jitsi. A entrevista foi conduzida via Teams no dia 06 de novembro de 2023. Depois de elicitadas as histórias de usuário, os critérios de aceitação foram definidos e elas foram priorizadas pelo usuário em: Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale de priorização de requisitos. Os participantes são apresentados na tabela 2.
@@ -58,6 +63,9 @@
 </p>
 
 ## **Gravação**
+<p align="justify">
+&emsp;&emsp; Gravação da validação das histórias de usuário com o cliente.
+</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UNfvNLFuAa8?si=satZ0TKG2a4hMwk6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -536,7 +544,7 @@
 | `1.4`  | 05/11/2023 | Correção de Erros| [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
 | `1.5`  | 06/11/2023 | Ajustes nos titulos e legendas| [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
 | `1.6`  | 06/11/2023 | Validação com Cliente| [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
- 
+| `1.7`  | 06/11/2023 | Correções| [Júlia Souza](https://github.com/JuliaSSouza)| [Pedro Siqueira](https://github.com/PedroSiq)|
  
 
 <h6 align="center"> Tabela 13: Histórico de Versão.

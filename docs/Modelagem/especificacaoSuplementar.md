@@ -12,7 +12,7 @@
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;A metodologia utilizada é uma versão do FURPS+. Esta metodologia se baseia em critérios essenciais, tais como: 
+&emsp;&emsp;A metodologia utilizada é uma versão do FURPS+. Esta metodologia se baseia em critérios essenciais, tais como:
 </p>
 <ul>
 <li>(F) *Functionality*: Funcionalidade - são os aspectos funcionais do sistema.</li>
@@ -36,7 +36,7 @@
 
 |Id|Descrição|
 |----|-------|
-|US01|Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques|
+|US01|Deve permitir que o usuário consiga realizar qualquer atividade com menos de 5 cliques|
 |US02|O sistema deve possuir recursos de acessibilidade como teclado virtual, mudar idioma, opção de alto contraste e  aumento de fonte|
 |US03|Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade|
 |US04|Deve ser possível ingressar em uma reunião sem a necessidade de um login|
@@ -55,7 +55,7 @@
 
 |Id|Descrição|
 |----|-------|
-|CO01| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia|
+|CO01|Deve ser estável, tendo no máximo 1 queda de funcionamento por dia|
 |CO02|Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência|
 |CO03|O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD)|
 
@@ -72,7 +72,7 @@
 
 |Id|Descrição|
 |----|-------|
-|DE01| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos|
+|DE01|Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos|
 |DE02|Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela|
 |DE03|Deve ser um aplicativo que ocupe menos de 100mb de memória|
 |DE04|O software é capaz de atender acessos simultâneos de diferentes usuários|
@@ -88,7 +88,7 @@
 
 |Id|Descrição|
 |----|-------|
-|SU01|Ser compatível com sistemas operacionais Android e IOS|
+|SU01|Ser compatível com sistemas operacionais Android (7.0 ou mais recente) e IOS (12.4 ou mais recente)|
 
 <center>
 <h6> Tabela 4: Requisitos de Suportabilidade.
@@ -122,6 +122,7 @@
 | `1.0`  | 23/10/2023 | Criação do Artefato | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Vitória](https://github.com/Juhvitoria4) |
 | `1.0`  | 24/10/2023 | Listagem dos requisitos | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Vitória](https://github.com/Juhvitoria4) |
 | `1.1`  | 25/10/2023 | Revisão e finalização do artefato | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Vitória](https://github.com/Juhvitoria4) |
+| `1.2`  | 06/12/2023 | Correção do artefato | [Pedro Siqueira](https://github.com/PedroSiq)| [Catlen Cleane](https://github.com/catlenc) |
 
 <h6> Tabela 6: Histórico de Versão.
 <br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a> e <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>

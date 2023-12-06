@@ -24,7 +24,7 @@
 &emsp;&emsp;Durante as entrevistas, foram utilizadas perguntas abertas, permitindo assim que os entrevistados expressassem suas opiniões, experiências e sugestões de forma livre. As valiosas opiniões e <i>insights</i> coletados tem um impacto significativo no desenvolvimento de um aplicativo robusto, seguro e que atenda plenamente às necessidades dos usuários.
 </p>
 <p align="justify">
-&emsp;&emsp;As gravações das entrevistas serão disponibilizadas no presente artefato, e o cronograma da entrevista e termo de consentimento podem ser conferidos abaixo:
+&emsp;&emsp;As gravações das entrevistas serão disponibilizadas no presente artefato, e o cronograma da entrevista que foi utilizado em todas as entrevistas e o termo de consentimento que tambem foi utilizado em todas as entrevistas podem ser conferidos abaixo:
 <details>
    <summary>Cronograma da Entrevista e Termo de Consentimento</summary>
       <iframe src="https://docs.google.com/document/d/e/2PACX-1vT0GYLXPvdkWTIS-Y3qKcul_vgbJHrLS9-BUWw6N-TmZrV1iNow-HXeGCIAUdqKCyl7__4V_RYUJ1wi/pub?embedded=true" width="100%" height="700" frameborder="0" scrolling="yes"></iframe>
@@ -34,6 +34,11 @@
 ## **Perguntas**
 <p align="justify">
 &emsp;&emsp;Após apresentar o <a href="https://docs.google.com/document/d/e/2PACX-1vT0GYLXPvdkWTIS-Y3qKcul_vgbJHrLS9-BUWw6N-TmZrV1iNow-HXeGCIAUdqKCyl7__4V_RYUJ1wi/pub?embedded=true">termo de consentimento</a>, são feitas perguntas para o participante. Para obter resultados afunilados, a equipe utilizou um escopo fechado para a realização das entrevistas, porém, dando abertura para o participante expressar opiniões fora deste escopo. As perguntas feitas são demonstradas na tabela abaixo: 
+
+<p align="justify">
+&emsp;&emsp;A tabela 1 demonstra as perguntas realizadas durante a entrevista.
+</p>
+
 </p>
 | Perguntas |
 |---------------------------------------------------------|
@@ -56,7 +61,7 @@
 
 ## **Dados Demográficos**
 <p align="justify">
-&emsp;&emsp;A tabela abaixo demonstra as informações dos entrevistados, em <b>ordem</b>.
+&emsp;&emsp;A tabela 2 demonstra as informações dos entrevistados, em <b>ordem</b>.
 </p>
 
 | Entrevistado | Idade | Gênero | Escolaridade | Ocupação | Estado civil | 
@@ -69,8 +74,13 @@
 
 ## **Entrevista 1**
 <p align="justify">
-&emsp;&emsp;A entrevista foi realizada presencialmente. A entrevistadora foi a <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e a entrevistada Luana Soares. Apesar de ter transcrevido o áudio, não foi possível disponibilizá-lo. A tabela 3 apresenta as perguntas e respostas da entrevista 1.
+&emsp;&emsp;A entrevista foi realizada presencialmente. A entrevistadora foi a <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e a entrevistada Luana Soares. Apesar de ter transcrevido o áudio, não foi possível disponibilizá-lo.
 </p>
+<p align="justify">
+&emsp;&emsp; A tabela 3 apresenta as perguntas e respostas da entrevista 1.
+</p>
+
+
 
 | Perguntas | Respostas |
 |---------------------------|------------------------------|
@@ -87,7 +97,11 @@
 
 ## **Entrevista 2**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DyWOoL0fo4o?si=8LxdkEn1e-22WzLi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h6 align="center"> Gravação: Entrevista 2.
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 <p align="justify">
+
 &emsp;&emsp;A tabela 4 apresenta as perguntas e respostas da entrevista 2.
 </p>
 | Perguntas | Respostas |
@@ -105,6 +119,10 @@
 
 ## **Entrevista 3**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6pRyh0U9Krc?si=Se0xKLMBuJbwphC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h6 align="center"> Gravação: Entrevista 3 .
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a> e <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
+
 <p align="justify">
 &emsp;&emsp;A tabela 5 apresenta as perguntas e respostas da entrevista 3.
 </p>
@@ -125,10 +143,15 @@
 <p align="justify">
 &emsp;&emsp;Como resultado das entrevistas realizadas, foram elicitados os requisitos na tabela abaixo, com os seguintes componentes:
 <ul>
+
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários;</li>
 <li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema;</li>
 <li> Identificação(ENT + N°) : Requisito Elicitado pela Entrevista + Número.</li>
 </ul>
+</p>
+
+<p align="justify">
+&emsp;&emsp;A tabela 6 apresenta os requisitos elicitados como resultado das entrevista.
 </p>
 
 | Identificador | Requisito | Categoria | Implementado | 
@@ -140,7 +163,8 @@
 | ENT05 | Deve permitir a transcrição do áudio da chamada | RF | Não | 
 | ENT06 | Deve permitir a utilização de quadro de anotação durante a chamada | RF | Não |
 | ENT07 | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | RF | Não | 
-| ENT08 | Deve permitir que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim |
+<h6 align="center"> Tabela 6: Requisitos Elicitados.
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -151,6 +175,7 @@
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 04/10/2023 | Criação do artefato | [Júlia Vitória](https://github.com/Juhvitoria4) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.1`  | 04/10/2023 | Acréscimo de entrevista e requisitos elicitados | [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
+| `1.2`  | 06/12/2023 | Correção do Artefato |[Júlia Vitória](https://github.com/Juhvitoria4)  |[Pedro Siqueira](https://github.com/PedroSiq) |
 <h6 align="center"> Tabela 6: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
 

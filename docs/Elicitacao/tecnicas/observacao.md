@@ -10,23 +10,6 @@
 &emsp;&emsp;Realizar um processo de elicitação de requisitos por meio da técnica de observação, com o propósito de identificar de maneira precisa e abrangente as necessidades, preferências, limitações e restrições dos usuários externos, visando aprimorar o desenvolvimento do aplicativo em questão.
 </p>
 
-## **Cronograma**
-<p align="justify">
-</p>
-<p align="justify">
-&emsp;&emsp;A tabela 1 apresenta o Cronograma
-</p>
-<center>
-
-| Nome | Data | Hora | Função |
-|----|----|----|-----|
-|[Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza)| 03/10/2023|18:30| Desenvolvedor|
-|Letícia Resende da Silva e Hugo Rogério Pinto Martins|03/10/2023|20:00| Usuários|
-<h6 align = "center"> Tabela 1: Cronograma
-<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a></h6>
-</center>
-</p>
-
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp;Foi realizado uma reunião no dia 03/10/2023, com os participantes citados na tabela 01, pelo Microsoft Teams com o intuito de observar os usuários utilizando o Jitsi para elicitar seus requisitos. As  <span style = "color: blue"> Observadoras </span> instruiram as ações que os usuários precisava realizar no aplicativo Jitsi. Durante a observação de um dos usuários, foi realizado uma chamada pelo proprio aplicativo jitsi entre uma observadora e um usuário para que ele pudessem fazer uma análise das funcionalidades do aplicativo. A elicitação dos requisitos estão presentes na tabela 02.
@@ -34,7 +17,7 @@
 
 ## **Participantes**
 <p align="justify">
-&emsp;&emsp; A tabela 2 representa os participantes da atividade de observação
+&emsp;&emsp; A tabela 1 representa os participantes da atividade de observação
 </p>
 
 <center>
@@ -50,7 +33,7 @@
 </center>
 
 <p align="justify">
-<h6 align = "center"> Tabela 2: Participantes.
+<h6 align = "center"> Tabela 1: Participantes.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
 
@@ -69,7 +52,7 @@
 <li> Identificação(OB + N°) : Requisito Elicitado pela Observação + Número
 </p>
 <p align="justify">
-&emsp;&emsp;A tabela 3 representa os Requisitos Elicitados pela técnica de Observação
+&emsp;&emsp;A tabela 2 representa os Requisitos Elicitados pela técnica de Observação
 </p>
 
 | Identificador | Requisito | Categoria | Implementado | 
@@ -92,7 +75,7 @@
 |OB16| Deve ser um aplicativo que ocupe menos de 100mb de memória | RNF | Sim | 
 |OB17| Deve permitir que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim | 
 
-<h6 align = "center"> Tabela 3: Requisitos Elicitados.
+<h6 align = "center"> Tabela 2: Requisitos Elicitados.
 <br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a>
 </center>
 </p>
@@ -100,7 +83,7 @@
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 4 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 3 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -108,8 +91,9 @@
 | `1.0`  | 03/10/2023 | Criação do documento  | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
  `1.1`  | 04/10/2023 | Listagem dos Requisitos e conclusão | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
  `1.2`  | 06/12/2023 | Correção de erros gramáticais| [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Vitória](https://github.com/Juhvitoria4) |
-  `1.3`  | 06/12/2023 | Inclusão de Objetivo e Cronograma| [Catlen Cleane](https://github.com/catlenc)| [Pedro Siqueira](https://github.com/PedroSiq) |
-<h6 align = "center"> Tabela 4: Histórico de Versão.
+  `1.3`  | 06/12/2023 | Inclusão de Objetivo| [Catlen Cleane](https://github.com/catlenc)| [Pedro Siqueira](https://github.com/PedroSiq) |
+
+<h6 align = "center"> Tabela 3: Histórico de Versão.
 <br> Autor(a):  <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
 ## **Bibliografia**
