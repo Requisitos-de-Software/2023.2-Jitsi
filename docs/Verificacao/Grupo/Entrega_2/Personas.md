@@ -2,14 +2,18 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp; A verificação tem como finalidade assegurar que todos os critérios de avaliação tenham sido devidamente atendidos. Isso é realizado por meio de uma análise do conteúdo e da estrutura do artefato, visando aprimorar sua qualidade.
-</p>
+&emsp;&emsp; Esse artefato contém os checklists usados na inspeção do artefato de elicitação de requisitos: personas. Ao final foi detalhado os resultados obtidos através da inspeção.
 
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp; A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
 
 Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/personas/">Personas</a>, que trata de uma das modelagens usada, no desenvolvimento do aplicativo <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/">Jitsi</a>.
+</p>
+
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp; A verificação tem como finalidade assegurar que todos os critérios de avaliação tenham sido devidamente atendidos. Isso é realizado por meio de uma análise do conteúdo e da estrutura do artefato, visando aprimorar sua qualidade.
 </p>
 
 ## **Verificações Gerais**

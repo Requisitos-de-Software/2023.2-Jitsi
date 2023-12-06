@@ -60,6 +60,18 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 </p>
 
 ## **A Execução do Projeto**
+| Fase do Projeto                          | Descrição                                                                                                                                                           | Artefatos Produzidos                                              |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Planejamento do Projeto                  | Análise e escolha de um aplicativo para a realização do projeto, planejamento do cronograma, definição das ferramentas, organização das reuniões semanais e metodologias. | Cronograma, Cronograma realizado, Ferramentas, Heatmap, Metodologias |
+| Elicitação de Requisitos                 | A etapa de elicitação de requisitos se subdivide em personas, questionário, brainstorming, entrevista, introspecção e observação.                                   | Personas, Questionário, Brainstorming, Entrevista, Introspecção, Observação |
+| Modelagem de Requisitos                  |                                                                                                                                                                     |                                                                  |
+| Modelagem de Requisitos: Ágil            |                                                                                                                                                                     |                                                                  |
+| Análise de Requisitos: Verificação e Validação 1 |                                                                                                                                                                     |                                                                  |
+| Análise de Requisitos: Verificação e Validação 2 |                                                                                                                                                                     |                                                                  |
+| Pós-Rastreabilidade                      |                                                                                                                                                                     |                                                                  |
+| Entrega Final                            |                                                                                                                                                                     |                                                                  |
+| Contínua                                 |                                                                                                                                                                     |                                                                  |
+
 
 ## **Técnicas Utilizadas**
 <p align="justify">
@@ -74,7 +86,7 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Planejamento</a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/heatmap/">Heatmap</a> | Não houve| Carolina |
 | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Planejamento</a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/metodologias/">Metodologias</a> | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/metodologias/">Kanban</a> | 
 | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Planejamento</a> |  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/">Rich Picture</a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/">Rich Picture</a>|
-| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/planejamento/">Técnicas e Priorização </a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/personas/">Perfil de Usuário - Personas</a> | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/personas/">Personas</a>|
+| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/planejamento/">Técnicas e Priorização </a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/personas/">Perfil de Usuário - Personas</a> | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/">Questionário</a>  |
 | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/planejamento/">Técnicas e Priorização  </a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/">Perfil de Usuário - Questionário</a> | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/">Questionário</a> | 
 | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/planejamento/">Técnicas e Priorização  </a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">Técnicas - Brainstormig</a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">Brainstormig</a>| 
 | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/planejamento/">Técnicas e Priorização  </a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">Técnicas - Entrevista</a> | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">Entrevista</a> |
@@ -289,6 +301,9 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 | `1.4`  | 06/12/2023 | Inicio Verif e Validação | [Júlia Souza](https://github.com/JuliaSSouza)  | [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.5`  | 06/12/2023 | Tabela de Técnicas Utilizadas |[Catlen Cleane](https://github.com/catlenc)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
 | `1.6`  | 06/12/2023 | Tabela síntese das Verificações e Validações  | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| `1.7`| 06/12/2023 | Planejamento dos recursos e das Entregas | [Júlia Vitória](https://github.com/Juhvitoria4) | [Catlen Cleane](https://github.com/catlenc)|
+| `1.8`| 06/12/2023 | Inicio da tabela de Execução do Projeto | [Júlia Vitória](https://github.com/Juhvitoria4) |[Catlen Cleane](https://github.com/catlenc)|
+
 <h6 align="center"> Tabela n: Histórico de Versão.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
