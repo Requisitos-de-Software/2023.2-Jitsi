@@ -61,35 +61,35 @@
 
 | Identificador | Requisito | Benefício Relativo | Penalidade Relativa | Valor Total | Valor(%) | Custo Relativo | Custo(%) | Risco Relativo | Risco (%) | Prioridade |
 | ------------- | ---------- | ------------------- | -------------------- | ----------- | -------- | -------------- | ----------- | ----------- | -------------- | ---------- |
-| ENT01, IN02, OB07, BR02 | Os usuários devem poder compartilhar suas telas durante as chamadas | 9 | 8 | 26 | 5,52 | 3 | 2,63 | 2 | 2,86 |1,36 |
-| ENT02 | Os usuários devem ser capazes de criar uma videoconferência | 9 | 9 | 27 | 5,73 | 3 | 2,63 | 1 | 1,43 | 1,71|
-| ENT03, OB09 | Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | 3 | 0 | 6 |1,27  | 1 | 0,88 | 1 | 1,43 |0,80 |
-| ENT04, IN03, OB05, BR03 | Deve permitir a gravação de chamadas | 9 | 9 | 27 | 5,73 | 3 | 2,63 | 2 | 2,86 | 1,41|
-| ENT05, BR05 | Deve permitir a transcrição do áudio da chamada | 8 | 8 | 24 | 5,10 | 7 | 6,14 | 1 | 1,43 | 0,74|
-| ENT06, IN04, BR01 | Deve permitir a utilização de quadro de anotação durante a chamada | 5 | 3 | 13 | 2,76 | 4 | 3,51 | 3 | 4,29 |0,49 |
-| ENT07, BR04 | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | 3 | 0 | 6 | 1,27 | 2 | 1,75 | 2 | 2,86 | 0,40|
-| IN01 | Deve permitir a configuração de controles de acesso | 9 | 9 | 27 | 5,73 | 8 | 7,02 | 2 | 2,86 | 0,68|
-| IN08 | Deve ser possível deletar reuniões armazenadas | 5 | 0 | 10 | 2,12 | 2 | 1,75 | 1 |  1,43| 0,86|
-| IN09, BR09 | Deve possuir um mecanismo de busca a partir da data da reunião | 2 | 0 | 4 | 0,85 | 1 | 0,88 | 2 | 2,86 |0,37 |
-| IN10, BR07 | Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | 9 | 9 | 27 | 5,73 | 4 | 3,51 | 1 | 1,43 | 1,36|
-| OB01 | Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook | 4 | 3 | 11 | 2,34 | 5 | 4,39 | 3 | 4,29 |0,36 |
-| OB02 | Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos | 9 | 9 | 27 | 5,73 | 2 | 1,75 | 2 | 2,86 |1,80 |
-| OB03 | Deve possuir um link de ajuda para explicar como se convida outros participantes | 1 | 1 | 3 | 0,64 | 1 | 0,88 | 1 | 1,43 | 0,40|
-| OB04 | Deve possuir a opção de mutar o áudio | 9 | 9 | 27 | 5,73 |3 | 2,63 | 2 | 2,86 | 1,41|
-| OB06 | Deve permitir enviar mensagem de texto durante a videochamada | 9 | 9 | 27 | 5,73 | 5 |4,39  | 3 | 4,29 | 0,88|
-| OB08, BR15 | Os usuários devem poder compartilhar arquivos durante as reuniões | 7 | 5  | 19 | 4,03 | 6 |  5,26| 3 | 4,29 | 0,54|
-| OB10 | O anfitrião deve conseguir, através do compartilhamento de tela, interagir no celular de outro usuário | 6 | 0 | 12 | 2,55 | 9 | 7,89 | 5 | 7,14 | 0,22|
-| OB11 | Deve permitir que o usuário configure seu perfil, com nome de usuário e foto | 9 | 7 | 25 | 5,31 | 2 | 1,75 | 2 | 2,86 |1,67 |
-| OB13 | Deve possuir um calendário com chamadas agendadas | 5 | 0 | 10 | 2,12 | 8 | 7,02 | 5 | 7,14 | 0,20|
-| OB14 | Deve permitir que o calendário de um usuário seja sincronizado ao de outros | 3 | 0 | 6 | 1,27 | 8| 7,02 | 7 | 10 |0,10 |
-| OB15 | Deve permitir agendar reuniões com outros usuários através do calendário | 7 | 3 | 17 | 3,61 | 8 | 7,02 | 6 | 8,57 |0,32 |
-| OB16 | Deve possuir uma lista das reuniões que o usuário já participou | 3 | 7 | 13 | 2,76 | 2 | 1,75 | 1 | 1,43 | 1,12|
-| BR06 | Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | 7 | 2 |16  | 3,4 | 4 | 3,51 | 4 | 5,71 | 0,53|
-| BR08 | Deve ser possível baixar as gravações das reuniões | 9 | 7 | 25 | 3,40 | 2 | 1,75 | 2 | 2,86 | 1,07|
-| BR10 | Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. |2 | 0 |  4 | 5,31 | 2 | 1,75 | 1 | 1,43 |2,15 |
-| BR11 | O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso | 0 | 0  | 0 | 0 | 1 | 0,88| 1 | 1,43 |0 |
-| BR13 | O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | 5 | 3 | 13 | 2,76 | 5 |4,39 | 3 | 4,29 | 0,42|
-| BR16 | Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | 7 | 5 | 19 | 4,03 | 3 | 2,63| 1 | 1,43 | 0|  
+| [BR10](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. |2 | 0 |  4 | 5,31 | 2 | 1,75 | 1 | 1,43 |2,15 |
+| [OB02](/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos | 9 | 9 | 27 | 5,73 | 2 | 1,75 | 2 | 2,86 |1,80 |
+| [ENT02](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados) | Os usuários devem ser capazes de criar uma videoconferência | 9 | 9 | 27 | 5,73 | 3 | 2,63 | 1 | 1,43 | 1,71|
+| [OB11](/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve permitir que o usuário configure seu perfil, com nome de usuário e foto | 9 | 7 | 25 | 5,31 | 2 | 1,75 | 2 | 2,86 |1,67 |
+| [OB04](/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve possuir a opção de mutar o áudio | 9 | 9 | 27 | 5,73 |3 | 2,63 | 2 | 2,86 | 1,41|
+| [ENT04](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN03](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB05](/Elicitacao/tecnicas/observacao/#requisitos-elicitados), [BR03](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve permitir a gravação de chamadas | 9 | 9 | 27 | 5,73 | 3 | 2,63 | 2 | 2,86 | 1,41|
+| [ENT01](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN02](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB07](/Elicitacao/tecnicas/observacao/#requisitos-elicitados), [BR02](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Os usuários devem poder compartilhar suas telas durante as chamadas | 9 | 8 | 26 | 5,52 | 3 | 2,63 | 2 | 2,86 |1,36 |
+| [IN10](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [BR07](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | 9 | 9 | 27 | 5,73 | 4 | 3,51 | 1 | 1,43 | 1,36|
+| [OB16](/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve possuir uma lista das reuniões que o usuário já participou | 3 | 7 | 13 | 2,76 | 2 | 1,75 | 1 | 1,43 | 1,12|
+| [BR08](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve ser possível baixar as gravações das reuniões | 9 | 7 | 25 | 3,40 | 2 | 1,75 | 2 | 2,86 | 1,07|
+| [OB06](/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve permitir enviar mensagem de texto durante a videochamada | 9 | 9 | 27 | 5,73 | 5 |4,39  | 3 | 4,29 | 0,88|
+| [IN08](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Deve ser possível deletar reuniões armazenadas | 5 | 0 | 10 | 2,12 | 2 | 1,75 | 1 |  1,43| 0,86|
+| [ENT03](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [OB09](/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | 3 | 0 | 6 |1,27  | 1 | 0,88 | 1 | 1,43 |0,80 |
+| [ENT05](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [BR05](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve permitir a transcrição do áudio da chamada | 8 | 8 | 24 | 5,10 | 7 | 6,14 | 1 | 1,43 | 0,74|
+| [IN01](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Deve permitir a configuração de controles de acesso | 9 | 9 | 27 | 5,73 | 8 | 7,02 | 2 | 2,86 | 0,68|
+| [OB08](/Elicitacao/tecnicas/observacao/#requisitos-elicitados), [BR15](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Os usuários devem poder compartilhar arquivos durante as reuniões | 7 | 5  | 19 | 4,03 | 6 |  5,26| 3 | 4,29 | 0,54|
+| [BR06](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | 7 | 2 |16  | 3,4 | 4 | 3,51 | 4 | 5,71 | 0,53|
+| [ENT06](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN04](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [BR01](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve permitir a utilização de quadro de anotação durante a chamada | 5 | 3 | 13 | 2,76 | 4 | 3,51 | 3 | 4,29 |0,49 |
+|[BR13](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião | 5 | 3 | 13 | 2,76 | 5 |4,39 | 3 | 4,29 | 0,42|
+| [ENT07](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [BR04](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | 3 | 0 | 6 | 1,27 | 2 | 1,75 | 2 | 2,86 | 0,40|
+| [OB03](/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve possuir um link de ajuda para explicar como se convida outros participantes | 1 | 1 | 3 | 0,64 | 1 | 0,88 | 1 | 1,43 | 0,40|
+| [IN09](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [BR09](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve possuir um mecanismo de busca a partir da data da reunião | 2 | 0 | 4 | 0,85 | 1 | 0,88 | 2 | 2,86 |0,37 |
+| [OB01](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook | 4 | 3 | 11 | 2,34 | 5 | 4,39 | 3 | 4,29 |0,36 |
+| [OB15](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve permitir agendar reuniões com outros usuários através do calendário | 7 | 3 | 17 | 3,61 | 8 | 7,02 | 6 | 8,57 |0,32 |
+| [OB10](/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | O anfitrião deve conseguir, através do compartilhamento de tela, interagir no celular de outro usuário | 6 | 0 | 12 | 2,55 | 9 | 7,89 | 5 | 7,14 | 0,22|
+| [OB13](/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve possuir um calendário com chamadas agendadas | 5 | 0 | 10 | 2,12 | 8 | 7,02 | 5 | 7,14 | 0,20|
+| [OB14](/Elicitacao/tecnicas/observacao/#requisitos-elicitados) | Deve permitir que o calendário de um usuário seja sincronizado ao de outros | 3 | 0 | 6 | 1,27 | 8| 7,02 | 7 | 10 |0,10 |
+| [BR11](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso | 0 | 0  | 0 | 0 | 1 | 0,88| 1 | 1,43 |0 |
+| [BR16](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | 7 | 5 | 19 | 4,03 | 3 | 2,63| 1 | 1,43 | 0|  
 
 
 <p align="justify">
@@ -109,6 +109,8 @@
 | `1.0`  | 04/10/2023 | Criação do artefato | [Júlia Souza](https://github.com/JuliaSSouza) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Vitória](https://github.com/Juhvitoria4) |
 | `1.1`  | 17/10/2023 | Refatoração do documento |[Carolina Barbosa](https://github.com/CarolinaBarb) e  [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
 | `1.2`  | 06/12/2023 | Adição de pesos |[Carolina Barbosa](https://github.com/CarolinaBarb)  |   [Júlia Souza](https://github.com/JuliaSSouza)|
+| `1.3`  | 06/12/2023 | Ordenação de priorização e adição de hiperlinks |[Carolina Barbosa](https://github.com/CarolinaBarb)  |   [Júlia Souza](https://github.com/JuliaSSouza)|
+
 
 <h6 align="center"> Tabela 3: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
