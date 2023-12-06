@@ -12,7 +12,6 @@ Para criar as personas utilizamos a técnica usada para coletar dados <a href="h
 As imagens utilizadas neste documento para reprensentar as personas foram obtidas do site <a href="https://this-person-does-not-exist.com/en">This Person Does Not Exist</a>, que a partir de inteligência artificial gera imagens que não possuem direitos autorais.
 </p>
 
-
 ## **Personas**
 ### Marina Lima - Persona Primária
 
@@ -32,7 +31,7 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 
 | Característica       | Resposta                                                                                                                                              |
 |:---------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**             | Marina Lima                                                                                                                                             |
+| **Nome**             | Marina Lima                                                                                                                                           |
 | **Idade**            | 23 anos                                                                                                                                               |
 | **Gênero**           | Feminino                                                                                                                                              |
 | **Localidade**       | São Paulo, Brasil                                                                                                                                     |
@@ -41,7 +40,7 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 | **Profissão**        | Gerente de Projetos em uma empresa de TI                                                                                                              |
 | **História**         | Trabalha na área de tecnologia há 10 anos e está sempre em busca de ferramentas eficientes para otimizar a colaboração e a comunicação da sua equipe. |
 | **Objetivos**        | Utilizar o Jitsi para reuniões diárias de acompanhamento de projetos e treinamentos com a equipe.                                                     |
-| **Rotina**           | Ativa e focada em suas atividades profissionais, com reuniões frequentes e práticas de yoga para equilíbrio.                                          |
+| **Tarefas**          | Ir ao trabalho, Participar de reuniões frequentes e  ir a aulas de práticas de yoga para equilíbrio.                                                  |
 | **Requisitos**       | Alta qualidade de áudio e vídeo, integração com calendário e capacidade de compartilhamento de tela.                                                  |
 | **Frequência**       | Diariamente.                                                                                                                                          |
 | **Necessidades**     | erramenta de comunicação confiável e eficiente para coordenar equipes remotas.                                                                        |
@@ -70,7 +69,7 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 
 | Característica       | Resposta                                                                                                                   |
 |:---------------------|:---------------------------------------------------------------------------------------------------------------------------|
-| **Nome**             | Marcos Costa                                                                                                                   |
+| **Nome**             | Marcos Costa                                                                                                               |
 | **Idade**            | 25                                                                                                                         |
 | **Gênero**           | Masculino                                                                                                                  |
 | **Localidade**       | Mumbai, Índia                                                                                                              |
@@ -79,7 +78,7 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 | **Profissão**        | Desenvolvedor de Software Freelancer                                                                                       |
 | **História**         | Trabalha de forma independente e precisa de uma solução confiável para reuniões virtuais com clientes e colegas de equipe. |
 | **Objetivos**        | Utilizar o Jitsi para reuniões de brainstorming e acompanhamento de projetos com clientes.                                 |
-| **Rotina**           | Flexível, dependendo dos prazos e demandas de projetos.                                                                    |
+| **Tarefas**          | Aguardar prazos e demandas de projetos                                                                                     |
 | **Requisitos**       | Boa qualidade de áudio e vídeo, capacidade de compartilhar código e integração com ferramentas de desenvolvimento.         |
 | **Frequência**       | Variável, dependendo dos projetos em andamento.                                                                            |
 | **Necessidades**     | Ferramenta confiável para comunicação remota com clientes e colaboradores.                                                 |
@@ -117,7 +116,7 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 | **Profissão**        | Professora Universitário                                                                                            |
 | **História**         | Leciona há 15 anos e necessita de uma plataforma que permita interações fluidas com seus alunos, mesmo à distância. |
 | **Objetivos**        | Utilizar o Jitsi para aulas online e reuniões com colegas e alunos.                                                 |
-| **Rotina**           | Dedica grande parte do tempo ao ensino, pesquisa e orientação de estudantes de pós-graduação.                       |
+| **Tarefas**          | Dar aulas, realizar pesquisas e orientar de estudante de pós-graduação.                       |
 | **Requisitos**       | Boa qualidade de vídeo e áudio, funcionalidade de chat e opção de gravação de aulas.                                |
 | **Frequência**       | Três vezes por semana.                                                                                              |
 | **Necessidades**     | Ferramenta confiável para aulas online interativas e produtivas.                                                    |
@@ -182,7 +181,7 @@ As imagens utilizadas neste documento para reprensentar as personas foram obtida
 | `1.2`  | 04/10/2023 | Finalizar Personas   | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
 | `1.3`  | 06/11/2023 | Ajustes após a entrega 2 | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.4`  | 06/11/2023 | Correção de imagem| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza) | [Catlen Cleane](https://github.com/catlenc) |
-
+| `1.5`  | 06/12/2023 | Descrição de tarefas| [Carolina Barbosa](https://github.com/CarolinaBarb) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
 <h6 align="center"> Tabela 05: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
