@@ -26,6 +26,18 @@
 <li>Disponibilidade do aplicativo.</li>
 </p>
 
+## Resultados Alcançados
+
+No início do projeto, a equipe fez um planejamento para alinhar objetivos e escopo, definir metodologias, criar um cronograma detalhado e focar no aplicativo. Isso permitiu o alinhamento da equipe e a documentação das necessidades iniciais do projeto.
+
+Para entender as necessidades dos usuários, usamos as etapas de elicitação e modelagem. Essas etapas nos ajudaram a adotar perspectivas dos usuários e a documentar os requisitos de maneira adequada.
+
+Ao longo do projeto, usamos várias técnicas e artefatos para elicitar requisitos, aplicando rastreabilidade para entender suas conexões. No final, a rastreabilidade, incluindo artefatos de pós-Rastreabilidade e a matriz Geral, esclareceu as conexões entre requisitos e artefatos.
+
+Juntamente com a implementação de requisitos que não existiam dentro do Jitsi, feito a prototipação e validação junto com o usuário.
+
+Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a metodologia de Fagan, realizando reuniões de inspeção, retrabalho e acompanhamento para identificar áreas de melhoria.
+
 Para mais informações sobre a escolha do aplicativo acesse o artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/"><b><i>Escolha do Aplicativo</i></b></a>.
 
 ## **Histórico de Versão**
@@ -33,9 +45,10 @@ Para mais informações sobre a escolha do aplicativo acesse o artefato <a href=
 &emsp;&emsp;A tabela n representa o histórico de versão do documento.
 </p>
 
-| Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
-| --------- | ------ | ------ | ---------- | ----------
-| `1.0` | 06/12/2023 | Criação do documento e aplicativo escolhido | [Carolina Barbosa](https://github.com/CarolinaBarb)|[Júlia Souza](https://github.com/JuliaSSouza) |
+| Versão | Data       | Descrição                                   | Autor(es)                                            | Revisor(es)                                   |
+|--------|------------|---------------------------------------------|------------------------------------------------------|-----------------------------------------------|
+| `1.0`  | 06/12/2023 | Criação do documento e aplicativo escolhido | [Carolina Barbosa](https://github.com/CarolinaBarb)  | [Júlia Souza](https://github.com/JuliaSSouza) |
+| `1.1`  | 06/12/2023 | Resultados Alcançados                       | [Bruno Henrique](https://github.com/BrunoHenrique00) | [Júlia Souza](https://github.com/JuliaSSouza) |
 <h6 align="center"> Tabela n: Histórico de Versão.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
