@@ -7,7 +7,10 @@
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp; Para realizarmos essa modelagem, utilizamos o <b>LAL (léxico ampliado da linguagem)</b>, usando como base os requisitos funcionais elicitados.
+&emsp;&emsp; Para realizarmos essa modelagem, utilizamos o <b>LAL (léxico ampliado da linguagem)</b>, usando como base os requisitos funcionais elicitados. Os léxicos são classificados em três tipos: 
+<li> Verbo: representa uma ação </li>
+<li> Objeto: representa o elemento que realiza uma ação ou é afetado por ela </li>
+<li> Estado: descreve um estado ou uma condição </li>
 </p>
 
 ## **Modelo dos Léxicos**
@@ -29,12 +32,14 @@
 
 ## **L01 - Usuário**
 <p align="justify">
-&emsp;&emsp;A tabela 2: apresenta a descrição léxica Usuário.
+&emsp;&emsp;A tabela 2: apresenta a descrição léxica Usuário que usa os seguintes requisitos como base: <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF01</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF02</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF03</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF04</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF17</a>,
+<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF19</a>, 
+<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF25</a>
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|-----|---------|-------|--------|
-|Usuário|Cliente|Pessoa que utiliza o aplicativo Jitsi|Realizar ações do aplicativo: Realizar videochamada, visualizar o calendário, editar as configurações|Objeto|
+|Usuário|Cliente|Pessoa que utiliza o aplicativo Jitsi|Realizar ações do aplicativo: <li> Realizar videochamada </li> <li> compartilhar emoji </li><li> alterar seu fundo de vídeo</li><li> compartilhar arquivos</li><li> configurar seu perfil</li><li>visualizar as salas</li>|Objeto|
 
 <center>
 <h6> Tabela 2: Usuário.
@@ -43,7 +48,7 @@
 
 ## **L02 - Realizar Videochamada**
 <p align="justify">
-&emsp;&emsp;A tabela 3: apresenta a descrição léxica Realizar Videochamada.
+&emsp;&emsp;A tabela 3: apresenta a descrição léxica Realizar Videochamada que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF02</a> .
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -57,7 +62,7 @@
 
 ## **L03 - Iniciar a Videochamada**
 <p align="justify">
-&emsp;&emsp;A tabela 4: apresenta a descrição léxica Iniciar Videochamada.
+&emsp;&emsp;A tabela 4: apresenta a descrição léxica Iniciar Videochamada que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF02</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -71,7 +76,7 @@
 
 ## **L04 - Gravar a Reunião**
 <p align="justify">
-&emsp;&emsp;A tabela 5: apresenta a descrição léxica Gravar a Reunião.
+&emsp;&emsp;A tabela 5: apresenta a descrição léxica Gravar a Reunião que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF04</a>..
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -85,7 +90,7 @@
 
 ## **L05 - Compartilhar a Tela**
 <p align="justify">
-&emsp;&emsp;A tabela 6: apresenta a descrição léxica Compartilhar a Tela.
+&emsp;&emsp;A tabela 6: apresenta a descrição léxica Compartilhar a Tela que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF01</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -99,7 +104,7 @@
 
 ## **L06 - Calendário**
 <p align="justify">
-&emsp;&emsp;A tabela 7: apresenta a descrição léxica Calendário.
+&emsp;&emsp;A tabela 7: apresenta a descrição léxica Calendário que se baseia nos requisitos:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF20</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF21</a> e <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF22</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -113,12 +118,12 @@
 
 ## **L07 - Anfitrião**
 <p align="justify">
-&emsp;&emsp;A tabela 8: apresenta a descrição léxica Anfitrião.
+&emsp;&emsp;A tabela 8: apresenta a descrição léxica Anfitrião que se baseia nos requisitos:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF18</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF23</a> e <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF26</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF27</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
 |--------|-----|---------|-------|--------|
-|Anfitrião|Host|A pessoa que cria a sala para relizar a chamada|O anfitrião após criar a sala, envia o link convidando outros participantes|Objeto|
+|Anfitrião|Host|A pessoa que cria a sala para relizar a chamada|O anfitrião após criar a sala, envia o link convidando outros participantes, ele pode: <li> interagir no celular de outro usuário </li><li> desligar o microfone e câmera de qualquer participante</li><li> controlar a entrada em uma sala </li> <li> conceder permissões personalizadas </li>|Objeto|
 
 <center>
 <h6> Tabela 8: Anfitrião.
@@ -127,7 +132,7 @@
 
 ## **L08 - Encerramento da Reunião**
 <p align="justify">
-&emsp;&emsp;A tabela 9: apresenta a descrição Encerramento da Reunião.
+&emsp;&emsp;A tabela 9: apresenta a descrição Encerramento da Reunião que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF02</a>..
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -141,7 +146,7 @@
 
 ## **L09 - Trancrever a Reunião**
 <p align="justify">
-&emsp;&emsp;A tabela 10: apresenta a descrição Trancrever da Reunião.
+&emsp;&emsp;A tabela 10: apresenta a descrição Trancrever da Reunião que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF05</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -155,7 +160,7 @@
 
 ## **L10 - Configurações**
 <p align="justify">
-&emsp;&emsp;A tabela 11: apresenta a descrição Configurações.
+&emsp;&emsp;A tabela 11: apresenta a descrição Configurações que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF08</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF19</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -177,6 +182,7 @@
 | `1.0`  | 18/10/2023 | Criação do artefato | [Júlia Souza](https://github.com/JuliaSSouza) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
  `1.1`  | 18/10/2023 | Listagem dos Léxicos| [Júlia Souza](https://github.com/JuliaSSouza) e [Catlen Cleane](https://github.com/catlenc)| [Carolina Barbosa](https://github.com/CarolinaBarb) |
  `1.1`  | 25/10/2023 | Introdução e Metodologia| [Júlia Souza](https://github.com/JuliaSSouza)| [Carolina Barbosa](https://github.com/CarolinaBarb) |
+  `1.2`  | 06/12/2023 | Correções finais do artefato| [Júlia Souza](https://github.com/JuliaSSouza)| [Carolina Barbosa](https://github.com/CarolinaBarb) |
 
 <h6 align="center"> Tabela 12: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>

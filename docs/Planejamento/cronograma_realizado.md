@@ -140,13 +140,13 @@ e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 | Verificação - Forward, Lexicos, Rich picture| Início: 11/11 <br>Fim: 13/11 | [Bruno Henrique](https://github.com/BrunoHenrique00)| [Júlia Souza](https://github.com/JuliaSSouza) |
 | Verificação - Entrevista, Caso de uso| Início: 11/11 <br>Fim: 13/11 | [Catlen Cleane](https://github.com/catlenc)|  [Júlia Vitória](https://github.com/Juhvitoria4) |
 | Verificação - Cenários, História de U.| Início: 11/11 <br>Fim: 13/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
-| Verificação - Moscow, Introspecção, Especificação, Cronograma| Início: 11/11 <br>Fim: 13/11 |  [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq) |
+| Verificação - Introspecção, Especificação, Personas| Início: 28/11 <br>Fim: 04/12 |  [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq) |
 | Verificação - Backward, Metodologias| Início: 11/11 <br>Fim: 13/11 | [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 | Verificação - Ftf, TLS, Observação, Backlog| Início: 11/11 <br>Fim: 13/11 | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
 | Verificação - Moscow e Cronograma| Início: 11/11 <br>Fim: 13/11 |  [Júlia Souza](https://github.com/JuliaSSouza) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq) |
 | Verificação - Brainstorming| Início: 11/11 <br>Fim: 13/11 | [Pedro Siqueira](https://github.com/PedroSiq) e [Bruno Henrique](https://github.com/BrunoHenrique00) |[Júlia Vitória](https://github.com/Juhvitoria4)| 
 | Verificação - NFR| Início: 11/11 <br>Fim: 13/11 | [Júlia Vitória](https://github.com/Juhvitoria4) e  [Júlia Souza](https://github.com/JuliaSSouza) |[Pedro Siqueira](https://github.com/PedroSiq)| 
-| Verificação - Matriz e Ferramentas| Início: 11/11 <br>Fim: 13/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc)  | [Júlia Souza](https://github.com/JuliaSSouza)| 
+| Verificação - Matriz e Ferramentas| Início: 28/11 <br>Fim: 04/12 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc)  | [Júlia Souza](https://github.com/JuliaSSouza)| 
 | Validação - Protótipo RF 01| Início: 11/11 <br>Fim: 13/11 | [Júlia Vitória](https://github.com/Juhvitoria4)  | [Júlia Souza](https://github.com/JuliaSSouza)| 
 | Validação - Protótipo RF 02| Início: 11/11 <br>Fim: 13/11 |[Bruno Henrique](https://github.com/BrunoHenrique00)  | [Júlia Vitória](https://github.com/Juhvitoria4)| 
 | Validação - Protótipo RF 03| Início: 11/11 <br>Fim: 13/11 | [Júlia Souza](https://github.com/JuliaSSouza) | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
