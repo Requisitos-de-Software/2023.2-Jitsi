@@ -5,6 +5,12 @@
 &emsp;&emsp;Brainstorming é uma técnica eficaz de coletar informações sobre as preferências e necessidades dos usuários em relação à um sistema. O processo consiste em realizar uma conversa informal reunindo usuários de diversas áreas, onde cada um expõe seus desejos e necessidades, e assim pode identificar os requisitos e explorar novas funcionalidades para o desenvolvimento do sistema, principalmente na fase inicial. Durante a conversa deve-se evitar críticas, para não gerar constrangimento entre os usuários. Se os participantes permitirem a sessão pode ser gravada, e todas as ideias devem ser registradas para uma posterior seleção com base em sua relevância.
 </p>
 
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp;Fazer a elicitação de requisitos por meio da técnica brainstorming, visando identificar as preferências dos usuários.Promoveendo uma conversa inclusiva, registrando todas as ideias sem críticas, e realizar uma seleção criteriosa com base na relevância para orientar o desenvolvimento inicial do sistema. O resultado esperado é um conjunto de requisitos que reflita as expectativas dos usuários.
+
+</p>
+
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp; Para realizar o brainstorming, reunimos presencialmente dois membros da equipe para serem o moderador e o secretário e quatro usuários do aplicativo (ver tabela 1). Para realizar o brainstorming foi utilizada a ferramenta Miro, nela foram feitos alguns quadros com perguntas (ver tabela 2) para guiar a discussão e ajudar a elicitar os requisitos baseados nas necessidades dos usuários.
@@ -124,6 +130,7 @@
 | `1.0`  | 02/10/2023 | Introdução e Ideias Iniciais | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.1`  | 03/10/2023 | Elicitação dos Requisitos e conclusão | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.2`  | 20/10/2023 | Adição de áudio da atividade | [Carolina Barbosa](https://github.com/CarolinaBarb) |[Júlia Souza](https://github.com/JuliaSSouza) |
+| `1.3`  | 04/12/2023 | Adição de Objetivo após inspeção do artefato| [Catlen Cleane](https://github.com/catlenc) |[Pedro Siqueira](https://github.com/PedroSiq) |
 <h6 align="center"> Tabela 4: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
