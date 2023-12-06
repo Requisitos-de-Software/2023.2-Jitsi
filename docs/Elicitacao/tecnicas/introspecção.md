@@ -19,17 +19,17 @@
 
 | Nome | Data | Hora | Função |
 |----|----|----|-----|
-|[Catlen Cleane(https://github.com/catlenc)]|03/10/2023|18:40| Desenvolvedor|
+|[Catlen Cleane](https://github.com/catlenc)|03/10/2023|18:40| Desenvolvedor|
 |[Pedro Siqueira](https://github.com/PedroSiq)|03/10/2023| 18:40| Desenvolvedor|
 |Jaqueline|03/10/2023|18:40| Usuário(Persona)|
 <h6 align = "center"> Tabela 1: Cronograma
-<br> Autor(a): <a href="https://github.com/fulanodetal"><a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6> <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;Consiste na criação de uma <b>simulação</b> que mostra a forma como os usuários interagem com o aplicativo. Através da elaboração de uma narrativa de um usuário, são analisados seus objetivos, tarefas e preferências, permitindo a identificação dos diferentes caminhos que os usuários podem seguir. Com base nessa análise, são definidos os requisitos funcionais e não funcionais do sistema.
+&emsp;&emsp;Consiste na criação de uma <b>simulação</b> que mostra a forma como os usuários interagem com o aplicativo. Através da elaboração de uma narrativa de um usuário, são analisados seus objetivos, tarefas e preferências, permitindo a identificação dos diferentes caminhos que os usuários podem seguir. Com base nessa análise, são definidos os requisitos funcionais e não funcionais do sistema. Essa técnica pode não ser adequada para representar fielmente os interesses reais dos interessados.
 </p>
 
 
@@ -80,6 +80,7 @@
 | `1.0`  | 02/10/2023 | Introdução e Metodologia | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.1`  | 02/10/2023 | Elicitação de Requisitos | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.2`  | 03/10/2023 | Atualização do artefato | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
+
 <h6 align = "center"> Tabela 3: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 
