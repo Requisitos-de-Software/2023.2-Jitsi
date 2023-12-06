@@ -39,7 +39,16 @@ Juntamente com a implementação de requisitos que não existiam dentro do Jitsi
 
 Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a metodologia de Fagan, realizando reuniões de inspeção, retrabalho e acompanhamento para identificar áreas de melhoria.
 
-### **Técnicas utilizadas**
+## **planejamento dos recursos e das entregas**
+<p align="justify">
+&emsp;&emsp;O planejamento dos recursos e das entrgas no projeto foram cuidadosamente elaborados pelo grupo, resultando em dois cronogramas: O cronograma planejado e o Cronograma executado. O cronograma planejado, disponível no documento ***, é uma representação detalhada do plano inicial. Esse documento delineia todas as atividades do projeto, identifica responsáveis por cada tarefa, especifica os revisores envolvidos e estabelece as datas de inicio e término das entregas.
+</p>
+<p align="justify">
+&emsp;&emsp; O cronograma executado, encontrado no documento ****, proporciona uma visão retrospectiva das atividades reais realizadas ao longo do projeto. Ele lista as tarefas efetivamente concluídas, destaca possíveis modificações ou acréscimos nas atividades, indica quem foi responsável pela execução de cada tarefa, e fornece as datas reais de inicio e término.
+</p>
+
+
+## **Técnicas utilizadas**
 <p align="justify">
 &emsp;&emsp;A tabela 1 apresenta as técnicas utilizadas
 </p>
