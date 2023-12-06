@@ -60,6 +60,18 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 </p>
 
 ## **A Execução do Projeto**
+| Fase do Projeto                          | Descrição                                                                                                                                                           | Artefatos Produzidos                                              |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Planejamento do Projeto                  | Análise e escolha de um aplicativo para a realização do projeto, planejamento do cronograma, definição das ferramentas, organização das reuniões semanais e metodologias. | Cronograma, Cronograma realizado, Ferramentas, Heatmap, Metodologias |
+| Elicitação de Requisitos                 | A etapa de elicitação de requisitos se subdivide em personas, questionário, brainstorming, entrevista, introspecção e observação.                                   | Personas, Questionário, Brainstorming, Entrevista, Introspecção, Observação |
+| Modelagem de Requisitos                  |                                                                                                                                                                     |                                                                  |
+| Modelagem de Requisitos: Ágil            |                                                                                                                                                                     |                                                                  |
+| Análise de Requisitos: Verificação e Validação 1 |                                                                                                                                                                     |                                                                  |
+| Análise de Requisitos: Verificação e Validação 2 |                                                                                                                                                                     |                                                                  |
+| Pós-Rastreabilidade                      |                                                                                                                                                                     |                                                                  |
+| Entrega Final                            |                                                                                                                                                                     |                                                                  |
+| Contínua                                 |                                                                                                                                                                     |                                                                  |
+
 
 ## **Técnicas Utilizadas**
 <p align="justify">
