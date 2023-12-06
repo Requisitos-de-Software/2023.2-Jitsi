@@ -27,7 +27,6 @@
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
 
-
 ## **Diagrama de Caso de Uso**
 <p align="justify">
 &emsp;&emsp;A Imagem 01 apresenta o diagrama de caso de uso do aplicativo Jitsi Meet produzido.

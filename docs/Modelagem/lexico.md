@@ -48,7 +48,7 @@
 
 ## **L02 - Realizar Videochamada**
 <p align="justify">
-&emsp;&emsp;A tabela 3: apresenta a descrição léxica Realizar Videochamada que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF02</a> .
+&emsp;&emsp;A tabela 3: apresenta a descrição léxica Realizar Videochamada que se baseia no requisito: <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF02</a> .
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -62,7 +62,7 @@
 
 ## **L03 - Iniciar a Videochamada**
 <p align="justify">
-&emsp;&emsp;A tabela 4: apresenta a descrição léxica Iniciar Videochamada que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF02</a>.
+&emsp;&emsp;A tabela 4: apresenta a descrição léxica Iniciar Videochamada que se baseia no requisito: <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF02</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -76,7 +76,7 @@
 
 ## **L04 - Gravar a Reunião**
 <p align="justify">
-&emsp;&emsp;A tabela 5: apresenta a descrição léxica Gravar a Reunião que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF04</a>..
+&emsp;&emsp;A tabela 5: apresenta a descrição léxica Gravar a Reunião que se baseia no requisito: <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF04</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -90,7 +90,7 @@
 
 ## **L05 - Compartilhar a Tela**
 <p align="justify">
-&emsp;&emsp;A tabela 6: apresenta a descrição léxica Compartilhar a Tela que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF01</a>.
+&emsp;&emsp;A tabela 6: apresenta a descrição léxica Compartilhar a Tela que se baseia no requisito: <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF01</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -104,7 +104,7 @@
 
 ## **L06 - Calendário**
 <p align="justify">
-&emsp;&emsp;A tabela 7: apresenta a descrição léxica Calendário que se baseia nos requisitos:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF20</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF21</a> e <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF22</a>.
+&emsp;&emsp;A tabela 7: apresenta a descrição léxica Calendário que se baseia nos requisitos: <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF20</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF21</a> e <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF22</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -118,7 +118,7 @@
 
 ## **L07 - Anfitrião**
 <p align="justify">
-&emsp;&emsp;A tabela 8: apresenta a descrição léxica Anfitrião que se baseia nos requisitos:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF18</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF23</a> e <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF26</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF27</a>.
+&emsp;&emsp;A tabela 8: apresenta a descrição léxica Anfitrião que se baseia nos requisitos: <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF18</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF23</a> e <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF26</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF27</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -132,7 +132,7 @@
 
 ## **L08 - Encerramento da Reunião**
 <p align="justify">
-&emsp;&emsp;A tabela 9: apresenta a descrição Encerramento da Reunião que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF02</a>..
+&emsp;&emsp;A tabela 9: apresenta a descrição Encerramento da Reunião que se baseia no requisito: <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF02</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -146,7 +146,7 @@
 
 ## **L09 - Trancrever a Reunião**
 <p align="justify">
-&emsp;&emsp;A tabela 10: apresenta a descrição Trancrever da Reunião que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF05</a>.
+&emsp;&emsp;A tabela 10: apresenta a descrição Trancrever da Reunião que se baseia no requisito: <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF05</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
@@ -160,7 +160,7 @@
 
 ## **L10 - Configurações**
 <p align="justify">
-&emsp;&emsp;A tabela 11: apresenta a descrição Configurações que se baseia nos requisito:<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF08</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF19</a>.
+&emsp;&emsp;A tabela 11: apresenta a descrição Configurações que se baseia nos requisitos: <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF08</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/#requisitos-funcionais">RF19</a>.
 </p>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação |
