@@ -51,16 +51,16 @@
 
 | Identificador | Requisito | Categoria | Implementado | 
 | ------------- | -------------------- | --------- | ------- | 
-|IN01| Deve permitir a configuração de controles de acesso | RF | Sim | 
-|IN02| Os usuários devem poder compartilhar suas telas durante as chamadas | RF| Sim | 
-|IN03| Deve permitir a gravação de chamadas | RF | Não | 
+|IN01| Deve permitir a configuração de controles de acesso | RF | Sim |
+|IN02| Os usuários devem poder compartilhar suas telas durante as chamadas | RF| Sim |
+|IN03| Deve permitir a gravação de chamadas | RF | Não |
 |IN04| Deve permitir a utilização de quadro de anotação durante a chamada | RF | Não |
-|IN05| Ser compatível com sistemas operacionais Android e IOS | RNF | Sim | 
-|IN06| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | RNF | Sim | 
-|IN07| Deve ser de código aberto e gratuito | RNF | Sim | 
+|IN05| Ser compatível com sistemas operacionais Android (7.0 ou mais recente) e IOS (12.4 ou mais recente)| RNF | Sim |
+|IN06| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | RNF | Sim |
+|IN07| Deve ser de código aberto e gratuito | RNF | Sim |
 |IN08| Deve ser possível deletar reuniões armazenadas | RF | Sim |
 |IN09|Deve possuir um mecanismo de busca a partir da data da reunião | RF | Não |
-|IN10| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | RF | Não | 
+|IN10| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | RF | Não |
 |IN11| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência | RNF | Sim |
 |IN12| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia  | RNF | Sim |
 |IN13| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela | RNF | Sim | 
