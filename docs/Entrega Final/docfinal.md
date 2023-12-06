@@ -60,6 +60,18 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 </p>
 
 ## **A Execução do Projeto**
+| Fase do Projeto                          | Descrição                                                                                                                                                           | Artefatos Produzidos                                              |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Planejamento do Projeto                  | Análise e escolha de um aplicativo para a realização do projeto, planejamento do cronograma, definição das ferramentas, organização das reuniões semanais e metodologias. | Cronograma, Cronograma realizado, Ferramentas, Heatmap, Metodologias |
+| Elicitação de Requisitos                 | A etapa de elicitação de requisitos se subdivide em personas, questionário, brainstorming, entrevista, introspecção e observação.                                   | Personas, Questionário, Brainstorming, Entrevista, Introspecção, Observação |
+| Modelagem de Requisitos                  |                                                                                                                                                                     |                                                                  |
+| Modelagem de Requisitos: Ágil            |                                                                                                                                                                     |                                                                  |
+| Análise de Requisitos: Verificação e Validação 1 |                                                                                                                                                                     |                                                                  |
+| Análise de Requisitos: Verificação e Validação 2 |                                                                                                                                                                     |                                                                  |
+| Pós-Rastreabilidade                      |                                                                                                                                                                     |                                                                  |
+| Entrega Final                            |                                                                                                                                                                     |                                                                  |
+| Contínua                                 |                                                                                                                                                                     |                                                                  |
+
 
 ## **Técnicas Utilizadas**
 <p align="justify">
@@ -288,6 +300,8 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 | `1.3`  | 06/12/2023 | Artefatos entregues | [Júlia Souza](https://github.com/JuliaSSouza)  | [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.4`  | 06/12/2023 | Inicio Verif e Validação | [Júlia Souza](https://github.com/JuliaSSouza)  | [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.5`  | 06/12/2023 | Tabela de Técnicas Utilizadas |[Catlen Cleane](https://github.com/catlenc)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
+| `1.6`| 06/12/2023 | Planejamento dos recursos e das Entregas | [Júlia Vitória](https://github.com/Juhvitoria4) | [Catlen Cleane](https://github.com/catlenc)|
+| `1.7`| 06/12/2023 | Inicio da tabela de Execução do Projeto | [Júlia Vitória](https://github.com/Juhvitoria4) |[Catlen Cleane](https://github.com/catlenc)|
 
 <h6 align="center"> Tabela n: Histórico de Versão.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
