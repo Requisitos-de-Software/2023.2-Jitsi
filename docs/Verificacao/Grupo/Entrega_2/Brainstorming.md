@@ -30,7 +30,7 @@
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 
-## **Verificação da Observação**
+## **Verificação do Brainstorming**
 
 <p align="justify">
 &emsp;&emsp;A tabela 02 apresenta a checklist referente aos aspectos específicos que o artefato deve seguir.
