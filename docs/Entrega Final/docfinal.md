@@ -26,6 +26,7 @@
 <li>Disponibilidade do aplicativo.</li>
 </p>
 
+Para mais informações sobre a escolha do aplicativo acesse o artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/"><b><i>Escolha do Aplicativo</i></b></a>.
 ## Resultados Alcançados
 
 No início do projeto, a equipe fez um planejamento para alinhar objetivos e escopo, definir metodologias, criar um cronograma detalhado e focar no aplicativo. Isso permitiu o alinhamento da equipe e a documentação das necessidades iniciais do projeto.
@@ -38,7 +39,6 @@ Juntamente com a implementação de requisitos que não existiam dentro do Jitsi
 
 Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a metodologia de Fagan, realizando reuniões de inspeção, retrabalho e acompanhamento para identificar áreas de melhoria.
 
-Para mais informações sobre a escolha do aplicativo acesse o artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/"><b><i>Escolha do Aplicativo</i></b></a>.
 
 ## **Histórico de Versão**
 <p align="justify">
