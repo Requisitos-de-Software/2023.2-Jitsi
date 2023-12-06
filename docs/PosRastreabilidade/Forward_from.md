@@ -1300,7 +1300,7 @@
 </p>
 
 <details>
-   <summary>RNF01 - Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques </summary>
+   <summary>RNF01 - Deve permitir que o usuário consiga realizar qualquer atividade com menos de 5 cliques </summary>
 <table>
     <thead>
       <tr>
@@ -1336,7 +1336,7 @@
 
 
 <details>
-   <summary>RNF02 - Ser compatível com sistemas operacionais Android e IOS </summary>
+   <summary>RNF02 - Ser compatível com sistemas operacionais Android (7.0 ou mais recente) e IOS (12.4 ou mais recente) </summary>
 <table>
     <thead>
       <tr>

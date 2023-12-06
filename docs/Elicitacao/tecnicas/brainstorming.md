@@ -5,6 +5,30 @@
 &emsp;&emsp;Brainstorming é uma técnica eficaz de coletar informações sobre as preferências e necessidades dos usuários em relação à um sistema. O processo consiste em realizar uma conversa informal reunindo usuários de diversas áreas, onde cada um expõe seus desejos e necessidades, e assim pode identificar os requisitos e explorar novas funcionalidades para o desenvolvimento do sistema, principalmente na fase inicial. Durante a conversa deve-se evitar críticas, para não gerar constrangimento entre os usuários. Se os participantes permitirem a sessão pode ser gravada, e todas as ideias devem ser registradas para uma posterior seleção com base em sua relevância.
 </p>
 
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp;Fazer a elicitação de requisitos por meio da técnica brainstorming, visando identificar as preferências dos usuários.Promoveendo uma conversa inclusiva, registrando todas as ideias sem críticas, e realizar uma seleção criteriosa com base na relevância para orientar o desenvolvimento inicial do sistema. O resultado esperado é um conjunto de requisitos que reflita as expectativas dos usuários.
+
+</p>
+
+## **Cronograma**
+<p align="justify">
+</p>
+<p align="justify">
+&emsp;&emsp;A tabela 1 apresenta o Cronograma
+</p>
+<center>
+
+| Nome | Data | Hora | Função |
+|----|----|----|-----|
+|[Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|02/10/2023|12:00| Desenvolvedor|
+|Caio Pacheco Santos, Gabriel Morais Santana, Guilherme Almeida Quirino e Henrique Pucci da Silva Pinto|02/10/2023| 12:00| Usuários|
+<h6 align = "center"> Tabela 1: Cronograma
+<br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
+
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp; Para realizar o brainstorming, reunimos presencialmente dois membros da equipe para serem o moderador e o secretário e quatro usuários do aplicativo (ver tabela 1). Para realizar o brainstorming foi utilizada a ferramenta Miro, nela foram feitos alguns quadros com perguntas (ver tabela 2) para guiar a discussão e ajudar a elicitar os requisitos baseados nas necessidades dos usuários.
@@ -12,7 +36,7 @@
 
 ## **Participantes**
 <p align="justify">
-&emsp;&emsp; A tabela 1 representa os participantes da atividade de brainstorming.
+&emsp;&emsp; A tabela 2 representa os participantes da atividade de brainstorming.
 </p>
 
 <center>
@@ -29,13 +53,13 @@
 </center>
 
 <p align="justify">
-<h6 align = "center"> Tabela 1: Participantes.
+<h6 align = "center"> Tabela 2: Participantes.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 </p>
 
 ## **Perguntas**
 <p align="justify">
-&emsp;&emsp; A tabela 2 representas as perguntas utilizadas para guiar o desenvolvimento do brainstorming:
+&emsp;&emsp; A tabela 3 representas as perguntas utilizadas para guiar o desenvolvimento do brainstorming:
 </p>
 
 | Perguntas                                                      
@@ -45,7 +69,7 @@
 | Como o aplicativo do Jitsi poderia fornecer uma experiência de usuário mais agradável e intuitiva, de modo a facilitar a navegação?           |
 
 <p align="justify">
-<h6 align = "center"> Tabela 2: Perguntas.
+<h6 align = "center"> Tabela 3: Perguntas.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 </p>
 
@@ -79,13 +103,13 @@
 
 ## **Requisitos Elicitados**
 <p align="justify">
-&emsp;&emsp;Legenda da tabela 3: 
+&emsp;&emsp;Legenda da tabela 4: 
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
 <li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
 <li> Identificação(BR + N°) : Requisito Elicitado pela Brainstorming + Número
 </p>
 <p align="justify">
-&emsp;&emsp;A tabela 3 representa os Requisitos Elicitados pela técnica de Brainstorming
+&emsp;&emsp;A tabela 4 representa os Requisitos Elicitados pela técnica de Brainstorming
 </p>
 
 | Identificador | Requisito | Categoria | Implementado | 
@@ -106,17 +130,17 @@
 |BR14| Os usuários devem poder compartilhar arquivos durante as reuniões | RF | Não | 
 |BR15| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a visualização dos compromissos do usuário no aplicativo | RNF | Não | 
 |BR16| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | RF | Não | 
-|BR17| Deve ter uma interface objetiva e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RF | Sim | 
+|BR17| Deve permitir que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RF | Sim | 
 |BR18| Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade | RNF | Sim | 
 
-<h6 align = "center"> Tabela 3: Requisitos Elicitados.
+<h6 align = "center"> Tabela 4: Requisitos Elicitados.
 <br> Autor(a):<a href="https://github.com/CarolinaBarb">Carolina Barbosa</a>, <a href="https://github.com/catlenc">Catlen Cleane</a>, <a href="https://github.com/JuliaSSouza">Julia Souza</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a></h6>
 </center>
 </p>
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 4 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 5 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -124,7 +148,8 @@
 | `1.0`  | 02/10/2023 | Introdução e Ideias Iniciais | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.1`  | 03/10/2023 | Elicitação dos Requisitos e conclusão | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.2`  | 20/10/2023 | Adição de áudio da atividade | [Carolina Barbosa](https://github.com/CarolinaBarb) |[Júlia Souza](https://github.com/JuliaSSouza) |
-<h6 align="center"> Tabela 4: Histórico de Versão.
+| `1.3`  | 06/12/2023 | Adição de Objetivo e cronograma após inspeção do artefato| [Catlen Cleane](https://github.com/catlenc) |[Pedro Siqueira](https://github.com/PedroSiq) |
+<h6 align="center"> Tabela 5: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 

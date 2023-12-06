@@ -1,8 +1,13 @@
-# ***Verificação do Cronograma***
+# **Verificação do Cronograma**
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp;O objetivo deste documento é apresentar os resultados das verificações realizadas no artefato Cronograma. Isso inclui a identificação de áreas fortes e oportunidades de melhoria no artefato, bem como a proposição de ações corretivas quando necessário, visando aprimorar a qualidade do trabalho desenvolvido pelo grupo.
+&emsp;&emsp;Esse artefato contém os checklists usados na inspeção do artefato de cronograma. Ao final foi detalhado os resultados obtidos através da inspeção.
+</p>
+
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp; A verificação tem como finalidade assegurar que todos os critérios de avaliação tenham sido devidamente atendidos. Isso é realizado por meio de uma análise do conteúdo e da estrutura do artefato, visando aprimorar sua qualidade.
 </p>
 
 ## **Metodologia**
@@ -11,6 +16,7 @@
 
 Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/">Cronograma</a>, que trata das atividades relaizdas no desenvolvimento do aplicativo <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/">Jitsi</a>.
 </p>
+
 
 ## **Verificação Cronograma**
 <p align="justify">>

@@ -19,17 +19,17 @@
 
 | Nome | Data | Hora | Função |
 |----|----|----|-----|
-|[Catlen Cleane(https://github.com/catlenc)]|03/10/2023|18:40| Desenvolvedor|
+|[Catlen Cleane](https://github.com/catlenc)|03/10/2023|18:40| Desenvolvedor|
 |[Pedro Siqueira](https://github.com/PedroSiq)|03/10/2023| 18:40| Desenvolvedor|
 |Jaqueline|03/10/2023|18:40| Usuário(Persona)|
 <h6 align = "center"> Tabela 1: Cronograma
-<br> Autor(a): <a href="https://github.com/fulanodetal"><a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+<br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6> <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 </p>
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;Consiste na criação de uma <b>simulação</b> que mostra a forma como os usuários interagem com o aplicativo. Através da elaboração de uma narrativa de um usuário, são analisados seus objetivos, tarefas e preferências, permitindo a identificação dos diferentes caminhos que os usuários podem seguir. Com base nessa análise, são definidos os requisitos funcionais e não funcionais do sistema.
+&emsp;&emsp;Consiste na criação de uma <b>simulação</b> que mostra a forma como os usuários interagem com o aplicativo. Através da elaboração de uma narrativa de um usuário, são analisados seus objetivos, tarefas e preferências, permitindo a identificação dos diferentes caminhos que os usuários podem seguir. Com base nessa análise, são definidos os requisitos funcionais e não funcionais do sistema. Essa técnica pode não ser adequada para representar fielmente os interesses reais dos interessados.
 </p>
 
 
@@ -51,16 +51,16 @@
 
 | Identificador | Requisito | Categoria | Implementado | 
 | ------------- | -------------------- | --------- | ------- | 
-|IN01| Deve permitir a configuração de controles de acesso | RF | Sim | 
-|IN02| Os usuários devem poder compartilhar suas telas durante as chamadas | RF| Sim | 
-|IN03| Deve permitir a gravação de chamadas | RF | Não | 
+|IN01| Deve permitir a configuração de controles de acesso | RF | Sim |
+|IN02| Os usuários devem poder compartilhar suas telas durante as chamadas | RF| Sim |
+|IN03| Deve permitir a gravação de chamadas | RF | Não |
 |IN04| Deve permitir a utilização de quadro de anotação durante a chamada | RF | Não |
-|IN05| Ser compatível com sistemas operacionais Android e IOS | RNF | Sim | 
-|IN06| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | RNF | Sim | 
-|IN07| Deve ser de código aberto e gratuito | RNF | Sim | 
+|IN05| Ser compatível com sistemas operacionais Android (7.0 ou mais recente) e IOS (12.4 ou mais recente)| RNF | Sim |
+|IN06| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | RNF | Sim |
+|IN07| Deve ser de código aberto e gratuito | RNF | Sim |
 |IN08| Deve ser possível deletar reuniões armazenadas | RF | Sim |
 |IN09|Deve possuir um mecanismo de busca a partir da data da reunião | RF | Não |
-|IN10| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | RF | Não | 
+|IN10| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | RF | Não |
 |IN11| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência | RNF | Sim |
 |IN12| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia  | RNF | Sim |
 |IN13| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela | RNF | Sim | 
@@ -80,6 +80,7 @@
 | `1.0`  | 02/10/2023 | Introdução e Metodologia | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.1`  | 02/10/2023 | Elicitação de Requisitos | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.2`  | 03/10/2023 | Atualização do artefato | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
+
 <h6 align = "center"> Tabela 3: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 
