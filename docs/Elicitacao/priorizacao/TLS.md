@@ -110,7 +110,7 @@
 &emsp;&emsp;A tabela 2 apresenta os requisitos de Média Prioridade
 </p>
 
-|identificador|Requisito|Quadrante|
+|Identificador|Requisito|Quadrante|
 |-------------|---------|---------|
 |BR06| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | Média|
 |BR11| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso |Média|

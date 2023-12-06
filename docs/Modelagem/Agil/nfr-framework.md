@@ -2,10 +2,14 @@
 
 ## **Introdução**
 <p align="justify">
-&emsp;&emsp;Proposto por Chung, University of Toronto, o NFR Framework é uma maneira de representar de forma sistemática e global os Requisitos Não-Funcionais, com uma abordagem qualitativa e orientada a processo. Seu objetivo é ajudar os desenvolvedores a implementar soluções customizadas, levando em consideração as características dos campos e sistemas relacionados. Essas características incluem requisitos não funcionais, requisitos funcionais, prioridades e cargas de trabalho. Essas condições determinam a escolha de alternativas de desenvolvimento para um determinado sistema. 
-</p>
+&emsp;&emsp;Proposto por Chung, University of Toronto, o NFR Framework é uma <b>maneira de representar de forma sistemática e global os Requisitos Não-Funcionais</b>, com uma abordagem qualitativa e orientada a processo.
 <p align="justify">
-&emsp;&emsp;Além disso, essa implementação representa o NFR como um softgoal, os quais são unidades básicas para representar requisitos não-funcionais. Ele possui uma relação de interdependência entre seus softgoals, oferece técnicas de operacionalização e fornece catálogos para inferir possíveis interações. 
+&emsp;&emsp;Além disso, essa implementação representa o NFR como um <b>softgoal</b>, os quais são unidades básicas para representar requisitos não-funcionais. Ele possui uma relação de interdependência entre seus softgoals, oferece técnicas de operacionalização e fornece catálogos para inferir possíveis interações. 
+</p>
+
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp;Seu objetivo é <b>ajudar os desenvolvedores a implementar soluções customizadas</b>, levando em consideração as características dos campos e sistemas relacionados. Essas características incluem requisitos não funcionais, requisitos funcionais, prioridades e cargas de trabalho. Essas condições determinam a <b>escolha de alternativas de desenvolvimento para um determinado sistema</b>. 
 </p>
 
 ## **Metodologia**
@@ -15,7 +19,7 @@
 
 ## **Softgoal Interdependency Graph**
 <p align="justify">
-&emsp;&emsp;O Softgoal Interdependency Graph (SIG) é uma forma de visualização do funcionamento do NFR Framework. Dessa forma, trata-se de um gráfico que registra os posicionamentos da equipe de desenvolvimento acerca dos softgoals e explicita suas interdependências de forma gráfica e concisa1.
+&emsp;&emsp;O Softgoal Interdependency Graph (SIG) é uma forma de <b>visualização do funcionamento</b> do NFR Framework. Dessa forma, trata-se de um gráfico que registra os posicionamentos da equipe de desenvolvimento acerca dos softgoals e explicita suas interdependências de forma gráfica e concisa1.
 </p>
 
 <center>
@@ -41,16 +45,15 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 </center>
 
-
 ## **Requisitos Não Funcionais**
 <p align="justify">
-&emsp;&emsp;A tabela 1 apresenta os Requisitos Não Funcionais.
+&emsp;&emsp;A tabela 1 apresenta os Requisitos Não Funcionais que foram utilizados para a criação do artefato.
 </p>
 
 | Identificador | Requisito | Categoria | Implementado | 
 | ------------- | -------------------- | --------- | ------- | 
-| [ENT08](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [OB17](/Elicitacao/tecnicas/observacao/#requisitos-elicitados), [BR17](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF01 | Sim |
-| [IN05](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Ser compatível com sistemas operacionais Android e IOS | RNF02 | Sim | 
+| [ENT08](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [OB17](/Elicitacao/tecnicas/observacao/#requisitos-elicitados), [BR17](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) |  Deve permitir que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF01 | Sim |
+| [IN05](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Ser compatível com sistemas operacionais Android (7.0 ou mais recente) e IOS (12.4 ou mais recente) | RNF02 | Sim | 
 | [IN06](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos | RNF03 | Sim | 
 | [IN07](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados) | Deve ser de código aberto e gratuito | RNF04 | Sim | 
 | [IN11](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB12](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência | RNF05 | Sim |
@@ -61,6 +64,14 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 | [BR18](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados) | Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade | RNF10 | Sim |
 <h6 align = "center"> Tabela 1: Requisitos Não Funcionais Elicitados.
 <br> Autor(a): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
+
+
+## **Cartões de Especificação** 
+<p align="justify">
+&emsp;&emsp;Os cartões de especificação abaixo, representados pelas tabelas de 1 a 10, foram utilizados para definir os Requisitos Não-Funcionais usados na confecção dos NFR Frameworks, com os valores de prioridade definidos pela execução da técnica de priorização de requisitos <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/ftf/">First Things First</a>.
+</p>
+
+
 
 
 ### **NFR 01 - Desempenho**
@@ -112,8 +123,8 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 ## **Bibliografia**
 
-> PAIM, F. R. S., CASTRO, J. F. B. Enhancing Data Warehouse Design with the NFR Framework. Centro de Informática UFPE, Recife, 2019. Disponível em: <http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/paim.pdf>. Acesso em: 05/11/2023.
+> > <a id="REF1" href="#anchor_1">[1]</a> PAIM, F. R. S., CASTRO, J. F. B. Enhancing Data Warehouse Design with the NFR Framework. Centro de Informática UFPE, Recife, 2019. Disponível em: <http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/paim.pdf>. Acesso em: 05/11/2023.
 
-> <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 05/11/2023.
+> <a id="REF2" href="#anchor_2">[2]</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 05/11/2023.
 
-> <a id="REF2" href="#anchor_2">2.</a>CHUNG, L., NIXON, B. A., YU, E., MYLOPOULOS, J. Non-functional requirementsin software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5.
+> <a id="REF3" href="#anchor_3">[3]</a> CHUNG, L., NIXON, B. A., YU, E., MYLOPOULOS, J. Non-functional requirementsin software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5.

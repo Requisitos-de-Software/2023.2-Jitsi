@@ -63,7 +63,6 @@
 <ul>
 <li>Apresentação das fórmulas que foram utilizadas;</li>
 <li>Exibição dos pesos relativos;</li>
-<li>Cálculo do valor total;</li>
 <li>Inserção de cronograma referente à execução da técnica;</li>
 <li>Utilização de hyperlinks para permitir rastreamento dos requisitos que foram priorizados;</li>
 <li>Exposição dos requisitos em ordem de prioridade.</li>

@@ -87,6 +87,8 @@
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 04/10/2023 | Criação do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)|
 | `1.1`  | 04/10/2023 | Enumerando requisitos e aplicando a rastreabilidade | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)|
+| `1.2`  | 06/12/2023 | Correção do artefato | [Pedro Siqueira](https://github.com/PedroSiq)| [Bruno Henrique](https://github.com/BrunoHenrique00)|
+
 <h6 align="center"> Tabela 3: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
