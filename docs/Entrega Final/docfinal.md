@@ -312,6 +312,7 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 | `1.6`  | 06/12/2023 | Tabela síntese das Verificações e Validações  | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
 | `1.7`| 06/12/2023 | Planejamento dos recursos e das Entregas | [Júlia Vitória](https://github.com/Juhvitoria4) | [Catlen Cleane](https://github.com/catlenc)|
 | `1.8`| 06/12/2023 | Inicio da tabela de Execução do Projeto | [Júlia Vitória](https://github.com/Juhvitoria4) |[Catlen Cleane](https://github.com/catlenc)|
+| `1.9`| 06/12/2023 | Finalização da tabela de Execução do Projeto | [Júlia Vitória](https://github.com/Juhvitoria4) e [Catlen Cleane](https://github.com/catlenc)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 
 <h6 align="center"> Tabela n: Histórico de Versão.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
