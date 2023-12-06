@@ -46,11 +46,10 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 | 9  | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? | Sim |  |
 | 10 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? | Sim |  |
 | 11 | A representação gráfica está de acordo com as convenções de modelagem? | Sim |  |
-| 12 | A participação do cliente e/ou persona na validação do Diagrama de Caso de Uso foi considerada? | Não |  |
-| 13 | Há o uso de verbos no infinitivo e não substantivos?| Sim |  |
-| 14 | O caso de uso representa o usuário e suas interações com o sistema? | Sim |  |
-| 15 | Os casos de uso são de requisitos funcionais? | Sim |  |
-| 16 | A fronteira do sistema é apresentada? | Sim |  |
+| 12 | Há o uso de verbos no infinitivo e não substantivos?| Sim |  |
+| 13 | O caso de uso representa o usuário e suas interações com o sistema? | Sim |  |
+| 14 | Os casos de uso são de requisitos funcionais? | Sim |  |
+| 15 | A fronteira do sistema é apresentada? | Sim |  |
 
 
 <center>
