@@ -46,7 +46,8 @@
 | Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 | --------- | ------ | ------ | ---------- | ----------
 | `1.0` | 18/09/2023 | Criação do documento e Rich Picture | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
-| `1.1` | 20/09/2023 | Padronização do artefato | [Pedro Siqueira](https://github.com/PedroSiq)| |
+| `1.1` | 20/09/2023 | Padronização do artefato | [Pedro Siqueira](https://github.com/PedroSiq)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| `1.2` | 20/09/2023 | Correções | [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
 
 <center>
 <h6> Tabela 2: Histórico de Versão.

@@ -8,6 +8,12 @@ com tudo aquilo que é mais óbvio em um primeiro momento. Com o tempo, o
 Product Backlog cresce e muda à medida que se aprende mais sobre o produto e
 seus usuários. [1](#bibliografia)
 
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp; O artefato tem como objetivo apresentar o backlog do produto, que auxilia as equipes a se concentrarem nas entregas mais relevantes e de maior valor para os clientes, se adaptando às mudanças e evoluindo ao longo do ciclo de vida do produto.
+</p>
+
+
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp;Foi feita uma lista inicial, de requisitos, usando como critério o valor para o negócio, necessidades dos clientes, prazos e dependências. Posteriormente, foram definidos temas e os épicos de forma a categorizar as histórias de usuário. A medida que o projeto evolui, o backlog pode ser atualizado.
@@ -238,6 +244,7 @@ seus usuários. [1](#bibliografia)
 |`1.2` |05/11/2023| Criação de tabelas de requisitos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
 |`1.3` |06/11/2023| Atualização de requisitos| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
 |`1.4` |06/11/2023| Ajuste nas tabelas | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) |  [Júlia Souza](https://github.com/JuliaSSouza) |
+|`1.5` |06/11/2023| Objetivos | [Júlia Souza](https://github.com/JuliaSSouza) | [Catlen Cleane](https://github.com/catlenc)  |
 
 
 <p align="justify">

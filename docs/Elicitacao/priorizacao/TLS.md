@@ -79,24 +79,24 @@
 
 |identificador|Requisito|Quadrante|
 |-------------|---------|---------|
-|BR02, ENT01, IN02, OB07|Os usuários devem poder compartilhar suas telas durante as chamadas|Alta|
-|BR03, IN03, OB05| Deve permitir a gravação de chamadas  |Alta|
-|BR07| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | Alta|
-|BR08| Deve ser possível baixar as gravações das reuniões | Alta|
-|BR13| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião |Alta|
-|BR15| Os usuários devem poder compartilhar arquivos durante as reuniões |Alta|
-|BR16| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade |Alta|
-|BR17, ENT08, OB17| Deve ter uma interface objetiva e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques |Alta|
-| ENT02 | Os usuários devem ser capazes de criar uma videoconferência |Alta|
-|IN01| Deve permitir a configuração de controles de acesso |Alta|
-|IN05| Ser compatível com sistemas operacionais Android e IOS |Alta|
-|IN07| Deve ser de código aberto e gratuito |Alta|
-|IN10| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião |Alta|
-|IN11, OB12| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência |Alta|
-|IN12| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia  | Alta|
-|OB02| Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos|Alta|
-|OB04| Deve possuir a opção de mutar o áudio|Alta|
-|OB11| Deve permitir que o usuário configure seu perfil, com nome de usuário e foto |Alta|
+|[BR02](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados), [ENT01](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN02](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB07](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)|Os usuários devem poder compartilhar suas telas durante as chamadas|Alta|
+|[BR03](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados), [IN03](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB05](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve permitir a gravação de chamadas  |Alta|
+|[BR07](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião | Alta|
+|[BR08](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Deve ser possível baixar as gravações das reuniões | Alta|
+|[BR13](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| O anfitrião deve ser capaz de conceder permissões diferentes, a cada participante, para a utilização das ferramentas durante a reunião |Alta|
+|[BR15](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Os usuários devem poder compartilhar arquivos durante as reuniões |Alta|
+|[BR16](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade |Alta|
+|[BR17](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados), [ENT08](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [OB17](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve ter uma interface objetiva e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques |Alta|
+| [ENT02](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados) | Os usuários devem ser capazes de criar uma videoconferência |Alta|
+|[IN01](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve permitir a configuração de controles de acesso |Alta|
+|[IN05](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Ser compatível com sistemas operacionais Android e IOS |Alta|
+|[IN07](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve ser de código aberto e gratuito |Alta|
+|[IN10](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve permitir que o anfitrião tenha a capacidade de remover um participante específico da reunião |Alta|
+|[IN11](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados), [OB12](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve garantir a segurança dos dados confidenciais compartilhados durante as reuniões por vídeoconferência |Alta|
+|[IN12](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve ser estável, tendo no máximo 1 queda de funcionamento por dia  | Alta|
+|[OB02](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Dever permitir convidar participantes através de compartilhamento de link por meio de outros aplicativos|Alta|
+|[OB04](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve possuir a opção de mutar o áudio|Alta|
+|[OB11](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve permitir que o usuário configure seu perfil, com nome de usuário e foto |Alta|
 
 
 <h6 align = "center"> Tabela 1: Requisitos de Alta Prioridade.
@@ -112,19 +112,19 @@
 
 |Identificador|Requisito|Quadrante|
 |-------------|---------|---------|
-|BR06| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | Média|
-|BR11| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso |Média|
-|BR12| Deve ser possível ingressar em uma reunião sem a necessidade de um login |Média|
-|BR18| Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade |Média|
-|IN06| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos |Média|
-|IN13| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela |Média|
-|OB01| Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook|Média|
-|BR05, ENT05| Deve permitir a transcrição do áudio da chamada |Média|
-|OB06| Deve permitir enviar mensagem de texto durante a videochamada |Média|
-|OB13| Deve possuir um calendário com chamadas agendadas |Média|
-|OB14| Deve permitir que o calendário de um usuário seja sincronizado ao de outros |Média|
-|OB15| Deve permitir agendar reuniões com outros usuários atraveS do calendário |Média|
-|OB16| Deve ser um aplicativo que ocupe menos de 100mb de memória |Média|
+|[BR06](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Deve permitir que o anfitrião de uma reunião consiga desligar o microfone e a câmera de qualquer participante | Média|
+|[BR11](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| O anfitrião deve ser capaz de controlar a entrada em uma sala por meio de senha de acesso |Média|
+|[BR12](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Deve ser possível ingressar em uma reunião sem a necessidade de um login |Média|
+|[BR18](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade |Média|
+|[IN06](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve ter acesso facilitado para instalação, sem levar mais de 30 segundos de pesquisa direta para encontrar a aplicação nas lojas de aplicativos |Média|
+|[IN13](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve oferecer um desempenho responsivo, se adaptando mediante o tamanho da tela |Média|
+|[OB01](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve permitir fazer autenticação através de outros aplicativos, como Google ou Facebook|Média|
+[|BR05](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados), [ENT05](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados)| Deve permitir a transcrição do áudio da chamada |Média|
+|[OB06](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve permitir enviar mensagem de texto durante a videochamada |Média|
+|[OB13](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve possuir um calendário com chamadas agendadas |Média|
+|[OB14](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve permitir que o calendário de um usuário seja sincronizado ao de outros |Média|
+|[OB15](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve permitir agendar reuniões com outros usuários atraveS do calendário |Média|
+|[OB16](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve ser um aplicativo que ocupe menos de 100mb de memória |Média|
 
 <h6 align = "center"> Tabela 2: Requisitos de Média Prioridade.
 <br> Autor(a):<a href="https://github.com/Juhvitoria4">Júlia Vitória</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
@@ -139,15 +139,15 @@
 
 |identificador|Requisito|Quadrante|
 |-------------|---------|---------|
-|BR01, ENT06, IN04| Deve permitir a utilização de quadro de anotação durante a chamada  | Baixa|
-|BR04, ENT07| O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | Baixa|
-|BR09, IN09| Deve possuir um mecanismo de busca a partir da data da reunião | Baixa|
-|BR10| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. | Baixa|
-|BR15| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a visualização dos compromissos do usuário no aplicativo | Baixa|
-| ENT03, OB09| Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | Baixa|
-|IN08| Deve ser possível deletar reuniões armazenadas | Baixa|
-|OB03| Deve possuir um link de ajuda para explicar como se convida outros participantes | Baixa|
-|OB10| O anfitrião deve conseguir, através do compartilhamento de tela, interagir no celular de outro usuário | Baixa|
+|[BR01](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados), [ENT06](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [IN04](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve permitir a utilização de quadro de anotação durante a chamada  | Baixa|
+|[BR04](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados), [ENT07](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados)| O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | Baixa|
+|[BR09](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados), [IN09](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve possuir um mecanismo de busca a partir da data da reunião | Baixa|
+|[BR10](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Deve fornecer ao usuário a capacidade de visualizar todas as salas em que ele participou anteriormente. | Baixa|
+|[BR15](/Elicitacao/tecnicas/brainstorming/#requisitos-elicitados)| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a visualização dos compromissos do usuário no aplicativo | Baixa|
+|[ENT03](/Elicitacao/tecnicas/entrevista/#requisitos-elicitados), [OB09](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Os usuários devem poder compartilhar emojis pré-definidos durante as chamadas | Baixa|
+|[IN08](/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/#requisitos-elicitados)| Deve ser possível deletar reuniões armazenadas | Baixa|
+|[OB03](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| Deve possuir um link de ajuda para explicar como se convida outros participantes | Baixa|
+|[OB10](/Elicitacao/tecnicas/observacao/#requisitos-elicitados)| O anfitrião deve conseguir, através do compartilhamento de tela, interagir no celular de outro usuário | Baixa|
 
 <h6 align = "center"> Tabela 3: Requisitos de Baixa Prioridade.
 <br> Autor(a):<a href="https://github.com/Juhvitoria4">Júlia Vitória</a> e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
@@ -176,6 +176,7 @@
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 06/10/2023 | Elaboração do artefato | [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 | `1.1`  | 23/10/2023 |Tabelas com requisitos junto com um usuário | [Catlen Cleane](https://https://github.com/catlenc) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+| `1.2`  | 06/12/2023 |Adição de hiperlinks | [Catlen Cleane](https://https://github.com/catlenc)  | [Catlen Cleane](https://https://github.com/catlenc) |
 
 <h6 align="center"> Tabela 4: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/Juhvitoria4">Júlia Vitória</a> </h6>
