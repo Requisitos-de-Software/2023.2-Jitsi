@@ -7,7 +7,7 @@
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;Foi realizado uma reunião no dia 03/10/2023, com os participantes citados na tabela 01, pelo Microsoft Teams com o intuito de observar os usuários utilizando o Jitsi para elicitar seus requisitos. As  <span style = "color: blue"> Observadoras </span> instruiram as ações que os usuários precisava realizar no aplicativo Jitsi. Durante a observação de um dos usuários, foi realizado uma chamada pelo proprio aplicativo jitsi entre uma observadora e um usuário para que ele pode-se fazer uma análise das funcionalidades do aplicativo. A elicitação dos requisitos estão presentes na tabela 02.
+&emsp;&emsp;Foi realizado uma reunião no dia 03/10/2023, com os participantes citados na tabela 01, pelo Microsoft Teams com o intuito de observar os usuários utilizando o Jitsi para elicitar seus requisitos. As  <span style = "color: blue"> Observadoras </span> instruiram as ações que os usuários precisava realizar no aplicativo Jitsi. Durante a observação de um dos usuários, foi realizado uma chamada pelo proprio aplicativo jitsi entre uma observadora e um usuário para que ele pudessem fazer uma análise das funcionalidades do aplicativo. A elicitação dos requisitos estão presentes na tabela 02.
 </p>
 
 ## **Participantes**
@@ -85,6 +85,7 @@
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 03/10/2023 | Criação do documento  | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
  `1.1`  | 04/10/2023 | Listagem dos Requisitos e conclusão | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
+ `1.2`  | 06/12/2023 | Correção de erros gramáticais| [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Vitória](https://github.com/Juhvitoria4) |
 <h6 align = "center"> Tabela 3: Histórico de Versão.
 <br> Autor(a):  <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 

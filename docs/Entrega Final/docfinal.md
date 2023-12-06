@@ -40,7 +40,8 @@ verificação);</li>
 </p>
 
 Para mais informações sobre a escolha do aplicativo acesse o artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/"><b><i>Escolha do Aplicativo</i></b></a>.
-## Resultados Alcançados
+
+## **Resultados Alcançados**
 
 No início do projeto, a equipe fez um planejamento para alinhar objetivos e escopo, definir metodologias, criar um cronograma detalhado e focar no aplicativo. Isso permitiu o alinhamento da equipe e a documentação das necessidades iniciais do projeto.
 
@@ -52,7 +53,17 @@ Juntamente com a implementação de requisitos que não existiam dentro do Jitsi
 
 Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a metodologia de Fagan, realizando reuniões de inspeção, retrabalho e acompanhamento para identificar áreas de melhoria.
 
-### **Técnicas utilizadas**
+## **planejamento dos recursos e das entregas**
+<p align="justify">
+&emsp;&emsp;O planejamento dos recursos e das entrgas no projeto foram cuidadosamente elaborados pelo grupo, resultando em dois cronogramas: O Cronograma planejado e o Cronograma realizado. O cronograma planejado, disponível no documento  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/">Cronograma</a> , é uma representação detalhada do plano inicial. Esse documento delineia todas as atividades do projeto, identifica responsáveis por cada tarefa, especifica os revisores envolvidos e estabelece as datas de inicio e término das entregas.
+</p>
+<p align="justify">
+&emsp;&emsp; O cronograma realizado, encontrado no documento  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma_realizado/">Cronograma realizado</a> , proporciona uma visão retrospectiva das atividades reais realizadas ao longo do projeto. Ele lista as tarefas efetivamente concluídas, destaca possíveis modificações ou acréscimos nas atividades, indica quem foi responsável pela execução de cada tarefa, e fornece as datas reais de inicio e término.
+</p>
+
+## **A execução do projeto**
+
+## **Técnicas utilizadas**
 <p align="justify">
 &emsp;&emsp;A tabela 1 apresenta as técnicas utilizadas
 </p>

@@ -10,7 +10,6 @@
 &emsp;&emsp;Para aplicar a metodologia, é essencial desenvolver uma tabela contendo dados sobre os riscos, custos, benefícios e penalidades associadas a cada requisito do projeto. Esses aspectos devem ser avaliados em uma escala de pontuação, variando de 1 a 9, com o objetivo de equilibrar as perspectivas do cliente e do desenvolvedor. Todos os requisitos devem ser incluídos na tabela, e é necessário estimar o benefício relativo e a penalidade relativa de cada um, calcular o valor total, estimar o custo relativo e o nível de risco, e, por fim, determinar a prioridade de cada requisito.
 </p>
 
-
 ## **Participantes**
 <p align="justify">
 &emsp;&emsp; A tabela 1 representa os participantes da atividade First Things First.
@@ -35,8 +34,26 @@
 ## **Gravações**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YcpCNRviV_0?si=mcdnPIlKCSEeaRob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## **Requisitos**
+
+## **Legenda**
+<p align="justify"> 
+<li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
+<li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
+<li> Identificação(ENT + N°) : Requisito Elicitado pela Entrevista + Número.
+<li> Identificação(BR + N°) : Requisito Elicitado pela Brainstorming + Número
+<li> Identificação(IN + N°) : Requisito Elicitado pela Introspecção + Número
+<li> Identificação(OB + N°) : Requisito Elicitado pela Observação + Número
 </p>
+
+## **Pesos**
+<p align="justify"> 
+<li> Benefício: 2 </li>
+<li> Penalidade: 1</li>
+<li> Custo: 1 </li>
+<li> Risco: 0,5</li>
+</p>
+
+## **Requisitos**
 <p align="justify">
 &emsp;&emsp;A Tabela 2 demonstra a versão final dos requisitos funcionais avaliados conforme a metodologia e os classifica de 1 até 9, baseado em sua importância.
 </p>
@@ -80,16 +97,6 @@
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a> e <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 </p>
 
-## **Legenda**
-
-<p align="justify"> 
-<li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
-<li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
-<li> Identificação(ENT + N°) : Requisito Elicitado pela Entrevista + Número.
-<li> Identificação(BR + N°) : Requisito Elicitado pela Brainstorming + Número
-<li> Identificação(IN + N°) : Requisito Elicitado pela Introspecção + Número
-<li> Identificação(OB + N°) : Requisito Elicitado pela Observação + Número
-</p>
 
 
 ## **Histórico de Versão**
@@ -101,6 +108,7 @@
 |--------|------------|---------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | `1.0`  | 04/10/2023 | Criação do artefato | [Júlia Souza](https://github.com/JuliaSSouza) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Vitória](https://github.com/Juhvitoria4) |
 | `1.1`  | 17/10/2023 | Refatoração do documento |[Carolina Barbosa](https://github.com/CarolinaBarb) e  [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
+| `1.2`  | 06/12/2023 | Adição de pesos |[Carolina Barbosa](https://github.com/CarolinaBarb)  |   [Júlia Souza](https://github.com/JuliaSSouza)|
 
 <h6 align="center"> Tabela 3: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/Juhvitoria4">Júlia Vitória</a></h6>
