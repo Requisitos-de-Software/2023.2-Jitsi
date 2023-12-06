@@ -89,11 +89,11 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 </p>
 
 ## **Artefatos Criados por etapa**
-<p align="justify">
-&emsp;&emsp;Texto ....
-</p>
 
 ### **Etapa 1**
+<p align="justify">
+&emsp;&emsp;Tabela 2 a seguir representa todos os artefatos entregues na etapa 1 do projeto.
+</p>
 
 | Arteafato| Autor | Revisor|
 |----------| ------|--------|
@@ -105,7 +105,13 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Escolha do Aplicativo</a>|[Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/">Rich Picture.</a>| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
 
+<h6 align="center"> Tabela 2:  artefatos entregues na etapa 1.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
 ### **Etapa 2**
+<p align="justify">
+&emsp;&emsp;Tabela 3 a seguir representa todos os artefatos entregues na etapa 2 do projeto.
+</p>
 
 | Arteafato| Autor | Revisor|
 |----------| ------|--------|
@@ -121,7 +127,13 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/TLS/">Three-Level Scale</a>| [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4)|  [Carolina Barbosa](https://github.com/CarolinaBarb)|
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/">Requisitos Elicitados</a>| [Pedro Siqueira](https://github.com/PedroSiq)| [Bruno Henrique](https://github.com/BrunoHenrique00)|
 
+<h6 align="center"> Tabela 3:  artefatos entregues na etapa 2.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
 ### **Etapa 3**
+<p align="justify">
+&emsp;&emsp;Tabela 4 a seguir representa todos os artefatos entregues na etapa 3 do projeto.
+</p>
 
 | Arteafato| Autor | Revisor|
 |----------| ------|--------|
@@ -130,7 +142,14 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">Especificação Suplementar</a>| [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">Cenários</a>| [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
 
+<h6 align="center"> Tabela 4:  artefatos entregues na etapa 3.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
 ### **Etapa 4**
+
+<p align="justify">
+&emsp;&emsp;Tabela 5 a seguir representa todos os artefatos entregues na etapa 4 do projeto.
+</p>
 
 | Arteafato| Autor | Revisor|
 |----------| ------|--------|
@@ -138,7 +157,13 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">Histórias de Usuário</a>| [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq) |
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">NFR Framework</a> | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
 
+<h6 align="center"> Tabela 5:  artefatos entregues na etapa 4.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
 ### **Etapa 5**
+<p align="justify">
+&emsp;&emsp;Tabela 6 a seguir representa todos os artefatos entregues na etapa 5 do projeto.
+</p>
 
 | Arteafato| Autor | Revisor|
 |----------| ------|--------|
@@ -147,7 +172,13 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_3/Planejamento/">Entrega 3</a>| [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|  [Catlen Cleane](https://github.com/catlenc), [Carolina Barbosa](https://github.com/CarolinaBarb), [Júlia Souza](https://github.com/JuliaSSouza) e [Pedro Siqueira](https://github.com/PedroSiq)|
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_4/Planejamento/">Entrega 4</a>| [Bruno Henrique](https://github.com/BrunoHenrique00), [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Bruno Henrique](https://github.com/BrunoHenrique00)|
 
+<h6 align="center"> Tabela 6:  artefatos entregues na etapa 5.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
 ### **Etapa 6**
+<p align="justify">
+&emsp;&emsp;Tabela 7 a seguir representa todos os artefatos entregues na etapa 6 do projeto.
+</p>
 
 | Arteafato| Autor | Revisor|
 |----------| ------|--------|
@@ -155,7 +186,13 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 |<a href="/PosRastreabilidade/Forward-From">Forward-From</a>| [Catlen Cleane](https://github.com/catlenc) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Souza](https://github.com/JuliaSSouza)|
 |<a href="/PosRastreabilidade/matrizRastreabilidade/">Matriz de Rastreabilidade</a><|[Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc)|
 
+<h6 align="center"> Tabela 7:  artefatos entregues na etapa 6.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
 ### **Etapa 7**
+<p align="justify">
+&emsp;&emsp;Tabela 8 a seguir representa todos os artefatos entregues na etapa 7 do projeto.
+</p>
 
 | Arteafato | Autor | Revisor |
 |-----------|-------|---------|
@@ -183,6 +220,43 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/backward/">Backward-From</a>| [Júlia Vitória](https://github.com/Juhvitoria4)|[Carolina Barbosa](https://github.com/CarolinaBarb) |
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/forward/">Forward-From</a>| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Júlia Souza](https://github.com/JuliaSSouza) |
 
+<h6 align="center"> Tabela 8:  artefatos entregues na etapa 7.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
+## **Síntese das Verificações e Validações**
+<p align="justify">
+&emsp;&emsp;Tabela 9 a seguir representa 
+</p>
+
+| Arteafato | Autor | Revisor |
+|-----------|-------|---------|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Valida%C3%A7%C3%A3o/Prototipo/">Protótipo</a>| | |[Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Valida%C3%A7%C3%A3o/ComprovacaoInformal/">Comprovação Informal</a>|[Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_1/Cronograma/">Cronograma</a>|[Catlen Cleane](https://github.com/catlenc) e  [Júlia Souza](https://github.com/JuliaSSouza)| [Pedro Siqueira](https://github.com/PedroSiq) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_1/Ferramentas/">Ferramentas</a>| [Catlen Cleane](https://github.com/catlenc) e [Carolina Barbosa](https://github.com/CarolinaBarb) | [Júlia Souza](https://github.com/JuliaSSouza)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_1/Metodologias/">Metodologias</a>|[Júlia Vitória](https://github.com/Juhvitoria4) |[Carolina Barbosa](https://github.com/CarolinaBarb) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_1/rich_picture/">Rich Picture</a>| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Júlia Souza](https://github.com/JuliaSSouza)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Brainstorming/">Brainstorming</a>|[Bruno Henrique](https://github.com/BrunoHenrique00) e  [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Vitória](https://github.com/Juhvitoria4)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Entrevista/">Entrevista</a>|[Catlen Cleane](https://github.com/catlenc) | [Júlia Vitória](https://github.com/Juhvitoria4)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Introspec%C3%A7%C3%A3o/">Introspecção</a>| [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Observacao/">Observação</a>|[Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Ftf/">First Things First</a>|[Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Moscow/">Moscow</a>| [Júlia Souza](https://github.com/JuliaSSouza)  e  [Catlen Cleane](https://github.com/catlenc)| [Pedro Siqueira](https://github.com/PedroSiq)|
+|<a href="hhttps://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Tls/">Three Level Scale</a>| [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_3/Cenarios/">Cenários</a>|[Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_3/Especifica%C3%A7%C3%A3oSuplementar/">Especificação Suplementar</a>| [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_3/lexicos/">Léxicos</a>| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Júlia Souza](https://github.com/JuliaSSouza) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_3/CasosDeUso/">Casos de Uso</a>| [Catlen Cleane](https://github.com/catlenc)|  [Júlia Vitória](https://github.com/Juhvitoria4) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/Backlog/">Product Backlog</a>| [Pedro Siqueira](https://github.com/PedroSiq)| [Bruno Henrique](https://github.com/BrunoHenrique00)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/HistoriaDeUsuario/">Histórias de Usuário</a>|[Carolina Barbosa](https://github.com/CarolinaBarb) |[Catlen Cleane](https://github.com/catlenc) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/nfr/">NFR Framework</a>|  [Júlia Vitória](https://github.com/Juhvitoria4) e  [Júlia Souza](https://github.com/JuliaSSouza) |[Pedro Siqueira](https://github.com/PedroSiq)| 
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/Matriz/">Matriz de Rastreabilidade</a>| [Catlen Cleane](https://github.com/catlenc) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Souza](https://github.com/JuliaSSouza)|
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/backward/">Backward-From</a>| [Júlia Vitória](https://github.com/Juhvitoria4)|[Carolina Barbosa](https://github.com/CarolinaBarb) |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/forward/">Forward-From</a>| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Júlia Souza](https://github.com/JuliaSSouza) |
+
+<h6 align="center"> Tabela 8:  artefatos entregues na etapa 7.
+<br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
+
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -194,6 +268,8 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 | `1.0`  | 06/12/2023 | Criação do documento e aplicativo escolhido | [Carolina Barbosa](https://github.com/CarolinaBarb)  | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.1`  | 06/12/2023 | Resultados Alcançados                       | [Bruno Henrique](https://github.com/BrunoHenrique00) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.2`  | 06/12/2023 | Introdução e Objetivos                     | [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
+| `1.3`  | 06/12/2023 | Artefatos entregues | [Júlia Souza](https://github.com/JuliaSSouza)  | [Pedro Siqueira](https://github.com/PedroSiq) |
+| `1.4`  | 06/12/2023 | Inicio Verif e Validação | [Júlia Souza](https://github.com/JuliaSSouza)  | [Pedro Siqueira](https://github.com/PedroSiq) |
 <h6 align="center"> Tabela n: Histórico de Versão.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
