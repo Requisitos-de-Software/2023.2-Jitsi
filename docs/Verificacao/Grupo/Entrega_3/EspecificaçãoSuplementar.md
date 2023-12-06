@@ -9,7 +9,7 @@
 <p align="justify">
 &emsp;&emsp; A verificação foi feita através de uma lista de critérios de avaliação, que foi baseada no plano de ensino da disciplina e na bibliografia. Através dessa lista, foi realizado um checklist para confirmar se  critério de avaliação tinha sido feito ou não, possuindo ainda uma coluna destinada a observações oferecendo espaço para detalhes adicionais ou alguma consideração.
 
-Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">Especificação Suplementar</a>, que trata de uma das modelagens usada, no desenvolvimento do aplicativo <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/">Jitsi</a>.
+Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">Especificação Suplementar</a>, que trata de uma das modelagens usadas, no desenvolvimento do aplicativo <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/">Jitsi</a>.
 </p>
 
 ## **Objetivo**

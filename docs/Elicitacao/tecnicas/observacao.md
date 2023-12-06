@@ -5,6 +5,11 @@
 &emsp;&emsp;A técnica de observação de requisitos envolve observar os usuários, com o objetivo de entender as necessidades do mesmo, assim como as limitações e restrições do aplicativo que está sendo utilizado. Para a aplicação dessa técnica convidamos 2 usuários externos para serem observados.
 </p>
 
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp;Realizar um processo de elicitação de requisitos por meio da técnica de observação, com o propósito de identificar de maneira precisa e abrangente as necessidades, preferências, limitações e restrições dos usuários externos, visando aprimorar o desenvolvimento do aplicativo em questão.
+</p>
+
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp;Foi realizado uma reunião no dia 03/10/2023, com os participantes citados na tabela 01, pelo Microsoft Teams com o intuito de observar os usuários utilizando o Jitsi para elicitar seus requisitos. As  <span style = "color: blue"> Observadoras </span> instruiram as ações que os usuários precisava realizar no aplicativo Jitsi. Durante a observação de um dos usuários, foi realizado uma chamada pelo proprio aplicativo jitsi entre uma observadora e um usuário para que ele pudessem fazer uma análise das funcionalidades do aplicativo. A elicitação dos requisitos estão presentes na tabela 02.
@@ -68,7 +73,7 @@
 |OB14| Deve permitir que o calendário de um usuário seja sincronizado ao de outros | RF | Não | 
 |OB15| Deve permitir agendar reuniões com outros usuários atraveS do calendário | RF | Não | 
 |OB16| Deve ser um aplicativo que ocupe menos de 100mb de memória | RNF | Sim | 
-|OB17| Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim | 
+|OB17| Deve permitir que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim | 
 
 <h6 align = "center"> Tabela 2: Requisitos Elicitados.
 <br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a>
@@ -86,6 +91,8 @@
 | `1.0`  | 03/10/2023 | Criação do documento  | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
  `1.1`  | 04/10/2023 | Listagem dos Requisitos e conclusão | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza)  | [Júlia Vitória](https://github.com/Juhvitoria4) |
  `1.2`  | 06/12/2023 | Correção de erros gramáticais| [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Vitória](https://github.com/Juhvitoria4) |
+  `1.3`  | 06/12/2023 | Inclusão de Objetivo| [Catlen Cleane](https://github.com/catlenc)| [Pedro Siqueira](https://github.com/PedroSiq) |
+
 <h6 align = "center"> Tabela 3: Histórico de Versão.
 <br> Autor(a):  <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 

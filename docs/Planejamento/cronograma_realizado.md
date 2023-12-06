@@ -132,7 +132,7 @@ e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 
 ## **Entrega 5.2 - Análise de Requisitos: Verificação e Validação 2**
 <p align="justify">
-&emsp;&emsp;A tabela 7 apresenta as entregas da quinta etapa.
+&emsp;&emsp;A tabela 7 apresenta as entregas da sétima etapa.
 </p>
 
 | Atividade | Período de Desenvolvimento  | Responsáveis | Revisor |
@@ -164,9 +164,9 @@ e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 <br/> Autor(es): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6> 
 </center>
 
-## **Entrega 5.2 - Análise de Requisitos: Verificação e Validação 2**
+## **Entrega 7 - Entrega Final**
 <p align="justify">
-&emsp;&emsp;A tabela 8 apresenta as entregas da quinta etapa.
+&emsp;&emsp;A tabela 8 apresenta as entregas da última etapa.
 </p>
 
 | Atividade | Período de Desenvolvimento  | Responsáveis | Revisor |
