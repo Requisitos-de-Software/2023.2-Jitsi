@@ -5,6 +5,11 @@
 &emsp;&emsp;Cenários são utilizados para descrever as <b>situações de uso</b> do sistema pelos usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos.
 </p>
 
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp; O objetivo deste artefato é representar e documentar os cenários de uso do sistema de maneira eficaz, utilizando uma abordagem que emprega linguagem natural. Isso visa proporcionar uma compreensão clara e abrangente das interações do usuário com o sistema, facilitando a validação dos requisitos pelo usuário final.
+</p>
+
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp; Escolhemos representar os cenários conforme o modelo abaixo, tabela 1. A forma escolhida utiliza a linguagem natural para melhor entendimento de cada cenário e validação dos requisitos por parte do usuário.

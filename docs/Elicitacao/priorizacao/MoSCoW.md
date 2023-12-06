@@ -21,10 +21,15 @@
 
 ## **Metodologia**
 <p align="justify">
-&emsp;&emsp;Após relizar as técnicas de Elicitação escolhidas pelo grupo, e listar todos o requisitos, analisamos cada um e classificamos nas tabelas abaixo cada um de acordo com a técnica MoSCoW: Must Have, Should Have, Could Have e Won't Have.
+&emsp;&emsp;
+Após aplicarmos as técnicas de elicitação escolhidas pelo grupo e listar todos os requisitos, realizamos uma análise utilizando personas para classificar cada um de acordo com a técnica MoSCoW: Must Have(essenciais), Should Have (importantes), Could Have(opcionais) e Won't Have(exclusões intencionais).
 </p>
 
 ## **Must Have**
+<p align="justify">
+&emsp;&emsp;
+A tabela 1 apresenta os requisitos classificados como Must Have.
+</p>
 
 | Tipo | Requisito | Elicitação |
 | -------|--------|------------|
@@ -56,6 +61,10 @@
 </h6>
 
 ## **Should Have**
+<p align="justify">
+&emsp;&emsp;
+A tabela 2 apresenta os requisitos classificados como Should Have.
+</p>
 
 | Tipo | Requisito | Elicitação |
 | -------|--------|------------|
@@ -83,6 +92,10 @@
 </h6>
 
 ## **Could Have**
+<p align="justify">
+&emsp;&emsp;
+A tabela 3 apresenta os requisitos classificados como Could Have.
+</p>
 
 |Tipo | Requisito | Elicitação |
 | -------|--------|------------|
@@ -103,6 +116,10 @@
 
 
 ## **Won't Have**
+<p align="justify">
+&emsp;&emsp;
+A tabela 4 apresenta os requisitos classificados como Won't Have.
+</p>
 
 |Tipo| Requisito | Elicitação |
 | -------|--------|------------|
