@@ -35,10 +35,10 @@
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp;Para realizar a priorização, foram listados todos os requisitos elicitados através das etapas de:
-<li>Brainstorming</li>
-<li>Entrevista</li>
-<li>Introspecção</li>
-<li>Observação</li>
+<li> <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">Brainstormig</a></li>
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/">Entrevista</a></li>
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/">Introspecção</a></li>
+<li><a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">Observação</a></li>
 </p>
 <p align="justify">
 &emsp;&emsp;Os participantes fizeram uma videochamada com uma usuária  e conforme ela foi surgerindo os requisistos elicitados foram sendo classificados em critérios de alta, média ou baixa complexidade, e posteriormente listados em planilhas.
@@ -176,7 +176,7 @@
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 06/10/2023 | Elaboração do artefato | [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
 | `1.1`  | 23/10/2023 |Tabelas com requisitos junto com um usuário | [Catlen Cleane](https://https://github.com/catlenc) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
-| `1.2`  | 06/12/2023 |Adição de hiperlinks | [Catlen Cleane](https://https://github.com/catlenc)  | [Catlen Cleane](https://https://github.com/catlenc) |
+| `1.2`  | 06/12/2023 |Adição de hiperlinks | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://https://github.com/catlenc) |
 
 <h6 align="center"> Tabela 4: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/Juhvitoria4">Júlia Vitória</a> </h6>
