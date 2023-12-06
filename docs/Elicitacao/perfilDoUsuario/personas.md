@@ -8,7 +8,7 @@
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp; Courage e Baxter, enfatizam a importância de ter um conjunto específico de personas para cada projeto. Recomenda-se ter de 3 a 12 personas. 
-Para criar as personas utilizamos a técnica usada para coletar dados <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicita%C3%A7%C3%A3o/questionario/">questionário</a>, que a partir disso conseguimos elaborar o perfil de usuário.
+Para criar as personas utilizamos a técnica usada para coletar dados <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/">questionário</a>, que a partir disso conseguimos elaborar o perfil de usuário.
 As imagens utilizadas neste documento para reprensentar as personas foram obtidas do site <a href="https://this-person-does-not-exist.com/en">This Person Does Not Exist</a>, que a partir de inteligência artificial gera imagens que não possuem direitos autorais.
 </p>
 
