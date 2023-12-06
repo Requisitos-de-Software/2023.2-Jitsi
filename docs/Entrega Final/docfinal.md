@@ -59,23 +59,32 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 &emsp;&emsp; O cronograma realizado, encontrado no documento  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma_realizado/">Cronograma realizado</a> , proporciona uma visão retrospectiva das atividades reais realizadas ao longo do projeto. Ele lista as tarefas efetivamente concluídas, destaca possíveis modificações ou acréscimos nas atividades, indica quem foi responsável pela execução de cada tarefa, e fornece as datas reais de inicio e término.
 </p>
 
-## **A Execução do Projeto**
-| Fase do Projeto                          | Descrição                                                                                                                                                           | Artefatos Produzidos                                              |
-|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| Planejamento do Projeto                  | Análise e escolha de um aplicativo para a realização do projeto, planejamento do cronograma, definição das ferramentas, organização das reuniões semanais e metodologias. | Cronograma, Cronograma realizado, Ferramentas, Heatmap, Metodologias |
-| Elicitação de Requisitos                 | A etapa de elicitação de requisitos se subdivide em personas, questionário, brainstorming, entrevista, introspecção e observação.                                   | Personas, Questionário, Brainstorming, Entrevista, Introspecção, Observação |
-| Modelagem de Requisitos                  |                                                                                                                                                                     |                                                                  |
-| Modelagem de Requisitos: Ágil            |                                                                                                                                                                     |                                                                  |
-| Análise de Requisitos: Verificação e Validação 1 |                                                                                                                                                                     |                                                                  |
-| Análise de Requisitos: Verificação e Validação 2 |                                                                                                                                                                     |                                                                  |
-| Pós-Rastreabilidade                      |                                                                                                                                                                     |                                                                  |
-| Entrega Final                            |                                                                                                                                                                     |                                                                  |
-| Contínua                                 |                                                                                                                                                                     |                                                                  |
+## **Execução do Projeto**
+<p align="justify">
+&emsp;&emsp;A tabela 1 apresenta as fases de execução do Projeto
+</p>
+
+| Fase do projeto       | Descrição | Artefatos Produzidos |
+|-----------------------|-----------|----------------------|
+|Planejamento do Projeto|Análise e escolha de um aplicativo para a realização do projeto, planejamento do cronograma, definição das ferramentas, organização das reuniões semanais e metodologias.| <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/">Cronograma</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma_realizado/">Cronograma Realizado</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/">Cronograma</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/">Ferramentas</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/heatmap/">HeatMap</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/metodologias/">Metodologias</a>|
+|Elicitação de Requisitos|A etapa de elicitação de requisitos se subdivide em personas, questionário, brainstorming, entrevista, introspecção e observação.|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/personas/">Personas</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/">Questionário</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">Brainsotroming</a>,<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/">Entrevista</a> , <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/">Introspecção</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/">Observação</a>|
+|Priorização de Requisitos|A etapa de priorização de requisitos se subdivide em 3 técnicas First Things First, MoSCoW e Three-Level Scale|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/ftf/">First Things First</a>,<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/">MoSCoW</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/TLS/">Three-Level Scale</a> |
+|Modelagem de Requisitos|A modelagem de requisitos envolve a criação de artefatos que facilitam o rastreamento dos requisitos, interpretam dados e os transformam em cenários, casos de uso, léxicos e especificação suplementar.|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">Cenários</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/">Léxicos</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/">Casos de Uso</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">Especificação Supementar</a>|
+|Modelagem de Requisitos: Ágil|Nesta fase, adotamos práticas ágeis, incluindo a elaboração de histórias de usuário, gestão de backlog e considerações sobre requisitos não funcionais (NFR).|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/">Product Backlog</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">Histórias de Usuário</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">NFR Framework</a>|
+|Análise de Requisitos: Verificação e Validação 1|Durante a análise de requisitos, implementamos checklists para examinar os documentos desenvolvidos, facilitando a avaliação dos artefatos gerados por outros grupos.|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_1/Planejamento/">Entrega 1</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_2/Planejamento/">Entrega 2</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_3/Planejamento/">Entrega 3</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_4/Planejamento/">Entrega 4</a>|
+|Análise de Requisitos: Verificação e Validação 2|Baseando-nos na experiência anterior com checklists de verificação, nesta etapa, desenvolvemos listas específicas para avaliar internamente o trabalho realizado pelo nosso grupo.|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_1/Cronograma//">Entrega 1</a>,<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_2/Brainstorming//">Entrega 2</a>,<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_3/Cenarios//">Entrega 3</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_4/Backlog//">Entrega 4</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/Matriz//">Entrega 5</a>|
+|Pós-Rastreabilidade|Estabelecimento de conexões entre os requisitos e os artefatos produzidos durante a execução do projeto.|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PosRastreabilidade/Backward-From/">Backward-From</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PosRastreabilidade/Forward_from/">Forward-From</a>, <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PosRastreabilidade/matrizRastreabilidade/">Matriz de Rastreabilidade</a>|
+
+<center>
+<h6> Tabela 1: Execução do Projeto
+<br/> Autor(es): <a href="https://github.com/juhvitoria4">Julia Vitoria</a></h6>
+</center>
+</p>
 
 
 ## **Técnicas Utilizadas**
 <p align="justify">
-&emsp;&emsp;A tabela 1 apresenta as técnicas utilizadas
+&emsp;&emsp;A tabela 2 apresenta as técnicas utilizadas
 </p>
 
 | Entrega | Artefato | Técnica | 
@@ -112,7 +121,7 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 
 
 <center>
-<h6> Tabela 1: Técnicas Utilizadas
+<h6> Tabela 2: Técnicas Utilizadas
 <br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 </p>
