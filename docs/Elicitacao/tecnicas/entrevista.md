@@ -140,7 +140,7 @@
 | ENT05 | Deve permitir a transcrição do áudio da chamada | RF | Não | 
 | ENT06 | Deve permitir a utilização de quadro de anotação durante a chamada | RF | Não |
 | ENT07 | O usuário deve ser capaz de alterar seu fundo em uma chamada de vídeo | RF | Não | 
-| ENT08 | Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim |
+| ENT08 | Deve permitir que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim |
 
 ## **Histórico de Versão**
 <p align="justify">
