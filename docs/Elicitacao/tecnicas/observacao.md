@@ -90,7 +90,7 @@
 |OB14| Deve permitir que o calendário de um usuário seja sincronizado ao de outros | RF | Não | 
 |OB15| Deve permitir agendar reuniões com outros usuários atraveS do calendário | RF | Não | 
 |OB16| Deve ser um aplicativo que ocupe menos de 100mb de memória | RNF | Sim | 
-|OB17| Deve ter uma interface clara e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim | 
+|OB17| Deve permitir que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RNF | Sim | 
 
 <h6 align = "center"> Tabela 3: Requisitos Elicitados.
 <br> Autor(a):<a href="https://github.com/catlenc">Catlen Cleane</a>

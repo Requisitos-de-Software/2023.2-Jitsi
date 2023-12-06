@@ -130,7 +130,7 @@
 |BR14| Os usuários devem poder compartilhar arquivos durante as reuniões | RF | Não | 
 |BR15| Deve ser possível a integração com aplicativos de calendário afim de possibilitar a visualização dos compromissos do usuário no aplicativo | RNF | Não | 
 |BR16| Deve oferecer um modo claro ou escuro de interface como parte de suas funcionalidades de acessibilidade | RF | Não | 
-|BR17| Deve ter uma interface objetiva e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RF | Sim | 
+|BR17| Deve permitir que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RF | Sim | 
 |BR18| Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade | RNF | Sim | 
 
 <h6 align = "center"> Tabela 4: Requisitos Elicitados.
