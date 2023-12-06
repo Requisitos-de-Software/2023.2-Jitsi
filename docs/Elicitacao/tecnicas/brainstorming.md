@@ -36,7 +36,7 @@
 
 ## **Participantes**
 <p align="justify">
-&emsp;&emsp; A tabela 1 representa os participantes da atividade de brainstorming.
+&emsp;&emsp; A tabela 2 representa os participantes da atividade de brainstorming.
 </p>
 
 <center>
@@ -53,13 +53,13 @@
 </center>
 
 <p align="justify">
-<h6 align = "center"> Tabela 1: Participantes.
+<h6 align = "center"> Tabela 2: Participantes.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 </p>
 
 ## **Perguntas**
 <p align="justify">
-&emsp;&emsp; A tabela 2 representas as perguntas utilizadas para guiar o desenvolvimento do brainstorming:
+&emsp;&emsp; A tabela 3 representas as perguntas utilizadas para guiar o desenvolvimento do brainstorming:
 </p>
 
 | Perguntas                                                      
@@ -69,7 +69,7 @@
 | Como o aplicativo do Jitsi poderia fornecer uma experiência de usuário mais agradável e intuitiva, de modo a facilitar a navegação?           |
 
 <p align="justify">
-<h6 align = "center"> Tabela 2: Perguntas.
+<h6 align = "center"> Tabela 3: Perguntas.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 </p>
 
@@ -103,13 +103,13 @@
 
 ## **Requisitos Elicitados**
 <p align="justify">
-&emsp;&emsp;Legenda da tabela 3: 
+&emsp;&emsp;Legenda da tabela 4: 
 <li> RF(Requisitos Funcionais): descrevem as funcionalidades e operações que o sistema deve realizar para atender às necessidades dos usuários. </li>
 <li> RNF(Requisitos Não Funcionais): definem a qualidade e o desempenho de um sistema. </li>
 <li> Identificação(BR + N°) : Requisito Elicitado pela Brainstorming + Número
 </p>
 <p align="justify">
-&emsp;&emsp;A tabela 3 representa os Requisitos Elicitados pela técnica de Brainstorming
+&emsp;&emsp;A tabela 4 representa os Requisitos Elicitados pela técnica de Brainstorming
 </p>
 
 | Identificador | Requisito | Categoria | Implementado | 
@@ -133,14 +133,14 @@
 |BR17| Deve ter uma interface objetiva e intuitiva, permitindo que o usuário consiga realizar qualquer atividade com menos de 5 cliques | RF | Sim | 
 |BR18| Deve possuir um bom contraste entre as cores a fim de aprimorar a legibilidade | RNF | Sim | 
 
-<h6 align = "center"> Tabela 3: Requisitos Elicitados.
+<h6 align = "center"> Tabela 4: Requisitos Elicitados.
 <br> Autor(a):<a href="https://github.com/CarolinaBarb">Carolina Barbosa</a>, <a href="https://github.com/catlenc">Catlen Cleane</a>, <a href="https://github.com/JuliaSSouza">Julia Souza</a> e <a href="https://github.com/Juhvitoria4">Julia Vitoria</a></h6>
 </center>
 </p>
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 4 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 5 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -149,7 +149,7 @@
 | `1.1`  | 03/10/2023 | Elicitação dos Requisitos e conclusão | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|[Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.2`  | 20/10/2023 | Adição de áudio da atividade | [Carolina Barbosa](https://github.com/CarolinaBarb) |[Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.3`  | 06/12/2023 | Adição de Objetivo e cronograma após inspeção do artefato| [Catlen Cleane](https://github.com/catlenc) |[Pedro Siqueira](https://github.com/PedroSiq) |
-<h6 align="center"> Tabela 4: Histórico de Versão.
+<h6 align="center"> Tabela 5: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
 
