@@ -9,15 +9,13 @@
 <p align="justify">
 &emsp;&emsp;O objetivo da entrega final é apresentar os tópicos a seguir, de acordo com o Plano de Ensino da disciplina de Requisitos de Software, armazenados em um só artefato, que foram trabalhados durante o desenvolvimento do projeto:
 <ul>
-<li>O aplicativo selecionado para o projeto.
-O planejamento dos recursos e das entregas (cronograma planejado e executado).</li>
-<li>A execução do projeto (as fases/etapas do desenvolvidas no projeto).</li>
+<li>O aplicativo selecionado para o projeto;</li>
+O planejamento dos recursos e das entregas (cronograma planejado e executado);</li>
+<li>A execução do projeto (as fases/etapas do desenvolvidas no projeto);</li>
 <li>Os resultados alcançados com a execução do projeto (em relação ao objetivo do projeto);</li>
-<li>Uma tabela sintetizando quais técnicas foram utilizadas na execução do projeto (em cada etapa do projeto com o(s)
-nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas);</li>
+<li>Uma tabela sintetizando quais técnicas foram utilizadas na execução do projeto (em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas);</li>
 <li>Uma tabela sintetizando quais artefatos foram criados no projeto em cada etapa do projeto com autor e revisor;</li>
-<li>Uma tabela sintetizando o método de verificação e validação dos artefatos com autor e revisor (do checlist e da
-verificação);</li>
+<li>Uma tabela sintetizando o método de verificação e validação dos artefatos com autor e revisor (do checklist e da verificação);</li>
 <li>Uma tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto;</li>
 <li>Uma tabela sintetizando os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações.</li>
 </ul>
@@ -53,7 +51,7 @@ Juntamente com a implementação de requisitos que não existiam dentro do Jitsi
 
 Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a metodologia de Fagan, realizando reuniões de inspeção, retrabalho e acompanhamento para identificar áreas de melhoria.
 
-## **planejamento dos recursos e das entregas**
+## **Planejamento dos Recursos e das Entregas**
 <p align="justify">
 &emsp;&emsp;O planejamento dos recursos e das entrgas no projeto foram cuidadosamente elaborados pelo grupo, resultando em dois cronogramas: O Cronograma planejado e o Cronograma realizado. O cronograma planejado, disponível no documento  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/">Cronograma</a> , é uma representação detalhada do plano inicial. Esse documento delineia todas as atividades do projeto, identifica responsáveis por cada tarefa, especifica os revisores envolvidos e estabelece as datas de inicio e término das entregas.
 </p>
@@ -61,9 +59,9 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 &emsp;&emsp; O cronograma realizado, encontrado no documento  <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma_realizado/">Cronograma realizado</a> , proporciona uma visão retrospectiva das atividades reais realizadas ao longo do projeto. Ele lista as tarefas efetivamente concluídas, destaca possíveis modificações ou acréscimos nas atividades, indica quem foi responsável pela execução de cada tarefa, e fornece as datas reais de inicio e término.
 </p>
 
-## **A execução do projeto**
+## **A Execução do Projeto**
 
-## **Técnicas utilizadas**
+## **Técnicas Utilizadas**
 <p align="justify">
 &emsp;&emsp;A tabela 1 apresenta as técnicas utilizadas
 </p>
