@@ -175,10 +175,11 @@
 |--------|------------|--------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------|
 | `1.0`  | 15/09/2023 | Cronograma planejado e executado markdown              | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.1`  | 18/09/2023 | Correções em Cronograma planejado e executado markdown | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq) |
-| `1.2`  | 20/09/2023 | Padronização do documento                              | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | |
+| `1.2`  | 20/09/2023 | Padronização do documento                              | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.3` | 20/09/2023 | Inserção de legendas e referenciamento de membros| [Pedro Siqueira](https://github.com/PedroSiq) | [Carolina Barbosa](https://github.com/CarolinaBarb) | 
 | `1.4` | 26/09/2023 | Correções pós apresentação 1 | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
 | `1.5` | 13/11/2023 | Atualização na tabela| [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc) | 
+| `1.6` | 06/12/2023 |Correção após inspeção| [Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza) | 
 
 
 <center>
