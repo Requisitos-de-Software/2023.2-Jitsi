@@ -39,6 +39,23 @@ Juntamente com a implementação de requisitos que não existiam dentro do Jitsi
 
 Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a metodologia de Fagan, realizando reuniões de inspeção, retrabalho e acompanhamento para identificar áreas de melhoria.
 
+### **Técnicas utilizadas**
+<p align="justify">
+&emsp;&emsp;A tabela 1 apresenta as técnicas utilizadas
+</p>
+
+| Entrega | Artefato | Técnica | Autor |
+| --------| ---------| ------- | ------|
+ 
+
+
+
+<center>
+<h6> Tabela 1: Técnicas Utilizadas
+<br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+</center>
+</p>
+
 
 ## **Histórico de Versão**
 <p align="justify">
