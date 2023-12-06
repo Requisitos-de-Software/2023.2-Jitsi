@@ -2,12 +2,25 @@
 
 ## **Indrodução**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;O artefato de entrega final faz parte da última etapa do projeto de desenvolvimento, juntamente com as correções dos artefatos que foram inspecionados, com suas devidas alterações realizadas.
 </p>
 
 ## **Objetivo**
 <p align="justify">
-&emsp;&emsp;Texto ....
+&emsp;&emsp;O objetivo da entrega final é apresentar os tópicos a seguir, de acordo com o Plano de Ensino da disciplina de Requisitos de Software, armazenados em um só artefato, que foram trabalhados durante o desenvolvimento do projeto:
+<ul>
+<li>O aplicativo selecionado para o projeto.
+O planejamento dos recursos e das entregas (cronograma planejado e executado).</li>
+<li>A execução do projeto (as fases/etapas do desenvolvidas no projeto).</li>
+<li>Os resultados alcançados com a execução do projeto (em relação ao objetivo do projeto);</li>
+<li>Uma tabela sintetizando quais técnicas foram utilizadas na execução do projeto (em cada etapa do projeto com o(s)
+nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas);</li>
+<li>Uma tabela sintetizando quais artefatos foram criados no projeto em cada etapa do projeto com autor e revisor;</li>
+<li>Uma tabela sintetizando o método de verificação e validação dos artefatos com autor e revisor (do checlist e da
+verificação);</li>
+<li>Uma tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto;</li>
+<li>Uma tabela sintetizando os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações.</li>
+</ul>
 </p>
 
 ## **Escolha do Aplicativo**
@@ -76,6 +89,7 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 |--------|------------|---------------------------------------------|------------------------------------------------------|-----------------------------------------------|
 | `1.0`  | 06/12/2023 | Criação do documento e aplicativo escolhido | [Carolina Barbosa](https://github.com/CarolinaBarb)  | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.1`  | 06/12/2023 | Resultados Alcançados                       | [Bruno Henrique](https://github.com/BrunoHenrique00) | [Júlia Souza](https://github.com/JuliaSSouza) |
+| `1.2`  | 06/12/2023 | Introdução e Objetivos                     | [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
 <h6 align="center"> Tabela n: Histórico de Versão.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
