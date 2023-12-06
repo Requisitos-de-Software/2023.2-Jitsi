@@ -3,6 +3,7 @@
 ## **Introdução**
 <p align="justify">
 &emsp;&emsp;Proposto por Chung, University of Toronto, o NFR Framework é uma <b>maneira de representar de forma sistemática e global os Requisitos Não-Funcionais</b>, com uma abordagem qualitativa e orientada a processo.
+</p>
 <p align="justify">
 &emsp;&emsp;Além disso, essa implementação representa o NFR como um <b>softgoal</b>, os quais são unidades básicas para representar requisitos não-funcionais. Ele possui uma relação de interdependência entre seus softgoals, oferece técnicas de operacionalização e fornece catálogos para inferir possíveis interações. 
 </p>
@@ -68,10 +69,12 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 ## **Cartões de Especificação** 
 <p align="justify">
-&emsp;&emsp;Os cartões de especificação abaixo, representados pelas tabelas de 1 a 10, foram utilizados para definir os Requisitos Não-Funcionais usados na confecção dos NFR Frameworks, com os valores de prioridade definidos pela execução da técnica de priorização de requisitos <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/ftf/">First Things First</a>.
+&emsp;&emsp;Os cartões de especificação abaixo, representados pelas tabelas de 1 a 10, foram utilizados para definir os Requisitos Não-Funcionais usados na confecção dos NFR Frameworks, com os valores de prioridade definidos pela execução da técnica de priorização de requisitos <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/TLS/">Three-Level Scale</a>.
 </p>
 
+### **Requisito Não Funcional 01**
 
+| 
 
 
 ### **NFR 01 - Desempenho**
@@ -118,8 +121,9 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 | Versão | Data       | Descrição                                    | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 06/11/2023 | Introdução, SIG, Tipos de Softgoal e Interdependências.| [Bruno Henrique](https://github.com/BrunoHenrique00)   | [Pedro Siqueira](https://github.com/PedroSiq) |
+| `1.0`  | 06/11/2023 | Introdução, SIG, Tipos de Softgoal e Interdependências.| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.1`  | 07/11/2023 | Formatação e finalização do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| `1.2`  | 06/12/2023 | Correção do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
 
 ## **Bibliografia**
 
