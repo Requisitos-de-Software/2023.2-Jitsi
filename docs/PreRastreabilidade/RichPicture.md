@@ -5,6 +5,12 @@
 &emsp;&emsp;O Rich Picture é uma ferramenta que utiliza imagens e desenhos para expressar as principais características de um sistema. O Rich Picture <b>facilita o entendimento dos problemas</b> e <b>ajuda na busca por soluções</b>. Na Engenharia de Software utilizamos essa ferramenta com os seguintes elementos para ajudar na representação do sistema: <b>atores, processos, armazenamento de dados, setas e limites do sistema</b>.
 </p>
 
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp;Criar um Rich Picture utilizando elementos como atores, processos e armazenamento de dados. A finalidade é aprimorar a compreensão de problemas e facilitar a identificação de soluções, promovendo uma representação visual clara do sistema. O processo será colaborativo, envolvendo as partes interessadas, para garantir precisão e contribuir para estratégias eficazes de resolução de problemas.
+</p>
+
+
 ## **Metodologia e Ferramentas**
 <p align="justify">
 &emsp;&emsp;Para criar o <b>Rich Picture</b>, utilizamos a ferramenta <a href="https://draw.io">draw.io</a>. Inicialmente, realizamos uma análise do aplicativo e suas funcionalidades principais. Em seguida, começamos a representar essas funcionalidades e suas conexões com o usuário e outros elementos do sistema. Além disso, destacamos as operações executadas pelo usuário no aplicativo.
@@ -46,8 +52,9 @@
 | Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 | --------- | ------ | ------ | ---------- | ----------
 | `1.0` | 18/09/2023 | Criação do documento e Rich Picture | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
-| `1.1` | 20/09/2023 | Padronização do artefato | [Pedro Siqueira](https://github.com/PedroSiq)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| `1.1` | 20/09/2023 | Padronização do artefato | [Pedro Siqueira](https://github.com/PedroSiq)| |
 | `1.2` | 20/09/2023 | Correções | [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| `1.3` | 06/12/2023 |Criação de objetivo | [Catlen Cleane](https://github.com/catlenc)| [Carolina Barbosa](https://github.com/CarolinaBarb)|
 
 <center>
 <h6> Tabela 2: Histórico de Versão.

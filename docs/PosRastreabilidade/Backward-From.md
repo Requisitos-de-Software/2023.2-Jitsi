@@ -5,6 +5,11 @@
 &emsp;&emsp; A rastreabilidade é um aspecto fundamental no desenvolvimento de software, permitindo que os desenvolvedores compreendam como os requisitos são implementados e como as mudanças afetam o sistema como um todo. Um dos métodos de rastreabilidade que será tratado nesse artefato, é o "backward-from", que liga requisitos às suas fontes.
 </p>
 
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp; Registrar, organizar e priorizar requisitos identificados ao longo do ciclo de vida do projeto.Visando manter uma visão abrangente das necessidades do cliente, facilitando a adaptação a mudanças, aprimorando a rastreabilidade e fornecendo uma base dinâmica para o desenvolvimento iterativo e incremental.
+</p>
+
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp; No desenvolvimento do artefato, foram utilizados os requisitos funcionais não implementados e os requisitos não funcionais. Para essa construção, foi empregado o Meta-modelo de Toranzo, que classifica as informações a serem rastreadas em quatro niveis:
@@ -147,6 +152,7 @@ Para Desenvolver os elos, foi levado em consideração os principais elos de ras
 | `1.3`  | 20/11/2023 | Adição dos elos não-funcionais | [Júlia Souza](https://github.com/JuliaSSouza)        | [Pedro Siqueira](https://github.com/PedroSiq)|
 | `1.4`  | 21/11/2023 | Adição dos elos funcionais | [Júlia Souza](https://github.com/JuliaSSouza)        | [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.5`  | 21/11/2023 | Adição de todos os requisitos funiconais e objetivo | [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq) |
+| `1.6` | 06/12/2023 |Criação de objetivo | [Catlen Cleane](https://github.com/catlenc)| [Carolina Barbosa](https://github.com/CarolinaBarb)|
 
 
 

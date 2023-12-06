@@ -5,6 +5,11 @@
 &emsp;&emsp;O diagrama de casos de uso é o principal diagrama da UML para modelar requisitos, com foco em requisitos funcionais, são usados para descrever um conjunto de ações que um sistema ou um conjunto de sistemas deve desempenhar em colaboração com um ou mais usuários externos ao sistema. Cada caso de uso deverá prover algum resultado observável e de valor para os atores ou outros interessados do sistema [1].
 </p>
 
+## **Objetivo**
+<p align="justify">
+&emsp;&emsp;Descrever de forma clara e abrangente as interações entre os usuários e o sistema, identificando requisitos funcionais e cenários operacionais para fornecer uma base sólida para o desenvolvimento de soluções que atendam às necessidades específicas dos usuários e stakeholders do projeto.
+</p>
+
 ## **Metodologia**
 <p align="justify">
 &emsp;&emsp;Para  a criação do artefato, realizamos a elaboração de um diagrama de <b>Casos de uso</b>, utilizamos a ferramenta <a href="https://lucid.app/">LucidChart</a>, um software especializado em diagramação de forma geral.
@@ -115,6 +120,8 @@
 |--------|------------|---------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
 | `1.0`  | 23/10/2023 | Criação do Documento            | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Bruno Henrique](https://github.com/BrunoHenrique00) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.1`  | 25/10/2023 | Adição tabelas dos casos de uso | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Bruno Henrique](https://github.com/BrunoHenrique00) | [Júlia Souza](https://github.com/JuliaSSouza) |
+| `1.2` | 06/12/2023 |Criação de objetivo | [Catlen Cleane](https://github.com/catlenc)| [Carolina Barbosa](https://github.com/CarolinaBarb)|
+
 <h6 align="center"> Tabela 05: Histórico de Versão.
 <br> Autor(a): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> e <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 
