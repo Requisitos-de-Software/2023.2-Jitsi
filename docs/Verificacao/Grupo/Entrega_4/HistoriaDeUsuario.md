@@ -88,6 +88,17 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 
 </center>
 
+## **Gravação com um autor do artefato**
+<p align="justify">
+&emsp;&emsp; O vídeo a seguir apresenta a atividade de apresentar a inspeção realizada pela <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a> para um autor do artefato de Histórias de Usuário, <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>.
+</p>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tb3U9BSKpOY?si=jwer3UM7sYKzWj8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## **Conclusão**
 <p align="justify">
 &emsp;&emsp; O artefato está bem feito e atende a todos os critérios de avaliação.
