@@ -1,6 +1,6 @@
 # ***Entrega Final***
 
-## **Indrodução**
+## **Introdução**
 <p align="justify">
 &emsp;&emsp;O artefato de entrega final faz parte da última etapa do projeto de desenvolvimento, juntamente com as correções dos artefatos que foram inspecionados, com suas devidas alterações realizadas.
 </p>
