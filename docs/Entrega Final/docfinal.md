@@ -333,7 +333,28 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 | [Final](https://requisitos-de-software.github.io/2023.2-Jitsi/apresentacoes/etapa-08/#video-da-apresentacao)| [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza), [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) |
 
 <h6 align="center"> Tabela 11: Apresentações e Participantes.
-<br> Autor(es): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
+<br> Autor(es): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>s
+
+## **Facilidades e Dificuldades**
+<p align=justify>
+&emsp;&emsp;Nesse tópico, serão listadas as facilidades e dificuldades levantadas por todos os integrantes do grupo durante a realização do projeto e o andamento da disciplina.
+Facilidades:
+<ul>
+<li>Compreensão do conteúdo;</li>
+<li>Interação com a equipe;</li>
+<li>Criação e desenvolvimento de artefatos;</li>
+<li>Metodologia orientada a projetos facilitou o entendimento dos conteúdos;</li>
+<li>Apoio da monitora Ana Beatriz.</li>
+</ul>
+
+Dificuldades:
+<ul>
+<li>Alta demanda de tempo e atividades na disciplina;</li>
+<li>Contato e entregas com o usuário;</li>
+<li>Prazos curtos para entregas em determinadas etapas do projeto;</li>
+<li>Disponibilidade, devido ao alto número de entregas;</li>
+</ul>
+</p>
 
 
 ## **Histórico de Versão**
@@ -344,7 +365,7 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 | Versão | Data       | Descrição                                   | Autor(es)                                            | Revisor(es)                                   |
 |--------|------------|---------------------------------------------|------------------------------------------------------|-----------------------------------------------|
 | `1.0`  | 06/12/2023 | Criação do documento e aplicativo escolhido | [Carolina Barbosa](https://github.com/CarolinaBarb)  | [Júlia Souza](https://github.com/JuliaSSouza) |
-| `1.1`  | 06/12/2023 | Resultados Alcançados                       | [Bruno Henrique](https://github.com/BrunoHenrique00) | [Júlia Souza](https://github.com/JuliaSSouza) |
+| `1.1`  | 06/12/2023 | Resultados Alcançados | [Bruno Henrique](https://github.com/BrunoHenrique00) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.2`  | 06/12/2023 | Introdução e Objetivos                     | [Pedro Siqueira](https://github.com/PedroSiq) | [Júlia Souza](https://github.com/JuliaSSouza) |
 | `1.3`  | 06/12/2023 | Artefatos entregues | [Júlia Souza](https://github.com/JuliaSSouza)  | [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.4`  | 06/12/2023 | Inicio Verif e Validação | [Júlia Souza](https://github.com/JuliaSSouza)  | [Pedro Siqueira](https://github.com/PedroSiq) |
@@ -355,6 +376,7 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 | `1.9`| 06/12/2023 | Finalização da tabela de Execução do Projeto | [Júlia Vitória](https://github.com/Juhvitoria4) e [Catlen Cleane](https://github.com/catlenc)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 | `2.0`| 06/12/2023 | Tabela de Ferramentas | [Pedro Siqueira](https://github.com/PedroSiq)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 | `2.1`| 06/12/2023 | Tabela de apresentações | [Pedro Siqueira](https://github.com/PedroSiq)|[Bruno Henrique](https://github.com/BrunoHenrique00)|
+| `2.2`| 06/12/2023 | Facilidades e Dificuldades | [Pedro Siqueira](https://github.com/PedroSiq)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 
 <h6 align="center"> Tabela 12: Histórico de Versão.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
