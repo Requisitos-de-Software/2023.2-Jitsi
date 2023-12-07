@@ -90,6 +90,7 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 </p>
 
 </p>
+
 ## **Técnicas Utilizadas**
 
 <p align="justify">
@@ -141,7 +142,7 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 
 ### **Etapa 1**
 <p align="justify">
-&emsp;&emsp;A tabela 2 a seguir representa todos os artefatos entregues na etapa 1 do projeto.
+&emsp;&emsp;A tabela 3 a seguir representa todos os artefatos entregues na etapa 1 do projeto.
 </p>
 
 | Arteafato| Autor | Revisor|
@@ -154,12 +155,12 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/">Escolha do Aplicativo</a>|[Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/">Rich Picture.</a>| [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
 
-<h6 align="center"> Tabela 2: Artefatos entregues na etapa 1.
+<h6 align="center"> Tabela 3: Artefatos entregues na etapa 1.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ### **Etapa 2**
 <p align="justify">
-&emsp;&emsp;A tabela 3 a seguir representa todos os artefatos entregues na etapa 2 do projeto.
+&emsp;&emsp;A tabela 4 a seguir representa todos os artefatos entregues na etapa 2 do projeto.
 </p>
 
 | Arteafato| Autor | Revisor|
@@ -176,12 +177,12 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/TLS/">Three-Level Scale</a>| [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4)|  [Carolina Barbosa](https://github.com/CarolinaBarb)|
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/requisitos-elicitados/">Requisitos Elicitados</a>| [Pedro Siqueira](https://github.com/PedroSiq)| [Bruno Henrique](https://github.com/BrunoHenrique00)|
 
-<h6 align="center"> Tabela 3: Artefatos entregues na etapa 2.
+<h6 align="center"> Tabela 4: Artefatos entregues na etapa 2.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ### **Etapa 3**
 <p align="justify">
-&emsp;&emsp;A tabela 4 a seguir representa todos os artefatos entregues na etapa 3 do projeto.
+&emsp;&emsp;A tabela 5 a seguir representa todos os artefatos entregues na etapa 3 do projeto.
 </p>
 
 | Arteafato| Autor | Revisor|
@@ -191,13 +192,13 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/">Especificação Suplementar</a>| [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/">Cenários</a>| [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq)|
 
-<h6 align="center"> Tabela 4: Artefatos entregues na etapa 3.
+<h6 align="center"> Tabela 5: Artefatos entregues na etapa 3.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ### **Etapa 4**
 
 <p align="justify">
-&emsp;&emsp;A tabela 5 a seguir representa todos os artefatos entregues na etapa 4 do projeto.
+&emsp;&emsp;A tabela 6 a seguir representa todos os artefatos entregues na etapa 4 do projeto.
 </p>
 
 | Arteafato| Autor | Revisor|
@@ -206,12 +207,12 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/">Histórias de Usuário</a>| [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Pedro Siqueira](https://github.com/PedroSiq) |
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/">NFR Framework</a> | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Pedro Siqueira](https://github.com/PedroSiq)| [Júlia Vitória](https://github.com/Juhvitoria4) |
 
-<h6 align="center"> Tabela 5: Artefatos entregues na etapa 4.
+<h6 align="center"> Tabela 6: Artefatos entregues na etapa 4.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ### **Etapa 5**
 <p align="justify">
-&emsp;&emsp;A tabela 6 a seguir representa todos os artefatos entregues na etapa 5 do projeto.
+&emsp;&emsp;A tabela 7 a seguir representa todos os artefatos entregues na etapa 5 do projeto.
 </p>
 
 | Artefato| Autor | Revisor|
@@ -221,12 +222,12 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_3/Planejamento/">Entrega 3</a>| [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4)|  [Catlen Cleane](https://github.com/catlenc), [Carolina Barbosa](https://github.com/CarolinaBarb), [Júlia Souza](https://github.com/JuliaSSouza) e [Pedro Siqueira](https://github.com/PedroSiq)|
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_4/Planejamento/">Entrega 4</a>| [Bruno Henrique](https://github.com/BrunoHenrique00), [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4)| [Bruno Henrique](https://github.com/BrunoHenrique00)|
 
-<h6 align="center"> Tabela 6: Artefatos entregues na etapa 5.
+<h6 align="center"> Tabela 7: Artefatos entregues na etapa 5.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ### **Etapa 6**
 <p align="justify">
-&emsp;&emsp;A tabela 7 a seguir representa todos os artefatos entregues na etapa 6 do projeto.
+&emsp;&emsp;A tabela 8 a seguir representa todos os artefatos entregues na etapa 6 do projeto.
 </p>
 
 | Artefato| Autor | Revisor|
@@ -235,12 +236,12 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 |<a href="/PosRastreabilidade/Forward-From">Forward-From</a>| [Catlen Cleane](https://github.com/catlenc) e [Carolina Barbosa](https://github.com/CarolinaBarb)| [Júlia Souza](https://github.com/JuliaSSouza)|
 |<a href="/PosRastreabilidade/matrizRastreabilidade/">Matriz de Rastreabilidade</a><|[Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc)|
 
-<h6 align="center"> Tabela 7: Artefatos entregues na etapa 6.
+<h6 align="center"> Tabela 8: Artefatos entregues na etapa 6.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ### **Etapa 7**
 <p align="justify">
-&emsp;&emsp;Tabela 8 a seguir representa todos os artefatos entregues na etapa 7 do projeto.
+&emsp;&emsp;Tabela 9 a seguir representa todos os artefatos entregues na etapa 7 do projeto.
 </p>
 
 | Artefato | Autor | Revisor |
@@ -269,12 +270,12 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/backward/">Backward-From</a>| [Júlia Vitória](https://github.com/Juhvitoria4)|[Carolina Barbosa](https://github.com/CarolinaBarb) |
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/forward/">Forward-From</a>| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Júlia Souza](https://github.com/JuliaSSouza) |
 
-<h6 align="center"> Tabela 8: Artefatos entregues na etapa 7.
+<h6 align="center"> Tabela 9: Artefatos entregues na etapa 7.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ## **Síntese das Verificações e Validações**
 <p align="justify">
-&emsp;&emsp;A tabela 9 a seguir representa as verificações e validações feitas pelo grupo, assim como os membros responsáveis por todo o processo.
+&emsp;&emsp;A tabela 10 a seguir representa as verificações e validações feitas pelo grupo, assim como os membros responsáveis por todo o processo.
 </p>
 
 | Artefato | Autor Checklist | Autor Verificação| Revisor |
@@ -303,12 +304,12 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/backward/">Backward-From</a>| [Júlia Vitória](https://github.com/Juhvitoria4)| [Júlia Vitória](https://github.com/Juhvitoria4)|[Carolina Barbosa](https://github.com/CarolinaBarb) |
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo/Entrega_5/forward/">Forward-From</a>| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Carolina Barbosa](https://github.com/CarolinaBarb)|
 
-<h6 align="center"> Tabela 9: Artefatos entregues na etapa 7.
+<h6 align="center"> Tabela 10: Artefatos entregues na etapa 7.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
 ## **Ferramentas Utilizadas no Projeto**
 <p align="justify">
-&emsp;&emsp;A tabela 10 representa as ferramentas que foram utilizadas no projeto e a finalidade de cada uma, seja um aspecto do desenvolvimento ou artefatos que foram produzidos a partir das mesmas.
+&emsp;&emsp;A tabela 11 representa as ferramentas que foram utilizadas no projeto e a finalidade de cada uma, seja um aspecto do desenvolvimento ou artefatos que foram produzidos a partir das mesmas.
 </p>
 | Logo | Ferramenta | Utilização |
 |----|---------|----------------|
@@ -321,12 +322,12 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 |  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/trello.png" alt="Trello" width=110px>   |  [Trello](https://www.trello.com/)  | Gerenciamento de atividades |
 |  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/mkdocs.png" alt="Mkdocs" width=110px>   |  [Mkdocs](https://www.mkdocs.org/) | Documentação |
 |  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Google_Forms.png" alt="Google Forms" width=50px>   |  [Google Forms](https://www.google.com/intl/pt-BR/forms/about/) | [Questionário](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/) |
-<h6 align="center"> Tabela 10: Ferramentas Utilizadas.
+<h6 align="center"> Tabela 11: Ferramentas Utilizadas.
 <br> Autor(es): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Apresentações**
 <p align=justify>
-&emsp;&emsp;A tabela 11 representa os vídeos das apresentações de cada etapa, assim como os participantes do grupo que participaram das respectivas gravações.
+&emsp;&emsp;A tabela 12 representa os vídeos das apresentações de cada etapa, assim como os participantes do grupo que participaram das respectivas gravações.
 </p>
 
 | Etapa | Participantes|
@@ -340,7 +341,7 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 | [7](https://requisitos-de-software.github.io/2023.2-Jitsi/apresentacoes/etapa-07/#video-da-apresentacao) | [Bruno Henrique](https://github.com/BrunoHenrique00), [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza), [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) |
 | [Final](https://requisitos-de-software.github.io/2023.2-Jitsi/apresentacoes/etapa-08/#video-da-apresentacao)| [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza), [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) |
 
-<h6 align="center"> Tabela 11: Apresentações e Participantes.
+<h6 align="center"> Tabela 12: Apresentações e Participantes.
 <br> Autor(es): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Facilidades e Dificuldades**
@@ -367,7 +368,7 @@ Dificuldades:
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A tabela 12 representa o histórico de versão do documento.
+&emsp;&emsp;A tabela 13 representa o histórico de versão do documento.
 </p>
 
 | Versão | Data       | Descrição                                   | Autor(es)                                            | Revisor(es)                                   |
@@ -386,7 +387,7 @@ Dificuldades:
 | `2.1`| 06/12/2023 | Tabela de apresentações | [Pedro Siqueira](https://github.com/PedroSiq)|[Bruno Henrique](https://github.com/BrunoHenrique00)|
 | `2.2`| 06/12/2023 | Facilidades e Dificuldades | [Pedro Siqueira](https://github.com/PedroSiq)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 
-<h6 align="center"> Tabela 12: Histórico de Versão.
+<h6 align="center"> Tabela 13: Histórico de Versão.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
 
 ## **Bibliografia**
