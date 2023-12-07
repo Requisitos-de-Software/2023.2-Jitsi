@@ -296,6 +296,25 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 <h6 align="center"> Tabela 8:  artefatos entregues na etapa 7.
 <br> Autor(a): <a href="https://github.com/JuliaSSouza">Júlia Souza</a></h6>
 
+## **Ferramentas Utilizadas no Projeto**
+<p align="justify">
+&emsp;&emsp;A tabela 10 representa as ferramentas que foram utilizadas no projeto e a finalidade de cada uma, seja um aspecto do desenvolvimento ou artefatos que foram produzidos a partir das mesmas.
+</p>
+| Logo | Ferramenta | Utilização |
+|----|---------|----------------|
+|   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/github.png" alt="Github" width=75px> | [GitHub](https://github.com) | Versionamento e Entregas do Projeto |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/whatsapp.png" alt="Whatsapp" width=75px> | [WhatsApp](https://www.whatsapp.com/) | Comunicação Interna |
+|  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/youtube.png" alt="YouTube" width=75px>  | [YouTube](https://youtube.com) | [Atas de Reunião](https://requisitos-de-software.github.io/2023.2-Jitsi/atas/reuniao-01/) [Brainstorming](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/#gravacao), [Entrevista](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/), [Observação](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/#gravacoes), [First Things First](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/ftf/#gravacoes), [Three-Level Scale](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/TLS/#gravacao), [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/#gravacao), [Protótipo de Alta Fidelidade](https://requisitos-de-software.github.io/2023.2-Jitsi/Valida%C3%A7%C3%A3o/Prototipo/#gravacao) e [Apresentações](https://requisitos-de-software.github.io/2023.2-Jitsi/apresentacoes/etapa-01/) |
+|   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/vscode.png" alt="VScode" width=75px> | [Visual Studio Code](https://code.visualstudio.com) | Documentação |
+|    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/teams.png" alt="Teams" width=75px> | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/) | Gravações de reuniões, apresentações e com usuários |
+|   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/drawio.png" alt="Drawio" width=75px>   | [draw.io](https://www.drawio.com/) | [Rich Picture](https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/) |
+|  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/trello.png" alt="Trello" width=110px>   |  [Trello](https://www.trello.com/)  | Gerenciamento de atividades |
+|  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/mkdocs.png" alt="Mkdocs" width=110px>   |  [Mkdocs](https://www.mkdocs.org/) | Documentação |
+|  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Jitsi/main/docs/assets/Google_Forms.png" alt="Google Forms" width=50px>   |  [Google Forms](https://www.google.com/intl/pt-BR/forms/about/) | [Questionário](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/) |
+<h6 align="center"> Tabela 10: Ferramentas Utilizadas.
+<br> Autor(es): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
+
+
 
 ## **Histórico de Versão**
 <p align="justify">
@@ -314,6 +333,7 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 | `1.7`| 06/12/2023 | Planejamento dos recursos e das Entregas | [Júlia Vitória](https://github.com/Juhvitoria4) | [Catlen Cleane](https://github.com/catlenc)|
 | `1.8`| 06/12/2023 | Inicio da tabela de Execução do Projeto | [Júlia Vitória](https://github.com/Juhvitoria4) |[Catlen Cleane](https://github.com/catlenc)|
 | `1.9`| 06/12/2023 | Finalização da tabela de Execução do Projeto | [Júlia Vitória](https://github.com/Juhvitoria4) e [Catlen Cleane](https://github.com/catlenc)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
+| `2.0`| 06/12/2023 | Tabela de Ferramentas | [Pedro Siqueira](https://github.com/PedroSiq)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 
 <h6 align="center"> Tabela n: Histórico de Versão.
 <br> Autor(es): <a href="https://github.com/CarolinaBarb">Carolina Barbosa</a></h6>
