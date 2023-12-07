@@ -181,7 +181,7 @@ e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 | Correção - Moscow e Cronograma|  Início: 05/12 <br>Fim: 06/12  |  [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza) |
 | Correção - Brainstorming|  Início: 05/12 <br>Fim: 06/12  | [Catlen Cleane](https://github.com/catlenc) |[Pedro Siqueira](https://github.com/PedroSiq)| 
 | Correção - NFR| Início: 05/12 <br>Fim: 06/12  | [Pedro Siqueira](https://github.com/PedroSiq) |[Bruno Henrique](https://github.com/BrunoHenrique00)| 
-| Correção - Ferramentas|  Início: 05/12 <br>Fim: 06/12  | [Pedro Siqueira](https://github.com/PedroSiq) | [Carolina Barbosa](https://github.com/CarolinaBarb)| 
+| Correção - Ferramentas|  Início: 05/12 <br>Fim: 06/12  | [Bruno Henrique](https://github.com/BrunoHenrique00) | [Carolina Barbosa](https://github.com/CarolinaBarb)| 
 | Artefato de Entrega Final | Início: 05/12 <br>Fim: 06/12 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 | Gravação do vídeo de apresentação | Início: 06/12 <br>Fim: 06/12 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
