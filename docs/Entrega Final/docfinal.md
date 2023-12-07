@@ -137,7 +137,7 @@ Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a me
 | Arteafato| Autor | Revisor|
 |----------| ------|--------|
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/">Cronograma Planejado</a>| [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq)|
-|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma_realizado/">Cronograma Realizado</a>| | |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma_realizado/">Cronograma Realizado</a>| [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq)|
 | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/">Ferramentas</a>| [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb)|
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/heatmap/">Heatmap</a>| [Carolina Barbosa](https://github.com/CarolinaBarb)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/metodologias/">Metodologias</a>|[Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc)|
