@@ -352,7 +352,7 @@ Dificuldades:
 <li>Alta demanda de tempo e atividades na disciplina;</li>
 <li>Contato e entregas com o usuário;</li>
 <li>Prazos curtos para entregas em determinadas etapas do projeto;</li>
-<li>Disponibilidade, devido ao alto número de entregas;</li>
+<li>Disponibilidade, devido ao alto número de entregas.</li>
 </ul>
 </p>
 
