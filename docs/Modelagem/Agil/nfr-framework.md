@@ -67,16 +67,6 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 <br> Autor(a): <a href="https://github.com/BrunoHenrique00">Bruno Henrique</a></h6>
 
 
-## **Cartões de Especificação** 
-<p align="justify">
-&emsp;&emsp;Os cartões de especificação abaixo, representados pelas tabelas de 1 a 10, foram utilizados para definir os Requisitos Não-Funcionais usados na confecção dos NFR Frameworks, com os valores de prioridade definidos pela execução da técnica de priorização de requisitos <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/TLS/">Three-Level Scale</a>.
-</p>
-
-### **Requisito Não Funcional 01**
-
-| 
-
-
 ### **NFR 01 - Desempenho**
 
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - SIG Desempenho</p></font>
@@ -124,6 +114,9 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 | `1.0`  | 06/11/2023 | Introdução, SIG, Tipos de Softgoal e Interdependências.| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.1`  | 07/11/2023 | Formatação e finalização do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
 | `1.2`  | 06/12/2023 | Correção do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+
+<h6> Tabela 6: Histórico de Versão.
+<br/> Autor(es):<a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Bibliografia**
 
