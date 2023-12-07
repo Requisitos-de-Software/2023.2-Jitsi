@@ -73,6 +73,7 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 </p>
 
 ## **Resultados Alcançados**
+
 <p align=justify>
 &emsp;&emsp;No início do projeto, a equipe fez um planejamento para alinhar objetivos e escopo, definir metodologias, criar um cronograma detalhado e focar no aplicativo. Isso permitiu o alinhamento da equipe e a documentação das necessidades iniciais do projeto.
 </p>
@@ -88,10 +89,13 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 &emsp;&emsp;Para gerenciar mudanças e melhorias, verificamos todos os artefatos usando a metodologia de Fagan, realizando reuniões de inspeção, retrabalho e acompanhamento para identificar áreas de melhoria.
 </p>
 
+</p>
 ## **Técnicas Utilizadas**
+
 <p align="justify">
 &emsp;&emsp;A tabela 2 apresenta as técnicas utilizadas no projeto e seus artefatos associados.
 </p>
+
 
 | Entrega | Artefato | Técnica | 
 | --------| ---------| ------- | 
@@ -124,11 +128,14 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_1/Cronograma/">Verificação </a> |<a href="hhttps://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_1/Cronograma/">Grupo +1</a> |<a href="hhttps://requisitos-de-software.github.io/2023.2-Jitsi/Verificacao/Grupo%2B1/Entrega_1/Cronograma/">Lista de Verificação e Inspeção</a>|
 | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Valida%C3%A7%C3%A3o/Prototipo/">Validação </a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Valida%C3%A7%C3%A3o/Prototipo/">Grupo</a> |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Valida%C3%A7%C3%A3o/Prototipo/">Prototipação</a>|
 
+
 <center>
 <h6> Tabela 2: Técnicas Utilizadas.
-<br/> Autor(es): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
+<br/> Autor(a): <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 </center>
+
 </p>
+
 
 ## **Artefatos Criados por Etapa**
 
@@ -140,7 +147,7 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 | Arteafato| Autor | Revisor|
 |----------| ------|--------|
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/">Cronograma Planejado</a>| [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq)|
-|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma_realizado/">Cronograma Realizado</a>| | |
+|<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma_realizado/">Cronograma Realizado</a>| [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq)|
 | <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/">Ferramentas</a>| [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb)|
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/heatmap/">Heatmap</a>| [Carolina Barbosa](https://github.com/CarolinaBarb)| [Bruno Henrique](https://github.com/BrunoHenrique00) |
 |<a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/metodologias/">Metodologias</a>|[Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc)|
