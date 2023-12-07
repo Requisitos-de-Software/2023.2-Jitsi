@@ -171,27 +171,19 @@ e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 
 | Atividade | Período de Desenvolvimento  | Responsáveis | Revisor |
 |-----------------------------------|------------------------------|-------------------------------|------------------------|
-| Verificação - Forward, Lexicos, Rich picture| Início: 11/11 <br>Fim: 13/11 | [Bruno Henrique](https://github.com/BrunoHenrique00)| [Júlia Souza](https://github.com/JuliaSSouza) |
-| Verificação - Entrevista, Caso de uso| Início: 11/11 <br>Fim: 13/11 | [Catlen Cleane](https://github.com/catlenc)|  [Júlia Vitória](https://github.com/Juhvitoria4) |
-| Verificação - Cenários, História de U.| Início: 11/11 <br>Fim: 13/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) | [Catlen Cleane](https://github.com/catlenc) |
-| Verificação - Introspecção, Especificação, Personas| Início: 28/11 <br>Fim: 04/12 |  [Júlia Souza](https://github.com/JuliaSSouza) | [Pedro Siqueira](https://github.com/PedroSiq) |
-| Verificação - Backward, Metodologias| Início: 11/11 <br>Fim: 13/11 | [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
-| Verificação - Ftf, TLS, Observação, Backlog| Início: 11/11 <br>Fim: 13/11 | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
-| Verificação - Moscow e Cronograma| Início: 11/11 <br>Fim: 13/11 |  [Júlia Souza](https://github.com/JuliaSSouza) e [Catlen Cleane](https://github.com/catlenc) | [Pedro Siqueira](https://github.com/PedroSiq) |
-| Verificação - Brainstorming| Início: 11/11 <br>Fim: 13/11 | [Pedro Siqueira](https://github.com/PedroSiq) e [Bruno Henrique](https://github.com/BrunoHenrique00) |[Júlia Vitória](https://github.com/Juhvitoria4)| 
-| Verificação - NFR| Início: 11/11 <br>Fim: 13/11 | [Júlia Vitória](https://github.com/Juhvitoria4) e  [Júlia Souza](https://github.com/JuliaSSouza) |[Pedro Siqueira](https://github.com/PedroSiq)| 
-| Verificação - Matriz e Ferramentas| Início: 28/11 <br>Fim: 04/12 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc)  | [Júlia Souza](https://github.com/JuliaSSouza)| 
-| Validação - Protótipo RF 01| Início: 11/11 <br>Fim: 13/11 | [Júlia Vitória](https://github.com/Juhvitoria4)  | [Júlia Souza](https://github.com/JuliaSSouza)| 
-| Validação - Protótipo RF 02| Início: 11/11 <br>Fim: 13/11 |[Bruno Henrique](https://github.com/BrunoHenrique00)  | [Júlia Vitória](https://github.com/Juhvitoria4)| 
-| Validação - Protótipo RF 03| Início: 11/11 <br>Fim: 13/11 | [Júlia Souza](https://github.com/JuliaSSouza) | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
-| Validação - Protótipo RF 04| Início: 11/11 <br>Fim: 13/11 | [Júlia Souza](https://github.com/JuliaSSouza) e [Catlen Cleane](https://github.com/catlenc)  | [Carolina Barbosa](https://github.com/CarolinaBarb)| 
-| Validação - Protótipo RF 05| Início: 11/11 <br>Fim: 13/11 | [Carolina Barbosa](https://github.com/CarolinaBarb)  | [Pedro Siqueira](https://github.com/PedroSiq)| 
-| Validação - Protótipo RF 06| Início: 11/11 <br>Fim: 13/11 | [Pedro Siqueira](https://github.com/PedroSiq) e [Júlia Vitória](https://github.com/Juhvitoria4)  | [Júlia Souza](https://github.com/JuliaSSouza)| 
-| Validação - Protótipo RF 07| Início: 11/11 <br>Fim: 13/11 | [Pedro Siqueira](https://github.com/PedroSiq) | [Catlen Cleane](https://github.com/catlenc)| 
-| Validação - Protótipo RF 08| Início: 11/11 <br>Fim: 13/11 |[Catlen Cleane](https://github.com/catlenc)  | [Bruno Henrique](https://github.com/BrunoHenrique00)| 
-| Validação - Protótipo RF 09| Início: 11/11 <br>Fim: 13/11 | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Bruno Henrique](https://github.com/BrunoHenrique00)  | [Catlen Cleane](https://github.com/catlenc)| 
-| Artefato de Entrega Final | Início: 12/11 <br>Fim: 13/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
-| Gravação do vídeo de apresentação | Início: 12/11 <br>Fim: 13/11 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Correção - Forward, Lexicos, Rich picture| Início: 05/12 <br>Fim: 06/12 | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza) | [Bruno Henrique](https://github.com/BrunoHenrique00) e [Júlia Vitória](https://github.com/Juhvitoria4) |
+| Correção - Entrevista, Caso de uso| Início: 05/12 <br>Fim: 06/12 | [Catlen Cleane](https://github.com/catlenc) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Pedro Siqueira](https://github.com/PedroSiq)|
+| Correção - Cenários, História de U.| Início: 05/12 <br>Fim: 06/12 | [Júlia Souza](https://github.com/JuliaSSouza) e [Júlia Vitória](https://github.com/Juhvitoria4) | [Pedro Siqueira](https://github.com/PedroSiq) |
+| Correção - Introspecção, Especificação, Personas| Início: 05/12 <br>Fim: 06/12 | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+| Correção - Backward, Metodologias| Início: 11/11 <br>Fim: 06/12 | [Catlen Cleane](https://github.com/catlenc) e [Pedro Siqueira](https://github.com/PedroSiq) | [Carolina Barbosa](https://github.com/CarolinaBarb) |
+| Correção - Ftf e TLS|  Início: 05/12 <br>Fim: 06/12  | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Catlen Cleane](https://github.com/catlenc) | [Júlia Souza](https://github.com/JuliaSSouza) | 
+| Correção - Observação e Backlog|  Início: 05/12 <br>Fim: 06/12  | [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc) e [Júlia Souza](https://github.com/JuliaSSouza) | [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq)| 
+| Correção - Moscow e Cronograma|  Início: 05/12 <br>Fim: 06/12  |  [Bruno Henrique](https://github.com/BrunoHenrique00) e [Catlen Cleane](https://github.com/catlenc) | [Carolina Barbosa](https://github.com/CarolinaBarb) e [Júlia Souza](https://github.com/JuliaSSouza) |
+| Correção - Brainstorming|  Início: 05/12 <br>Fim: 06/12  | [Catlen Cleane](https://github.com/catlenc) |[Pedro Siqueira](https://github.com/PedroSiq)| 
+| Correção - NFR| Início: 05/12 <br>Fim: 06/12  | [Pedro Siqueira](https://github.com/PedroSiq) |[Bruno Henrique](https://github.com/BrunoHenrique00)| 
+| Correção - Ferramentas|  Início: 05/12 <br>Fim: 06/12  | [Pedro Siqueira](https://github.com/PedroSiq) | [Carolina Barbosa](https://github.com/CarolinaBarb)| 
+| Artefato de Entrega Final | Início: 05/12 <br>Fim: 06/12 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
+| Gravação do vídeo de apresentação | Início: 06/12 <br>Fim: 06/12 | [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)| [Todos](https://requisitos-de-software.github.io/2023.2-Jitsi/#equipe)|
 
 <center>
 <h6> Tabela 8: Entrega Final.
@@ -213,7 +205,7 @@ e <a href="https://github.com/catlenc">Catlen Cleane</a></h6>
 | `1.5`  | 18/10/2023 | Atualização da entrega 5|  [Pedro Siqueira](https://github.com/PedroSiq)|[Júlia Vitória](https://github.com/Juhvitoria4)|
 | `1.6`  | 21/11/2023 | Atualização da entrega 6|  [Júlia Souza](https://github.com/JuliaSSouza)|[Catlen Cleane](https://github.com/catlenc)|
 | `1.7`  | 30/11/2023 | Atualização da entrega 5.2|  [Júlia Souza](https://github.com/JuliaSSouza)|[Catlen Cleane](https://github.com/catlenc)|
-| `1.8`  | 06/12/2023 | Atualização da entrega 7 e Correção de Erros|  [Pedro Siqueira](https://github.com/PedroSiq)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
+| `1.8`  | 06/12/2023 | Atualização da entrega 8 e Correção de Erros|  [Pedro Siqueira](https://github.com/PedroSiq)|[Carolina Barbosa](https://github.com/CarolinaBarb)|
 
 <center>
 <h6> Tabela 9: Histórico de Versão.
