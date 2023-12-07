@@ -72,10 +72,214 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 &emsp;&emsp;Os cartões de especificação abaixo, representados pelas tabelas de 1 a 10, foram utilizados para definir os Requisitos Não-Funcionais usados na confecção dos NFR Frameworks, com os valores de prioridade definidos pela execução da técnica de priorização de requisitos <a href="https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/TLS/">Three-Level Scale</a>.
 </p>
 
-### **Requisito Não Funcional 01**
+<center>
 
-| 
+<b>Tabela 1</b> - Cartão de Especificação 1
 
+| Nº Requisito: 1 (<a id="anchor_NF01" href="#NF01">RNF01</a>)| Classificação: Usabilidade |
+|---------------| ------------|
+| Descrição: O app deve fornecer eventos direcionados.
+| Justificativa: O sistema deve ser capaz de direcionar eventos ao usuário a partir de suas preferências pessoais. Assim o usuário não irá perder tempo buscando por eventos que se adequem ao seu perfil .
+| Origem do Requisisto: Projetista de Software
+| Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
+| Dependências: Atividade do Usuário
+| Prioridade: 4,05
+| Conflitos: Nenhum
+| História: 23/05/2023
+
+Fonte: [Gabriel Campello](https://github.com/G16C)
+
+</center>
+
+<center>
+
+<b>Tabela 1</b> - Cartão de Especificação 1
+
+| Nº Requisito: 1 (<a id="anchor_NF01" href="#NF01">RNF01</a>)| Classificação: Usabilidade |
+|---------------| ------------|
+| Descrição: O app deve fornecer eventos direcionados.
+| Justificativa: O sistema deve ser capaz de direcionar eventos ao usuário a partir de suas preferências pessoais. Assim o usuário não irá perder tempo buscando por eventos que se adequem ao seu perfil .
+| Origem do Requisisto: Projetista de Software
+| Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
+| Dependências: Atividade do Usuário
+| Prioridade: 4,05
+| Conflitos: Nenhum
+| História: 23/05/2023
+
+Fonte: [Gabriel Campello](https://github.com/G16C)
+
+</center>
+
+<center>
+
+<b>Tabela 1</b> - Cartão de Especificação 1
+
+| Nº Requisito: 1 (<a id="anchor_NF01" href="#NF01">RNF01</a>)| Classificação: Usabilidade |
+|---------------| ------------|
+| Descrição: O app deve fornecer eventos direcionados.
+| Justificativa: O sistema deve ser capaz de direcionar eventos ao usuário a partir de suas preferências pessoais. Assim o usuário não irá perder tempo buscando por eventos que se adequem ao seu perfil .
+| Origem do Requisisto: Projetista de Software
+| Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
+| Dependências: Atividade do Usuário
+| Prioridade: 4,05
+| Conflitos: Nenhum
+| História: 23/05/2023
+
+Fonte: [Gabriel Campello](https://github.com/G16C)
+
+</center>
+
+<center>
+
+<b>Tabela 1</b> - Cartão de Especificação 1
+
+| Nº Requisito: 1 (<a id="anchor_NF01" href="#NF01">RNF01</a>)| Classificação: Usabilidade |
+|---------------| ------------|
+| Descrição: O app deve fornecer eventos direcionados.
+| Justificativa: O sistema deve ser capaz de direcionar eventos ao usuário a partir de suas preferências pessoais. Assim o usuário não irá perder tempo buscando por eventos que se adequem ao seu perfil .
+| Origem do Requisisto: Projetista de Software
+| Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
+| Dependências: Atividade do Usuário
+| Prioridade: 4,05
+| Conflitos: Nenhum
+| História: 23/05/2023
+
+Fonte: [Gabriel Campello](https://github.com/G16C)
+
+</center>
+
+<center>
+
+<b>Tabela 1</b> - Cartão de Especificação 1
+
+| Nº Requisito: 1 (<a id="anchor_NF01" href="#NF01">RNF01</a>)| Classificação: Usabilidade |
+|---------------| ------------|
+| Descrição: O app deve fornecer eventos direcionados.
+| Justificativa: O sistema deve ser capaz de direcionar eventos ao usuário a partir de suas preferências pessoais. Assim o usuário não irá perder tempo buscando por eventos que se adequem ao seu perfil .
+| Origem do Requisisto: Projetista de Software
+| Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
+| Dependências: Atividade do Usuário
+| Prioridade: 4,05
+| Conflitos: Nenhum
+| História: 23/05/2023
+
+Fonte: [Gabriel Campello](https://github.com/G16C)
+
+</center>
+
+<center>
+
+<b>Tabela 1</b> - Cartão de Especificação 1
+
+| Nº Requisito: 1 (<a id="anchor_NF01" href="#NF01">RNF01</a>)| Classificação: Usabilidade |
+|---------------| ------------|
+| Descrição: O app deve fornecer eventos direcionados.
+| Justificativa: O sistema deve ser capaz de direcionar eventos ao usuário a partir de suas preferências pessoais. Assim o usuário não irá perder tempo buscando por eventos que se adequem ao seu perfil .
+| Origem do Requisisto: Projetista de Software
+| Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
+| Dependências: Atividade do Usuário
+| Prioridade: 4,05
+| Conflitos: Nenhum
+| História: 23/05/2023
+
+Fonte: [Gabriel Campello](https://github.com/G16C)
+
+</center>
+
+<center>
+
+<b>Tabela 1</b> - Cartão de Especificação 1
+
+| Nº Requisito: 1 (<a id="anchor_NF01" href="#NF01">RNF01</a>)| Classificação: Usabilidade |
+|---------------| ------------|
+| Descrição: O app deve fornecer eventos direcionados.
+| Justificativa: O sistema deve ser capaz de direcionar eventos ao usuário a partir de suas preferências pessoais. Assim o usuário não irá perder tempo buscando por eventos que se adequem ao seu perfil .
+| Origem do Requisisto: Projetista de Software
+| Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
+| Dependências: Atividade do Usuário
+| Prioridade: 4,05
+| Conflitos: Nenhum
+| História: 23/05/2023
+
+Fonte: [Gabriel Campello](https://github.com/G16C)
+
+</center>
+
+<center>
+
+<b>Tabela 1</b> - Cartão de Especificação 1
+
+| Nº Requisito: 1 (<a id="anchor_NF01" href="#NF01">RNF01</a>)| Classificação: Usabilidade |
+|---------------| ------------|
+| Descrição: O app deve fornecer eventos direcionados.
+| Justificativa: O sistema deve ser capaz de direcionar eventos ao usuário a partir de suas preferências pessoais. Assim o usuário não irá perder tempo buscando por eventos que se adequem ao seu perfil .
+| Origem do Requisisto: Projetista de Software
+| Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
+| Dependências: Atividade do Usuário
+| Prioridade: 4,05
+| Conflitos: Nenhum
+| História: 23/05/2023
+
+Fonte: [Gabriel Campello](https://github.com/G16C)
+
+</center>
+
+<center>
+
+<b>Tabela 1</b> - Cartão de Especificação 1
+
+| Nº Requisito: 1 (<a id="anchor_NF01" href="#NF01">RNF01</a>)| Classificação: Usabilidade |
+|---------------| ------------|
+| Descrição: O app deve fornecer eventos direcionados.
+| Justificativa: O sistema deve ser capaz de direcionar eventos ao usuário a partir de suas preferências pessoais. Assim o usuário não irá perder tempo buscando por eventos que se adequem ao seu perfil .
+| Origem do Requisisto: Projetista de Software
+| Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
+| Dependências: Atividade do Usuário
+| Prioridade: 4,05
+| Conflitos: Nenhum
+| História: 23/05/2023
+
+Fonte: [Gabriel Campello](https://github.com/G16C)
+
+</center>
+
+<center>
+
+<b>Tabela 1</b> - Cartão de Especificação 1
+
+| Nº Requisito: 1 (<a id="anchor_NF01" href="#NF01">RNF01</a>)| Classificação: Usabilidade |
+|---------------| ------------|
+| Descrição: O app deve fornecer eventos direcionados.
+| Justificativa: O sistema deve ser capaz de direcionar eventos ao usuário a partir de suas preferências pessoais. Assim o usuário não irá perder tempo buscando por eventos que se adequem ao seu perfil .
+| Origem do Requisisto: Projetista de Software
+| Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
+| Dependências: Atividade do Usuário
+| Prioridade: 4,05
+| Conflitos: Nenhum
+| História: 23/05/2023
+
+Fonte: [Gabriel Campello](https://github.com/G16C)
+
+</center>
+
+<center>
+
+<b>Tabela 1</b> - Cartão de Especificação 1
+
+| Nº Requisito: 1 (<a id="anchor_NF01" href="#NF01">RNF01</a>)| Classificação: Usabilidade |
+|---------------| ------------|
+| Descrição: O app deve fornecer eventos direcionados.
+| Justificativa: O sistema deve ser capaz de direcionar eventos ao usuário a partir de suas preferências pessoais. Assim o usuário não irá perder tempo buscando por eventos que se adequem ao seu perfil .
+| Origem do Requisisto: Projetista de Software
+| Critério de Aceitação: O sistema deve ser capaz de recomendar ao usuário eventos condizentes com suas preferências. 
+| Dependências: Atividade do Usuário
+| Prioridade: 4,05
+| Conflitos: Nenhum
+| História: 23/05/2023
+
+Autor: [Pedro Siqueira](https://github.com/G16C)
+
+</center>
 
 ### **NFR 01 - Desempenho**
 
@@ -124,6 +328,9 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 | `1.0`  | 06/11/2023 | Introdução, SIG, Tipos de Softgoal e Interdependências.| [Bruno Henrique](https://github.com/BrunoHenrique00)| [Pedro Siqueira](https://github.com/PedroSiq) |
 | `1.1`  | 07/11/2023 | Formatação e finalização do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
 | `1.2`  | 06/12/2023 | Correção do artefato | [Pedro Siqueira](https://github.com/PedroSiq) | [Bruno Henrique](https://github.com/BrunoHenrique00) |
+
+<h6> Tabela 6: Histórico de Versão.
+<br/> Autor(es):<a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Bibliografia**
 

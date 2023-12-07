@@ -64,7 +64,7 @@ nav:
       - Especificação Suplementar: Modelagem/especificacaoSuplementar.md
       - Agil:
         - Product Backlog: Modelagem/Agil/backlog.md
-        - Histórias de usuário: Modelagem/Agil/historias.md
+        - Histórias de Usuário: Modelagem/Agil/historias.md
         - NFR Framework: Modelagem/Agil/nfr-framework.md
   - Verificação:
     - Grupo:
