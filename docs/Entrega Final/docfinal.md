@@ -323,6 +323,7 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 </p>
 
 | Etapa | Participantes|
+| ---- | ----------- | 
 | [1](https://requisitos-de-software.github.io/2023.2-Jitsi/apresentacoes/etapa-01/#video-da-apresentacao) | [Bruno Henrique](https://github.com/BrunoHenrique00), [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza), [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) |
 | [2](https://requisitos-de-software.github.io/2023.2-Jitsi/apresentacoes/etapa-02/#video-da-apresentacao) |[Bruno Henrique](https://github.com/BrunoHenrique00), [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza), [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) | 
 | [3](https://requisitos-de-software.github.io/2023.2-Jitsi/apresentacoes/etapa-03/#video-da-apresentacao)| [Bruno Henrique](https://github.com/BrunoHenrique00), [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza), [Júlia Vitória](https://github.com/Juhvitoria4)|
@@ -333,7 +334,7 @@ O planejamento dos recursos e das entregas (cronograma planejado e executado);</
 | [Final](https://requisitos-de-software.github.io/2023.2-Jitsi/apresentacoes/etapa-08/#video-da-apresentacao)| [Carolina Barbosa](https://github.com/CarolinaBarb), [Catlen Cleane](https://github.com/catlenc), [Júlia Souza](https://github.com/JuliaSSouza), [Júlia Vitória](https://github.com/Juhvitoria4) e [Pedro Siqueira](https://github.com/PedroSiq) |
 
 <h6 align="center"> Tabela 11: Apresentações e Participantes.
-<br> Autor(es): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>s
+<br> Autor(es): <a href="https://github.com/PedroSiq">Pedro Siqueira</a></h6>
 
 ## **Facilidades e Dificuldades**
 <p align=justify>
